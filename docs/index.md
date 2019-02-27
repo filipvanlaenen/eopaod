@@ -2,6 +2,7 @@
 # CSV files
 
 * Estonia: [ee.csv](ee.csv)
+* Finland: [fi.csv](fi.csv)
 
 # Documentation
 
