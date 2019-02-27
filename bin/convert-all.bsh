@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~/git/eopaod/src
+
+ruby psv2csv.rb ee
+ruby psv2csv.rb fi
