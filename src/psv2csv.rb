@@ -1,4 +1,5 @@
 
+country_code = ARGV[0]
 
 NOT_APPLICABLE = 'N/A'.freeze
 PROVIDED = 'Provided'.freeze
@@ -6,26 +7,20 @@ ESTIMATED_ASSUMED = 'Estimated/Assumed'.freeze
 NOT_AVAILABLE = 'Not Available'.freeze
 
 SOURCE_DIR = '../data'.freeze
-SOURCE_FILE = 'ee.psv'.freeze
+source_file = country_code + '.psv'
+party_name_file = country_code + '.pn'
 TARGET_DIR = '../docs'.freeze
-TARGET_FILE = 'ee.csv'.freeze
+target_file = country_code + '.csv'
 
-PARTY_NAMES = ['Eesti Reformierakond',
-               'Eesti Keskerakond',
-               'Sotsiaaldemokraatlik Erakond',
-               'Erakond Isamaa',
-               'Eesti Vabaerakond',
-               'Eesti Konservatiivne Rahvaerakond',
-               'Erakond Eestimaa Rohelised',
-               'Eesti 200'].freeze
+party_names = File.open("#{SOURCE_DIR}/#{party_name_file}").to_a.map(&:strip)
 
-source_lines = File.open("#{SOURCE_DIR}/#{SOURCE_FILE}").to_a
+source_lines = File.open("#{SOURCE_DIR}/#{source_file}").to_a
 source_lines.shift
 target_lines = []
-target_lines << ['Polling firm', 'Commissioners', 'Fieldwork Start',
+target_lines << ['Polling Firm', 'Commissioners', 'Fieldwork Start',
                  'Fieldwork End', 'Scope', 'Sample Size',
                  'Sample Size Qualification', 'Participation',
-                 'Precision', PARTY_NAMES, 'Other'].flatten.join(',')
+                 'Precision', party_names, 'Other'].flatten.join(',')
 source_lines.each do |line|
   elements = line.chomp.split('|')
   polling_firm = elements.shift.strip
@@ -61,6 +56,6 @@ source_lines.each do |line|
                    precision, shares].flatten.join(',')
 end
 
-File.open("#{TARGET_DIR}/#{TARGET_FILE}", 'w+') do |file|
+File.open("#{TARGET_DIR}/#{target_file}", 'w+') do |file|
   file.puts(target_lines)
 end
