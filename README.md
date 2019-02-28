@@ -15,13 +15,16 @@ Each country poll file contains the following columns with the following
 conventions:
 
 * Polling firm: name of the polling firm
-** If there are already other polls registered for that polling firm, reuse the
-   name
-** If there aren't already other polls registered for that polling firm, try to
-   find out the polling firm's proper name, i.e. the way they refer to
-   themselves, e.g. on their web site or in their report
-** If more than one polling firm is involved in a poll, concatenate the names
-   using commas (`,`) and `and`
+  * If there are already other polls registered for that polling firm, reuse the
+    name
+  * If there aren't already other polls registered for that polling firm, try to
+    find out the polling firm's proper name, i.e. the way they refer to
+    themselves, e.g. on their web site or in their report
+  * If more than one polling firm is involved in a poll, concatenate the names
+    using commas (`,`) and `and`
 * Commissionners: same as for the polling firms, or `N/A` if there's not
   commissionner for the poll
-
+* Fieldwork Start: the start date of the fieldwork, formatted as `YYYY-MM-DD`
+* Fieldwork End: the end date of the fieldwork, formatted as `YYYY-MM-DD`
+  * Polls are sorted in descending order on Fieldwork End first, and Fieldwork
+    Start after that
