@@ -22,7 +22,7 @@ conventions:
     themselves, e.g. on their web site or in their report
   * If more than one polling firm is involved in a poll, concatenate the names
     using commas (`,`) and `and`
-* Commissionners: same as for the polling firms, or `N/A` if there's not
+* Commissionners: same as for the polling firms, or `N/A` if there's no
   commissionner for the poll
 * Fieldwork Start: the start date of the fieldwork, formatted as `YYYY-MM-DD`
 * Fieldwork End: the end date of the fieldwork, formatted as `YYYY-MM-DD`
