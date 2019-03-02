@@ -53,3 +53,6 @@ conventions:
   use `S`
 * Results per party, as percentages, or `N/A` if the party wasn't polled or
   didn't exist at the time of polling
+  * If you need a new column for a new party or electoral alliance, don't just
+    add it, but request it to be set up. Otherwise the scripts producing the
+    CSV files will start to fail.
