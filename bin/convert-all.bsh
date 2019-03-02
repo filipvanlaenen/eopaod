@@ -2,5 +2,6 @@
 
 cd ~/git/eopaod/src
 
+ruby psv2csv.rb at
 ruby psv2csv.rb ee
 ruby psv2csv.rb fi
