@@ -3,6 +3,7 @@
 
 * Austria: [at.csv](at.csv)
 * Bulgaria: [bg.csv](bg.csv)
+* Cyprus: [cy.csv](cy.csv)
 * Estonia: [ee.csv](ee.csv)
 * Finland: [fi.csv](fi.csv)
 
