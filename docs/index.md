@@ -2,6 +2,7 @@
 # CSV files
 
 * Austria: [at.csv](at.csv)
+* Bulgaria: [bg.csv](bg.csv)
 * Estonia: [ee.csv](ee.csv)
 * Finland: [fi.csv](fi.csv)
 
