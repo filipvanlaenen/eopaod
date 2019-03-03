@@ -6,6 +6,7 @@
 * Cyprus: [cy.csv](cy.csv)
 * Estonia: [ee.csv](ee.csv)
 * Finland: [fi.csv](fi.csv)
+* Germany: [de.csv](de.csv)
 
 # Documentation
 
