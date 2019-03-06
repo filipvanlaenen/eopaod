@@ -12,7 +12,9 @@ party_name_file = country_code + '.pn'
 TARGET_DIR = '../docs'.freeze
 target_file = country_code + '.csv'
 
-party_names = File.open("#{SOURCE_DIR}/#{party_name_file}").to_a.map(&:strip)
+party_names = File.open("#{SOURCE_DIR}/#{party_name_file}").to_a \
+                  .map(&:strip) \
+                  .map { |n| n.include?(',') ? "\"#{n}\"" : n }
 
 source_lines = File.open("#{SOURCE_DIR}/#{source_file}").to_a
 source_lines.shift
