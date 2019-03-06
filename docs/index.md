@@ -4,6 +4,7 @@
 * Austria: [at.csv](at.csv)
 * Bulgaria: [bg.csv](bg.csv)
 * Cyprus: [cy.csv](cy.csv)
+* Czech Republic [cz.csv](cz.csv)
 * Estonia: [ee.csv](ee.csv)
 * Finland: [fi.csv](fi.csv)
 * Germany: [de.csv](de.csv)
