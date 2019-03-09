@@ -26,8 +26,10 @@ target_lines << ['Polling Firm', 'Commissioners', 'Fieldwork Start',
 source_lines.each do |line|
   elements = line.chomp.split('|')
   polling_firm = elements.shift.strip
+  polling_firm = "\"#{polling_firm}\"" if polling_firm.include?(',')
   commissioners = elements.shift.strip
   commissioners = '' if commissioners == NOT_APPLICABLE
+  commissioners = "\"#{commissioners}\"" if commissioners.include?(',')
   fieldword_start = elements.shift.strip
   fieldword_end = elements.shift.strip
   scope = { 'N' => 'National', 'E' => 'European' }[elements.shift.strip[0]]
