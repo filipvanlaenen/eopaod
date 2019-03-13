@@ -7,16 +7,18 @@ ESTIMATED_ASSUMED = 'Estimated/Assumed'.freeze
 NOT_AVAILABLE = 'Not Available'.freeze
 
 SOURCE_DIR = '../data'.freeze
-source_file = country_code + '.psv'
+POLLS_SOURCE_DIR = "#{SOURCE_DIR}/polls".freeze
+polls_file = country_code + '.psv'
+PARTIES_SOURCE_DIR = "#{SOURCE_DIR}/parties".freeze
 party_name_file = country_code + '.pn'
 TARGET_DIR = '../docs'.freeze
 target_file = country_code + '.csv'
 
-party_names = File.open("#{SOURCE_DIR}/#{party_name_file}").to_a \
+party_names = File.open("#{PARTIES_SOURCE_DIR}/#{party_name_file}").to_a \
                   .map(&:strip) \
                   .map { |n| n.include?(',') ? "\"#{n}\"" : n }
 
-source_lines = File.open("#{SOURCE_DIR}/#{source_file}").to_a
+source_lines = File.open("#{POLLS_SOURCE_DIR}/#{polls_file}").to_a
 source_lines.shift
 target_lines = []
 target_lines << ['Polling Firm', 'Commissioners', 'Fieldwork Start',
