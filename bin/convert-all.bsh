@@ -7,6 +7,7 @@ ruby psv2csv.rb bg
 ruby psv2csv.rb cy
 ruby psv2csv.rb cz
 ruby psv2csv.rb de
+ruby psv2svg.rb de
 ruby psv2csv.rb dk
 ruby psv2csv.rb ee
 ruby psv2csv.rb fi

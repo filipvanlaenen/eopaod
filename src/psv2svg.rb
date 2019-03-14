@@ -6,18 +6,24 @@ country_code = ARGV[0]
 WIDTH = 2000
 HEIGHT = 1000
 MARGIN = 20
+SPACE_BETWEEN_ELEMENTS = 20
 GRAPH_WIDTH = WIDTH * 0.8
 GRAPH_HEIGHT = HEIGHT * 0.8
 
 TITLE_FONT_SIZE = 46
+SUBTITLE_FONT_SIZE = 28
 COPYRIGHT_FONT_SIZE = 10
 
 STROKE_WIDTH = 3
+
+POLL_STROKE_OPACITY = 0.5
 
 BACKGROUND_COLOR = '#FFFFFF'
 TEXT_COLOR = '#0060AE'
 
 FONT_FAMILIY = "'Advent Pro'".freeze
+
+COUNTRY_NAMES = { 'de' => 'Germany' }
 
 def write_svg_to_file(filename, svg)
   doc = REXML::Document.new
@@ -66,6 +72,22 @@ def create_title(text)
   title
 end
 
+def create_subtitle(text)
+  subtitle = REXML::Element.new('text')
+  subtitle.add_attribute('x', (WIDTH / 2).to_s)
+  subtitle.add_attribute('y', (MARGIN + TITLE_FONT_SIZE + \
+                               (SPACE_BETWEEN_ELEMENTS + SUBTITLE_FONT_SIZE)).to_s)
+  subtitle.add_attribute('font-family', FONT_FAMILIY)
+  subtitle.add_attribute('font-style', 'normal')
+  subtitle.add_attribute('font-weight', 'bold')
+  subtitle.add_attribute('font-size', "#{SUBTITLE_FONT_SIZE}px")
+  subtitle.add_attribute('text-align', 'center')
+  subtitle.add_attribute('text-anchor', 'middle')
+  subtitle.add_attribute('fill', TEXT_COLOR)
+  subtitle.add_text(REXML::Text.new(text, true, nil, true))
+  subtitle
+end
+
 def create_copyright
   copyright = REXML::Element.new('text')
   copyright.add_attribute('x', -4.to_s)
@@ -103,18 +125,47 @@ def create_poll_elements(polls, party_colors)
         s.add_attribute('y2', y.to_s)
         s.add_attribute('stroke', party_colors[i])
         s.add_attribute('stroke-width', STROKE_WIDTH.to_s)
+        s.add_attribute('stroke-opacity', POLL_STROKE_OPACITY.to_s)
         g << s
       end
     end
   end
+  window = 30
+  c = []
+  Range.new(first_date.jd + window / 2, last_date.jd - window / 2).each_with_index do | d, x |
+    p = polls.select { |p| ((p[0].jd + p[1].jd) / 2 - d).abs <= window / 2}
+    unless p.empty?
+      Range.new(2, p.first.length - 2).each do | i |
+        vs = p.map { |l| l[i] }.select {|v| !v.nil?}
+        unless vs.empty?
+          a = vs.reduce(:+).to_f / vs.size
+          if c[i - 2].nil?
+            c[i - 2] = []
+          end
+          xx = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (d - first_date.jd) / (last_date.jd - first_date.jd)
+          yy = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6 - GRAPH_HEIGHT * a / highest_share
+          c[i - 2][x] = [xx, yy].join(',')
+        end
+      end
+    end
+  end
+  c.each_with_index do | p, i |
+    l = REXML::Element.new('polyline')
+    l.add_attribute('points', p.join(' '))
+    l.add_attribute('stroke', party_colors[i])
+    l.add_attribute('stroke-width', STROKE_WIDTH.to_s)
+    l.add_attribute('fill', 'none')
+    g << l
+  end
   g
 end
 
-def create_svg_graph(polls, party_colors)
+def create_svg_graph(country_code, polls, party_colors, subtitle)
   svg = create_svg_root_element
   svg.add_element(create_background)
-  svg.add_element(create_title("Voting Intentions"))
-  # svg.add_element(create_subtitle(text_color, create_subtitle_text(custom_subtitle, metadata)))
+  country_name = COUNTRY_NAMES[country_code]
+  svg.add_element(create_title("Voting Intentions in #{country_name}"))
+  svg.add_element(create_subtitle(subtitle))
   svg.add_element(create_copyright)
   svg.add_element(create_poll_elements(polls, party_colors))
   svg
@@ -162,13 +213,13 @@ source_lines.each do |line|
 end
 
 svg_filename = "#{TARGET_DIR}/#{country_code}.svg"
-write_svg_to_file(svg_filename, create_svg_graph(all_polls, party_colors))
+write_svg_to_file(svg_filename, create_svg_graph(country_code, all_polls, party_colors, 'All Polls'))
 convert_svg_to_png(svg_filename)
 
 svg_filename = "#{TARGET_DIR}/#{country_code}-N.svg"
-write_svg_to_file(svg_filename, create_svg_graph(national_polls, party_colors))
+write_svg_to_file(svg_filename, create_svg_graph(country_code, national_polls, party_colors, 'National Polls'))
 convert_svg_to_png(svg_filename)
 
 svg_filename = "#{TARGET_DIR}/#{country_code}-E.svg"
-write_svg_to_file(svg_filename, create_svg_graph(european_polls, party_colors))
+write_svg_to_file(svg_filename, create_svg_graph(country_code, european_polls, party_colors, 'European Election Polls'))
 convert_svg_to_png(svg_filename)
