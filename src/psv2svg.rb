@@ -15,6 +15,8 @@ SUBTITLE_FONT_SIZE = 28
 COPYRIGHT_FONT_SIZE = 10
 
 STROKE_WIDTH = 3
+AXIS_STROKE_WIDTH = 2
+GRID_STROKE_WIDTH = 1
 
 POLL_STROKE_OPACITY = 0.5
 
@@ -105,11 +107,57 @@ def create_copyright
   copyright
 end
 
+def create_grid(highest_share)
+  g = REXML::Element.new('g')
+  x_left = (WIDTH - GRAPH_WIDTH) / 2
+  x_right = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH
+  y_bottom = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6
+  y_top = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6 - GRAPH_HEIGHT * 1.01
+  x_axis = REXML::Element.new('line')
+  x_axis.add_attribute('x1', x_left.to_s)
+  x_axis.add_attribute('y1', y_bottom.to_s)
+  x_axis.add_attribute('x2', x_right.to_s)
+  x_axis.add_attribute('y2', y_bottom.to_s)
+  x_axis.add_attribute('stroke', TEXT_COLOR)
+  x_axis.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
+  g << x_axis
+  y_axis_left = REXML::Element.new('line')
+  y_axis_left.add_attribute('x1', x_left.to_s)
+  y_axis_left.add_attribute('y1', y_bottom.to_s)
+  y_axis_left.add_attribute('x2', x_left.to_s)
+  y_axis_left.add_attribute('y2', y_top.to_s)
+  y_axis_left.add_attribute('stroke', TEXT_COLOR)
+  y_axis_left.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
+  g << y_axis_left
+  y_axis_right = REXML::Element.new('line')
+  y_axis_right.add_attribute('x1', x_right.to_s)
+  y_axis_right.add_attribute('y1', y_bottom.to_s)
+  y_axis_right.add_attribute('x2', x_right.to_s)
+  y_axis_right.add_attribute('y2', y_top.to_s)
+  y_axis_right.add_attribute('stroke', TEXT_COLOR)
+  y_axis_right.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
+  g << y_axis_right
+  stride = [1, 2, 5, 10].select { |s| s >= highest_share / 8}.min
+  Range.new(1, (highest_share / stride).floor).each do | i |
+    y = y_bottom - GRAPH_HEIGHT * i * stride / highest_share
+    grid_line = REXML::Element.new('line')
+    grid_line.add_attribute('x1', x_left.to_s)
+    grid_line.add_attribute('y1', y.to_s)
+    grid_line.add_attribute('x2', x_right.to_s)
+    grid_line.add_attribute('y2', y.to_s)
+    grid_line.add_attribute('stroke', TEXT_COLOR)
+    grid_line.add_attribute('stroke-width', GRID_STROKE_WIDTH.to_s)
+    g << grid_line
+  end
+  g
+end
+
 def create_poll_elements(polls, party_colors)
   first_date = polls.map { |p| p[0] }.min
   last_date = polls.map { |p| p[1] }.max
   highest_share = polls.map { |p| p[2, p.length - 2]}.flatten.map{ |s| s.nil? ? 0 : s }.max
   g = REXML::Element.new('g')
+  g.add_element(create_grid(highest_share))
   polls.each do |poll|
     fieldword_start = poll[0]
     fieldword_end = poll[1]
