@@ -9,6 +9,7 @@
 1. Denmark: [dk.csv](dk.csv), [dk-E.csv](dk-E.csv) and [dk-N.csv](dk-N.csv)
 1. Estonia: [ee.csv](ee.csv), [ee-E.csv](ee-E.csv) and [ee-N.csv](ee-N.csv)
 1. Finland: [fi.csv](fi.csv), [fi-E.csv](fi-E.csv) and [fi-N.csv](fi-N.csv)
+   * [fi.png](fi.png), [fi-E.png](fi-E.png) and [fi-N.png](fi-N.png) (Under construction)
 1. Germany: [de.csv](de.csv), [de-E.csv](de-E.csv) and [de-N.csv](de-N.csv)
    * [de.png](de.png), [de-E.png](de-E.png) and [de-N.png](de-N.png) (Under construction)
 1. Netherlands: [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)

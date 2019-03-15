@@ -25,7 +25,8 @@ TEXT_COLOR = '#0060AE'
 
 FONT_FAMILIY = "'Advent Pro'".freeze
 
-COUNTRY_NAMES = { 'de' => 'Germany' }
+COUNTRY_NAMES = { 'de' => 'Germany',
+                  'fi' => 'Finland' }
 
 def write_svg_to_file(filename, svg)
   doc = REXML::Document.new
