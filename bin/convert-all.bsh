@@ -11,6 +11,7 @@ ruby psv2svg.rb cz
 ruby psv2csv.rb de
 ruby psv2svg.rb de
 ruby psv2csv.rb dk
+ruby psv2svg.rb dk
 ruby psv2csv.rb ee
 ruby psv2csv.rb fi
 ruby psv2svg.rb fi

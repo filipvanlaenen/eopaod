@@ -28,6 +28,7 @@ FONT_FAMILIY = "'Advent Pro'".freeze
 COUNTRY_NAMES = { 'at' => 'Austria',
                   'cz' => 'Czech Republic',
                   'de' => 'Germany',
+                  'dk' => 'Denmark',
                   'fi' => 'Finland' }
 
 def write_svg_to_file(filename, svg)
