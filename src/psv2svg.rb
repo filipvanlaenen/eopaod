@@ -271,7 +271,7 @@ def create_grid(first_date, last_date, highest_share)
   g
 end
 
-def create_poll_elements(polls, party_colors)
+def create_poll_elements(polls, party_colors, party_labels)
   first_date = polls.map { |p| p[0] }.min
   last_date = polls.map { |p| p[1] }.max
   highest_share = polls.map { |p| p[2, p.length - 2]}.flatten.map{ |s| s.nil? ? 0 : s }.max
@@ -323,18 +323,30 @@ def create_poll_elements(polls, party_colors)
     l.add_attribute('stroke-width', STROKE_WIDTH.to_s)
     l.add_attribute('fill', 'none')
     g << l
+    label = REXML::Element.new('text')
+    label.add_attribute('x', ((WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH + MARGIN).to_s)
+    label.add_attribute('y', p.last.split(',').last)
+    label.add_attribute('font-family', FONT_FAMILIY)
+    label.add_attribute('font-style', 'normal')
+    label.add_attribute('font-weight', 'bold')
+    label.add_attribute('font-size', "#{GRID_LABEL_FONT_SIZE}px")
+    label.add_attribute('text-align', 'center')
+    label.add_attribute('text-anchor', 'start')
+    label.add_attribute('fill', party_colors[i])
+    label.add_text(REXML::Text.new(party_labels[i], true, nil, true))
+    g << label
   end
   g
 end
 
-def create_svg_graph(country_code, polls, party_colors, subtitle)
+def create_svg_graph(country_code, polls, party_colors, party_labels, subtitle)
   svg = create_svg_root_element
   svg.add_element(create_background)
   country_name = COUNTRY_NAMES[country_code]
   svg.add_element(create_title("Voting Intentions in #{country_name}"))
   svg.add_element(create_subtitle(subtitle))
   svg.add_element(create_copyright)
-  svg.add_element(create_poll_elements(polls, party_colors)) unless polls.empty?
+  svg.add_element(create_poll_elements(polls, party_colors, party_labels)) unless polls.empty?
   svg
 end
 
@@ -350,9 +362,9 @@ PARTIES_SOURCE_DIR = "#{SOURCE_DIR}/parties".freeze
 party_name_file = country_code + '.psv'
 TARGET_DIR = '../docs'.freeze
 
-party_colors = File.open("#{PARTIES_SOURCE_DIR}/#{party_name_file}").to_a \
-                  .map(&:strip) \
-                  .map { |l| l.chomp.split('|')[1].strip}
+party_data = File.open("#{PARTIES_SOURCE_DIR}/#{party_name_file}").to_a.map(&:strip)
+party_colors = party_data.map { |l| l.chomp.split('|')[1].strip}
+party_labels = party_data.map { |l| l.chomp.split('|')[2].strip}
 
 source_lines = File.open("#{POLLS_SOURCE_DIR}/#{polls_file}").to_a
 source_lines.shift
@@ -380,13 +392,13 @@ source_lines.each do |line|
 end
 
 svg_filename = "#{TARGET_DIR}/#{country_code}.svg"
-write_svg_to_file(svg_filename, create_svg_graph(country_code, all_polls, party_colors, 'All Polls'))
+write_svg_to_file(svg_filename, create_svg_graph(country_code, all_polls, party_colors, party_labels, 'All Polls'))
 convert_svg_to_png(svg_filename)
 
 svg_filename = "#{TARGET_DIR}/#{country_code}-N.svg"
-write_svg_to_file(svg_filename, create_svg_graph(country_code, national_polls, party_colors, 'National Polls'))
+write_svg_to_file(svg_filename, create_svg_graph(country_code, national_polls, party_colors, party_labels, 'National Polls'))
 convert_svg_to_png(svg_filename)
 
 svg_filename = "#{TARGET_DIR}/#{country_code}-E.svg"
-write_svg_to_file(svg_filename, create_svg_graph(country_code, european_polls, party_colors, 'European Election Polls'))
+write_svg_to_file(svg_filename, create_svg_graph(country_code, european_polls, party_colors, party_labels, 'European Election Polls'))
 convert_svg_to_png(svg_filename)
