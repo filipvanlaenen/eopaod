@@ -3,6 +3,7 @@
 cd ~/git/eopaod/src
 
 ruby psv2csv.rb at
+ruby psv2svg.rb at
 ruby psv2csv.rb bg
 ruby psv2csv.rb cy
 ruby psv2csv.rb cz
