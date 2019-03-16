@@ -12,6 +12,7 @@ GRAPH_HEIGHT = HEIGHT * 0.8
 
 TITLE_FONT_SIZE = 46
 SUBTITLE_FONT_SIZE = 28
+GRID_LABEL_FONT_SIZE = 20
 COPYRIGHT_FONT_SIZE = 10
 
 STROKE_WIDTH = 3
@@ -115,8 +116,8 @@ def create_grid(highest_share)
   g = REXML::Element.new('g')
   x_left = (WIDTH - GRAPH_WIDTH) / 2
   x_right = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH
-  y_bottom = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6
-  y_top = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6 - GRAPH_HEIGHT * 1.01
+  y_bottom = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4
+  y_top = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 - GRAPH_HEIGHT * 1.01
   x_axis = REXML::Element.new('line')
   x_axis.add_attribute('x1', x_left.to_s)
   x_axis.add_attribute('y1', y_bottom.to_s)
@@ -125,6 +126,18 @@ def create_grid(highest_share)
   x_axis.add_attribute('stroke', TEXT_COLOR)
   x_axis.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
   g << x_axis
+  grid_label = REXML::Element.new('text')
+  grid_label.add_attribute('x', (x_left - MARGIN).to_s)
+  grid_label.add_attribute('y', y_bottom.to_s)
+  grid_label.add_attribute('font-family', FONT_FAMILIY)
+  grid_label.add_attribute('font-style', 'normal')
+  grid_label.add_attribute('font-weight', 'bold')
+  grid_label.add_attribute('font-size', "#{GRID_LABEL_FONT_SIZE}px")
+  grid_label.add_attribute('text-align', 'center')
+  grid_label.add_attribute('text-anchor', 'end')
+  grid_label.add_attribute('fill', TEXT_COLOR)
+  grid_label.add_text(REXML::Text.new('0%', true, nil, true))
+  g << grid_label
   y_axis_left = REXML::Element.new('line')
   y_axis_left.add_attribute('x1', x_left.to_s)
   y_axis_left.add_attribute('y1', y_bottom.to_s)
@@ -152,6 +165,18 @@ def create_grid(highest_share)
     grid_line.add_attribute('stroke', TEXT_COLOR)
     grid_line.add_attribute('stroke-width', GRID_STROKE_WIDTH.to_s)
     g << grid_line
+    grid_label = REXML::Element.new('text')
+    grid_label.add_attribute('x', (x_left - MARGIN).to_s)
+    grid_label.add_attribute('y', y.to_s)
+    grid_label.add_attribute('font-family', FONT_FAMILIY)
+    grid_label.add_attribute('font-style', 'normal')
+    grid_label.add_attribute('font-weight', 'bold')
+    grid_label.add_attribute('font-size', "#{GRID_LABEL_FONT_SIZE}px")
+    grid_label.add_attribute('text-align', 'center')
+    grid_label.add_attribute('text-anchor', 'end')
+    grid_label.add_attribute('fill', TEXT_COLOR)
+    grid_label.add_text(REXML::Text.new((i * stride).to_s + '%', true, nil, true))
+    g << grid_label
   end
   g
 end
@@ -170,7 +195,7 @@ def create_poll_elements(polls, party_colors)
         s = REXML::Element.new('line')
         x1 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldword_start.jd - first_date.jd) / (last_date.jd - first_date.jd)
         x2 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldword_end.jd - first_date.jd) / (last_date.jd - first_date.jd)
-        y = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6 - GRAPH_HEIGHT * share / highest_share
+        y = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 - GRAPH_HEIGHT * share / highest_share
         s.add_attribute('x1', x1.to_s)
         s.add_attribute('y1', y.to_s)
         s.add_attribute('x2', x2.to_s)
@@ -195,7 +220,7 @@ def create_poll_elements(polls, party_colors)
             c[i - 2] = []
           end
           xx = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (d - first_date.jd) / (last_date.jd - first_date.jd)
-          yy = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 6 - GRAPH_HEIGHT * a / highest_share
+          yy = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 - GRAPH_HEIGHT * a / highest_share
           c[i - 2][x] = [xx, yy].join(',')
         end
       end
