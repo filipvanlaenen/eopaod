@@ -1,4 +1,9 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Other |
+Forschungsgruppe Wahlen | ZDF                            | 2019-03-12      | 2019-03-14    | E     | 1290        | N/A           | 1         | 35    | 18   |  9   |  7   |  6    | 18    | N/A  | N/A | 7     |
+Forschungsgruppe Wahlen | ZDF                            | 2019-03-12      | 2019-03-14    | N     | 1290        | N/A           | 1         | 31    | 16   | 12   |  8   |  8    | 19    | N/A  | N/A | 6     |
+Infratest dimap         | ARD                            | 2019-03-11      | 2019-03-13    | E     | 1508        | N/A           | 1         | 32    | 19   | 11   |  6   |  7    | 18    | N/A  | N/A | 7     |
+Infratest dimap         | ARD                            | 2019-03-11      | 2019-03-13    | N     | 1508        | N/A           | 1         | 29    | 17   | 13   |  8   |  9    | 19    | N/A  | N/A | 5     |
+INSA and YouGov         | Bild                           | 2019-03-08      | 2019-03-11    | N     | 2005        | N/A           | 0.5       | N/A   | 15   | 14.5 | 10   |  9    | 17.5  | 23.5 | 7   | 3.5   |
 Forsa                   | Stern and RTL                  | 2019-03-04      | 2019-03-08    | NE    | 2501        | 76            | 1         | 31    | 15   | 12   |  9   |  8    | 19    | N/A  | N/A | 6     |
 Emnid                   | Bild am Sonntag                | 2019-02-28      | 2019-03-06    | NE    | 1906        | N/A           | 1         | 31    | 17   | 14   | 8    | 9     | 16    | N/A  | N/A | 5     |
 INSA and YouGov         | Bild                           | 2019-02-27      | 2019-03-01    | E     | 4000        | N/A           | 0.5       | 29    | 16   | 12   | 9.5  | 9     | 15    | N/A  | N/A | 9.5   |
