@@ -219,7 +219,7 @@ def create_svg_graph(country_code, polls, party_colors, subtitle)
   svg.add_element(create_title("Voting Intentions in #{country_name}"))
   svg.add_element(create_subtitle(subtitle))
   svg.add_element(create_copyright)
-  svg.add_element(create_poll_elements(polls, party_colors))
+  svg.add_element(create_poll_elements(polls, party_colors)) unless polls.empty?
   svg
 end
 
