@@ -112,7 +112,59 @@ def create_copyright
   copyright
 end
 
-def create_grid(highest_share)
+def find_next_period_start(date, length)
+  if length == 365
+    [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s]
+  elsif length == 180
+    if date.month < 7
+      [Date.new(date.year, 7, 1), (date.year).to_s + 'H2']
+    else
+      [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s + 'H1']
+    end
+  elsif length == 120
+    if date.month < 5
+      [Date.new(date.year, 5, 1), (date.year).to_s + 'T2']
+    elsif date.month < 9
+      [Date.new(date.year, 9, 1), (date.year).to_s + 'T3']
+    else
+      [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s + 'T1']
+    end
+  elsif length == 90
+    if date.month < 4
+      [Date.new(date.year, 4, 1), (date.year).to_s + 'Q2']
+    elsif date.month < 7
+      [Date.new(date.year, 7, 1), (date.year).to_s + 'Q3']
+    elsif date.month < 10
+      [Date.new(date.year, 10, 1), (date.year).to_s + 'Q4']
+    else
+      [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s + 'Q1']
+    end
+  elsif length == 60
+    if date.month < 3
+      [Date.new(date.year, 3, 1), (date.year).to_s + 'B2']
+    elsif date.month < 5
+      [Date.new(date.year, 5, 1), (date.year).to_s + 'B3']
+    elsif date.month < 7
+      [Date.new(date.year, 7, 1), (date.year).to_s + 'B4']
+    elsif date.month < 9
+      [Date.new(date.year, 9, 1), (date.year).to_s + 'B5']
+    elsif date.month < 11
+      [Date.new(date.year, 11, 1), (date.year).to_s + 'B6']
+    else
+      [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s + 'B1']
+    end
+  elsif length == 30
+    if date.month < 9
+      [Date.new(date.year, date.month + 1, 1), date.year.to_s + '-0' + (date.month + 1).to_s]
+    elsif date.month < 12
+      [Date.new(date.year, date.month + 1, 1), date.year.to_s + '-' + (date.month + 1).to_s]
+    else
+      [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s + '-01']
+    end
+  end
+end
+
+def create_grid(first_date, last_date, highest_share)
   g = REXML::Element.new('g')
   x_left = (WIDTH - GRAPH_WIDTH) / 2
   x_right = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH
@@ -154,9 +206,47 @@ def create_grid(highest_share)
   y_axis_right.add_attribute('stroke', TEXT_COLOR)
   y_axis_right.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
   g << y_axis_right
-  stride = [1, 2, 5, 10].select { |s| s >= highest_share / 8}.min
-  Range.new(1, (highest_share / stride).floor).each do | i |
-    y = y_bottom - GRAPH_HEIGHT * i * stride / highest_share
+  x_stride = [1, 7, 30, 60, 90, 120, 180, 365].select { |s| s >= (last_date.jd - first_date.jd) / 12}.min
+  if (x_stride < 30)
+    puts "Warning: X-stride of #{x_stride} days not implemented yet!"
+    x_stride = 30
+  end
+  next_period = find_next_period_start(first_date, x_stride)
+  next_period_start = next_period.first
+  while (next_period_start < last_date)
+    grid_line = REXML::Element.new('line')
+    x = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (next_period_start.jd - first_date.jd) / (last_date.jd - first_date.jd)
+    grid_line.add_attribute('x1', x.to_s)
+    grid_line.add_attribute('y1', y_bottom.to_s)
+    grid_line.add_attribute('x2', x.to_s)
+    grid_line.add_attribute('y2', y_top.to_s)
+    grid_line.add_attribute('stroke', TEXT_COLOR)
+    grid_line.add_attribute('stroke-width', GRID_STROKE_WIDTH.to_s)
+    g << grid_line
+    current_period_start = next_period_start
+    next_period_label = next_period.last
+    next_period = find_next_period_start(next_period_start, x_stride)
+    next_period_start = next_period.first
+    if (next_period_start < last_date)
+      grid_label = REXML::Element.new('text')
+      x = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * ((current_period_start.jd + next_period_start.jd) / 2 - first_date.jd) / (last_date.jd - first_date.jd)
+      grid_label.add_attribute('x', x.to_s)
+      y = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 + 2 * GRID_LABEL_FONT_SIZE
+      grid_label.add_attribute('y', y.to_s)
+      grid_label.add_attribute('font-family', FONT_FAMILIY)
+      grid_label.add_attribute('font-style', 'normal')
+      grid_label.add_attribute('font-weight', 'bold')
+      grid_label.add_attribute('font-size', "#{GRID_LABEL_FONT_SIZE}px")
+      grid_label.add_attribute('text-align', 'center')
+      grid_label.add_attribute('text-anchor', 'middle')
+      grid_label.add_attribute('fill', TEXT_COLOR)
+      grid_label.add_text(REXML::Text.new(next_period_label, true, nil, true))
+      g << grid_label
+    end
+  end
+  y_stride = [1, 2, 5, 10].select { |s| s >= highest_share / 8}.min
+  Range.new(1, (highest_share / y_stride).floor).each do | i |
+    y = y_bottom - GRAPH_HEIGHT * i * y_stride / highest_share
     grid_line = REXML::Element.new('line')
     grid_line.add_attribute('x1', x_left.to_s)
     grid_line.add_attribute('y1', y.to_s)
@@ -175,7 +265,7 @@ def create_grid(highest_share)
     grid_label.add_attribute('text-align', 'center')
     grid_label.add_attribute('text-anchor', 'end')
     grid_label.add_attribute('fill', TEXT_COLOR)
-    grid_label.add_text(REXML::Text.new((i * stride).to_s + '%', true, nil, true))
+    grid_label.add_text(REXML::Text.new((i * y_stride).to_s + '%', true, nil, true))
     g << grid_label
   end
   g
@@ -186,15 +276,15 @@ def create_poll_elements(polls, party_colors)
   last_date = polls.map { |p| p[1] }.max
   highest_share = polls.map { |p| p[2, p.length - 2]}.flatten.map{ |s| s.nil? ? 0 : s }.max
   g = REXML::Element.new('g')
-  g.add_element(create_grid(highest_share))
+  g.add_element(create_grid(first_date, last_date, highest_share))
   polls.each do |poll|
-    fieldword_start = poll[0]
-    fieldword_end = poll[1]
+    fieldwork_start = poll[0]
+    fieldwork_end = poll[1]
     poll[2, poll.length - 2].each_with_index do |share, i|
       unless share.nil?
         s = REXML::Element.new('line')
-        x1 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldword_start.jd - first_date.jd) / (last_date.jd - first_date.jd)
-        x2 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldword_end.jd - first_date.jd) / (last_date.jd - first_date.jd)
+        x1 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldwork_start.jd - first_date.jd) / (last_date.jd - first_date.jd)
+        x2 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldwork_end.jd - first_date.jd) / (last_date.jd - first_date.jd)
         y = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 - GRAPH_HEIGHT * share / highest_share
         s.add_attribute('x1', x1.to_s)
         s.add_attribute('y1', y.to_s)
@@ -273,8 +363,8 @@ source_lines.each do |line|
   elements = line.chomp.split('|')
   elements.shift.strip # polling firm
   elements.shift.strip # commissioners
-  fieldword_start = Date.parse(elements.shift.strip)
-  fieldword_end = Date.parse(elements.shift.strip)
+  fieldwork_start = Date.parse(elements.shift.strip)
+  fieldwork_end = Date.parse(elements.shift.strip)
   scopes = elements.shift.strip
   scope = { 'N' => 'National', 'E' => 'European' }[scopes[0]]
   elements.shift.strip # sample size
@@ -283,7 +373,7 @@ source_lines.each do |line|
   shares = elements.map(&:strip).map do |e|
     e == NOT_APPLICABLE ? nil : e.to_f
   end
-  poll_line = [fieldword_start, fieldword_end, shares].flatten
+  poll_line = [fieldwork_start, fieldwork_end, shares].flatten
   all_polls << poll_line
   national_polls << poll_line if scopes.start_with?('N')
   european_polls << poll_line if scopes.start_with?('E')
