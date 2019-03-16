@@ -7,6 +7,7 @@
 1. Croatia: [hr.csv](hr.csv), [hr-E.csv](hr-E.csv) and [hr-N.csv](hr-N.csv)
 1. Cyprus: [cy.csv](cy.csv), [cy-E.csv](cy-E.csv) and [cy-N.csv](cy-N.csv)
 1. Czech Republic [cz.csv](cz.csv), [cz-E.csv](cz-E.csv) and [cz-N.csv](cz-N.csv)
+   * [cz.png](cz.png), [cz-E.png](cz-E.png) and [cz-N.png](cz-N.png) (Under construction)
 1. Denmark: [dk.csv](dk.csv), [dk-E.csv](dk-E.csv) and [dk-N.csv](dk-N.csv)
 1. Estonia: [ee.csv](ee.csv), [ee-E.csv](ee-E.csv) and [ee-N.csv](ee-N.csv)
 1. Finland: [fi.csv](fi.csv), [fi-E.csv](fi-E.csv) and [fi-N.csv](fi-N.csv)

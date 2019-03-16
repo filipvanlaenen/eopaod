@@ -26,6 +26,7 @@ TEXT_COLOR = '#0060AE'
 FONT_FAMILIY = "'Advent Pro'".freeze
 
 COUNTRY_NAMES = { 'at' => 'Austria',
+                  'cz' => 'Czech Republic',
                   'de' => 'Germany',
                   'fi' => 'Finland' }
 
