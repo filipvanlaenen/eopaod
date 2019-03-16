@@ -2,19 +2,20 @@
 
 cd ~/git/eopaod/src
 
-ruby psv2csv.rb at
-ruby psv2svg.rb at
+function convert_country {
+  echo "Converting $1..."
+  ruby psv2csv.rb $1
+  ruby psv2svg.rb $1
+}
+
+convert_country at
 ruby psv2csv.rb bg
 ruby psv2csv.rb cy
-ruby psv2csv.rb cz
-ruby psv2svg.rb cz
-ruby psv2csv.rb de
-ruby psv2svg.rb de
-ruby psv2csv.rb dk
-ruby psv2svg.rb dk
+convert_country cz
+convert_country de
+convert_country dk
 ruby psv2csv.rb ee
-ruby psv2csv.rb fi
-ruby psv2svg.rb fi
+convert_country fi
 ruby psv2csv.rb hr
 ruby psv2csv.rb lt
 ruby psv2csv.rb nl
