@@ -4,6 +4,7 @@
 | Country        | CSV Files                                                       | Charts                                                          |
 |----------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
 | Austria        | [at.csv](at.csv), [at-E.csv](at-E.csv) and [at-N.csv](at-N.csv) | [at.png](at.png), [at-E.png](at-E.png) and [at-N.png](at-N.png) |
+| Belgium        |                                                                 |                                                                 |
 | Bulgaria       | [bg.csv](bg.csv), [bg-E.csv](bg-E.csv) and [bg-N.csv](bg-N.csv) |                                                                 |
 | Croatia        | [hr.csv](hr.csv), [hr-E.csv](hr-E.csv) and [hr-N.csv](hr-N.csv) |                                                                 |
 | Cyprus         | [cy.csv](cy.csv), [cy-E.csv](cy-E.csv) and [cy-N.csv](cy-N.csv) |                                                                 |
@@ -11,12 +12,25 @@
 | Denmark        | [dk.csv](dk.csv), [dk-E.csv](dk-E.csv) and [dk-N.csv](dk-N.csv) | [dk.png](dk.png), [dk-E.png](dk-E.png) and [dk-N.png](dk-N.png) |
 | Estonia        | [ee.csv](ee.csv), [ee-E.csv](ee-E.csv) and [ee-N.csv](ee-N.csv) |                                                                 |
 | Finland        | [fi.csv](fi.csv), [fi-E.csv](fi-E.csv) and [fi-N.csv](fi-N.csv) | [fi.png](fi.png), [fi-E.png](fi-E.png) and [fi-N.png](fi-N.png) |
+| France         |                                                                 |                                                                 |
 | Germany        | [de.csv](de.csv), [de-E.csv](de-E.csv) and [de-N.csv](de-N.csv) | [de.png](de.png), [de-E.png](de-E.png) and [de-N.png](de-N.png) |
-| Netherlands    | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv) | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png) |
+| Greece         |                                                                 |                                                                 |
+| Hungary        |                                                                 |                                                                 |
+| Ireland        |                                                                 |                                                                 |
+| Italy          |                                                                 |                                                                 |
+| Latvia         |                                                                 |                                                                 |
 | Lithuania      | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv) |                                                                 |
+| Luxembourg     |                                                                 |                                                                 |
+| Malta          |                                                                 |                                                                 |
+| Netherlands    | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv) | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png) |
 | Poland         | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv) |                                                                 |
+| Portugal       |                                                                 |                                                                 |
 | Romania        | [ro.csv](ro.csv), [ro-E.csv](ro-E.csv) and [ro-N.csv](ro-N.csv) |                                                                 |
 | Slovakia       | [sk.csv](sk.csv), [sk-E.csv](sk-E.csv) and [sk-N.csv](sk-N.csv) |                                                                 |
+| Slovenia       |                                                                 |                                                                 |
+| Spain          |                                                                 |                                                                 |
+| Sweden         |                                                                 |                                                                 |
+| United Kingdom |                                                                 |                                                                 |
 
 # Documentation
 
