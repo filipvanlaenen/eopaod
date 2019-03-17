@@ -1,8 +1,10 @@
 
-# CSV files
+# CSV Files and Charts
 
-1. Austria: [at.csv](at.csv), [at-E.csv](at-E.csv) and [at-N.csv](at-N.csv)
-   * [at.png](at.png), [at-E.png](at-E.png) and [at-N.png](at-N.png)
+| Country | CSV Files                                                       | Charts                                                          |
+|---------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| Austria | [at.csv](at.csv), [at-E.csv](at-E.csv) and [at-N.csv](at-N.csv) | [at.png](at.png), [at-E.png](at-E.png) and [at-N.png](at-N.png) |
+
 1. Bulgaria: [bg.csv](bg.csv), [bg-E.csv](bg-E.csv) and [bg-N.csv](bg-N.csv)
 1. Croatia: [hr.csv](hr.csv), [hr-E.csv](hr-E.csv) and [hr-N.csv](hr-N.csv)
 1. Cyprus: [cy.csv](cy.csv), [cy-E.csv](cy-E.csv) and [cy-N.csv](cy-N.csv)
