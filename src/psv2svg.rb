@@ -30,7 +30,8 @@ COUNTRY_NAMES = { 'at' => 'Austria',
                   'cz' => 'Czech Republic',
                   'de' => 'Germany',
                   'dk' => 'Denmark',
-                  'fi' => 'Finland' }
+                  'fi' => 'Finland',
+                  'nl' => 'the Netherlands' }
 
 def write_svg_to_file(filename, svg)
   doc = REXML::Document.new
@@ -381,9 +382,9 @@ source_lines.each do |line|
   scope = { 'N' => 'National', 'E' => 'European' }[scopes[0]]
   elements.shift.strip # sample size
   elements.shift.strip # participation
-  elements.shift.strip # precision
+  precision = elements.shift.strip
   shares = elements.map(&:strip).map do |e|
-    e == NOT_APPLICABLE ? nil : e.to_f
+    e == NOT_APPLICABLE ? nil : (precision == 'S' ? e.to_f / 1.50 : e.to_f)
   end
   poll_line = [fieldwork_start, fieldwork_end, shares].flatten
   all_polls << poll_line
