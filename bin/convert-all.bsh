@@ -18,6 +18,7 @@ ruby psv2csv.rb ee
 convert_country fi
 ruby psv2csv.rb hr
 ruby psv2csv.rb lt
+convert_country mt
 convert_country nl
 ruby psv2csv.rb pl
 ruby psv2csv.rb ro

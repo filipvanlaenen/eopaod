@@ -21,7 +21,7 @@
 | Latvia         |                                                                 |                                                                 |
 | Lithuania      | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv) |                                                                 |
 | Luxembourg     |                                                                 |                                                                 |
-| Malta          |                                                                 |                                                                 |
+| Malta          | [mt.csv](mt.csv), [mt-E.csv](mt-E.csv) and [mt-N.csv](mt-N.csv) | [mt.png](mt.png), [mt-E.png](mt-E.png) and [mt-N.png](mt-N.png) |
 | Netherlands    | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv) | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png) |
 | Poland         | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv) |                                                                 |
 | Portugal       |                                                                 |                                                                 |
