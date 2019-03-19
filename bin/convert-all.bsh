@@ -16,6 +16,7 @@ convert_country de
 convert_country dk
 ruby psv2csv.rb ee
 convert_country fi
+convert_country gb-nir
 ruby psv2csv.rb hr
 ruby psv2csv.rb lt
 convert_country mt
