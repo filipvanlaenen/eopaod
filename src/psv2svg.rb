@@ -319,24 +319,26 @@ def create_poll_elements(polls, party_colors, party_labels)
     end
   end
   c.each_with_index do | p, i |
-    l = REXML::Element.new('polyline')
-    l.add_attribute('points', p.join(' '))
-    l.add_attribute('stroke', party_colors[i])
-    l.add_attribute('stroke-width', STROKE_WIDTH.to_s)
-    l.add_attribute('fill', 'none')
-    g << l
-    label = REXML::Element.new('text')
-    label.add_attribute('x', ((WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH + MARGIN).to_s)
-    label.add_attribute('y', p.last.split(',').last)
-    label.add_attribute('font-family', FONT_FAMILIY)
-    label.add_attribute('font-style', 'normal')
-    label.add_attribute('font-weight', 'bold')
-    label.add_attribute('font-size', "#{GRID_LABEL_FONT_SIZE}px")
-    label.add_attribute('text-align', 'center')
-    label.add_attribute('text-anchor', 'start')
-    label.add_attribute('fill', party_colors[i])
-    label.add_text(REXML::Text.new(party_labels[i], true, nil, true))
-    g << label
+    unless p.nil?
+      l = REXML::Element.new('polyline')    
+      l.add_attribute('points', p.join(' '))
+      l.add_attribute('stroke', party_colors[i])
+      l.add_attribute('stroke-width', STROKE_WIDTH.to_s)
+      l.add_attribute('fill', 'none')
+      g << l
+      label = REXML::Element.new('text')
+      label.add_attribute('x', ((WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH + MARGIN).to_s)
+      label.add_attribute('y', p.last.split(',').last)
+      label.add_attribute('font-family', FONT_FAMILIY)
+      label.add_attribute('font-style', 'normal')
+      label.add_attribute('font-weight', 'bold')
+      label.add_attribute('font-size', "#{GRID_LABEL_FONT_SIZE}px")
+      label.add_attribute('text-align', 'center')
+      label.add_attribute('text-anchor', 'start')
+      label.add_attribute('fill', party_colors[i])
+      label.add_text(REXML::Text.new(party_labels[i], true, nil, true))
+      g << label
+    end
   end
   g
 end
