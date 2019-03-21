@@ -30,7 +30,10 @@ COUNTRY_NAMES = { 'at' => 'Austria',
                   'cz' => 'Czech Republic',
                   'de' => 'Germany',
                   'dk' => 'Denmark',
+                  'es' => 'Spain',
                   'fi' => 'Finland',
+                  'fr' => 'France',
+                  'gb-nir' => 'Northern Ireland',
                   'mt' => 'Malta',
                   'nl' => 'the Netherlands' }
 

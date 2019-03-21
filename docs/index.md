@@ -12,7 +12,7 @@
 | Denmark                          | [dk.csv](dk.csv), [dk-E.csv](dk-E.csv) and [dk-N.csv](dk-N.csv)                         | [dk.png](dk.png), [dk-E.png](dk-E.png) and [dk-N.png](dk-N.png)                         |
 | Estonia                          | [ee.csv](ee.csv), [ee-E.csv](ee-E.csv) and [ee-N.csv](ee-N.csv)                         |                                                                                         |
 | Finland                          | [fi.csv](fi.csv), [fi-E.csv](fi-E.csv) and [fi-N.csv](fi-N.csv)                         | [fi.png](fi.png), [fi-E.png](fi-E.png) and [fi-N.png](fi-N.png)                         |
-| France                           |                                                                                         |                                                                                         |
+| France                           | [fr.csv](fr.csv), [fr-E.csv](fr-E.csv) and [fr-N.csv](fr-N.csv)                         | [fr.png](fr.png), [fr-E.png](fr-E.png) and [fr-N.png](fr-N.png)                         |
 | Germany                          | [de.csv](de.csv), [de-E.csv](de-E.csv) and [de-N.csv](de-N.csv)                         | [de.png](de.png), [de-E.png](de-E.png) and [de-N.png](de-N.png)                         |
 | Greece                           |                                                                                         |                                                                                         |
 | Hungary                          |                                                                                         |                                                                                         |
