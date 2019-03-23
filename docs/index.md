@@ -17,7 +17,7 @@
 | Greece                           |                                                                                         |                                                                                         |
 | Hungary                          |                                                                                         |                                                                                         |
 | Ireland                          |                                                                                         |                                                                                         |
-| Italy                            |                                                                                         |                                                                                         |
+| Italy                            | [it.csv](it.csv), [it-E.csv](it-E.csv) and [it-N.csv](it-N.csv)                         | [it.png](it.png), [it-E.png](it-E.png) and [it-N.png](it-N.png)                         |
 | Latvia                           |                                                                                         |                                                                                         |
 | Lithuania                        | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv)                         |                                                                                         |
 | Luxembourg                       |                                                                                         |                                                                                         |
