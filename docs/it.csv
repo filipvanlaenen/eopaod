@@ -1,4 +1,11 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Movimento 5 Stelle,Partito Democratico,Lega Nord,Forza Italia,Fratelli d’Italia,Liberi e Uguali,Più Europa,Noi con l’Italia,Potere al Popolo,CasaPound Italia,Other
+Euromedia,Rai 1,2019-03-20,2019-03-21,National,800,Provided,Not Available,0.1%,19.8%,20.7%,33.1%,11.4%,4.7%,2.2%,3.6%,Not Available,Not Available,Not Available,4.5%
+Tecnè,Rete 4,2019-03-20,2019-03-21,National,1000,Provided,Not Available,0.1%,19.9%,21.0%,33.1%,11.7%,4.5%,Not Available,Not Available,Not Available,Not Available,Not Available,9.8%
+Index Research,LA7,2019-03-19,2019-03-20,National,800,Provided,Not Available,0.1%,20.4%,21.2%,34.8%,9.0%,4.4%,2.8%,2.7%,Not Available,1.7%,Not Available,3.0%
+EMG Acqua,Rai 3,2019-03-19,2019-03-19,National,1785,Provided,Not Available,0.1%,23.4%,21.0%,30.9%,10.0%,4.8%,Not Available,3.0%,0.6%,1.6%,Not Available,4.7%
+Noto Sondaggi,Rai 3,2019-03-19,2019-03-19,European,1000,Estimated/Assumed,Not Available,0.5%,21.0%,21.0%,32.5%,11.0%,4.5%,1.5%,3.5%,0.5%,1.0%,Not Available,3.5%
+SWG,LA7,2019-03-13,2019-03-18,National,1500,Provided,Not Available,0.1%,21.0%,21.1%,33.9%,8.6%,4.4%,2.4%,3.0%,Not Available,2.0%,Not Available,3.6%
+Tecnè,Quarta Repubblica and Rete 4,2019-03-17,2019-03-18,National,1000,Provided,Not Available,0.1%,21.8%,20.4%,31.2%,11.9%,4.4%,Not Available,Not Available,Not Available,Not Available,Not Available,10.3%
 Index Research,LA7,2019-03-12,2019-03-13,National,800,Provided,Not Available,0.1%,21.3%,20.1%,34.6%,9.1%,4.3%,2.9%,2.7%,Not Available,1.7%,Not Available,3.3%
 Demopolis,,2019-03-12,2019-03-13,National,1500,Provided,Not Available,0.1%,22.8%,20.2%,33.0%,8.8%,3.6%,Not Available,Not Available,Not Available,Not Available,Not Available,11.6%
 Demos & Pi,La Repubblica,2019-03-11,2019-03-13,National,1005,Provided,Not Available,0.1%,23.2%,19.0%,34.4%,9.6%,4.2%,2.6%,2.5%,Not Available,Not Available,Not Available,4.5%
@@ -89,7 +96,7 @@ Piepoli,Rai 1,2018-12-10,2018-12-10,National,503,Provided,Not Available,0.5%,28.
 Euromedia,Rai 1,2018-12-10,2018-12-10,National,800,Provided,Not Available,0.1%,24.6%,17.3%,33.9%,9.4%,4.2%,2.3%,3.3%,0.4%,Not Available,Not Available,4.6%
 Tecnè,Quarta Repubblica,2018-12-10,2018-12-10,National,800,Provided,Not Available,0.1%,25.5%,17.0%,33.2%,10.9%,4.0%,Not Available,Not Available,Not Available,Not Available,Not Available,9.4%
 SWG,LA7,2018-12-05,2018-12-10,National,1500,Provided,Not Available,0.1%,26.2%,17.5%,32.0%,8.7%,3.7%,2.3%,3.0%,Not Available,2.4%,Not Available,4.2%
-Index Research,LA7,2018-12-06,2018-12-06,National,Not Available,N/A,Not Available,0.1%,24.9%,17.7%,34.7%,7.5%,4.0%,1.7%,2.3%,Not Available,2.2%,Not Available,5.0%
+Index Research,LA7,2018-12-06,2018-12-06,National,800,Estimated/Assumed,Not Available,0.1%,24.9%,17.7%,34.7%,7.5%,4.0%,1.7%,2.3%,Not Available,2.2%,Not Available,5.0%
 EMG Acqua,Rai 3,2018-12-04,2018-12-06,National,1784,Provided,Not Available,0.1%,25.7%,18.5%,32.1%,8.2%,4.0%,Not Available,2.2%,0.8%,2.1%,Not Available,6.4%
 SWG,LA7,2018-11-28,2018-12-03,National,1500,Provided,Not Available,0.1%,27.3%,17.6%,32.0%,8.2%,3.3%,2.4%,2.8%,Not Available,2.4%,Not Available,4.0%
 Tecnè,Quarta Repubblica,2018-12-01,2018-12-02,National,1000,Provided,Not Available,0.1%,25.5%,17.7%,32.0%,11.0%,4.3%,Not Available,Not Available,Not Available,Not Available,Not Available,9.5%
@@ -100,7 +107,7 @@ Noto Sondaggi,Rai 3,2018-11-27,2018-11-27,National,1000,Estimated/Assumed,Not Av
 Tecnè,Quarta Repubblica,2018-11-26,2018-11-26,National,797,Provided,Not Available,0.1%,25.9%,18.1%,31.9%,11.2%,3.9%,Not Available,Not Available,Not Available,Not Available,Not Available,9.0%
 SWG,,2018-11-21,2018-11-26,National,1500,Provided,Not Available,0.1%,26.5%,18.0%,31.5%,8.4%,3.5%,2.3%,2.8%,Not Available,2.6%,Not Available,4.4%
 Scenari Politici–Winpoll,,2018-11-22,2018-11-24,National,1500,Provided,Not Available,0.1%,26.3%,19.0%,31.5%,9.8%,3.7%,2.0%,2.7%,1.1%,1.4%,Not Available,2.5%
-Lorien Consulting,,2018-11-23,2018-11-23,National,Not Available,N/A,Not Available,0.1%,28.3%,16.8%,30.0%,11.2%,3.6%,2.5%,2.1%,0.5%,2.2%,Not Available,2.8%
+Lorien Consulting,,2018-11-23,2018-11-23,National,500,Estimated/Assumed,Not Available,0.1%,28.3%,16.8%,30.0%,11.2%,3.6%,2.5%,2.1%,0.5%,2.2%,Not Available,2.8%
 Tecnè,TGcom24,2018-11-23,2018-11-23,National,800,Provided,Not Available,0.1%,25.8%,18.0%,32.0%,11.3%,4.0%,Not Available,Not Available,Not Available,Not Available,Not Available,8.9%
 Ipsos,Corriere della Sera,2018-11-20,2018-11-22,National,1000,Provided,Not Available,0.1%,27.7%,16.8%,36.2%,7.9%,2.6%,1.5%,2.1%,0.6%,Not Available,Not Available,4.6%
 BiDiMedia,,2018-11-19,2018-11-22,National,1081,Provided,Not Available,0.1%,27.5%,17.7%,30.0%,8.4%,3.5%,2.3%,2.5%,0.8%,1.5%,Not Available,5.8%
@@ -138,8 +145,8 @@ EMG Acqua,Rai 3,2018-10-19,2018-10-21,National,1528,Provided,Not Available,0.1%,
 Euromedia,Rai 1,2018-10-17,2018-10-17,National,800,Provided,Not Available,0.1%,27.6%,15.9%,31.7%,10.4%,4.1%,2.7%,2.6%,0.4%,Not Available,Not Available,4.6%
 Piepoli,Rai 1,2018-10-17,2018-10-17,National,605,Provided,Not Available,0.5%,29.5%,17.0%,30.5%,10.5%,3.5%,2.5%,2.0%,0.5%,Not Available,Not Available,4.0%
 Noto Sondaggi,Rai 3,2018-10-16,2018-10-16,National,1000,Estimated/Assumed,Not Available,0.5%,28.5%,15.5%,32.0%,8.0%,4.0%,3.0%,2.0%,0.4%,2.0%,Not Available,4.6%
-Lorien Consulting,,2018-10-15,2018-10-15,National,Not Available,N/A,Not Available,0.1%,27.5%,16.2%,30.7%,10.6%,4.5%,2.9%,2.4%,0.2%,2.0%,Not Available,3.0%
-GPF Inspiring Research,Sky TG 24,2018-10-10,2018-10-15,National,Not Available,N/A,Not Available,0.1%,31.1%,16.2%,29.8%,10.3%,4.3%,2.6%,2.1%,Not Available,Not Available,Not Available,3.6%
+Lorien Consulting,,2018-10-15,2018-10-15,National,500,Estimated/Assumed,Not Available,0.1%,27.5%,16.2%,30.7%,10.6%,4.5%,2.9%,2.4%,0.2%,2.0%,Not Available,3.0%
+GPF Inspiring Research,Sky TG 24,2018-10-10,2018-10-15,National,613,Estimated/Assumed,Not Available,0.1%,31.1%,16.2%,29.8%,10.3%,4.3%,2.6%,2.1%,Not Available,Not Available,Not Available,3.6%
 SWG,LA7,2018-10-10,2018-10-15,National,1500,Provided,Not Available,0.1%,28.1%,17.1%,30.5%,8.0%,4.1%,2.9%,2.6%,Not Available,2.5%,Not Available,4.2%
 Tecnè,Quarta Repubblica,2018-10-13,2018-10-14,National,1000,Provided,Not Available,0.1%,28.7%,17.5%,30.4%,11.2%,3.6%,2.1%,Not Available,Not Available,Not Available,Not Available,6.5%
 Scenari Politici–Winpoll,,2018-10-11,2018-10-13,National,1500,Provided,Not Available,0.1%,26.9%,18.6%,34.3%,7.8%,3.8%,2.3%,2.4%,1.4%,1.4%,Not Available,1.1%
@@ -155,7 +162,7 @@ Piepoli,Rai 1,2018-10-01,2018-10-01,National,505,Provided,Not Available,0.5%,30.
 Euromedia,Rai 1,2018-10-01,2018-10-01,National,800,Provided,Not Available,0.1%,29.0%,16.2%,33.0%,9.3%,3.6%,2.5%,2.0%,0.4%,Not Available,Not Available,4.0%
 GPF Inspiring Research,Affaritaliani.it,2018-09-30,2018-10-01,National,613,Provided,Not Available,0.1%,32.1%,15.5%,30.2%,10.2%,4.8%,2.5%,2.2%,0.2%,Not Available,Not Available,2.3%
 SWG,LA7,2018-09-26,2018-10-01,National,1500,Provided,Not Available,0.1%,29.8%,15.7%,32.2%,7.3%,4.0%,2.4%,2.6%,Not Available,2.1%,Not Available,3.9%
-Ipsos,,2018-09-28,2018-09-28,National,Not Available,N/A,Not Available,0.1%,29.7%,15.4%,34.2%,8.4%,2.6%,2.9%,2.3%,0.3%,Not Available,Not Available,4.2%
+Ipsos,,2018-09-28,2018-09-28,National,997,Estimated/Assumed,Not Available,0.1%,29.7%,15.4%,34.2%,8.4%,2.6%,2.9%,2.3%,0.3%,Not Available,Not Available,4.2%
 BiDiMedia,,2018-09-24,2018-09-28,National,867,Provided,Not Available,0.1%,28.4%,17.6%,30.4%,8.2%,3.5%,2.5%,2.4%,0.8%,1.8%,Not Available,4.4%
 Index Research,LA7,2018-09-26,2018-09-26,National,800,Provided,Not Available,0.1%,28.7%,17.5%,31.2%,8.9%,3.1%,2.7%,2.0%,Not Available,Not Available,Not Available,5.9%
 Noto Sondaggi,Rai 3,2018-09-25,2018-09-25,National,1000,Estimated/Assumed,Not Available,0.5%,28.0%,16.0%,34.0%,9.0%,4.0%,3.0%,2.0%,0.5%,2.5%,Not Available,1.0%
@@ -165,7 +172,7 @@ GPF Inspiring Research,Affaritaliani.it,2018-09-21,2018-09-23,National,801,Provi
 EMG Acqua,Rai 3,2018-09-21,2018-09-23,National,1469,Provided,Not Available,0.1%,28.8%,16.3%,32.3%,8.1%,3.4%,3.2%,1.2%,0.7%,2.4%,Not Available,3.6%
 Scenari Politici–Winpoll,,2018-09-21,2018-09-22,National,1500,Provided,Not Available,0.1%,26.9%,19.8%,34.7%,8.0%,3.8%,2.1%,2.1%,0.8%,1.2%,Not Available,0.6%
 Ixè,Huffington Post,2018-09-19,2018-09-21,National,1000,Provided,Not Available,0.1%,27.6%,18.2%,31.2%,9.0%,2.4%,2.5%,2.6%,0.3%,2.8%,Not Available,3.4%
-Ipsos,,2018-09-20,2018-09-20,National,Not Available,N/A,Not Available,0.1%,28.8%,16.0%,34.6%,9.0%,2.5%,2.9%,2.1%,0.4%,Not Available,Not Available,3.7%
+Ipsos,,2018-09-20,2018-09-20,National,997,Estimated/Assumed,Not Available,0.1%,28.8%,16.0%,34.6%,9.0%,2.5%,2.9%,2.1%,0.4%,Not Available,Not Available,3.7%
 Index Research,LA7,2018-09-18,2018-09-19,National,800,Provided,Not Available,0.1%,28.9%,17.8%,30.5%,8.8%,3.1%,2.8%,2.0%,Not Available,Not Available,Not Available,6.1%
 Noto Sondaggi,Rai 3,2018-09-18,2018-09-18,National,1000,Estimated/Assumed,Not Available,0.5%,28.0%,15.0%,34.0%,9.0%,4.0%,3.5%,1.5%,0.4%,1.5%,Not Available,3.1%
 Piepoli,Rai 1,2018-09-17,2018-09-17,National,510,Provided,Not Available,0.5%,30.0%,17.0%,30.0%,10.5%,3.5%,2.5%,2.0%,0.5%,Not Available,Not Available,4.0%
@@ -181,7 +188,7 @@ Euromedia,Rai 1,2018-09-10,2018-09-10,National,800,Provided,Not Available,0.1%,2
 SWG,LA7,2018-09-05,2018-09-10,National,1500,Provided,Not Available,0.1%,27.9%,17.3%,32.1%,7.6%,3.9%,2.3%,2.4%,Not Available,2.5%,Not Available,4.0%
 EMG Acqua,,2018-09-07,2018-09-09,National,1520,Provided,Not Available,0.1%,28.9%,17.0%,30.5%,8.5%,3.7%,2.8%,1.6%,1.0%,2.4%,Not Available,3.6%
 Scenari Politici–Winpoll,,2018-09-06,2018-09-07,National,1500,Provided,Not Available,0.1%,26.4%,20.8%,35.0%,7.2%,4.1%,2.3%,1.9%,0.5%,0.9%,Not Available,0.9%
-GPF Inspiring Research,,2018-09-06,2018-09-06,National,Not Available,N/A,Not Available,0.1%,31.8%,15.5%,30.8%,11.3%,4.4%,2.5%,1.6%,Not Available,Not Available,Not Available,2.1%
+GPF Inspiring Research,,2018-09-06,2018-09-06,National,613,Estimated/Assumed,Not Available,0.1%,31.8%,15.5%,30.8%,11.3%,4.4%,2.5%,1.6%,Not Available,Not Available,Not Available,2.1%
 Noto Sondaggi,Rai 3,2018-09-06,2018-09-06,National,1000,Provided,Not Available,0.5%,27.0%,17.0%,34.0%,9.0%,3.0%,3.5%,1.0%,0.5%,1.5%,Not Available,3.5%
 Tecnè,TGcom24,2018-09-05,2018-09-06,National,1000,Provided,Not Available,0.1%,29.5%,17.6%,30.3%,11.0%,3.5%,2.0%,Not Available,Not Available,Not Available,Not Available,6.1%
 Ipsos,Corriere della Sera,2018-09-04,2018-09-06,National,1000,Provided,Not Available,0.1%,30.0%,17.0%,33.5%,8.7%,2.5%,2.4%,2.4%,0.2%,Not Available,Not Available,3.3%
@@ -195,7 +202,7 @@ Demopolis,,2018-07-24,2018-07-25,National,1200,Provided,Not Available,0.1%,31.0%
 Ixè,Huffington Post,2018-07-23,2018-07-23,National,1000,Estimated/Assumed,Not Available,0.1%,29.2%,18.2%,28.0%,9.6%,4.1%,2.6%,2.3%,0.2%,1.9%,Not Available,3.9%
 SWG,LA7,2018-07-18,2018-07-23,National,1500,Provided,Not Available,0.1%,29.3%,18.1%,30.7%,7.9%,4.1%,2.6%,1.9%,Not Available,2.0%,Not Available,3.4%
 Ipsos,Corriere della Sera,2018-07-17,2018-07-18,National,1000,Provided,Not Available,0.1%,31.5%,17.0%,31.0%,7.7%,3.0%,2.5%,2.8%,0.2%,Not Available,Not Available,4.3%
-Lorien Consulting,,2018-07-17,2018-07-17,National,Not Available,N/A,Not Available,0.1%,28.1%,17.8%,28.2%,11.4%,4.2%,3.7%,2.0%,0.6%,2.7%,Not Available,1.3%
+Lorien Consulting,,2018-07-17,2018-07-17,National,500,Estimated/Assumed,Not Available,0.1%,28.1%,17.8%,28.2%,11.4%,4.2%,3.7%,2.0%,0.6%,2.7%,Not Available,1.3%
 SWG,LA7,2018-07-11,2018-07-16,National,1500,Provided,Not Available,0.1%,29.7%,18.0%,30.1%,8.4%,3.9%,2.5%,1.8%,Not Available,1.9%,Not Available,3.7%
 BiDiMedia,,2018-07-07,2018-07-13,National,769,Provided,Not Available,0.1%,29.0%,18.9%,28.2%,8.3%,4.0%,2.8%,2.1%,1.0%,1.5%,Not Available,4.2%
 Termometro Politico,,2018-07-05,2018-07-13,National,3400,Provided,Not Available,0.1%,29.0%,18.5%,30.3%,7.9%,3.1%,2.0%,1.9%,1.4%,1.5%,Not Available,4.4%
@@ -210,7 +217,7 @@ SWG,LA7,2018-06-20,2018-06-25,National,1500,Provided,Not Available,0.1%,29.4%,18
 EMG Acqua,Rai 3,2018-06-23,2018-06-24,National,1784,Provided,Not Available,0.1%,30.8%,17.7%,27.2%,9.9%,4.3%,3.4%,1.9%,1.2%,1.9%,Not Available,1.7%
 BiDiMedia,,2018-06-19,2018-06-24,National,896,Provided,Not Available,0.1%,28.6%,19.2%,27.7%,8.9%,4.0%,2.3%,1.7%,0.9%,1.7%,Not Available,5.0%
 Tecnè,TGcom24,2018-06-20,2018-06-20,National,1000,Provided,Not Available,0.1%,27.5%,19.6%,27.9%,11.0%,3.3%,2.9%,Not Available,Not Available,Not Available,Not Available,7.8%
-Lorien Consulting,,2018-06-20,2018-06-20,National,Not Available,N/A,Not Available,0.1%,29.0%,19.2%,27.5%,11.1%,4.5%,3.0%,1.6%,0.1%,2.0%,Not Available,2.0%
+Lorien Consulting,,2018-06-20,2018-06-20,National,500,Estimated/Assumed,Not Available,0.1%,29.0%,19.2%,27.5%,11.1%,4.5%,3.0%,1.6%,0.1%,2.0%,Not Available,2.0%
 Demopolis,LA7,2018-06-19,2018-06-20,National,1500,Provided,Not Available,1%,29.0%,19.0%,28.0%,10.0%,3.8%,2.5%,Not Available,Not Available,Not Available,Not Available,7.7%
 Euromedia,Rai 1,2018-06-19,2018-06-20,National,800,Provided,Not Available,0.1%,28.0%,16.8%,28.3%,12.4%,4.2%,3.0%,1.8%,0.3%,Not Available,Not Available,5.2%
 Noto Sondaggi,Rai 3,2018-06-19,2018-06-19,National,1000,Estimated/Assumed,Not Available,0.5%,27.0%,20.0%,29.0%,9.0%,3.5%,3.0%,2.0%,0.5%,Not Available,Not Available,6.0%
