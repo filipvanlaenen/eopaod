@@ -35,7 +35,8 @@ COUNTRY_NAMES = { 'at' => 'Austria',
                   'fr' => 'France',
                   'gb-nir' => 'Northern Ireland',
                   'mt' => 'Malta',
-                  'nl' => 'the Netherlands' }
+                  'nl' => 'the Netherlands',
+                  'pt' => 'Portugal' }
 
 def write_svg_to_file(filename, svg)
   doc = REXML::Document.new

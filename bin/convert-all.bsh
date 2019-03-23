@@ -24,5 +24,6 @@ ruby psv2csv.rb lt
 convert_country mt
 convert_country nl
 ruby psv2csv.rb pl
+convert_country pt
 ruby psv2csv.rb ro
 ruby psv2csv.rb sk

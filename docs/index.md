@@ -24,7 +24,7 @@
 | Malta                            | [mt.csv](mt.csv), [mt-E.csv](mt-E.csv) and [mt-N.csv](mt-N.csv)                         | [mt.png](mt.png), [mt-E.png](mt-E.png) and [mt-N.png](mt-N.png)                         |
 | Netherlands                      | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)                         | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png)                         |
 | Poland                           | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv)                         |                                                                                         |
-| Portugal                         |                                                                                         |                                                                                         |
+| Portugal                         | [pt.csv](pt.csv), [pt-E.csv](pt-E.csv) and [pt-N.csv](pt-N.csv)                         | [pt.png](pt.png), [pt-E.png](pt-E.png) and [pt-N.png](pt-N.png)                         |
 | Romania                          | [ro.csv](ro.csv), [ro-E.csv](ro-E.csv) and [ro-N.csv](ro-N.csv)                         |                                                                                         |
 | Slovakia                         | [sk.csv](sk.csv), [sk-E.csv](sk-E.csv) and [sk-N.csv](sk-N.csv)                         |                                                                                         |
 | Slovenia                         |                                                                                         |                                                                                         |
