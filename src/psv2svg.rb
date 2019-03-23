@@ -213,7 +213,7 @@ def create_grid(first_date, last_date, highest_share)
   y_axis_right.add_attribute('stroke', TEXT_COLOR)
   y_axis_right.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
   g << y_axis_right
-  x_stride = [1, 7, 30, 60, 90, 120, 180, 365].select { |s| s >= (last_date.jd - first_date.jd) / 12}.min
+  x_stride = [1, 7, 30, 60, 90, 120, 180, 365].select { |s| s >= (last_date.jd + 0.99 - first_date.jd) / 12}.min
   if (x_stride < 30)
     puts "Warning: X-stride of #{x_stride} days not implemented yet!"
     x_stride = 30
@@ -222,7 +222,7 @@ def create_grid(first_date, last_date, highest_share)
   next_period_start = next_period.first
   while (next_period_start < last_date)
     grid_line = REXML::Element.new('line')
-    x = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (next_period_start.jd - first_date.jd) / (last_date.jd - first_date.jd)
+    x = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (next_period_start.jd - first_date.jd) / (last_date.jd + 0.99 - first_date.jd)
     grid_line.add_attribute('x1', x.to_s)
     grid_line.add_attribute('y1', y_bottom.to_s)
     grid_line.add_attribute('x2', x.to_s)
@@ -236,7 +236,7 @@ def create_grid(first_date, last_date, highest_share)
     next_period_start = next_period.first
     if (next_period_start < last_date)
       grid_label = REXML::Element.new('text')
-      x = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * ((current_period_start.jd + next_period_start.jd) / 2 - first_date.jd) / (last_date.jd - first_date.jd)
+      x = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * ((current_period_start.jd + next_period_start.jd) / 2 - first_date.jd) / (last_date.jd + 0.99 - first_date.jd)
       grid_label.add_attribute('x', x.to_s)
       y = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 + 2 * GRID_LABEL_FONT_SIZE
       grid_label.add_attribute('y', y.to_s)
@@ -290,8 +290,8 @@ def create_poll_elements(polls, party_colors, party_labels)
     poll[2, poll.length - 2].each_with_index do |share, i|
       unless share.nil?
         s = REXML::Element.new('line')
-        x1 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldwork_start.jd - first_date.jd) / (last_date.jd - first_date.jd)
-        x2 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldwork_end.jd - first_date.jd) / (last_date.jd - first_date.jd)
+        x1 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldwork_start.jd - first_date.jd) / (last_date.jd + 0.99 - first_date.jd)
+        x2 = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (fieldwork_end.jd + 0.99 - first_date.jd) / (last_date.jd + 0.99 - first_date.jd)
         y = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 - GRAPH_HEIGHT * share / highest_share
         s.add_attribute('x1', x1.to_s)
         s.add_attribute('y1', y.to_s)
@@ -316,7 +316,7 @@ def create_poll_elements(polls, party_colors, party_labels)
           if c[i - 2].nil?
             c[i - 2] = []
           end
-          xx = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (d - first_date.jd) / (last_date.jd - first_date.jd)
+          xx = (WIDTH - GRAPH_WIDTH) / 2 + GRAPH_WIDTH * (d - first_date.jd) / (last_date.jd + 0.99 - first_date.jd)
           yy = HEIGHT - (HEIGHT - GRAPH_HEIGHT) / 4 - GRAPH_HEIGHT * a / highest_share
           c[i - 2][x] = [xx, yy].join(',')
         end
