@@ -21,7 +21,7 @@ convert_country fr
 convert_country gb-nir
 ruby psv2csv.rb hr
 convert_country it
-ruby psv2csv.rb lt
+convert_country lt
 convert_country mt
 convert_country nl
 ruby psv2csv.rb pl

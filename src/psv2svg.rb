@@ -35,6 +35,7 @@ COUNTRY_NAMES = { 'at' => 'Austria',
                   'fr' => 'France',
                   'gb-nir' => 'Northern Ireland',
                   'it' => 'Italy',
+                  'lt' => 'Lithuania',
                   'mt' => 'Malta',
                   'nl' => 'the Netherlands',
                   'pt' => 'Portugal' }
