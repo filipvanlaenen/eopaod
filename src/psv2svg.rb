@@ -279,12 +279,8 @@ def create_grid(first_date, last_date, highest_share)
   g
 end
 
-def create_poll_elements(polls, party_colors, party_labels)
-  first_date = polls.map { |p| p[0] }.min
-  last_date = polls.map { |p| p[1] }.max
-  highest_share = polls.map { |p| p[2, p.length - 2]}.flatten.map{ |s| s.nil? ? 0 : s }.max
+def create_poll_strokes(polls, party_colors, first_date, last_date, highest_share)
   g = REXML::Element.new('g')
-  g.add_element(create_grid(first_date, last_date, highest_share))
   polls.each do |poll|
     fieldwork_start = poll[0]
     fieldwork_end = poll[1]
@@ -305,7 +301,11 @@ def create_poll_elements(polls, party_colors, party_labels)
       end
     end
   end
-  window = 30
+  g
+end
+
+def create_poll_average_polylines(polls, party_colors, party_labels, first_date, last_date, highest_share, window)
+  g = REXML::Element.new('g')
   c = []
   Range.new(first_date.jd + window / 2, last_date.jd - window / 2).each_with_index do | d, x |
     p = polls.select { |p| ((p[0].jd + p[1].jd) / 2 - d).abs <= window / 2}
@@ -346,6 +346,17 @@ def create_poll_elements(polls, party_colors, party_labels)
       g << label
     end
   end
+  g
+end
+
+def create_poll_elements(polls, party_colors, party_labels)
+  first_date = polls.map { |p| p[0] }.min
+  last_date = polls.map { |p| p[1] }.max
+  highest_share = polls.map { |p| p[2, p.length - 2]}.flatten.map{ |s| s.nil? ? 0 : s }.max
+  g = REXML::Element.new('g')
+  g.add_element(create_grid(first_date, last_date, highest_share))
+  g.add_element(create_poll_strokes(polls, party_colors, first_date, last_date, highest_share))
+  g.add_element(create_poll_average_polylines(polls, party_colors, party_labels, first_date, last_date, highest_share, 30))
   g
 end
 
