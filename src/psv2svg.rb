@@ -50,12 +50,11 @@ end
 
 def convert_svg_to_png(svg_filename)
   png_filename = svg_filename.gsub('.svg', '.png')
-  `rsvg-convert #{svg_filename} -o #{png_filename}`
+  `inkscape -z -D #{svg_filename} -e #{png_filename}`
 end
 
 def create_svg_root_element
   svg = REXML::Element.new('svg')
-  svg.add_namespace('xmlns', 'http://www.w3.org/2000/svg')
   svg.add_attribute('WIDTH', WIDTH)
   svg.add_attribute('HEIGHT', HEIGHT)
   svg
