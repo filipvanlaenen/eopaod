@@ -18,7 +18,7 @@
 | Hungary                          |                                                                                         |                                                                                         |
 | Ireland                          |                                                                                         |                                                                                         |
 | Italy                            | [it.csv](it.csv), [it-E.csv](it-E.csv) and [it-N.csv](it-N.csv)                         | [it.png](it.png), [it-E.png](it-E.png) and [it-N.png](it-N.png)                         |
-| Latvia                           |                                                                                         |                                                                                         |
+| Latvia                           | [lv.csv](lv.csv), [lv-E.csv](lv-E.csv) and [lv-N.csv](lv-N.csv)                         | [lv.png](lv.png), [lv-E.png](lv-E.png) and [lv-N.png](lv-N.png)                         |
 | Lithuania                        | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv)                         | [lt.png](lt.png), [lt-E.png](lt-E.png) and [lt-N.png](lt-N.png)                         |
 | Luxembourg                       |                                                                                         |                                                                                         |
 | Malta                            | [mt.csv](mt.csv), [mt-E.csv](mt-E.csv) and [mt-N.csv](mt-N.csv)                         | [mt.png](mt.png), [mt-E.png](mt-E.png) and [mt-N.png](mt-N.png)                         |
