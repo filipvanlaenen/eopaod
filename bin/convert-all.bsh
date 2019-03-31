@@ -19,7 +19,7 @@ convert_country es
 convert_country fi
 convert_country fr
 convert_country gb-nir
-ruby psv2csv.rb hr
+convert_country hr
 convert_country it
 convert_country lt
 convert_country lv
