@@ -29,7 +29,7 @@
 | Slovakia                         | [sk.csv](sk.csv), [sk-E.csv](sk-E.csv) and [sk-N.csv](sk-N.csv)                         |                                                                                         |
 | Slovenia                         |                                                                                         |                                                                                         |
 | Spain                            | [es.csv](es.csv), [es-E.csv](es-E.csv) and [es-N.csv](es-N.csv)                         | [es.png](es.png), [es-E.png](es-E.png) and [es-N.png](es-N.png)                         |
-| Sweden                           |                                                                                         |                                                                                         |
+| Sweden                           | [se.csv](se.csv), [se-E.csv](se-E.csv) and [se-N.csv](se-N.csv)                         | [se.png](se.png), [se-E.png](se-E.png) and [se-N.png](se-N.png)                         |
 | United Kingdom: Great Britain    |                                                                                         |                                                                                         |
 | United Kingdom: Northern Ireland | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
 
