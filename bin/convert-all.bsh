@@ -32,4 +32,5 @@ ruby psv2csv.rb pl
 convert_country pt
 ruby psv2csv.rb ro
 convert_country se
+convert_country si
 ruby psv2csv.rb sk
