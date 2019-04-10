@@ -10,7 +10,7 @@ function convert_country {
 
 convert_country at
 convert_country bg
-ruby psv2csv.rb cy
+convert_country cy
 convert_country cz
 convert_country de
 convert_country dk

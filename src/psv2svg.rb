@@ -28,6 +28,7 @@ FONT_FAMILIY = "'Advent Pro'".freeze
 
 COUNTRY_NAMES = { 'at' => 'Austria',
                   'bg' => 'Bulgaria',
+                  'cy' => 'Cyprus',
                   'cz' => 'Czech Republic',
                   'de' => 'Germany',
                   'dk' => 'Denmark',

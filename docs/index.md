@@ -7,7 +7,7 @@
 | Belgium                          |                                                                                         |                                                                                         |
 | Bulgaria                         | [bg.csv](bg.csv), [bg-E.csv](bg-E.csv) and [bg-N.csv](bg-N.csv)                         | [bg.png](bg.png), [bg-E.png](bg-E.png) and [bg-N.png](bg-N.png)                         |
 | Croatia                          | [hr.csv](hr.csv), [hr-E.csv](hr-E.csv) and [hr-N.csv](hr-N.csv)                         | [hr.png](hr.png), [hr-E.png](hr-E.png) and [hr-N.png](hr-N.png)                         |
-| Cyprus                           | [cy.csv](cy.csv), [cy-E.csv](cy-E.csv) and [cy-N.csv](cy-N.csv)                         |                                                                                         |
+| Cyprus                           | [cy.csv](cy.csv), [cy-E.csv](cy-E.csv) and [cy-N.csv](cy-N.csv)                         | [cy.png](cy.png), [cy-E.png](cy-E.png) and [cy-N.png](cy-N.png)                         |
 | Czech Republic                   | [cz.csv](cz.csv), [cz-E.csv](cz-E.csv) and [cz-N.csv](cz-N.csv)                         | [cz.png](cz.png), [cz-E.png](cz-E.png) and [cz-N.png](cz-N.png)                         |
 | Denmark                          | [dk.csv](dk.csv), [dk-E.csv](dk-E.csv) and [dk-N.csv](dk-N.csv)                         | [dk.png](dk.png), [dk-E.png](dk-E.png) and [dk-N.png](dk-N.png)                         |
 | Estonia                          | [ee.csv](ee.csv), [ee-E.csv](ee-E.csv) and [ee-N.csv](ee-N.csv)                         |                                                                                         |
