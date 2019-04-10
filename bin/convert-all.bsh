@@ -9,7 +9,7 @@ function convert_country {
 }
 
 convert_country at
-ruby psv2csv.rb bg
+convert_country bg
 ruby psv2csv.rb cy
 convert_country cz
 convert_country de
