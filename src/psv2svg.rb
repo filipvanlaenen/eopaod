@@ -182,6 +182,13 @@ def find_next_period_start(date, length)
     else
       [Date.new(date.year + 1, 1, 1), (date.year + 1).to_s + '-01']
     end
+  elsif length == 7
+    next_period_start = date + 8 - date.cwday
+    if next_period_start.cweek < 10
+      [next_period_start, next_period_start.cwyear.to_s + 'W0' + next_period_start.cweek.to_s]
+    else
+      [next_period_start, next_period_start.cwyear.to_s + 'W' + next_period_start.cweek.to_s]
+    end
   end
 end
 
@@ -228,9 +235,9 @@ def create_grid(first_date, last_date, highest_share)
   y_axis_right.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
   g << y_axis_right
   x_stride = [1, 7, 30, 60, 90, 120, 180, 365].select { |s| s >= (last_date.jd + 0.99 - first_date.jd) / 12}.min
-  if (x_stride < 30)
+  if (x_stride < 7)
     puts "Warning: X-stride of #{x_stride} days not implemented yet!"
-    x_stride = 30
+    x_stride = 7
   end
   next_period = find_next_period_start(first_date, x_stride)
   next_period_start = next_period.first
