@@ -29,7 +29,7 @@ convert_country lt
 convert_country lv
 convert_country mt
 convert_country nl
-ruby psv2csv.rb pl
+convert_country pl
 convert_country pt
 ruby psv2csv.rb ro
 convert_country se
