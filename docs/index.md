@@ -25,7 +25,7 @@
 | Netherlands                      | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)                         | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png)                         |
 | Poland                           | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv)                         | [pl.png](pl.png), [pl-E.png](pl-E.png) and [pl-N.png](pl-N.png)                         |
 | Portugal                         | [pt.csv](pt.csv), [pt-E.csv](pt-E.csv) and [pt-N.csv](pt-N.csv)                         | [pt.png](pt.png), [pt-E.png](pt-E.png) and [pt-N.png](pt-N.png)                         |
-| Romania                          | [ro.csv](ro.csv), [ro-E.csv](ro-E.csv) and [ro-N.csv](ro-N.csv)                         |                                                                                         |
+| Romania                          | [ro.csv](ro.csv), [ro-E.csv](ro-E.csv) and [ro-N.csv](ro-N.csv)                         | [ro.png](ro.png), [ro-E.png](ro-E.png) and [ro-N.png](ro-N.png)                         |
 | Slovakia                         | [sk.csv](sk.csv), [sk-E.csv](sk-E.csv) and [sk-N.csv](sk-N.csv)                         |                                                                                         |
 | Slovenia                         | [si.csv](si.csv), [si-E.csv](si-E.csv) and [si-N.csv](si-N.csv)                         | [si.png](si.png), [si-E.png](si-E.png) and [si-N.png](si-N.png)                         |
 | Spain                            | [es.csv](es.csv), [es-E.csv](es-E.csv) and [es-N.csv](es-N.csv)                         | [es.png](es.png), [es-E.png](es-E.png) and [es-N.png](es-N.png)                         |

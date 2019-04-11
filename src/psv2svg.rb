@@ -49,6 +49,7 @@ COUNTRY_NAMES = { 'at' => 'Austria',
                   'nl' => 'the Netherlands',
                   'pl' => 'Poland',
                   'pt' => 'Portugal',
+                  'ro' => 'Romania',
                   'se' => 'Sweden',
                   'si' => 'Slovenia' }
 
