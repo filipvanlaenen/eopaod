@@ -14,7 +14,7 @@ convert_country cy
 convert_country cz
 convert_country de
 convert_country dk
-ruby psv2csv.rb ee
+convert_country ee
 convert_country es
 convert_country fi
 convert_country fr
