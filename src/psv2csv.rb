@@ -10,12 +10,12 @@ SOURCE_DIR = '../data'.freeze
 POLLS_SOURCE_DIR = "#{SOURCE_DIR}/polls".freeze
 polls_file = country_code + '.psv'
 PARTIES_SOURCE_DIR = "#{SOURCE_DIR}/parties".freeze
-party_name_file = country_code + '.pn'
+party_data_file = country_code + '.psv'
 TARGET_DIR = '../docs'.freeze
 
-party_names = File.open("#{PARTIES_SOURCE_DIR}/#{party_name_file}").to_a \
-                  .map(&:strip) \
-                  .map { |n| n.include?(',') ? "\"#{n}\"" : n }
+party_data = File.open("#{PARTIES_SOURCE_DIR}/#{party_data_file}").to_a.map(&:strip)
+party_names = party_data.map { |l| l.chomp.split('|')[0].strip} \
+                        .map { |n| n.include?(',') ? "\"#{n}\"" : n }
 HEADER = ['Polling Firm', 'Commissioners', 'Fieldwork Start',
                  'Fieldwork End', 'Scope', 'Sample Size',
                  'Sample Size Qualification', 'Participation',

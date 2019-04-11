@@ -393,10 +393,10 @@ SOURCE_DIR = '../data'.freeze
 POLLS_SOURCE_DIR = "#{SOURCE_DIR}/polls".freeze
 polls_file = country_code + '.psv'
 PARTIES_SOURCE_DIR = "#{SOURCE_DIR}/parties".freeze
-party_name_file = country_code + '.psv'
+party_data_file = country_code + '.psv'
 TARGET_DIR = '../docs'.freeze
 
-party_data = File.open("#{PARTIES_SOURCE_DIR}/#{party_name_file}").to_a.map(&:strip)
+party_data = File.open("#{PARTIES_SOURCE_DIR}/#{party_data_file}").to_a.map(&:strip)
 party_colors = party_data.map { |l| l.chomp.split('|')[1].strip}
 party_labels = party_data.map { |l| l.chomp.split('|')[2].strip}
 
