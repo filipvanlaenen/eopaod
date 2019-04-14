@@ -23,7 +23,7 @@
 | Italy                              | [it.csv](it.csv), [it-E.csv](it-E.csv) and [it-N.csv](it-N.csv)                         | [it.png](it.png), [it-E.png](it-E.png) and [it-N.png](it-N.png)                         |
 | Latvia                             | [lv.csv](lv.csv), [lv-E.csv](lv-E.csv) and [lv-N.csv](lv-N.csv)                         | [lv.png](lv.png), [lv-E.png](lv-E.png) and [lv-N.png](lv-N.png)                         |
 | Lithuania                          | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv)                         | [lt.png](lt.png), [lt-E.png](lt-E.png) and [lt-N.png](lt-N.png)                         |
-| Luxembourg                         |                                                                                         |                                                                                         |
+| Luxembourg                         | [lu.csv](lu.csv), [lu-E.csv](lu-E.csv) and [lu-N.csv](lu-N.csv)                         | [lu.png](lu.png), [lu-E.png](lu-E.png) and [lu-N.png](lu-N.png)                         |
 | Malta                              | [mt.csv](mt.csv), [mt-E.csv](mt-E.csv) and [mt-N.csv](mt-N.csv)                         | [mt.png](mt.png), [mt-E.png](mt-E.png) and [mt-N.png](mt-N.png)                         |
 | Netherlands                        | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)                         | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png)                         |
 | Poland                             | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv)                         | [pl.png](pl.png), [pl-E.png](pl-E.png) and [pl-N.png](pl-N.png)                         |
