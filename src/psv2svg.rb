@@ -27,6 +27,9 @@ TEXT_COLOR = '#0060AE'
 FONT_FAMILIY = "'Advent Pro'".freeze
 
 COUNTRY_NAMES = { 'at' => 'Austria',
+                  'be-bru' => 'Brussels',
+                  'be-vlg' => 'Flanders',
+                  'be-wal' => 'Wallonia',
                   'bg' => 'Bulgaria',
                   'cy' => 'Cyprus',
                   'cz' => 'Czech Republic',
@@ -65,6 +68,10 @@ end
 def convert_svg_to_png(svg_filename)
   png_filename = svg_filename.gsub('.svg', '.png')
   `inkscape -z -D #{svg_filename} -e #{png_filename}`
+end
+
+def xml_encode(text)
+  text.gsub('&', '&amp;')
 end
 
 def create_svg_root_element
@@ -362,7 +369,7 @@ def create_poll_average_polylines(polls, party_colors, party_labels, first_date,
       label.add_attribute('text-align', 'center')
       label.add_attribute('text-anchor', 'start')
       label.add_attribute('fill', party_colors[i])
-      label.add_text(REXML::Text.new(party_labels[i], true, nil, true))
+      label.add_text(REXML::Text.new(xml_encode(party_labels[i]), true, nil, true))
       g << label
     end
   end
