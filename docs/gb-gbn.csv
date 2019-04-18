@@ -1,10 +1,12 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
-YouGov,,2019-04-16,2019-04-17,European,1855,Provided,Not Available,1%,15%,22%,9%,3%,1%,Not Available,7%,10%,27%,6%,1%
+YouGov,The Times,2019-04-16,2019-04-17,European,1755,Provided,Not Available,1%,17%,22%,9%,Not Available,Not Available,5%,6%,10%,23%,8%,0%
+ComRes,Brexit Express,2019-04-16,2019-04-16,European,1061,Provided,Not Available,1%,18%,33%,9%,4%,0%,Not Available,5%,5%,17%,9%,0%
+YouGov,People’s Vote,2019-04-15,2019-04-16,European,1855,Provided,Not Available,1%,15%,22%,9%,3%,1%,Not Available,7%,10%,27%,6%,1%
 Opinium,The Observer,2019-04-09,2019-04-12,European,2007,Provided,Not Available,1%,17%,29%,10%,6%,1%,Not Available,13%,6%,12%,4%,2%
-Opinium,The Observer,2019-04-09,2019-04-12,European,1951,Provided,Not Available,1%,29%,36%,8%,5%,1%,Not Available,11%,4%,Not Available,Not Available,6%
-YouGov,,2019-04-10,2019-04-11,European,1843,Provided,Not Available,1%,16%,24%,8%,5%,1%,Not Available,14%,8%,15%,7%,1%
-Hanbury Strategy,,2019-04-05,2019-04-08,European,2000,Provided,Not Available,1%,23%,38%,8%,4%,0%,Not Available,7%,4%,10%,4%,1%
-Hanbury Strategy,,2019-04-05,2019-04-08,National,2000,Provided,Not Available,1%,31%,40%,8%,4%,1%,Not Available,8%,5%,Not Available,Not Available,4%
+Opinium,The Observer,2019-04-09,2019-04-12,National,2007,Provided,Not Available,1%,29%,36%,8%,5%,1%,Not Available,11%,4%,Not Available,Not Available,6%
+YouGov,The Times,2019-04-10,2019-04-11,European,1843,Provided,Not Available,1%,16%,24%,8%,5%,1%,Not Available,14%,8%,15%,7%,1%
+Hanbury Strategy,Open Europe,2019-04-05,2019-04-08,European,2000,Provided,Not Available,1%,23%,38%,8%,4%,0%,Not Available,7%,4%,10%,4%,1%
+Hanbury Strategy,Open Europe,2019-04-05,2019-04-08,National,2000,Provided,Not Available,1%,31%,40%,8%,4%,1%,Not Available,8%,5%,Not Available,Not Available,4%
 Kantar Public,,2019-04-04,2019-04-08,National,1172,Provided,Not Available,1%,32%,35%,11%,5%,1%,Not Available,7%,4%,Not Available,Not Available,6%
 Survation,,2019-04-03,2019-04-06,National,6062,Provided,Not Available,1%,37%,41%,10%,Not Available,1%,Not Available,7%,2%,Not Available,Not Available,3%
 BMG Research,The Independent,2019-04-02,2019-04-05,National,1500,Provided,Not Available,1%,35%,34%,11%,4%,1%,Not Available,6%,5%,Not Available,Not Available,3%
