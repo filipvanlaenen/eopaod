@@ -1,5 +1,7 @@
 Polling firm             | Commissioners           | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | M5S  | PD   | LN   | FI   | FdI | LeU | +E  | NcI | PaP | CPI | Other |
-Noto Sondaggi            | Rai 3                   | 2019-04-30      | 2019-04-30    | E     | N/A         | N/A           | 0.5       | 20.0 | 22.0 | 32.0 |  8.5 | 6.0 | N/A | 3.0 | N/A | N/A | N/A |  8.5  |
+Noto Sondaggi            | Rai 3                   | 2019-04-30      | 2019-04-30    | E     | (1000)      | N/A           | 0.5       | 20.0 | 22.0 | 32.0 |  8.5 | 6.0 | N/A | 3.0 | N/A | N/A | N/A |  8.5  |
+Tecnè                    | N/A                     | 2019-04-28      | 2019-04-29    | E     | 1000        | N/A           | 0.1       | 21.5 | 21.4 | 31.2 | 12.2 | 5.2 | N/A | N/A | N/A | N/A | N/A |  7.7  |
+Tecnè                    | N/A                     | 2019-04-28      | 2019-04-29    | N     | 1000        | N/A           | 0.1       | 22.3 | 21.4 | 32.0 | 11.6 | 4.9 | N/A | N/A | N/A | N/A | N/A |  8.9  |
 Scenari Politici–Winpoll | Sole 24 Ore             | 2019-04-18      | 2019-04-23    | E     | 1500        | N/A           | 0.1       | 20.1 | 20.5 | 36.4 |  8.7 | 5.4 | N/A | 3.1 | N/A | N/A | N/A |  5.8  |
 SWG                      | LA7                     | 2019-04-24      | 2019-04-29    | E     | 1500        | N/A           | 0.1       | 21.8 | 22.5 | 31.6 |  8.8 | 5.0 | N/A | 3.1 | N/A | N/A | N/A |  N/A  |
 EMG Acqua                | Rai 3                   | 2019-04-25      | 2019-04-25    | E     | 1525        | N/A           | 0.1       | 23.1 | 22.6 | 31.3 | 10.2 | 5.4 | N/A | 2.9 | N/A | N/A | N/A |  4.4  |
