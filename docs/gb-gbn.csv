@@ -1,10 +1,12 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
 YouGov,,2019-04-29,2019-04-30,European,1630,Provided,Not Available,1%,13%,21%,10%,Not Available,Not Available,4%,4%,9%,30%,9%,1%
-Opinium,,2019-04-23,2019-04-25,European,1024,Provided,Not Available,1%,14%,28%,7%,5%,1%,Not Available,3%,6%,28%,7%,Not Available
+YouGov,,2019-04-29,2019-04-30,National,1630,Provided,Not Available,1%,29%,29%,13%,Not Available,Not Available,4%,2%,5%,15%,3%,1%
+YouGov,Hope Not Hate,2019-04-23,2019-04-26,European,5412,Provided,Not Available,1%,13%,22%,7%,Not Available,Not Available,5%,5%,10%,28%,10%,1%
+Opinium,The Observer,2019-04-23,2019-04-25,European,1024,Provided,Not Available,1%,14%,28%,7%,5%,1%,Not Available,3%,6%,28%,7%,Not Available
 Survation,,2019-04-17,2019-04-25,European,1999,Provided,Not Available,1%,16%,27%,8%,3%,1%,Not Available,7%,4%,27%,4%,4%
 YouGov,,2019-04-23,2019-04-24,European,5412,Provided,Not Available,1%,13%,22%,7%,Not Available,Not Available,5%,5%,10%,28%,10%,Not Available
 YouGov,The Times,2019-04-23,2019-04-24,National,1787,Provided,Not Available,1%,27%,30%,11%,Not Available,Not Available,5%,4%,5%,14%,3%,1%
-YouGov,The Sunday Times,2019-04-18,2019-04-24,National,2030,Provided,Not Available,1%,27%,36%,8%,4%,Not Available,Not Available,5%,3%,13%,4%,1%
+Panelbase,The Sunday Times,2019-04-18,2019-04-24,National,2030,Provided,Not Available,1%,27%,36%,8%,4%,Not Available,Not Available,5%,3%,13%,4%,1%
 Opinium,The Observer,2019-04-21,2019-04-23,National,1218,Provided,Not Available,1%,26%,33%,6%,5%,1%,Not Available,4%,4%,17%,4%,Not Available
 OnePoll,The Sun on Sunday,2019-04-17,2019-04-17,National,2000,Provided,Not Available,1%,24%,32%,9%,4%,Not Available,Not Available,5%,5%,14%,5%,2%
 ORB,The Telegraph,2019-04-16,2019-04-17,National,1547,Provided,Not Available,1%,26%,29%,8%,4%,1%,Not Available,5%,4%,14%,5%,4%
