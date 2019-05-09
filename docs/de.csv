@@ -1,9 +1,10 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Union,SPD,Alternative für Deutschland,FDP,DIE LINKE,BÜNDNIS 90/DIE GRÜNEN,CDU,CSU,Other
-Forsa,Stern and RTL,2019-04-29,2019-05-03,National,2002,Provided,Not Available,1%,29%,15%,13%,8%,9%,20%,Not Available,Not Available,6%
-INSA and YouGov,Bild,2019-04-03,2019-05-06,National,2089,Provided,Not Available,1%,29%,16%,14%,9%,9%,20%,Not Available,Not Available,4%
-Emnid,Bild am Sonntag,2019-04-25,2019-04-30,National,1903,Provided,Not Available,1%,28%,17%,13%,9%,9%,19%,Not Available,Not Available,5%
+GMS,,2019-05-02,2019-05-08,National,1006,Provided,Not Available,1%,29%,17%,13%,8%,9%,19%,Not Available,Not Available,5%
+INSA and YouGov,Bild,2019-04-03,2019-05-06,National,2089,Provided,Not Available,1%,Not Available,16%,14%,9%,9%,20%,22.5%,6%,4%
+Forsa,Stern and RTL,2019-04-29,2019-05-03,National,2002,Provided,77%,1%,29%,15%,13%,8%,9%,20%,Not Available,Not Available,6%
 Infratest dimap,ARD,2019-04-29,2019-04-30,European,1505,Provided,Not Available,1%,29%,19%,10%,7%,7%,19%,Not Available,Not Available,9%
 Infratest dimap,ARD,2019-04-29,2019-04-30,National,1505,Provided,Not Available,1%,28%,18%,12%,8%,9%,20%,Not Available,Not Available,5%
+Emnid,Bild am Sonntag,2019-04-25,2019-04-30,National,1903,Provided,Not Available,1%,28%,17%,13%,9%,9%,19%,Not Available,Not Available,5%
 INSA and YouGov,Bild,2019-04-26,2019-04-29,National,2005,Provided,Not Available,1%,Not Available,16%,14%,10%,9%,19%,23%,5%,4%
 YouGov,RedaktionsNetzwerk Deutschland,2019-04-26,2019-04-29,National,1642,Provided,Not Available,1%,29%,18%,13%,9%,9%,17%,Not Available,Not Available,5%
 Forsa,Stern and RTL,2019-04-23,2019-04-26,National,2001,Provided,77%,1%,27%,17%,13%,8%,9%,20%,Not Available,Not Available,6%
