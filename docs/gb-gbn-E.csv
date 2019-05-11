@@ -1,7 +1,7 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
 Opinium,,2019-05-03,2019-05-07,European,2000,Provided,Not Available,1%,13%,23%,11%,4%,2%,Not Available,4%,5%,26%,2%,1%
-ComRes,,2019-05-01,2019-05-07,European,4060,Provided,Not Available,1%,14%,26%,11%,4%,Not Available,Not Available,2%,6%,28%,8%,1%
-YouGov,,2019-04-29,2019-04-30,European,1630,Provided,Not Available,1%,13%,21%,10%,Not Available,Not Available,4%,4%,9%,30%,9%,1%
+ComRes,Remain United,2019-05-01,2019-05-07,European,4060,Provided,Not Available,1%,14%,26%,11%,4%,Not Available,Not Available,2%,6%,28%,8%,1%
+YouGov,The Times,2019-04-29,2019-04-30,European,1630,Provided,Not Available,1%,13%,21%,10%,Not Available,Not Available,4%,4%,9%,30%,9%,1%
 YouGov,Hope Not Hate,2019-04-23,2019-04-26,European,5412,Provided,Not Available,1%,13%,22%,7%,Not Available,Not Available,5%,5%,10%,28%,10%,1%
 Opinium,The Observer,2019-04-23,2019-04-25,European,1024,Provided,Not Available,1%,14%,28%,7%,5%,1%,Not Available,3%,6%,28%,7%,Not Available
 Survation,,2019-04-17,2019-04-25,European,1999,Provided,Not Available,1%,16%,27%,8%,3%,1%,Not Available,7%,4%,27%,4%,4%
