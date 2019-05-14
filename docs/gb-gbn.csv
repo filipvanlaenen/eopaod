@@ -1,6 +1,11 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
-Opinium,,2019-05-03,2019-05-07,European,2000,Provided,Not Available,1%,13%,23%,11%,4%,2%,Not Available,4%,5%,26%,2%,1%
-ComRes,Remain United,2019-05-01,2019-05-07,European,4060,Provided,Not Available,1%,14%,26%,11%,4%,Not Available,Not Available,2%,6%,28%,8%,1%
+Opinium,,2019-05-08,2019-05-10,National,2004,Provided,Not Available,1%,22%,28%,11%,Not Available,Not Available,4%,4%,6%,21%,4%,0%
+Opinium,,2019-05-08,2019-05-10,European,2004,Provided,Not Available,1%,11%,21%,12%,4%,1%,Not Available,4%,8%,34%,3%,2%
+ComRes,Brexit Express,2019-05-09,2019-05-09,National,2034,Provided,Not Available,1%,19%,27%,15%,3%,1%,Not Available,3%,5%,20%,7%,1%
+ComRes,Brexit Express,2019-05-09,2019-05-09,European,2034,Provided,Not Available,1%,13%,25%,14%,3%,0%,Not Available,3%,8%,27%,6%,1%
+YouGov,The Times,2019-05-08,2019-05-09,European,2212,Provided,Not Available,1%,10%,16%,15%,3%,1%,Not Available,3%,11%,34%,5%,3%
+Opinium,,2019-05-03,2019-05-07,European,2000,Provided,Not Available,1%,14%,26%,12%,5%,2%,Not Available,4%,6%,29%,2%,1%
+ComRes,Remain United,2019-05-01,2019-05-07,European,4060,Provided,Not Available,1%,14%,26%,11%,3%,1%,Not Available,2%,6%,28%,8%,1%
 YouGov,The Times,2019-04-29,2019-04-30,European,1630,Provided,Not Available,1%,13%,21%,10%,Not Available,Not Available,4%,4%,9%,30%,9%,1%
 YouGov,,2019-04-29,2019-04-30,National,1630,Provided,Not Available,1%,29%,29%,13%,Not Available,Not Available,4%,2%,5%,15%,3%,1%
 YouGov,Hope Not Hate,2019-04-23,2019-04-26,European,5412,Provided,Not Available,1%,13%,22%,7%,Not Available,Not Available,5%,5%,10%,28%,10%,1%
