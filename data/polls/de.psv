@@ -1,10 +1,12 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Other |
-Forsa                   | N/A                            | 2019-05-13      | 2019-05-17    | NE    | 2503        | 78            | 1         | 29    | 16   | 13   |  8   |  9    | 19    | N/A  | N/A | 6     |
 INSA                    | N/A                            | 2019-05-17      | 2019-05-20    | NE    | 2074        | N/A           | 0.5       | 28    | 18.5 | 14   | 10   |  9    | 18.5  | N/A  | N/A | 5     |
-Civey                   | N/A                            | 2019-05-07      | 2019-05-14    | E     | 5043        | N/A           | 1         | 30.4  | 17   | 10.7 |  7.2 |  7    | 18.2  | N/A  | N/A | 9.5     |
-Infratest dimap         | ARD                            | 2019-05-14      | 2019-05-15    | E     | 1505        | N/A           | 1         | 28    | 17   | 10   |  7   |  7    | 17    | N/A  | N/A | 12    |
+Forsa                   | N/A                            | 2019-05-13      | 2019-05-17    | NE    | 2503        | 78            | 1         | 29    | 16   | 13   |  8   |  9    | 19    | N/A  | N/A | 6     |
 Forschungsgruppe Wahlen | ZDF                            | 2019-05-14      | 2019-05-16    | E     | 1313        | N/A           | 1         | 30    | 17   | 12   |  5   |  7    | 19    | N/A  | N/A | 10    |
-INSA and YouGov         | Bild                           | 2019-05-10      | 2019-05-13    | NE    | 2044        | N/A           | 1         | 29    | 16   | 14   | 10   |  9    | 19    | N/A  | N/A | 3     |
+Forschungsgruppe Wahlen | ZDF                            | 2019-05-14      | 2019-05-16    | E     | 1313        | N/A           | 1         | 30    | 17   | 12   |  5   |  7    | 19    | N/A  | N/A | 10    |
+Infratest dimap         | ARD                            | 2019-05-14      | 2019-05-15    | E     | 1505        | N/A           | 1         | 28    | 17   | 10   |  7   |  7    | 17    | N/A  | N/A | 12    |
+Emnid                   | Bild am Sonntag                | 2019-05-09      | 2019-05-15    | N     | 1975        | N/A           | 1         | 29    | 16   | 13   |  9   |  9    | 18    | N/A  | N/A | 6     |
+Civey                   | N/A                            | 2019-05-07      | 2019-05-14    | E     | 5043        | N/A           | 0.1       | 30.4  | 17   | 10.7 |  7.2 |  7.0  | 18.2  | N/A  | N/A | 9.5   |
+INSA and YouGov         | Bild                           | 2019-05-10      | 2019-05-13    | NE    | 2044        | N/A           | 0.1       | N/A   | 16.0 | 14.0 | 9.5  |  9.0  | 19.0  | 23.5 | 5.0 | 3     |
 Forsa                   | Stern and RTL                  | 2019-05-06      | 2019-05-10    | NE    | 2502        | N/A           | 1         | 30    | 15   | 13   |  8   |  8    | 20    | N/A  | N/A | 6     |
 Forschungsgruppe Wahlen | ZDF                            | 2019-05-07      | 2019-05-09    | E     | 1282        | N/A           | 1         | 32    | 16   | 12   |  6   |  6    | 19    | N/A  | N/A | 8     |
 Emnid                   | Bild am Sonntag                | 2019-05-02      | 2019-05-08    | NE    | 2393        | N/A           | 1         | 29    | 16   | 13   |  9   |  9    | 19    | N/A  | N/A | 5     |
