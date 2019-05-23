@@ -1,4 +1,9 @@
 Polling firm             | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Con | Lab | Lib Dem | SNP | Plaid | Nat | UKIP | Green | Brexit | ChUK | Other
+Kantar                   | N/A                       | 2019-05-14      | 2019-05-21    | E     | 2316        | N/A           | 1         | 13  | 24  | 15      | 3   | 0     | N/A | 4    | 8     | 27     | 5    | 1  
+BMG Research             | The Independent           | 2019-05-20      | 2019-05-22    | E     | 1601        | N/A           | 1         | 12  | 18  | 17      | 3   | 1     | N/A | 2    | 8     | 35     | 4    | 1
+Panelbase                | The Sunday Times          | 2019-05-14      | 2019-05-21    | E     | 2033        | N/A           | 1         | 12  | 25  | 15      | 4   | N/A   | N/A | 3    | 7     | 30     | 3    | 1
+Panelbase                | The Sunday Times          | 2019-05-14      | 2019-05-21    | N     | 2033        | N/A           | 1         | 21  | 31  | 13      | 4   | N/A   | N/A | 3    | 5     | 19     | 4    | N/A
+Number Cruncher Politics | N/A                       | 2019-05-18      | 2019-05-21    | E     | 1005        | N/A           | 1         | 15  | 19  | 16      | 4   | 1     | N/A | 2    | 7     | 33     | 4    | 1  
 Opinium                  | The Observer              | 2019-05-14      | 2019-05-16    | E     | 2009        | N/A           | 1         | 12  | 20  | 15      | 4   | N/A   | N/A | 2    | 6     | 34     | 3    | N/A  
 Opinium                  | The Observer              | 2019-05-14      | 2019-05-16    | N     | 2009        | N/A           | 1         | 22  | 29  | 11      | 4   | 0     | N/A | 2    | 3     | 24     | 3    | 1  
 ComRes                   | Sunday Express and Mirror | 2019-05-15      | 2019-05-16    | E     | 2041        | N/A           | 1         | 9   | 23  | 16      | 3   | 1     | N/A | 2    | 9     | 31     | 4    | 1
