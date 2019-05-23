@@ -1,6 +1,7 @@
 Polling firm             | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Con | Lab | Lib Dem | SNP | Plaid | Nat | UKIP | Green | Brexit | ChUK | Other
-ComRes                   | Electoral Calculus        | 2019-05-13      | 2019-05-17    | E     | 4161        | N/A           | 1         | 9   | 22  | 14      | 3   | 1     | N/A | 3    | 7     | 32     | 5    | 1
 YouGov                   | The Times                 | 2019-05-19      | 2019-05-21    | E     | 3864        | N/A           | 1         | 7   | 13  | 19      | 3   | 1     | N/A | 3    | 12    | 37     | 4    | 2
+Opinium                  | The Times                 | 2019-05-17      | 2019-05-20    | E     | (1024)      | N/A           | 1         | 12  | 17  | 15      | N/A | N/A   | N/A | 2    | 7     | 38     | 3    | N/A  
+ComRes                   | Electoral Calculus        | 2019-05-13      | 2019-05-17    | E     | 4161        | N/A           | 1         | 9   | 22  | 14      | 3   | 1     | N/A | 3    | 7     | 32     | 5    | 1
 Opinium                  | The Observer              | 2019-05-14      | 2019-05-16    | E     | 2009        | N/A           | 1         | 12  | 20  | 15      | 4   | N/A   | N/A | 2    | 6     | 34     | 3    | N/A  
 Opinium                  | The Observer              | 2019-05-14      | 2019-05-16    | N     | 2009        | N/A           | 1         | 22  | 29  | 11      | 4   | 0     | N/A | 2    | 3     | 24     | 3    | 1  
 ComRes                   | Sunday Express and Mirror | 2019-05-15      | 2019-05-16    | E     | 2041        | N/A           | 1         | 9   | 23  | 16      | 3   | 1     | N/A | 2    | 9     | 31     | 4    | 1
