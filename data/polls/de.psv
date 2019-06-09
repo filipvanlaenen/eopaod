@@ -1,10 +1,10 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Other |
-Forschungsgruppe Wahlen | ZDF                            | 2019-06-03      | 2019-06-05    | N     | 1297        | N/A           | 1         | 27    | 13   | 13   |  7   |  7    | 26    | N/A  | N/A | 7     |
-Infratest dimap         | ARD                            | 2019-06-03      | 2019-06-05    | N     | 1500        | N/A           | 1         | 25    | 12   | 13   |  8   |  7    | 26    | N/A  | N/A | 9     |
-INSA                    | N/A                            | 2019-06-03      | 2019-06-03    | N     | 1000        | N/A           | 1         | 26    | 14   | 13   |  8   |  8    | 25    | N/A  | N/A | 6     |
-Forsa                   | N/A                            | 2019-05-27      | 2019-05-31    | N     | 2001        | 83            | 1         | 26    | 12   | 11   |  8   |  7    | 27    | N/A  | N/A | 9     |
-Emnid                   | Bild am Sonntag                | 2019-05-23      | 2019-05-28    | N     | 1413        | N/A           | 1         | 28    | 16   | 13   |  8   |  8    | 20    | N/A  | N/A | 7     |
-INSA                    | N/A                            | 2019-05-24      | 2019-05-27    | N     | 2039        | N/A           | 0.5       | N/A   | 15.5 | 13.5 |  9.5 |  9.0  | 19.0  | 21.0 | 6.5 | 6.0   |
+Forschungsgruppe Wahlen | ZDF                            | 2019-06-03      | 2019-06-05    | NE    | 1297        | N/A           | 1         | 27    | 13   | 13   |  7   |  7    | 26    | N/A  | N/A | 7     |
+Infratest dimap         | ARD                            | 2019-06-03      | 2019-06-05    | NE    | 1500        | N/A           | 1         | 25    | 12   | 13   |  8   |  7    | 26    | N/A  | N/A | 9     |
+INSA                    | N/A                            | 2019-06-03      | 2019-06-03    | NE    | 1000        | N/A           | 1         | 26    | 14   | 13   |  8   |  8    | 25    | N/A  | N/A | 6     |
+Forsa                   | N/A                            | 2019-05-27      | 2019-05-31    | NE    | 2001        | 83            | 1         | 26    | 12   | 11   |  8   |  7    | 27    | N/A  | N/A | 9     |
+Emnid                   | Bild am Sonntag                | 2019-05-23      | 2019-05-28    | NE    | 1413        | N/A           | 1         | 28    | 16   | 13   |  8   |  8    | 20    | N/A  | N/A | 7     |
+INSA                    | N/A                            | 2019-05-24      | 2019-05-27    | NE    | 2039        | N/A           | 0.5       | N/A   | 15.5 | 13.5 |  9.5 |  9.0  | 19.0  | 21.0 | 6.5 | 6.0   |
 Forsa                   | N/A                            | 2019-05-20      | 2019-05-24    | N     | 2500        | 76            | 1         | 28    | 17   | 13   |  8   |  8    | 18    | N/A  | N/A | 8     |
 Emnid                   | Bild am Sonntag                | 2019-05-16      | 2019-05-22    | N     | 1895        | N/A           | 1         | 29    | 17   | 13   |  9   |  9    | 17    | N/A  | N/A | 6     |
 YouGov                  | N/A                            | 2019-05-17      | 2019-05-21    | N     | 1609        | N/A           | 1         | 29    | 18   | 12   |  8   |  9    | 18    | N/A  | N/A | 6     |
