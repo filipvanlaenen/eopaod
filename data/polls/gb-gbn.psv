@@ -1,4 +1,6 @@
 Polling firm             | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Con | Lab | Lib Dem | SNP | Plaid | Nat | UKIP | Green | Brexit | ChUK | Other
+Survation                | Daily Mail on Sunday      | 2019-06-19      | 2019-06-20    | N     | 2016        | N/A           | 1         | 24  | 26  | 18      | 3   | 1     | N/A | 1    | 6     | 20     | 1    | 1
+Opinium                  | The Observer              | 2019-06-19      | 2019-06-20    | N     | 2009        | N/A           | 1         | 20  | 26  | 16      | 4   | 1     | N/A | 2    | 6     | 23     | 1    | 1  
 YouGov                   | The Sunday Times          | 2019-06-13      | 2019-06-14    | N     | 1672	       | N/A           | 1         | 21  | 21  | 19      | 3   | 1     | N/A | 0    | 9     | 24     | 0    | 1
 YouGov                   | The Times                 | 2019-06-09      | 2019-06-10    | N     | 1702	       | N/A           | 1         | 17  | 19  | 22      | 4   | 1     | N/A | 0    | 8     | 26     | 1    | 1
 ComRes                   | Daily Telegraph           | 2019-06-07      | 2019-06-09    | N     | 2017        | N/A           | 1         | 23  | 27  | 17      | 3   | 1     | N/A | 1    | 5     | 22     | 1    | 1
