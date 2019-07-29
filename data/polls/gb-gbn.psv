@@ -1,4 +1,8 @@
 Polling firm             | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Con | Lab | Lib Dem | SNP | Plaid | Nat | UKIP | Green | Brexit | ChUK | Other
+ComRes                   | Sunday Express            | 2019-07-24      | 2019-07-25    | NE    | 2029        | N/A           | 1         | 28  | 27  | 19      | 3   | 1     | N/A | 1    | 4     | 16     | 0    | 0
+Opinium                  | The Observer              | 2019-07-24      | 2019-07-26    | NE    | 2006        | N/A           | 1         | 30  | 28  | 16      | 5   | 1     | N/A | 1    | 5     | 15     | 0    | 1  
+YouGov                   | The Sunday Times          | 2019-07-25      | 2019-07-26    | NE    | 1697	       | N/A           | 1         | 31  | 21  | 20      | 5   | 1     | N/A | 0    | 8     | 13     | 0    | 1
+Deltapoll                | The Mail on Sunday        | 2019-07-25      | 2019-07-27    | NE    | 2001        | N/A           | 1         | 30  | 25  | 18      | 4   | 1     | N/A | 1    | 4     | 14     | 2    | 1
 YouGov                   | The Times                 | 2019-07-23      | 2019-07-24    | NE    | 1715	       | N/A           | 1         | 25  | 19  | 23      | 4   | 1     | N/A | 1    | 9     | 17     | 0    | 3
 YouGov                   | The Times                 | 2019-07-16      | 2019-07-17    | NE    | 1749	       | N/A           | 1         | 25  | 21  | 20      | 4   | 1     | N/A | 0    | 8     | 19     | 0    | 1
 ComRes                   | N/A                       | 2019-07-15      | 2019-07-16    | NE    | 2038        | N/A           | 1         | 25  | 28  | 17      | 4   | 0     | N/A | 1    | 5     | 19     | 1    | 1
