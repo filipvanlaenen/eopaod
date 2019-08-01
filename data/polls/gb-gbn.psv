@@ -1,4 +1,6 @@
 Polling firm             | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Con | Lab | Lib Dem | SNP | Plaid | Nat | UKIP | Green | Brexit | ChUK | Other
+YouGov                   | The Times                 | 2019-07-29      | 2019-07-30    | NE    | 2066	       | N/A           | 1         | 32  | 22  | 19      | 5   | 1     | N/A | 1    | 6     | 9      | 0    | 1
+Ipsos MORI               | N/A                       | 2019-07-26      | 2019-07-30    | NE    | 1007        | N/A           | 1         | 34  | 24  | 20      | 4   | 1     | N/A | 1    | 8     | 12     | 0    | 0
 ComRes                   | Sunday Express            | 2019-07-24      | 2019-07-25    | NE    | 2029        | N/A           | 1         | 28  | 27  | 19      | 3   | 1     | N/A | 1    | 4     | 16     | 0    | 0
 Opinium                  | The Observer              | 2019-07-24      | 2019-07-26    | NE    | 2006        | N/A           | 1         | 30  | 28  | 16      | 5   | 1     | N/A | 1    | 5     | 15     | 0    | 1  
 YouGov                   | The Sunday Times          | 2019-07-25      | 2019-07-26    | NE    | 1697	       | N/A           | 1         | 31  | 21  | 20      | 5   | 1     | N/A | 0    | 8     | 13     | 0    | 1
