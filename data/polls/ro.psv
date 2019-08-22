@@ -1,15 +1,16 @@
 Polling firm | Commissioners            | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | PSD  | ALDE | USR  | PNL  | UDMR | PMP | PLUS | PRO  | A2020 | Other
-CURS         | STIRIPESURSE.RO          | 2019-07-19      | 2019-08-05    | E     | 1500        | N/A           | 1         | 24   | 8    | N/A  | 31   | 4    | 5   | N/A  | 7    | 20    | 1
+CURS         | STIRIPESURSE.RO          | 2019-07-19      | 2019-08-05    | NE    | 1600        | N/A           | 1         | 24   | 8    | N/A  | 31   | 4    | 5   | N/A  | 7    | 20    | 1
 IMAS         | Europa FM                | 2019-07-15      | 2019-08-02    | NE    | 1010        | N/A           | 0.1       | 19.4 | 7.3  | 21.4 | 25.5 | 4.2  | 2.9 | 6    | 9    | N/A   | 4.2
+CURS         | STIRIPESURSE.RO          | 2019-06-28      | 2019-07-08    | NE    | 1067        | N/A           | 1         | 26   | 5    | N/A  | 29   | 4    | 4   | N/A  | 8    | 22    | 2
 IMAS         | Europa FM                | 2019-06-07      | 2019-06-26    | NE    | 1010        | N/A           | 0.1       | 18.9 | 8.5  | 17.6 | 27.5 | 2.5  | 3.7 | 7.6  | 9.8  | N/A   | 3.8
 Novel        | PNL                      | 2019-05-14      | 2019-05-19    | E     | 1219        | N/A           | 0.1       | 27.8 | 7.9  | 14.8 | 28.1 | 5.0  | 6.7 | N/A  | 7.8  | N/A   | 1.1
 IMAS         | Europa FM                | 2019-05-02      | 2019-05-20    | E     | 1010        | N/A           | 0.1       | 21.1 | 9.8  | 19.6 | 28.5 | 3.8  | 6.2 | N/A  | 9.9  | N/A   | 1.1
 IMAS         | Europa FM                | 2019-05-02      | 2019-05-20    | N     | 1010        | N/A           | 0.1       | 21.4 | 10.2 | 14.4 | 29.3 | 3.3  | 5.5 | 6.3  | 8.0  | N/A   | 1.7
 INSCOP       | Konrad-Adenauer-Stiftung | 2019-04-12      | 2019-05-03    | E     | 1050        | N/A           | 0.1       | 26   | 9    | 17   | 28   | 5    | 4.4 | N/A  | 8.3  | N/A   | 4
-CURS         | STIRIPESURSE.RO          | 2019-04-05      | 2019-04-28    | E     | 1500        | N/A           | 1         | 32   | 10   | 12   | 25   | 5    | 5   | N/A  | 9    | N/A   | 2
+CURS         | STIRIPESURSE.RO          | 2019-04-05      | 2019-04-28    | E     | 1500        | N/A           | 1         | 32   | 10   | N/A  | 25   | 5    | 5   | N/A  | 9    | 12    | 2
 IMAS         | Europa FM                | 2019-04-12      | 2019-04-25    | E     | 1010        | N/A           | 0.1       | 22   | 12.2 | 16.4 | 25.6 | 5.6  | 5.6 | N/A  | 11.7 | N/A   | 1.1
 IMAS         | Europa FM                | 2019-03-18      | 2019-04-03    | E     | 1010        | N/A           | 0.1       | 21.2 | 12.7 | 17.7 | 25.2 | 5.1  | 4.7 | N/A  | 11.2 | N/A   | 1.9
-CURS         | STIRIPESURSE.RO          | 2019-03-12      | 2019-03-25    | E     | 1067        | N/A           | 1         | 31   | 10   | 13   | 23   | 5    | 6   | N/A  | 8    | N/A   | 4
+CURS         | STIRIPESURSE.RO          | 2019-03-12      | 2019-03-25    | E     | 1067        | N/A           | 1         | 31   | 10   | N/A  | 23   | 5    | 6   | N/A  | 8    | 13    | 4
 BCS          | PSnews.ro                | 2019-03-15      | 2019-03-20    | E     | 1144        | N/A           | 0.1       | 26.5 | 8.1  | 10.8 | 29.8 | 4.4  | 6.2 | N/A  | 10.2 | N/A   | 4
 INSCOP       | Konrad-Adenauer-Stiftung | 2019-03-05      | 2019-03-13    | E     | 1053        | N/A           | 0.1       | 26.9 | 9.3  | 15.3 | 26.3 | 5    | 4.4 | N/A  | 9.1  | N/A   | 3.7
 CURS         | STIRIPESURSE.RO          | 2019-02-13      | 2019-02-28    | E     | 1500        | N/A           | 1         | 31   | 12   | 12   | 23   | 5    | 5   | N/A  | 10   | N/A   | 1
