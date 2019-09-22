@@ -1,4 +1,6 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Other |
+Forsa                   | N/A                            | 2019-09-16      | 2019-09-20    | NE    | 2500        | 79            | 1         | 27    | 15   | 13   |  8   |  7    | 22    | N/A  | N/A | 8     |
+Infratest dimap         | ARD                            | 2019-09-17      | 2019-09-18    | NE    | 1067        | N/A           | 1         | 27    | 14   | 14   |  8   |  8    | 23    | N/A  | N/A | 6     |
 Allensbach              | N/A                            | 2019-09-01      | 2019-09-12    | NE    | 1255        | N/A           | 1         | 29    | 15   | 14   |  7   |  8    | 22    | N/A  | N/A | 5     |
 INSA                    | N/A                            | 2019-09-13      | 2019-09-16    | NE    | 2053        | N/A           | 0.5       | 26.5  | 13.5 | 16.0 |  7.5 |  7.5  | 22.5  | N/A  | N/A | 6.5   |
 INSA                    | N/A                            | 2019-09-06      | 2019-09-09    | NE    | 2033        | N/A           | 0.5       | 27.0  | 13.5 | 15.5 |  8.0 |  7.5  | 22.0  | N/A  | N/A | 6.5   |
