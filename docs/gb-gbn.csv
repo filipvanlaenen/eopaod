@@ -1,6 +1,7 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
+Opinium,The Observer,2019-10-03,2019-10-04,National,2006,Provided,Not Available,1%,38%,23%,15%,5%,0%,Not Available,1%,4%,12%,0%,0%
+BMG Research,The Independent,2019-10-01,2019-10-04,National,1514,Provided,Not Available,1%,31%,26%,20%,Not Available,Not Available,Not Available,Not Available,7%,11%,Not Available,Not Available
 ComRes,Daily Telegraph,2019-10-04,2019-10-06,National,2006,Provided,Not Available,1%,33%,27%,19%,4%,Not Available,Not Available,1%,3%,13%,Not Available,1%
-Opinium,The Observer,2019-10-03,2019-10-04,National,2007,Provided,Not Available,1%,38%,23%,15%,5%,0%,Not Available,1%,4%,12%,0%,0%
 YouGov,The Times,2019-09-30,2019-10-01,National,1623,Provided,Not Available,1%,34%,21%,23%,3%,1%,Not Available,0%,5%,12%,0%,1%
 YouGov,The Sunday Times,2019-09-26,2019-09-27,National,1623,Provided,Not Available,1%,33%,22%,21%,4%,1%,Not Available,0%,5%,13%,0%,1%
 Opinium,The Observer,2019-09-25,2019-09-27,National,2007,Provided,Not Available,1%,36%,24%,20%,5%,1%,Not Available,0%,2%,11%,0%,1%
@@ -20,8 +21,8 @@ ComRes,Daily Telegraph,2019-09-06,2019-09-08,National,2016,Provided,Not Availabl
 ComRes,Britain Elects,2019-09-04,2019-09-06,National,2009,Provided,Not Available,1%,31%,27%,20%,3%,1%,Not Available,1%,3%,13%,Not Available,1%
 Deltapoll,The Sun on Sunday,2019-09-05,2019-09-07,National,2049,Provided,Not Available,1%,31%,28%,17%,5%,1%,Not Available,1%,4%,13%,Not Available,0%
 YouGov,The Sunday Times,2019-09-05,2019-09-06,National,1676,Provided,Not Available,1%,35%,21%,19%,4%,0%,Not Available,1%,7%,12%,0%,1%
-Survation,Daily Mail,2019-09-05,2019-09-06,National,1020,Provided,Not Available,1%,29%,24%,18%,4%,Not Available,Not Available,Not Available,3%,17%,Not Available,5%
-BMG Research,The Independent,2019-09-03,2019-09-06,National,1504,Provided,Not Available,1%,31%,27%,19%,Not Available,Not Available,Not Available,Not Available,Not Available,13%,Not Available,Not Available
+Survation,Daily Mail,2019-09-05,2019-09-06,National,1020,Provided,Not Available,1%,29%,24%,18%,4%,1%,Not Available,Not Available,3%,17%,Not Available,5%
+BMG Research,The Independent,2019-09-03,2019-09-06,National,1504,Provided,Not Available,1%,31%,27%,19%,3%,0%,Not Available,1%,6%,13%,0%,6%
 Opinium,The Observer,2019-09-04,2019-09-06,National,2009,Provided,Not Available,1%,35%,25%,17%,5%,0%,Not Available,1%,3%,13%,0%,1%
 Panelbase,,2019-09-05,2019-09-06,National,1013,Provided,Not Available,1%,31%,28%,19%,3%,0%,Not Available,0%,2%,15%,0%,0%
 Hanbury Strategy,,2019-09-03,2019-09-04,National,995,Provided,Not Available,1%,33%,26%,17%,4%,1%,Not Available,0%,3%,14%,0%,2%
@@ -55,7 +56,7 @@ Survation,,2019-07-10,2019-07-11,National,1012,Provided,Not Available,1%,23%,29%
 YouGov,The Times,2019-07-09,2019-07-10,National,1671,Provided,Not Available,1%,24%,20%,19%,5%,1%,Not Available,0%,9%,21%,0%,1%
 ComRes,Daily Telegraph,2019-07-05,2019-07-07,National,2010,Provided,Not Available,1%,25%,28%,16%,3%,0%,Not Available,1%,5%,19%,0%,1%
 BMG Research,The Independent,2019-07-02,2019-07-05,National,1532,Provided,Not Available,1%,28%,27%,18%,2%,1%,Not Available,2%,6%,14%,1%,0%
-Opinium,The Observer,2019-07-03,2019-07-05,National,2002,Provided,Not Available,1%,23%,25%,15%,5%,1%,Not Available,1%,8%,22%,1%,Not Available
+Opinium,The Observer,2019-07-03,2019-07-05,National,2002,Provided,Not Available,1%,23%,25%,15%,5%,1%,Not Available,1%,8%,22%,1%,0%
 YouGov,The Times,2019-07-02,2019-07-03,National,1605,Provided,Not Available,1%,24%,18%,20%,4%,1%,Not Available,0%,9%,23%,0%,1%
 Ipsos MORI,,2019-06-21,2019-06-25,National,1043,Provided,Not Available,1%,26%,24%,22%,4%,1%,Not Available,1%,8%,12%,0%,0%
 YouGov,The Times,2019-06-24,2019-06-25,National,2059,Provided,Not Available,1%,22%,20%,19%,4%,1%,Not Available,1%,10%,22%,0%,1%
@@ -64,7 +65,7 @@ Opinium,The Observer,2019-06-19,2019-06-20,National,2009,Provided,Not Available,
 YouGov,The Sunday Times,2019-06-13,2019-06-14,National,1672,Provided,Not Available,1%,21%,21%,19%,3%,1%,Not Available,0%,9%,24%,0%,1%
 YouGov,The Times,2019-06-09,2019-06-10,National,1702,Provided,Not Available,1%,17%,19%,22%,4%,1%,Not Available,0%,8%,26%,1%,1%
 ComRes,Daily Telegraph,2019-06-07,2019-06-09,National,2017,Provided,Not Available,1%,23%,27%,17%,3%,1%,Not Available,1%,5%,22%,1%,1%
-BMG Research,The Independent,2019-06-04,2019-06-07,National,1520,Provided,Not Available,1%,26%,27%,17%,Not Available,Not Available,Not Available,1%,Not Available,18%,Not Available,Not Available
+BMG Research,The Independent,2019-06-04,2019-06-07,National,1520,Provided,Not Available,1%,26%,27%,17%,3%,1%,Not Available,1%,6%,18%,1%,1%
 YouGov,The Times,2019-06-04,2019-06-06,National,1595,Estimated/Assumed,Not Available,1%,18%,20%,20%,5%,0%,Not Available,Not Available,9%,26%,0%,2%
 Opinium,The Observer,2019-05-28,2019-05-30,National,2005,Provided,Not Available,1%,17%,22%,16%,4%,1%,Not Available,1%,11%,26%,1%,1%
 Deltapoll,The Mail on Sunday,2019-05-29,2019-05-30,National,2449,Provided,Not Available,1%,20%,26%,16%,4%,1%,Not Available,1%,5%,24%,4%,1%
