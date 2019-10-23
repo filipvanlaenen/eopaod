@@ -1,8 +1,14 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
-Kantar Public,,2019-10-10,2019-10-15,National,1184,Provided,Not Available,1%,39%,25%,18%,3%,1%,Not Available,1%,3%,8%,0%,Not Available
+Deltapoll,,2019-10-18,2019-10-21,National,2017,Provided,Not Available,1%,37%,24%,19%,4%,1%,Not Available,1%,3%,11%,Not Available,0%
+YouGov,The Times,2019-10-20,2019-10-21,National,1689,Provided,Not Available,1%,37%,22%,19%,3%,1%,Not Available,1%,7%,11%,0%,0%
+Panelbase,,2019-10-17,2019-10-18,National,1008,Provided,Not Available,1%,36%,27%,17%,4%,Not Available,Not Available,0%,3%,11%,Not Available,0%
+Survation,Daily Mail,2019-10-17,2019-10-18,National,1025,Provided,Not Available,1%,32%,24%,21%,4%,Not Available,Not Available,Not Available,2%,13%,Not Available,4%
+ComRes,Britain Elects,2019-10-16,2019-10-17,National,2067,Provided,Not Available,1%,33%,29%,18%,Not Available,Not Available,Not Available,Not Available,4%,12%,Not Available,Not Available
+Opinium,The Observer,2019-10-15,2019-10-17,National,2001,Provided,Not Available,1%,37%,24%,16%,4%,1%,Not Available,2%,4%,12%,0%,1%
+Kantar Public,,2019-10-10,2019-10-15,National,1184,Provided,Not Available,1%,39%,25%,18%,3%,1%,Not Available,1%,3%,8%,0%,1%
 YouGov,The Times,2019-10-14,2019-10-15,National,1625,Provided,Not Available,1%,37%,22%,18%,4%,1%,Not Available,1%,5%,11%,0%,0%
 Panelbase,The Sunday Times,2019-10-09,2019-10-11,National,2013,Provided,Not Available,1%,33%,30%,17%,4%,Not Available,Not Available,0%,3%,12%,Not Available,0%
-ComRes,Daily Express,2019-10-09,2019-10-10,National,2018,Provided,Not Available,1%,33%,27%,18%,4%,Not Available,Not Available,Not Available,4%,12%,Not Available,2%
+ComRes,Daily Express,2019-10-09,2019-10-10,National,2018,Provided,Not Available,1%,33%,27%,18%,4%,Not Available,Not Available,0%,4%,12%,Not Available,2%
 YouGov,The Times,2019-10-08,2019-10-09,National,1616,Provided,Not Available,1%,35%,22%,20%,4%,1%,Not Available,0%,6%,12%,1%,0%
 Opinium,The Observer,2019-10-03,2019-10-04,National,2006,Provided,Not Available,1%,38%,23%,15%,5%,0%,Not Available,1%,4%,12%,0%,0%
 BMG Research,The Independent,2019-10-01,2019-10-04,National,1514,Provided,Not Available,1%,31%,26%,20%,3%,1%,Not Available,0%,7%,11%,Not Available,0%
