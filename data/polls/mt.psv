@@ -1,4 +1,7 @@
 Polling firm | Commissioners | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | PL   | PN   | PD  | AD  | MPM | Other |
+Sagalytics   | N/A           | 2019-11-27      | 2019-11-29    | NE    | 600         | N/A           |  1        | 56   | 43   | N/A | N/A | N/A | 1     |
+MaltaToday   | N/A           | 2019-10-24      | 2019-10-31    | NE    | 656         | N/A           |  1        | 61   | 37   | N/A | N/A | N/A | 2     |
+MaltaToday   | N/A           | 2019-09-26      | 2019-10-03    | NE    | 643         | N/A           | 0.1       | 64.4 | 33.2 | N/A | N/A | N/A | 2.4   |
 Sagalytics   | N/A           | 2019-09-16      | 2019-09-20    | NE    | 660         | N/A           | 0.1       | 58.1 | 39.1 | 0.0 | 1.0 | 0.0 | 0.0   |
 Sagalytics   | N/A           | 2019-05-11      | 2019-05-17    | E     | 600         | N/A           | 0.1       | 56.9 | 37.3 | 1.1 | 2.0 | N/A | 2.8   |
 MaltaToday   | N/A           | 2019-05-09      | 2019-05-15    | E     | 849         | N/A           | 0.1       | 57.8 | 39.1 | N/A | N/A | N/A | N/A   |
