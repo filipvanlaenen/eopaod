@@ -1,5 +1,8 @@
 Polling firm   | Commissioners | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | GERB | BSP  | OP  | VMRO | NFSB | Attack | ABV | DPS  | Volya | RB  | DB  | DSB | YB  | NTD | Other
-Alpha Research | N/A           | 2019-09-10      | 2019-09-16    | NE    | 1023        | N/A           | 0.1       | 29.6 | 25.8 | 4.8 | N/A  | N/A  | 2.6    | N/A | 11.8 | 2.8   | N/A | 5.6 | N/A | N/A | N/A | 3.7
+Alpha Research | N/A           | 2019-12-05      | 2019-12-12    | NE    | 1017        | N/A           | 1         | 30   | 25   | N/A | 7    | N/A  | 2      | N/A | 11   | 2     | N/A | 7   | N/A | N/A | 12  | N/A
+Market LINKS   | N/A           | 2019-11-21      | 2019-11-28    | NE    | 980         | N/A           | 1         | 30   | 27   | 7   | N/A  | N/A  | N/A    | N/A | 13   | 2     | N/A | 8   | N/A | N/A | 13  | N/A
+Trend          | N/A           | 2019-11-07      | 2019-11-15    | NE    | 1008        | N/A           | 1         | 36   | 28   | N/A | 5    | N/A  | N/A    | N/A | 12   | 2     | N/A | 5   | N/A | N/A | 8   | N/A
+Alpha Research | N/A           | 2019-09-10      | 2019-09-16    | NE    | 1023        | N/A           | 0.1       | 29.6 | 25.8 | 4.8 | N/A  | N/A  | 2.6    | N/A | 11.8 | 2.8   | N/A | 5.6 | N/A | N/A | 11  | 3.7
 Trend          | 24 hours      | 2019-07-05      | 2019-07-12    | NE    | 1008        | N/A           | 0.1       | 38.1 | 30.2 | 2.1 | 5.8  | N/A  | 1.8    | N/A | 11.4 | 1.9   | N/A | 5.3 | N/A | N/A | N/A | 3.5
 Mediana        | N/A           | 2019-05-02      | 2019-05-07    | EN    | 1008        | N/A           | 1         | 30   | 32   | N/A | 5    | 4    | 3      | 4   | 11   | 5     | N/A | 3   | N/A | N/A | N/A | N/A
 Alpha Research | N/A           | 2019-04-20      | 2019-04-30    | EN    | 1015        | N/A           | 1         | 33   | 33   | N/A | 6    | 2    | 1      | 1   | 10   | 2     | N/A | 5   | N/A | N/A | N/A | N/A
