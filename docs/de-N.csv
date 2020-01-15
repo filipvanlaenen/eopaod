@@ -1,4 +1,5 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Union,SPD,Alternative für Deutschland,FDP,DIE LINKE,BÜNDNIS 90/DIE GRÜNEN,CDU,CSU,Other
+INSA,,2020-01-10,2020-01-13,National,2040,Provided,Not Available,0.5%,27%,12.5%,15%,9.5%,9%,21%,Not Available,Not Available,6%
 Forsa,,2020-01-06,2020-01-10,National,2503,Provided,77%,1%,28%,12%,13%,9%,8%,22%,Not Available,Not Available,8%
 Infratest dimap,ARD,2020-01-07,2020-01-08,National,1506,Provided,Not Available,1%,27%,13%,14%,9%,8%,23%,Not Available,Not Available,6%
 Emnid,,2019-12-19,2020-01-08,National,1829,Provided,Not Available,1%,27%,14%,14%,9%,9%,21%,Not Available,Not Available,6%
@@ -13,6 +14,7 @@ Forsa,,2019-12-09,2019-12-13,National,2502,Provided,78%,1%,28%,12%,13%,8%,9%,22%
 Forschungsgruppe Wahlen,ZDF,2019-12-10,2019-12-12,National,1366,Provided,Not Available,1%,27%,13%,14%,8%,9%,23%,Not Available,Not Available,6%
 Infratest dimap,ARD,2019-12-10,2019-12-11,National,2502,Provided,Not Available,1%,27%,14%,15%,8%,8%,21%,Not Available,Not Available,7%
 Emnid,Bild am Sonntag,2019-12-05,2019-12-11,National,1978,Provided,Not Available,1%,28%,16%,13%,9%,9%,20%,Not Available,Not Available,5%
+Allensbach,,2019-12-01,2019-12-11,National,1270,Provided,Not Available,0.5%,28.5%,15%,15%,7%,8.5%,21%,Not Available,Not Available,5%
 INSA,,2019-12-06,2019-12-09,National,2052,Provided,Not Available,0.5%,28.0%,14.0%,15.0%,8.5%,8.5%,20.5%,Not Available,Not Available,7.5%
 Forsa,,2019-12-02,2019-12-06,National,2502,Provided,Not Available,1%,28%,11%,14%,9%,8%,22%,Not Available,Not Available,8%
 Infratest dimap,ARD,2019-12-02,2019-12-04,National,1507,Provided,Not Available,1%,25%,13%,15%,9%,8%,23%,Not Available,Not Available,7%
@@ -143,6 +145,7 @@ Emnid,Bild am Sonntag,2019-05-16,2019-05-22,National,1895,Provided,Not Available
 YouGov,,2019-05-17,2019-05-21,National,1609,Provided,Not Available,1%,29%,18%,12%,8%,9%,18%,Not Available,Not Available,6%
 INSA,,2019-05-17,2019-05-20,National,2074,Provided,Not Available,0.5%,Not Available,18.5%,14%,10%,9%,18.5%,22%,6%,5%
 Forsa,,2019-05-13,2019-05-17,National,2503,Provided,78%,1%,29%,16%,13%,8%,9%,19%,Not Available,Not Available,6%
+Allensbach,,2019-05-03,2019-05-16,National,1283,Provided,Not Available,0.5%,30%,17.5%,13%,9%,8.5%,17%,Not Available,Not Available,5%
 Emnid,Bild am Sonntag,2019-05-09,2019-05-15,National,1975,Provided,Not Available,1%,29%,16%,13%,9%,9%,18%,Not Available,Not Available,6%
 INSA and YouGov,Bild,2019-05-10,2019-05-13,National,2044,Provided,Not Available,0.1%,Not Available,16.0%,14.0%,9.5%,9.0%,19.0%,23.5%,5.0%,3%
 Forsa,Stern and RTL,2019-05-06,2019-05-10,National,2502,Provided,Not Available,1%,30%,15%,13%,8%,8%,20%,Not Available,Not Available,6%
