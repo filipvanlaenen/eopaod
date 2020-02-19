@@ -71,10 +71,14 @@ File.open("#{TARGET_DIR}/#{country_code}.csv", 'w+') do |file|
   file.puts(all_polls)
 end
 
-File.open("#{TARGET_DIR}/#{country_code}-N.csv", 'w+') do |file|
-  file.puts(national_polls)
+if national_polls.size > 1
+  File.open("#{TARGET_DIR}/#{country_code}-N.csv", 'w+') do |file|
+    file.puts(national_polls)
+  end
 end
 
-File.open("#{TARGET_DIR}/#{country_code}-E.csv", 'w+') do |file|
-  file.puts(european_polls)
+if european_polls.size > 1
+  File.open("#{TARGET_DIR}/#{country_code}-E.csv", 'w+') do |file|
+    file.puts(european_polls)
+  end
 end
