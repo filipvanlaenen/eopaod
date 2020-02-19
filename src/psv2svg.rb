@@ -444,10 +444,14 @@ svg_filename = "#{TARGET_DIR}/#{country_code}.svg"
 write_svg_to_file(svg_filename, create_svg_graph(country_code, all_polls, party_colors, party_labels, 'All Polls'))
 convert_svg_to_png(svg_filename)
 
-svg_filename = "#{TARGET_DIR}/#{country_code}-N.svg"
-write_svg_to_file(svg_filename, create_svg_graph(country_code, national_polls, party_colors, party_labels, 'National Polls'))
-convert_svg_to_png(svg_filename)
+unless national_polls.empty?
+  svg_filename = "#{TARGET_DIR}/#{country_code}-N.svg"
+  write_svg_to_file(svg_filename, create_svg_graph(country_code, national_polls, party_colors, party_labels, 'National Polls'))
+  convert_svg_to_png(svg_filename)
+end
 
-svg_filename = "#{TARGET_DIR}/#{country_code}-E.svg"
-write_svg_to_file(svg_filename, create_svg_graph(country_code, european_polls, party_colors, party_labels, 'European Election Polls'))
-convert_svg_to_png(svg_filename)
+unless european_polls.empty?
+  svg_filename = "#{TARGET_DIR}/#{country_code}-E.svg"
+  write_svg_to_file(svg_filename, create_svg_graph(country_code, european_polls, party_colors, party_labels, 'European Election Polls'))
+  convert_svg_to_png(svg_filename)
+end
