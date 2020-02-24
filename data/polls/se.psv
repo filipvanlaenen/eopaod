@@ -1,4 +1,5 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+Novus        | SVT               | 2020-01-27      | 2020-02-16    | NE    | 3098        | N/A           | 0.1       | 23.2 | 18.0 | 23.9 | 8.1  | 10.9 | 5.9  | 3.9 | 4.5  | 1.6
 Sifo         | N/A               | 2020-02-03      | 2020-02-13    | NE    | 8328        | N/A           | 0.1       | 23.6 | 17.5 | 23.3 | 8.1  | 11.4 | 6.1  | 4.4 | 4.2  | 1.5
 Demoskop     | N/A               | 2020-01-25      | 2020-02-05    | NE    | 2148        | N/A           | 0.1       | 24.7 | 18.9 | 23.5 | 8.9  | 9.3  | 6.3  | 3.2 | 3.8  | N/A
 Sentio       | Nyheter Idag      | 2020-01-24      | 2020-01-28    | NE    | (1000)      | N/A           | 0.1       | 22.1 | 16.6 | 28.8 | 7.0  | 9.7  | 7.8  | 2.4 | 4.1  | N/A
