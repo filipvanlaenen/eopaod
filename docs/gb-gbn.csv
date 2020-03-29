@@ -1,5 +1,6 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
-Number Cruncher Politics,Bloomberg,2020-03-24,2020-03-26,National,1010,Provided,Not Available,1%,54%,28%,7%,4%,0%,Not Available,Not Available,4%,2%,Not Available,Not Available
+Opinium,,2020-03-26,2020-03-27,National,2006,Provided,Not Available,1%,54%,28%,6%,Not Available,Not Available,Not Available,Not Available,3%,Not Available,Not Available,Not Available
+Number Cruncher Politics,Bloomberg,2020-03-24,2020-03-26,National,1010,Provided,Not Available,1%,54%,28%,7%,4%,0%,Not Available,Not Available,4%,2%,Not Available,0%
 Ipsos MORI,,2020-03-13,2020-03-16,National,1003,Provided,Not Available,1%,52%,30%,9%,4%,Not Available,Not Available,Not Available,Not Available,0%,Not Available,0%
 Opinium,The Observer,2020-03-12,2020-03-13,National,2005,Provided,Not Available,1%,49%,32%,6%,5%,1%,Not Available,Not Available,5%,0%,Not Available,1%
 Kantar,,2020-03-05,2020-03-09,National,1171,Provided,Not Available,1%,50%,29%,11%,4%,1%,Not Available,1%,2%,1%,Not Available,1%
