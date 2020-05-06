@@ -1,12 +1,12 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Fidesz–Kereszténydemokrata Néppárt,Jobbik,Magyar Szocialista Párt–Párbeszéd,Demokratikus Koalíció,Lehet Más a Politika,Momentum Mozgalom,Magyar Kétfarkú Kutya Párt,Mi Hazánk Mozgalom,Együtt,Magyar Szocialista Párt,Párbeszéd,MLP,Other
 ZRI Závecz Research,,2020-04-14,2020-04-19,National,1500,Provided,Not Available,1%,53%,9%,11%,15%,3%,8%,0%,1%,Not Available,Not Available,Not Available,Not Available,1%
 Nézőpont Intézet,,2020-04-16,2020-04-18,National,1000,Provided,Not Available,1%,55%,9%,3%,12%,1%,11%,5%,1%,Not Available,Not Available,Not Available,Not Available,0%
-Publicus,,2020-03-17,2020-03-21,National,1003,Provided,Not Available,1%,52%,10%,11%,13%,2%,4%,2%,2%,Not Available,Not Available,Not Available,Not Available,3%
+Publicus Research,,2020-03-17,2020-03-21,National,1003,Provided,Not Available,1%,52%,10%,11%,13%,2%,4%,1%,2%,Not Available,Not Available,Not Available,Not Available,3%
 IDEA Intézet,,2020-03-17,2020-03-20,National,2000,Provided,Not Available,1%,49%,9%,Not Available,16%,2%,9%,2%,3%,Not Available,7%,2%,Not Available,1%
 Nézőpont Intézet,,2020-03-12,2020-03-14,National,1000,Provided,Not Available,1%,51%,10%,4%,10%,3%,13%,5%,2%,Not Available,4%,1%,Not Available,1%
 ZRI Závecz Research,,2020-03-03,2020-03-13,National,1000,Provided,Not Available,1%,50%,9%,Not Available,16%,2%,9%,2%,2%,Not Available,7%,2%,Not Available,1%
-Publicus,,2020-03-05,2020-03-10,National,1009,Provided,Not Available,1%,48%,10%,12%,14%,2%,12%,1%,1%,Not Available,Not Available,Not Available,Not Available,2%
-Medián,,2020-02-01,2020-02-20,National,1200,Provided,Not Available,1%,55%,11%,Not Available,13%,4%,7%,1%,1%,Not Available,6%,1%,Not Available,1%
+Publicus Research,,2020-03-05,2020-03-10,National,1009,Provided,Not Available,1%,48%,10%,12%,14%,2%,12%,1%,1%,Not Available,Not Available,Not Available,Not Available,0%
+Medián,,2020-02-01,2020-02-29,National,1200,Provided,Not Available,1%,55%,11%,Not Available,13%,4%,7%,1%,1%,Not Available,6%,1%,Not Available,1%
 ZRI Závecz Research,,2020-02-13,2020-02-20,National,1000,Provided,Not Available,1%,51%,10%,Not Available,14%,2%,9%,2%,2%,Not Available,7%,2%,Not Available,1%
 IDEA Intézet,,2020-01-31,2020-02-12,National,2000,Provided,Not Available,1%,47%,9%,Not Available,16%,3%,10%,3%,3%,Not Available,6%,2%,Not Available,1%
 Nézőpont Intézet,,2020-01-10,2020-01-16,National,1000,Provided,Not Available,1%,50%,10%,5%,10%,4%,13%,4%,3%,Not Available,Not Available,Not Available,Not Available,0%
@@ -48,8 +48,8 @@ Publicus Research,,2019-04-17,2019-04-23,National,1010,Provided,Not Available,1%
 Nézőpont Intézet,,2019-04-01,2019-04-26,National,1000,Provided,Not Available,1%,57%,11%,10%,8%,4%,5%,3%,2%,Not Available,Not Available,Not Available,Not Available,0%
 ZRI Závecz Research,,2019-04-15,2019-04-25,National,1000,Provided,Not Available,1%,57%,6%,Not Available,11%,4%,5%,2%,1%,Not Available,12%,1%,Not Available,1%
 Századvég,,2019-04-19,2019-04-21,National,1000,Provided,Not Available,1%,54%,14%,10%,9%,4%,4%,3%,2%,Not Available,Not Available,Not Available,Not Available,1%
-Medián,,2019-03-01,2019-04-17,National,1000,Provided,Not Available,1%,56%,11%,Not Available,10%,6%,3%,1%,0%,Not Available,11%,1%,Not Available,1%
 ZRI Závecz Research,,2019-04-05,2019-04-15,National,1000,Provided,Not Available,1%,53%,12%,Not Available,9%,4%,4%,2%,2%,Not Available,12%,1%,Not Available,1%
+Medián,,2019-03-29,2019-04-03,National,1000,Provided,Not Available,1%,56%,11%,Not Available,10%,6%,3%,1%,0%,Not Available,11%,1%,Not Available,1%
 IDEA Intézet,,2019-03-29,2019-04-01,National,2000,Provided,Not Available,1%,48%,14%,Not Available,9%,4%,6%,3%,2%,Not Available,10%,2%,Not Available,2%
 Nézőpont Intézet,,2019-03-01,2019-03-28,National,5000,Provided,Not Available,1%,56%,12%,11%,6%,5%,4%,4%,2%,Not Available,Not Available,Not Available,Not Available,0%
 Publicus Research,,2019-03-13,2019-03-20,National,1001,Provided,Not Available,1%,50%,16%,17%,4%,2%,4%,4%,1%,Not Available,Not Available,Not Available,Not Available,2%
@@ -62,7 +62,7 @@ IDEA Intézet,,2019-01-26,2019-01-28,National,2000,Provided,Not Available,1%,47%
 Medián,,2019-01-18,2019-01-27,National,1200,Provided,Not Available,1%,56%,13%,Not Available,9%,5%,3%,0%,1%,Not Available,12%,1%,Not Available,0%
 Nézőpont Intézet,,2019-01-01,2019-01-27,National,5000,Provided,Not Available,1%,54%,13%,10%,7%,5%,4%,3%,3%,Not Available,Not Available,Not Available,Not Available,1%
 Publicus Research,,2019-01-09,2019-01-16,National,1009,Provided,Not Available,1%,47%,17%,16%,6%,4%,4%,3%,1%,Not Available,Not Available,Not Available,Not Available,2%
-Századvég Alapítvány,,2019-01-07,2019-01-13,National,1000,Provided,Not Available,1%,53%,13%,12%,8%,5%,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,9%
+Századvég,,2019-01-07,2019-01-13,National,1000,Provided,Not Available,1%,53%,13%,12%,8%,5%,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,9%
 ZRI Závecz Research,,2019-01-04,2019-01-11,National,1000,Provided,Not Available,1%,48%,17%,Not Available,8%,4%,5%,3%,1%,Not Available,12%,2%,Not Available,1%
 IDEA Intézet,,2018-12-17,2018-12-20,National,2000,Provided,Not Available,1%,50%,11%,Not Available,9%,4%,5%,4%,1%,Not Available,10%,3%,Not Available,2%
 Publicus Research,,2018-12-13,2018-12-19,National,1000,Provided,Not Available,1%,48%,16%,15%,6%,4%,4%,3%,1%,Not Available,Not Available,Not Available,Not Available,3%
@@ -80,16 +80,16 @@ Medián,,2018-10-12,2018-10-17,National,1200,Provided,Not Available,1%,63%,11%,N
 Publicus Research,,2018-10-11,2018-10-17,National,1007,Provided,Not Available,1%,52%,14%,15%,5%,4%,2%,3%,1%,Not Available,Not Available,Not Available,Not Available,3%
 Medián,,2018-09-01,2018-09-30,National,1200,Provided,Not Available,1%,60%,11%,9%,10%,4%,2%,1%,2%,Not Available,Not Available,Not Available,Not Available,1%
 Publicus Research,,2018-09-12,2018-09-19,National,1001,Provided,Not Available,1%,53%,14%,15%,5%,5%,2%,3%,0%,Not Available,Not Available,Not Available,Not Available,3%
-ZRI Závecz Research,,2018-09-10,2018-09-18,National,1000,Provided,Not Available,1%,57%,14%,Not Available,7%,5%,3%,2%,2%,Not Available,11%,1%,Not Available,0%
+ZRI Závecz Research,,2018-09-11,2018-09-19,National,1000,Provided,Not Available,1%,57%,14%,Not Available,7%,4%,3%,2%,2%,Not Available,11%,1%,Not Available,0%
 Nézőpont Intézet,,2018-08-29,2018-09-18,National,2000,Provided,Not Available,1%,52%,18%,8%,8%,5%,3%,3%,1%,Not Available,Not Available,Not Available,Not Available,2%
-Századvég Alapítvány,,2018-09-03,2018-09-10,National,1000,Provided,Not Available,1%,53%,14%,13%,7%,5%,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,8%
+Századvég,,2018-09-03,2018-09-10,National,1000,Provided,Not Available,1%,53%,14%,13%,7%,5%,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,8%
 ZRI Závecz Research,,2018-08-10,2018-08-18,National,1000,Provided,Not Available,1%,56%,14%,10%,7%,5%,2%,3%,0%,Not Available,Not Available,Not Available,Not Available,3%
 Publicus Research,,2018-08-08,2018-08-16,National,998,Provided,Not Available,1%,52%,16%,15%,4%,4%,2%,3%,0%,Not Available,Not Available,Not Available,Not Available,4%
 Nézőpont Intézet,,2018-07-19,2018-08-14,National,2000,Provided,Not Available,1%,54%,17%,9%,7%,5%,4%,2%,1%,Not Available,Not Available,Not Available,Not Available,1%
 ZRI Závecz Research,,2018-07-10,2018-07-18,National,1000,Provided,Not Available,1%,55%,13%,Not Available,7%,5%,1%,3%,0%,Not Available,10%,3%,Not Available,3%
 Nézőpont Intézet,,2018-07-01,2018-07-17,National,2000,Provided,Not Available,1%,55%,17%,9%,6%,5%,4%,2%,1%,Not Available,Not Available,Not Available,Not Available,1%
 Publicus Research,,2018-07-10,2018-07-16,National,1010,Provided,Not Available,1%,49%,17%,16%,4%,5%,2%,3%,0%,Not Available,Not Available,Not Available,Not Available,4%
-Századvég Alapítvány,,2018-07-02,2018-07-06,National,1000,Provided,Not Available,1%,53%,13%,14%,6%,6%,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,8%
+Századvég,,2018-07-02,2018-07-06,National,1000,Provided,Not Available,1%,53%,13%,14%,6%,6%,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,8%
 Nézőpont Intézet,,2018-06-03,2018-06-22,National,2000,Provided,Not Available,1%,55%,18%,9%,5%,6%,4%,2%,Not Available,Not Available,Not Available,Not Available,Not Available,1%
 Publicus Research,,2018-06-07,2018-06-13,National,996,Provided,Not Available,1%,48%,16%,16%,4%,5%,3%,3%,Not Available,Not Available,Not Available,Not Available,Not Available,5%
 ZRI Závecz Research,,2018-06-04,2018-06-11,National,1000,Provided,Not Available,1%,55%,17%,Not Available,6%,5%,2%,3%,Not Available,Not Available,9%,2%,Not Available,1%
@@ -101,7 +101,7 @@ Nézőpont Intézet,,2018-04-13,2018-04-30,National,2000,Provided,Not Available,
 Publicus Research,Vasárnapi Hírek,2018-04-18,2018-04-23,National,995,Provided,Not Available,1%,49%,18%,15%,Not Available,5%,3%,2%,Not Available,1%,Not Available,Not Available,Not Available,4%
 Nézőpont Intézet,,2018-04-01,2018-04-05,National,1000,Estimated/Assumed,Not Available,1%,43%,22%,11%,8%,8%,3%,2%,Not Available,1%,Not Available,Not Available,0%,2%
 Publicus Research,,2018-03-28,2018-04-03,National,1006,Provided,Not Available,1%,45%,20%,19%,5%,7%,2%,0%,Not Available,0%,Not Available,Not Available,0%,2%
-Századvég Alapítvány,,2018-03-01,2018-03-31,National,1000,Provided,Not Available,1%,51%,13%,15%,6%,7%,Not Available,Not Available,Not Available,1%,Not Available,Not Available,Not Available,7%
+Századvég,,2018-03-01,2018-03-31,National,1000,Provided,Not Available,1%,51%,13%,15%,6%,7%,Not Available,Not Available,Not Available,1%,Not Available,Not Available,Not Available,7%
 Medián,hvg.hu,2018-03-23,2018-03-27,National,1200,Provided,Not Available,1%,53%,16%,12%,6%,7%,2%,2%,Not Available,1%,Not Available,Not Available,0%,1%
 Iránytű Intézet,Magyar Nemzet,2018-03-21,2018-03-24,National,1000,Provided,Not Available,1%,41%,25%,12%,7%,8%,3%,2%,Not Available,0%,Not Available,Not Available,0%,2%
 Republikon Intézet,24.hu,2018-03-10,2018-03-23,National,1000,Provided,Not Available,1%,49%,19%,17%,5%,4%,2%,0%,Not Available,2%,Not Available,Not Available,Not Available,2%
@@ -110,12 +110,12 @@ Publicus Research,,2018-03-09,2018-03-14,National,1003,Provided,Not Available,1%
 ZRI Závecz Research,,2018-03-07,2018-03-14,National,1000,Provided,Not Available,1%,47%,19%,13%,8%,6%,3%,2%,Not Available,1%,Not Available,Not Available,Not Available,1%
 Medián,hvg.hu,2018-03-02,2018-03-07,National,1200,Provided,Not Available,1%,54%,16%,12%,9%,5%,2%,0%,Not Available,2%,Not Available,Not Available,Not Available,0%
 Nézőpont Intézet,,2018-03-01,2018-03-05,National,1000,Provided,Not Available,1%,52%,17%,10%,6%,9%,4%,2%,Not Available,0%,Not Available,Not Available,Not Available,0%
-Századvég Alapítvány,,2018-02-26,2018-02-28,National,1000,Provided,Not Available,1%,53%,11%,14%,6%,8%,0%,0%,Not Available,1%,Not Available,Not Available,Not Available,7%
+Századvég,,2018-02-26,2018-02-28,National,1000,Provided,Not Available,1%,53%,11%,14%,6%,8%,0%,0%,Not Available,1%,Not Available,Not Available,Not Available,7%
 ZRI Závecz Research,,2018-02-16,2018-02-28,National,1000,Estimated/Assumed,Not Available,1%,63%,12%,12%,5%,7%,1%,0%,Not Available,1%,Not Available,Not Available,Not Available,0%
 Iránytű Intézet,Magyar Nemzet,2018-02-01,2018-02-28,National,1000,Provided,Not Available,1%,44%,24%,11%,8%,8%,4%,0%,Not Available,0%,Not Available,0%,0%,0%
 Republikon Intézet,24.hu,2018-02-09,2018-02-22,National,1000,Provided,Not Available,1%,48%,19%,17%,6%,5%,0%,0%,Not Available,0%,Not Available,Not Available,Not Available,0%
 Nézőpont Intézet,,2018-02-03,2018-02-21,National,2000,Provided,Not Available,1%,54%,13%,10%,8%,8%,3%,2%,Not Available,1%,Not Available,Not Available,1%,0%
 ZRI Závecz Research,,2018-02-07,2018-02-15,National,1000,Provided,Not Available,1%,51%,17%,13%,8%,6%,2%,0%,Not Available,1%,Not Available,Not Available,0%,0%
 Publicus Research,,2018-02-09,2018-02-14,National,1002,Provided,Not Available,1%,48%,16%,18%,5%,8%,1%,2%,Not Available,0%,Not Available,0%,0%,2%
-Századvég Alapítvány,,2018-02-06,2018-02-13,National,1000,Provided,Not Available,1%,51%,14%,10%,7%,10%,0%,0%,Not Available,1%,Not Available,Not Available,0%,7%
+Századvég,,2018-02-06,2018-02-13,National,1000,Provided,Not Available,1%,51%,14%,10%,7%,10%,0%,0%,Not Available,1%,Not Available,Not Available,0%,7%
 Republikon Intézet,24.hu,2018-01-01,2018-01-31,National,1000,Provided,Not Available,1%,53%,18%,13%,5%,4%,3%,0%,Not Available,2%,Not Available,Not Available,1%,1%
