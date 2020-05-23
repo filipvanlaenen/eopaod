@@ -1,12 +1,13 @@
-Polling firm | Commissioners                                 | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | N-VA | CD&V | VLD  | sp.a | Groen | VB   | PVDA | Other |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2020-03-04      | 2020-03-09    | NE    |  958        | N/A           | 0.1       | 20.7 | 11.7 | 10.3 | 9.6  | 8.8   | 28.0 | 9.3  | N/A   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-11-29      | 2019-12-06    | NE    |  999        | N/A           | 0.1       | 22.1 | 11.4 |  9.9 | 8.9  | 10.7  | 27.3 | 8.4  | 1.3   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-09-02      | 2019-09-10    | NE    | 1000        | N/A           | 0.1       | 22.7 | 11.7 | 13.3 | 8.4  | 11.0  | 24.9 | 6.2  | 1.8   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-05-06      | 2019-05-14    | NE    | 1003        | N/A           | 0.1       | 28.1 | 17.1 | 11.2 | 11.0 | 12.1  | 14.8 | 4.7  | N/A   |
-TNS          | De Standaard, La Libre Belgique, RTBf and VRT | 2019-03-25      | 2019-04-14    | NE    | 1006        | N/A           | 0.1       | 27.9 | 14.7 | 14.2 | 12.7 | 14.6  |  9.3 | 5.9  | N/A   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-02-05      | 2019-02-11    | NE    |  996        | N/A           | 0.1       | 27.4 | 15.0 | 12.7 | 11.0 | 15.6  | 11.1 | 4.9  | N/A   |
-Ipsos        | Het Nieuwsblad                                | 2018-12-13      | 2018-12-17    | NE    | 1000        | N/A           | 0.1       | 30.2 | 15.7 | 11.6 |  9.7 | 13.8  | 12.0 | 5.5  | 1.5   |
-TNS          | De Standaard, La Libre Belgique, RTBf and VRT | 2018-11-19      | 2018-12-08    | NE    | 1038        | N/A           | 0.1       | 28.3 | 18.7 | 17.5 |  9.2 | 16.0  |  7.6 | 2.5  | N/A   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2018-11-27      | 2018-12-03    | NE    |  998        | N/A           | 0.1       | 28.0 | 14.6 | 13.4 | 12.3 | 12.2  | 11.7 | 6.2  | 1.6   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2018-09-20      | 2018-09-27    | NE    | 1000        | N/A           | 0.1       | 25.0 | 17.2 | 12.8 | 12.1 | 14.1  | 11.3 | 4.4  | 3.1   |
-Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2018-05-29      | 2018-06-06    | NE    | 1000        | N/A           | 0.1       | 26.5 | 15.3 | 13.9 | 11.7 | 12.4  |  9.7 | 6.2  | 4.3   |
+Polling firm | Commissioners                                 | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | N-VA | CD&V | VLD  | sp.a | Groen | VB   | PVDA | Other
+TNS          | De Standaard, La Libre Belgique, RTBf and VRT | 2020-04-09      | 2020-04-28    | NE    | 1857        | N/A           | 0.1       | 20.3 | 11.9 | 11.6 | 11.0 | 11.1  | 24.5 | 8.2  | 1.4
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2020-03-04      | 2020-03-09    | NE    | 958         | N/A           | 0.1       | 20.7 | 11.7 | 10.3 | 9.6  | 8.8   | 28.0 | 9.3  | N/A
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-11-29      | 2019-12-06    | NE    | 999         | N/A           | 0.1       | 22.1 | 11.4 | 9.9  | 8.9  | 10.7  | 27.3 | 8.4  | 1.3
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-09-02      | 2019-09-10    | NE    | 1000        | N/A           | 0.1       | 22.7 | 11.7 | 13.3 | 8.4  | 11.0  | 24.9 | 6.2  | 1.8
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-05-06      | 2019-05-14    | NE    | 1003        | N/A           | 0.1       | 28.1 | 17.1 | 11.2 | 11.0 | 12.1  | 14.8 | 4.7  | N/A
+TNS          | De Standaard, La Libre Belgique, RTBf and VRT | 2019-03-25      | 2019-04-14    | NE    | 1006        | N/A           | 0.1       | 27.9 | 14.7 | 14.2 | 12.7 | 14.6  | 9.3  | 5.9  | N/A
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2019-02-05      | 2019-02-11    | NE    | 996         | N/A           | 0.1       | 27.4 | 15.0 | 12.7 | 11.0 | 15.6  | 11.1 | 4.9  | N/A
+Ipsos        | Het Nieuwsblad                                | 2018-12-13      | 2018-12-17    | NE    | 1000        | N/A           | 0.1       | 30.2 | 15.7 | 11.6 | 9.7  | 13.8  | 12.0 | 5.5  | 1.5
+TNS          | De Standaard, La Libre Belgique, RTBf and VRT | 2018-11-19      | 2018-12-08    | NE    | 1038        | N/A           | 0.1       | 28.3 | 18.7 | 17.5 | 9.2  | 16.0  | 7.6  | 2.5  | N/A
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2018-11-27      | 2018-12-03    | NE    | 998         | N/A           | 0.1       | 28.0 | 14.6 | 13.4 | 12.3 | 12.2  | 11.7 | 6.2  | 1.6
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2018-09-20      | 2018-09-27    | NE    | 1000        | N/A           | 0.1       | 25.0 | 17.2 | 12.8 | 12.1 | 14.1  | 11.3 | 4.4  | 3.1
+Ipsos        | Het Laatste Nieuws, Le Soir, RTL TVi and VTM  | 2018-05-29      | 2018-06-06    | NE    | 1000        | N/A           | 0.1       | 26.5 | 15.3 | 13.9 | 11.7 | 12.4  | 9.7  | 6.2  | 4.3
