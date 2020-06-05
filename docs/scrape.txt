@@ -18,7 +18,7 @@ Scraping for: fi
 
 Scraping for: gr
 *···································· (37)
-Opinion Poll | Parashkinio | 2020-06-01 | 2020-06-03 | NE | 1060 | N/A | 0.1 | 24.3 | 50.9 | 2.5 | 6.4 | 5.9 | N/A | N/A | N/A | N/A | N/A | 4.4 | 3.3 | N/A
+Opinion Poll | Paraskhnio | 2020-06-01 | 2020-06-03 | NE | 1060 | N/A | 0.1 | 24.3 | 50.9 | 2.5 | 6.4 | 5.9 | N/A | N/A | N/A | N/A | N/A | 4.4 | 3.3 | N/A
 
 Scraping for: ie
 ······· (7)
