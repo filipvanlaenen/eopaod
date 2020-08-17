@@ -1,5 +1,9 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Other
+Forsa                   | N/A                            | 2020-08-10      | 2020-08-14    | NE    | 2501        | 78.0          | 1         | 36    | 16   | 9    | 6    | 6     | 20    | N/A  | N/A | 7
+Emnid                   | N/A                            | 2020-08-06      | 2020-08-12    | NE    | 1912        | N/A           | 1         | 36    | 18   | 11   | 6    | 8     | 16    | N/A  | N/A | 5
 INSA and YouGov         | N/A                            | 2020-08-11      | 2020-08-11    | NE    | 1012        | N/A           | 1         | 36    | 18   | 11   | 7    | 9     | 15    | N/A  | N/A | 4
+Forsa                   | N/A                            | 2020-08-03      | 2020-08-07    | NE    | 2502        | 78.0          | 1         | 38    | 14   | 8    | 6    | 8     | 18    | N/A  | N/A | 8
+Emnid                   | N/A                            | 2020-07-30      | 2020-08-06    | NE    | 1564        | N/A           | 1         | 38    | 15   | 11   | 6    | 8     | 18    | N/A  | N/A | 4
 Infratest dimap         | N/A                            | 2020-08-03      | 2020-08-05    | NE    | 1511        | N/A           | 1         | 38    | 15   | 11   | 6    | 7     | 18    | N/A  | N/A | 5
 YouGov                  | N/A                            | 2020-07-30      | 2020-08-04    | NE    | 1623        | N/A           | 1         | 36    | 14   | 11   | 6    | 9     | 18    | N/A  | N/A | 6
 INSA and YouGov         | N/A                            | 2020-07-31      | 2020-08-03    | NE    | 2090        | N/A           | 0.5       | 36.5  | 15   | 11   | 6.5  | 8.5   | 16.5  | N/A  | N/A | 6
