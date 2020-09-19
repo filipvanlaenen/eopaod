@@ -42,7 +42,7 @@ Scraping for: no
 
 Scraping for: pl
 ***···*·**··*· (14)
-CBOS |  | 2020-09-07 | 2020-09-17 | NE | 1149 | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 41 | 22 | 5 | 8 | 3 | N/A | N/A | 21
+CBOS |  | 2020-09-07 | 2020-09-17 | NE | 1149 | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 41 | 22 | 5 | 3 | 8 | N/A | N/A | 21
 Social Changes | wPolityce.pl | 2020-09-11 | 2020-09-14 | NE | 1055 | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 42 | 26 | 10 | 7 | 8 | N/A | N/A | 7
 Kantar Public |  | 2020-09-04 | 2020-09-09 | NE | 977 | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 26 | 4 | 4 | 6 | N/A | N/A | 10
 CBOS |  | 2020-08-18 | 2020-08-27 | NE |  | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 44 | 19 | 0.2 | 4 | 3 | N/A | N/A | 2.3
