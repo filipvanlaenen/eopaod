@@ -2,9 +2,18 @@ Scraping for: at
 ················································ (48)
 
 Scraping for: de
-Something unexpected happened:
-undefined method `[]' for nil:NilClass
-["/home/filip/dev/sapor/polls/scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/scraper.rb:163:in `scrape'", "scrape_for_ee.rb:34:in `<main>'"]
+**********·*···························································································································································· (168)
+Forsa | N/A | 2020-09-21 | 2020-09-25 | NE | 2504 | 77.0 | 1 | 35 | 15 | 9 | 6 | 8 | 21 | N/A | N/A | 6
+Emnid | N/A | 2020-09-17 | 2020-09-23 | NE | 1509 | N/A | 1 | 36 | 16 | 11 | 6 | 8 | 18 | N/A | N/A | 5
+YouGov | N/A | 2020-09-19 | 2020-09-21 | NE | 1623 | N/A | 1 | 35 | 15 | 12 | 5 | 9 | 18 | N/A | N/A | 6
+INSA and YouGov | N/A | 2020-09-18 | 2020-09-21 | NE | 2067 | N/A | 0.5 | 35 | 15.5 | 12 | 6.5 | 7.5 | 17.5 | N/A | N/A | 6
+Forsa | N/A | 2020-09-14 | 2020-09-18 | NE | 2501 | 78.0 | 1 | 36 | 14 | 8 | 5 | 8 | 22 | N/A | N/A | 7
+Infratest dimap | N/A | 2020-09-15 | 2020-09-16 | NE | 1051 | N/A | 1 | 36 | 16 | 10 | 5 | 8 | 20 | N/A | N/A | 5
+Forschungsgruppe Wahlen | N/A | 2020-09-14 | 2020-09-16 | NE | 1241 | N/A | 1 | 37 | 17 | 10 | 5 | 7 | 19 | N/A | N/A | 5
+Emnid | N/A | 2020-09-10 | 2020-09-16 | NE | 1534 | N/A | 1 | 36 | 16 | 11 | 5 | 8 | 18 | N/A | N/A | 6
+Allensbach | N/A | 2020-09-04 | 2020-09-16 | NE | 1043 | N/A | 0.5 | 37 | 17 | 9 | 6 | 7 | 19.5 | N/A | N/A | 4.5
+INSA and YouGov | N/A | 2020-09-11 | 2020-09-14 | NE | 2036 | N/A | 0.5 | 35.5 | 16 | 11.5 | 7 | 7.5 | 17 | N/A | N/A | 5.5
+Emnid | N/A | 2020-09-03 | 2020-09-09 | NE | 1446 | N/A | 1 | 36 | 17 | 10 | 6 | 8 | 18 | N/A | N/A | 5
 
 Scraping for: dk
 ·····*·································································· (72)
@@ -46,7 +55,8 @@ Scraping for: nl
 Ipsos | N/A | 2020-09-01 | 2020-09-01 | NE | N/A | N/A | S | 37 | 18 | 16 | 15 | 13 | 11 | 14 | 7 | 5 | 1 | 3 | 1 | 9 | 0 | N/A | N/A | 0
 
 Scraping for: pl
-*··***··*···*·**··*· (20)
+**··***··*···*·**··*· (21)
+Estymator | DoRzeczy.pl | 2020-09-25 | 2020-09-26 | NE | 1014 | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 42.9 | 25.6 | 6.4 | 5.2 | 8.2 | N/A | N/A | 0.3
 Instytut Badań Pollster | SE.pl | 2020-09-21 | 2020-09-22 | NE | 1076 | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 39.3 | 24.2 | 8.3 | 5.7 | 8.5 | N/A | N/A | 4.1
 IBRiS | "Rz" | 2020-09-19 | 2020-09-19 | NE | 1100 | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 36.0 | 21.8 | 6.1 | 3.4 | 8.2 | N/A | N/A | 15.3
 United Survey | RMF | 2020-09-18 | 2020-09-19 | NE | 1000 | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 40.5 | 23.3 | 6.0 | 5.0 | 6.7 | N/A | N/A | 9.4
