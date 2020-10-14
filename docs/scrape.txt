@@ -2,9 +2,7 @@ Scraping for: at
 ················································ (48)
 
 Scraping for: de
-Something unexpected happened:
-undefined method `[]' for nil:NilClass
-["/home/filip/dev/sapor/polls/scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/scraper.rb:163:in `scrape'", "scrape_for_ee.rb:34:in `<main>'"]
+················································································································································································ (176)
 
 Scraping for: dk
 ****·······*·································································· (78)
