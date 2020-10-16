@@ -1,4 +1,6 @@
 Polling firm    | Commissioners                                          | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | R   | SV  | MDG | Ap   | Sp   | V   | KrF | H    | FrP  | Other
+Sentio          | Amedia and Nettavisen                                  | 2020-10-06      | 2020-10-12    | N     | 1000        | N/A           | 0.1       | 3.3 | 6.6 | 4.2 | 20.8 | 19.8 | 3.3 | 3.5 | 23.6 | 13.5 | 1.4
+Norfakta        | Klassekampen and Nationen                              | 2020-10-06      | 2020-10-07    | N     | 1001        | 77.0          | 0.1       | 4.4 | 6.6 | 5.6 | 21.0 | 17.0 | 3.9 | 3.4 | 22.9 | 13.1 | 2.0
 Opinion Perduco | Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse    | 2020-09-29      | 2020-10-04    | N     | 955         | N/A           | 0.1       | 4.6 | 7.3 | 3.1 | 22.0 | 14.2 | 4.2 | 2.9 | 27.4 | 12.5 | 1.8
 Kantar TNS      | TV2                                                    | 2020-09-28      | 2020-10-02    | N     | 974         | 73.2          | 0.1       | 6.1 | 7.2 | 4.7 | 18.4 | 16.2 | 4.3 | 5.1 | 24.0 | 12.8 | 1.1
 Respons Analyse | VG                                                     | 2020-09-28      | 2020-09-30    | N     | 1001        | N/A           | 0.1       | 4.3 | 8.1 | 4.6 | 22.7 | 14.0 | 3.6 | 3.1 | 26.5 | 11.6 | 1.5
