@@ -23,6 +23,7 @@ convert_country fi
 convert_country fr
 convert_country gb-gbn
 convert_country gb-nir
+convert_country ge
 convert_country gl
 convert_country gr
 convert_country hr

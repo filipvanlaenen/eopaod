@@ -17,6 +17,7 @@
 | Estonia                            | [ee.csv](ee.csv), [ee-E.csv](ee-E.csv) and [ee-N.csv](ee-N.csv)                         | [ee.png](ee.png), [ee-E.png](ee-E.png) and [ee-N.png](ee-N.png)                         |
 | Finland                            | [fi.csv](fi.csv), [fi-E.csv](fi-E.csv) and [fi-N.csv](fi-N.csv)                         | [fi.png](fi.png), [fi-E.png](fi-E.png) and [fi-N.png](fi-N.png)                         |
 | France                             | [fr.csv](fr.csv), [fr-E.csv](fr-E.csv) and [fr-N.csv](fr-N.csv)                         | [fr.png](fr.png), [fr-E.png](fr-E.png) and [fr-N.png](fr-N.png)                         |
+| Georgia                            | [ge.csv](ge.csv) and [ge-N.csv](ge-N.csv)                                               | [ge.png](ge.png) and [ge-N.png](ge-N.png)                                               |
 | Germany                            | [de.csv](de.csv), [de-E.csv](de-E.csv) and [de-N.csv](de-N.csv)                         | [de.png](de.png), [de-E.png](de-E.png) and [de-N.png](de-N.png)                         |
 | Greece                             | [gr.csv](gr.csv), [gr-E.csv](gr-E.csv) and [gr-N.csv](gr-N.csv)                         | [gr.png](gr.png), [gr-E.png](gr-E.png) and [gr-N.png](gr-N.png)                         |
 | Greenland                          | [gl.csv](gl.csv) and [gl-N.csv](gl-N.csv)                                               | [gl.png](gl.png) and [gl-N.png](gl-N.png)                                               |
