@@ -46,9 +46,7 @@ Scraping for: pt
 ···································· (36)
 
 Scraping for: ro
-*Something unexpected happened:
-undefined method `delete' for nil:NilClass
-["/home/filip/dev/sapor/polls/scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/scraper.rb:163:in `scrape'", "scrape_for_ee.rb:231:in `<main>'"]
+·············································································· (78)
 
 Scraping for: se
 ··············································································································································· (143)
