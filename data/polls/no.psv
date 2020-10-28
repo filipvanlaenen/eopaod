@@ -1,4 +1,7 @@
 Polling firm    | Commissioners                                          | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | R   | SV  | MDG | Ap   | Sp   | V   | KrF | H    | FrP  | Other
+Norstat         | Aftenposten and NRK                                    | 2020-10-20      | 2020-10-25    | N     | 942         | 75.0          | 0.1       | 3.3 | 7.9 | 4.3 | 23.5 | 14.9 | 3.3 | 3.3 | 25.2 | 12.3 | 2.2
+Ipsos MMI       | Dagbladet                                              | 2020-10-19      | 2020-10-21    | N     | 1000        | 72.6          | 0.1       | 5.4 | 6.3 | 4.7 | 19.5 | 17.8 | 2.6 | 3.7 | 22.3 | 12.7 | 5.0
+Norstat         | Aftenposten and NRK                                    | 2020-10-12      | 2020-10-18    | N     | 962         | N/A           | 0.1       | 4.1 | 6.0 | 3.7 | 23.5 | 16.6 | 3.0 | 3.4 | 24.3 | 13.2 | 2.1
 Sentio          | Amedia and Nettavisen                                  | 2020-10-06      | 2020-10-12    | N     | 1000        | N/A           | 0.1       | 3.3 | 6.6 | 4.2 | 20.8 | 19.8 | 3.3 | 3.5 | 23.6 | 13.5 | 1.4
 Norfakta        | Klassekampen and Nationen                              | 2020-10-06      | 2020-10-07    | N     | 1001        | 77.0          | 0.1       | 4.4 | 6.6 | 5.6 | 21.0 | 17.0 | 3.9 | 3.4 | 22.9 | 13.1 | 2.0
 Opinion Perduco | Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse    | 2020-09-29      | 2020-10-04    | N     | 955         | N/A           | 0.1       | 4.6 | 7.3 | 3.1 | 22.0 | 14.2 | 4.2 | 2.9 | 27.4 | 12.5 | 1.8
