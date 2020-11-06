@@ -94,7 +94,8 @@ undefined method `delete' for nil:NilClass
 ["/home/filip/dev/sapor/polls/scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/scraper.rb:163:in `scrape'", "scrape_for_ee.rb:231:in `<main>'"]
 
 Scraping for: se
-**··············································································································································· (145)
+***··············································································································································· (146)
+Demoskop | N/A | 2020-10-27 | 2020-11-04 | NE | 2200 | N/A | 0.1 | 24.0 | 22.4 | 19.9 | 9.2 | 9.4 | 6.9 | 3.1 | 3.4 | 1.8
 SKOP | N/A | 2020-10-23 | 2020-10-26 | NE | 1000 | N/A | 0.1 | 26.0 | 21.1 | 17.8 | 9.1 | 12.1 | 5.9 | 3.3 | 3.1 | 1.5
 Ipsos | N/A | 2020-10-13 | 2020-10-25 | NE | N/A | N/A | 1 | 25 | 21 | 20 | 9 | 11 | 6 | 3 | 5 | N/A
 
