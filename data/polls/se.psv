@@ -1,4 +1,5 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+Novus        | SVT               | 2020-10-12      | 2020-11-08    | NE    | 3783        | N/A           | 0.1       | 26.4 | 22.0 | 19.4 | 8.6  | 10.6 | 5.0  | 2.7 | 3.9  | 1.4
 Demoskop     | N/A               | 2020-10-27      | 2020-11-04    | NE    | 2200        | N/A           | 0.1       | 24.0 | 22.4 | 19.9 | 9.2  | 9.4  | 6.9  | 3.1 | 3.4  | 1.8
 SKOP         | N/A               | 2020-10-23      | 2020-10-26    | NE    | 1000        | N/A           | 0.1       | 26.0 | 21.1 | 17.8 | 9.1  | 12.1 | 5.9  | 3.3 | 3.1  | 1.5
 Ipsos        | Dagens Nyheter    | 2020-10-13      | 2020-10-25    | NE    | N/A         | N/A           | 1         | 25   | 21   | 20   | 9    | 11   | 6    | 3   | 5    | N/A
