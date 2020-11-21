@@ -25,7 +25,8 @@ Scraping for: ie
 ·················· (18)
 
 Scraping for: is
- (0)
+oo·······*················································································- (91)
+Gallup | N/A | 2020-07-31 | 2020-07-31 | N | N/A | N/A | 0.1 | 23.2 | 10.9 | 14.8 | 10.6 | 7.6 | 13.9 | 4.3 | 10.8 | 3.8 | 0.1
 
 Scraping for: it
 ······················································································································································································································································································ (278)
@@ -47,7 +48,7 @@ Scraping for: pt
 Scraping for: ro
 ·*Something unexpected happened:
 undefined method `delete' for nil:NilClass
-["/home/filip/dev/sapor/polls/scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/scraper.rb:163:in `scrape'", "scrape_for_ee.rb:232:in `<main>'"]
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:242:in `<main>'"]
 
 Scraping for: se
 *·····*····*··········································································································································· (151)
