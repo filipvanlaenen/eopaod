@@ -10,6 +10,9 @@ oo·-····/ (9)
 Scraping for: be-wal
 oo·-····/ (9)
 
+Scraping for: bg
+oo····································-- (40)
+
 Scraping for: de
 ················································································································································································································· (209)
 
@@ -72,7 +75,7 @@ Scraping for: pt
 Scraping for: ro
 *Something unexpected happened:
 undefined method `delete' for nil:NilClass
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:365:in `<main>'"]
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:398:in `<main>'"]
 
 Scraping for: se
 ··*····················································································································································· (152)
