@@ -90,11 +90,9 @@ Scraping for: pt
 Aximage | N/A | 2020-11-23 | 2020-11-26 | NE | 647 | N/A | 0.1 | 23.9 | 37.2 | 7.9 | 1.0 | 5.8 | 6.5 | N/A | 2.2 | N/A | 7.5 | 8.0
 
 Scraping for: ro
-**····*··*·············································································· (88)
-PMP | N/A | 2020-11-01 | 2020-11-30 | NE | N/A | N/A | 1 | 31.0 | 6.0 | 21.0 | 28.0 | 5.0 | N/A | 6.0 | 3.0 | N/A | 3.0
-PRO | N/A | 2020-11-30 | 2020-11-30 | NE | N/A | N/A | 0.1 | 22.0 | 3.0 | 17.0 | 31.0 | 7.8 | N/A | 5.0 | 14.2 | N/A | 9.0
-PNL | N/A | 2020-11-09 | 2020-11-09 | NE | N/A | N/A | 1 | 27.0 | 6.0 | 21.0 | 32.0 | 5.0 | N/A | 6.0 | 3.0 | N/A | 5.0
-USR–PLUS | N/A | 2020-10-09 | 2020-10-17 | NE | N/A | N/A | 1 | 23 | 5 | 23 | 30 | 8 | N/A | 5 | 6 | N/A | 7
+*Something unexpected happened:
+undefined method `delete' for nil:NilClass
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:399:in `<main>'"]
 
 Scraping for: se
 ··*····················································································································································· (152)
