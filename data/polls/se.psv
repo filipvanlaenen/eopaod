@@ -1,4 +1,6 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+Sentio       | Nyheter Idag      | 2020-12-11      | 2020-12-14    | NE    | (789)       | N/A           | 0.1       | 24.1 | 22.1 | 23.2 | 6.0  | 11.3 | 4.8  | 2.6 | 3.2  | N/A
+SKOP         | N/A               | 2020-11-30      | 2020-12-03    | NE    | 1004        | N/A           | 0.1       | 26.1 | 21.8 | 18.2 | 8.5  | 11.2 | 6.5  | 2.7 | 4.0  | 1.0
 Ipsos        | Dagens Nyheter    | 2020-12-01      | 2020-12-13    | NE    | 1531        | N/A           | 1         | 26   | 23   | 20   | 7    | 11   | 5    | 3   | 5    | N/A
 Sifo         | N/A               | 2020-11-30      | 2020-12-10    | NE    | 7349        | N/A           | 0.1       | 27.8 | 21.7 | 18.9 | 7.7  | 10.3 | 5.4  | 3.0 | 3.7  | 1.6
 Novus        | SVT               | 2020-11-09      | 2020-12-06    | NE    | 3813        | N/A           | 0.1       | 28.0 | 21.7 | 18.5 | 8.2  | 9.7  | 5.4  | 2.7 | 4.1  | 1.7
