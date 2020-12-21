@@ -17,8 +17,7 @@ Scraping for: de
 ······························································································································································································································ (222)
 
 Scraping for: dk
-*····························*·································································· (96)
-Voxmeter | N/A | 2020-12-07 | 2020-12-12 | NE | 1029 | N/A | 0.1 | 32.9 | 5.4 | 18.9 | 7.4 | 2.2 | 0.6 | 7.0 | 7.4 | 10.4 | 1.4 | 5.9 | N/A | N/A | 0.2 | 0.3
+·····························*·································································· (96)
 Gallup | N/A | 2020-08-13 | 2020-08-13 | NE | 1505 | N/A | 0.1 | 30.3 | 7.6 | 19.0 | 7.3 | 2.4 | 0.4 | 7.5 | 7.6 | 9.1 | 1.5 | 6.5 | 0.1 | 0.4 | N/A | 0.3
 
 Scraping for: ee
@@ -37,7 +36,9 @@ Opinion Poll | N/A | 2020-11-14 | 2020-11-16 | NE | 1000 | N/A | 0.1 | 24.4 | 48
 Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 | 47.9 | N/A | 6.9 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.7 | 3.4 | N/A
 
 Scraping for: hu
-································································································································ (128)
+*Something unexpected happened:
+undefined method `delete' for nil:NilClass
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:305:in `block in parse_shares'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:305:in `map'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:305:in `parse_shares'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:361:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:254:in `<main>'"]
 
 Scraping for: ie
 ····················· (21)
@@ -68,7 +69,8 @@ Scraping for: pl
 oo··=·······=- (14)
 
 Scraping for: pt
-··········································· (43)
+*··········································· (44)
+Intercampus | N/A | 2020-12-14 | 2020-12-18 | NE | 603 | N/A | 0.1 | 23.6 | 38.0 | 7.3 | 3.2 | 5.4 | 3.4 | 0.9 | 4.5 | N/A | 7.7 | 6.0
 
 Scraping for: se
 ·········*····················································································································································· (159)
