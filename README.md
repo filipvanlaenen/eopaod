@@ -2,6 +2,11 @@
 
 This GitHub repository provides European opinion polls as open data.
 
+Read the article
+[How “Simple Things” Quickly Become Complicated in Software Development](https://medium.com/grensesnittet/how-simple-things-quickly-become-complicated-in-software-development-9cf52233226d).
+to get some background information about the challenges to store opinion polls
+in tables.
+
 ## Instructions for How to Contribute
 
 In general, do a `pull` before you start editing a country poll file, so you get

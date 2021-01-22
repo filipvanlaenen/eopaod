@@ -67,3 +67,8 @@ The format of the CSV files is as follows:
 * Precision: Either a percentage for the precision of the results, or `Seats` if the results are given in terms of seats
 * Party Names: As a percentage, number of seats, or `Not Available` if not available
 * Other: As a percentage, number of seats, or `Not Available` if not available
+
+Read the article
+[How “Simple Things” Quickly Become Complicated in Software Development](https://medium.com/grensesnittet/how-simple-things-quickly-become-complicated-in-software-development-9cf52233226d).
+to get some background information about the challenges to store opinion polls
+in tables.
