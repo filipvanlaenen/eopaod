@@ -69,6 +69,6 @@ The format of the CSV files is as follows:
 * Other: As a percentage, number of seats, or `Not Available` if not available
 
 Read the article
-[How “Simple Things” Quickly Become Complicated in Software Development](https://medium.com/grensesnittet/how-simple-things-quickly-become-complicated-in-software-development-9cf52233226d).
+[How “Simple Things” Quickly Become Complicated in Software Development](https://medium.com/grensesnittet/how-simple-things-quickly-become-complicated-in-software-development-9cf52233226d)
 to get some background information about the challenges to store opinion polls
 in tables.
