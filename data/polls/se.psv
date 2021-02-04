@@ -1,4 +1,7 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+Sentio       | Nyheter Idag      | 2021-01-28      | 2021-01-31    | NE    | 1000        | N/A           | 0.1       | 26.3 | 20.7 | 23.3 | 5.8  | 10.7 | 5.2  | 2.2 | 3.6  | 2.2
+Novus        | SVT               | 2021-01-11      | 2021-01-31    | NE    | 2887        | N/A           | 0.1       | 26.9 | 23.1 | 18.1 | 8.5  | 10.8 | 4.7  | 2.7 | 4.1  | N/A
+Ipsos        | Dagens Nyheter    | 2021-01-13      | 2021-01-25    | NE    | 1531        | N/A           | 1         | 27   | 22   | 19   | 8    | 10   | 5    | 3   | 4    | N/A
 Sifo         | N/A               | 2021-01-11      | 2021-01-21    | NE    | 6947        | N/A           | 0.1       | 27.6 | 22.4 | 18.6 | 8.1  | 10.0 | 4.9  | 3.2 | 3.7  | 1.6
 Demoskop     | N/A               | 2020-12-29      | 2021-01-11    | NE    | 2095        | N/A           | 0.1       | 23.0 | 23.2 | 19.5 | 9.2  | 9.9  | 5.9  | 2.3 | 5.0  | 2.1
 Novus        | SVT               | 2020-12-07      | 2021-01-10    | NE    | 2715        | N/A           | 0.1       | 28.5 | 21.8 | 19.4 | 8.3  | 9.5  | 4.6  | 2.6 | 4.0  | 1.3
