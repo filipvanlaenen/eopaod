@@ -1,7 +1,15 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Union,SPD,Alternative für Deutschland,FDP,DIE LINKE,BÜNDNIS 90/DIE GRÜNEN,CDU,CSU,Piratenpartei Deutschland,Other
-INSA and YouGov,Bild,2021-01-22,2021-01-25,National,2038,Provided,Not Available,0.5%,35%,16%,10%,8%,8%,17%,Not Available,Not Available,Not Available,Not Available
+Infratest dimap,,2021-02-01,2021-02-03,National,1503,Provided,Not Available,1%,34%,15%,10%,8%,6%,21%,Not Available,Not Available,Not Available,6%
+YouGov,,2021-01-29,2021-02-01,National,2035,Provided,Not Available,1%,36%,15%,10%,7%,9%,18%,Not Available,Not Available,Not Available,5%
+INSA and YouGov,,2021-01-29,2021-02-01,National,2044,Provided,Not Available,0.5%,Not Available,15%,11%,8%,7.5%,17%,29%,7.5%,Not Available,5%
+Forsa,,2021-01-26,2021-02-01,National,2503,Provided,77.0%,1%,37%,15%,8%,6%,8%,19%,Not Available,Not Available,Not Available,7%
+Forschungsgruppe Wahlen,,2021-01-25,2021-01-27,National,1371,Provided,Not Available,1%,37%,15%,9%,6%,7%,20%,Not Available,Not Available,Not Available,6%
+Emnid,,2021-01-21,2021-01-27,National,1427,Provided,Not Available,1%,36%,15%,9%,7%,8%,19%,Not Available,Not Available,Not Available,6%
+INSA and YouGov,Bild,2021-01-22,2021-01-25,National,2038,Provided,Not Available,0.5%,Not Available,16%,10%,8%,8%,17%,28%,7%,Not Available,6%
+Forsa,,2021-01-18,2021-01-25,National,3005,Provided,77.0%,1%,37%,15%,9%,7%,7%,18%,Not Available,Not Available,Not Available,7%
 Emnid,,2021-01-14,2021-01-20,National,1922,Provided,Not Available,1%,35%,15%,9%,7%,8%,20%,Not Available,Not Available,Not Available,6%
 Infratest dimap,,2021-01-18,2021-01-20,National,1027,Provided,Not Available,1%,34%,15%,10%,7%,6%,21%,Not Available,Not Available,Not Available,7%
+Allensbach,,2021-01-10,2021-01-20,National,1080,Provided,Not Available,0.5%,37%,16%,9%,6.5%,7.5%,20%,Not Available,Not Available,Not Available,4%
 INSA and YouGov,,2021-01-17,2021-01-18,National,1835,Provided,Not Available,1%,Not Available,15%,11%,9%,8%,17%,28%,7%,Not Available,5%
 Forsa,,2021-01-16,2021-01-17,National,2014,Provided,76.0%,1%,35%,15%,9%,7%,8%,19%,Not Available,Not Available,Not Available,7%
 Forsa,,2021-01-11,2021-01-15,National,2504,Provided,76.0%,1%,36%,15%,9%,6%,7%,20%,Not Available,Not Available,Not Available,7%
