@@ -48,7 +48,6 @@ Expected header text “DK” at position 8, but found “”.
 Expected header text “LMP” at position 9, but found “”.
 Expected header text “MM” at position 10, but found “”.
 Expected header text “MKKP” at position 11, but found “”.
-Expected header text “Our Homeland” at position 12, but found “”.
 oo······················································-················-······························································- (137)
 
 Scraping for: ie
