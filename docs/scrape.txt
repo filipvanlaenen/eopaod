@@ -11,6 +11,7 @@ Scraping for: be-wal
 oo··-····- (10)
 
 [31mScraping for: bg
+Expected header text “IS.BG” at position 12, but found “ISMV”.
 oo············/·································---= (52)
 
 [0mScraping for: de
