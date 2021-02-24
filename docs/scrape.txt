@@ -48,7 +48,8 @@ Expected header text “DK” at position 8, but found “”.
 Expected header text “LMP” at position 9, but found “”.
 Expected header text “MM” at position 10, but found “”.
 Expected header text “MKKP” at position 11, but found “”.
-oo·······················································-················-······························································- (138)
+oo*······················································-················-······························································- (138)
+ZRI Závecz Research | N/A | 2021-02-14 | 2021-02-19 | NE | 1000 | N/A | 1 | 47 | 12 | N/A | 18 | 3 | 9 | 1 | 1 | N/A | 8 | 1 | N/A | N/A | 0
 
 Scraping for: ie
 ························ (24)
