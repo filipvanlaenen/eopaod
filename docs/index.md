@@ -25,6 +25,7 @@
 | Iceland                            | [is.csv](is.csv) and [is-N.csv](is-N.csv)                                               | [is.png](is.png) and [is-N.png](is-N.png)                                               |
 | Ireland                            | [ie.csv](ie.csv), [ie-E.csv](ie-E.csv) and [ie-N.csv](ie-N.csv)                         | [ie.png](ie.png), [ie-E.png](ie-E.png) and [ie-N.png](ie-N.png)                         |
 | Italy                              | [it.csv](it.csv), [it-E.csv](it-E.csv) and [it-N.csv](it-N.csv)                         | [it.png](it.png), [it-E.png](it-E.png) and [it-N.png](it-N.png)                         |
+| Kosovo                             | [xk.csv](xk.csv) and [xk-N.csv](xk-N.csv)                                               | [xk.png](xk.png) and [xk-N.png](xk-N.png)                                               |
 | Latvia                             | [lv.csv](lv.csv), [lv-E.csv](lv-E.csv) and [lv-N.csv](lv-N.csv)                         | [lv.png](lv.png), [lv-E.png](lv-E.png) and [lv-N.png](lv-N.png)                         |
 | Liechtenstein                      |
 | Lithuania                          | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv)                         | [lt.png](lt.png), [lt-E.png](lt-E.png) and [lt-N.png](lt-N.png)                         |
