@@ -11,11 +11,6 @@ Scraping for: be-wal
 oo···-····- (11)
 
 [31mScraping for: bg
-Expected header text “DPS” at position 7, but found “ITN”.
-Expected header text “OP” at position 8, but found “DPS”.
-Expected header text “Volya” at position 10, but found “ISMV”.
-Expected header text “ITN” at position 11, but found “OP”.
-Expected header text “ISMV” at position 12, but found “Volya”.
 oo··/·············/·································---= (56)
 
 [0mScraping for: de
