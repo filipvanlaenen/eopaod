@@ -1,4 +1,5 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Piraten | Other
+Infratest dimap         | N/A                            | 2021-03-15      | 2021-03-17    | NE    | 1207        | N/A           | 1         | 29    | 17   | 11   | 9    | 7     | 20    | N/A  | N/A | N/A     | 7
 INSA and YouGov         | N/A                            | 2021-03-12      | 2021-03-15    | NE    | 2068        | N/A           | 0.5       | N/A   | 17   | 11.5 | 10.5 | 8     | 17    | 24   | 5.5 | N/A     | 6.5
 Forsa                   | N/A                            | 2021-03-09      | 2021-03-15    | NE    | 2501        | 78.0          | 1         | 29    | 16   | 10   | 8    | 8     | 21    | N/A  | N/A | N/A     | 8
 Emnid                   | N/A                            | 2021-03-04      | 2021-03-10    | NE    | 2378        | N/A           | 1         | 31    | 16   | 11   | 8    | 8     | 19    | N/A  | N/A | N/A     | 7
