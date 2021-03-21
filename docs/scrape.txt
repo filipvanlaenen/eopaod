@@ -18,10 +18,8 @@ oo·······································
 
 Scraping for: de
 Expected header text “Fieldwork date” at position 2, but found “Date”.
-Expected header text “Union” at position 5, but found “CDU/
-CSU”.
-oo**··············································· (51)
-Forsa | N/A | 2021-03-19 | 2021-03-21 | NE | 2069 | N/A | 1 | 25 | 20 | 10 | 8 | 9 | 22 | N/A | N/A | N/A | 6
+oo**···············································- (52)
+Forsa | N/A | 2021-03-19 | 2021-03-21 | NE | 2069 | N/A | 1 | 26 | 20 | 10 | 8 | 9 | 21 | N/A | N/A | N/A | 6
 INSA and YouGov | N/A | 2021-03-19 | 2021-03-19 | NE | 1042 | N/A | 1 | 28 | 18 | 11 | 10 | 8 | 20 | N/A | N/A | N/A | 5
 
 Scraping for: dk
