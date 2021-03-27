@@ -63,6 +63,7 @@ COUNTRY_NAMES = { 'at' => 'Austria',
                   'se' => 'Sweden',
                   'si' => 'Slovenia',
                   'sk' => 'Slovakia',
+                  'tr' => 'Turkey',
                   'ua' => 'Ukraine',
                   'xk' => 'Kosovo' }
 

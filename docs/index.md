@@ -45,6 +45,7 @@
 | Spain                              | [es.csv](es.csv), [es-E.csv](es-E.csv) and [es-N.csv](es-N.csv)                         | [es.png](es.png), [es-E.png](es-E.png) and [es-N.png](es-N.png)                         |
 | Sweden                             | [se.csv](se.csv), [se-E.csv](se-E.csv) and [se-N.csv](se-N.csv)                         | [se.png](se.png), [se-E.png](se-E.png) and [se-N.png](se-N.png)                         |
 | Switzerland                        |
+| Turkey                             | [tr.csv](tr.csv) and [tr-N.csv](tr-N.csv)                                               | [tr.png](tr.png) and [tr-N.png](tr-N.png)                                               |
 | Ukraine                            | [ua.csv](ua.csv) and [ua-N.csv](ua-N.csv)                                               | [ua.png](ua.png) and [ua-N.png](ua-N.png)                                               |
 | United Kingdom: Great Britain      | [gb-gbn.csv](gb-gbn.csv), [gb-gbn-E.csv](gb-gbn-E.csv) and [gb-gbn-N.csv](gb-gbn-N.csv) | [gb-gbn.png](gb-gbn.png), [gb-gbn-E.png](gb-gbn-E.png) and [gb-gbn-N.png](gb-gbn-N.png) |
 | United Kingdom: Northern Ireland   | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
