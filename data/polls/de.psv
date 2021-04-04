@@ -1,8 +1,8 @@
 Polling firm            | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Piraten | Other
-Emnid                   | N/A                            | 2021-03-25      | 2021-03-31    | NE    | 1429        | N/A           | 1         | 26    | 16   | 10   | 9    | 9     | 23    | N/A  | N/A | N/A     | 7
-Infratest dimap         | N/A                            | 2021-03-29      | 2021-03-30    | NE    | 1348        | N/A           | 1         | 27    | 16   | 11   | 9    | 7     | 22    | N/A  | N/A | N/A     | 8
+Infratest dimap         | ARD                            | 2021-03-29      | 2021-03-30    | NE    | 1348        | N/A           | 1         | 27    | 16   | 11   | 9    | 7     | 22    | N/A  | N/A | N/A     | 8
 INSA and YouGov         | N/A                            | 2021-03-26      | 2021-03-29    | NE    | 3049        | N/A           | 0.5       | N/A   | 18   | 11   | 10.5 | 7     | 21    | 19   | 7   | N/A     | 6.5
-YouGov                  | N/A                            | 2021-03-25      | 2021-03-29    | NE    | 1637        | N/A           | 1         | 27    | 17   | 11   | 10   | 8     | 21    | N/A  | N/A | N/A     | 6
+Kantar                  | BamS                           | 2021-03-25      | 2021-03-31    | NE    | 1429        | N/A           | 1         | 26    | 16   | 10   | 9    | 9     | 23    | N/A  | N/A | N/A     | 7
+YouGov                  | N/A                            | 2021-03-25      | 2021-03-29    | NE    | 2054        | N/A           | 1         | 27    | 17   | 11   | 10   | 8     | 21    | N/A  | N/A | N/A     | 6
 GMS                     | N/A                            | 2021-03-24      | 2021-03-29    | NE    | 1003        | N/A           | 1         | 26    | 16   | 11   | 11   | 8     | 21    | N/A  | N/A | N/A     | 7
 Forsa                   | N/A                            | 2021-03-23      | 2021-03-29    | NE    | 2503        | 78.0          | 1         | 27    | 15   | 11   | 10   | 7     | 23    | N/A  | N/A | N/A     | 7
 Forschungsgruppe Wahlen | N/A                            | 2021-03-23      | 2021-03-25    | NE    | 1030        | 75.0          | 1         | 28    | 15   | 12   | 9    | 7     | 23    | N/A  | N/A | N/A     | 6
