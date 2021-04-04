@@ -1,8 +1,8 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Union,SPD,Alternative für Deutschland,FDP,DIE LINKE,BÜNDNIS 90/DIE GRÜNEN,CDU,CSU,Piratenpartei Deutschland,Other
-Emnid,,2021-03-25,2021-03-31,National,1429,Provided,Not Available,1%,26%,16%,10%,9%,9%,23%,Not Available,Not Available,Not Available,7%
-Infratest dimap,,2021-03-29,2021-03-30,National,1348,Provided,Not Available,1%,27%,16%,11%,9%,7%,22%,Not Available,Not Available,Not Available,8%
+Infratest dimap,ARD,2021-03-29,2021-03-30,National,1348,Provided,Not Available,1%,27%,16%,11%,9%,7%,22%,Not Available,Not Available,Not Available,8%
 INSA and YouGov,,2021-03-26,2021-03-29,National,3049,Provided,Not Available,0.5%,Not Available,18%,11%,10.5%,7%,21%,19%,7%,Not Available,6.5%
-YouGov,,2021-03-25,2021-03-29,National,1637,Provided,Not Available,1%,27%,17%,11%,10%,8%,21%,Not Available,Not Available,Not Available,6%
+Kantar,BamS,2021-03-25,2021-03-31,National,1429,Provided,Not Available,1%,26%,16%,10%,9%,9%,23%,Not Available,Not Available,Not Available,7%
+YouGov,,2021-03-25,2021-03-29,National,2054,Provided,Not Available,1%,27%,17%,11%,10%,8%,21%,Not Available,Not Available,Not Available,6%
 GMS,,2021-03-24,2021-03-29,National,1003,Provided,Not Available,1%,26%,16%,11%,11%,8%,21%,Not Available,Not Available,Not Available,7%
 Forsa,,2021-03-23,2021-03-29,National,2503,Provided,78.0%,1%,27%,15%,11%,10%,7%,23%,Not Available,Not Available,Not Available,7%
 Forschungsgruppe Wahlen,,2021-03-23,2021-03-25,National,1030,Provided,75.0%,1%,28%,15%,12%,9%,7%,23%,Not Available,Not Available,Not Available,6%
