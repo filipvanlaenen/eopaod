@@ -5,7 +5,6 @@ Scraping for: be-bru
 oo···-····- (11)
 
 Scraping for: be-vlg
-Expected header text “sp.a” at position 9, but found “Vooruit”.
 oo···-····- (11)
 
 Scraping for: be-wal
