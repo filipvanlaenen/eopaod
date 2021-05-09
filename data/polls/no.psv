@@ -1,5 +1,7 @@
 Polling firm    | Commissioners                                          | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | R   | SV  | MDG | Ap   | Sp   | V   | KrF | H    | FrP  | Other
+Norfakta        | Klassekampen and Nationen                              | 2021-05-04      | 2021-05-05    | N     | 1000        | N/A           | 0.1       | 4.2 | 8.0 | 3.8 | 24.4 | 14.8 | 3.9 | 3.9 | 23.9 | 10.0 | 3.1
 Norstat         | Aftenposten and NRK                                    | 2021-04-27      | 2021-05-03    | N     | 958         | N/A           | 0.1       | 4.4 | 8.8 | 4.0 | 23.1 | 17.5 | 3.1 | 4.2 | 21.1 | 11.3 | 2.4
+Kantar TNS      | TV2                                                    | 2021-04-26      | 2021-04-30    | N     | 976         | N/A           | 0.1       | 4.6 | 8.1 | 2.1 | 21.1 | 18.4 | 4.1 | 4.5 | 24.3 | 8.6  | 4.1
 Ipsos MMI       | Dagbladet                                              | 2021-04-26      | 2021-04-28    | N     | 1000        | 73.0          | 0.1       | 4.5 | 8.5 | 3.9 | 23.5 | 17.5 | 3.7 | 4.0 | 20.4 | 9.5  | 4.5
 Norstat         | Vårt Land                                              | 2021-04-20      | 2021-04-24    | N     | 963         | N/A           | 0.1       | 3.7 | 7.4 | 3.6 | 25.6 | 17.8 | 3.1 | 3.8 | 21.8 | 10.0 | 3.2
 Norstat         | NRK                                                    | 2021-04-07      | 2021-04-20    | N     | 11413       | N/A           | 0.1       | 3.7 | 7.0 | 3.9 | 23.3 | 17.1 | 2.9 | 3.4 | 24.7 | 11.1 | 3.0
