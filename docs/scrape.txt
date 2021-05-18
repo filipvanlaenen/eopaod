@@ -86,8 +86,9 @@ Opinion Perduco | N/A | 2021-05-13 | 2021-05-13 | N | N/A | N/A | 0.1 | 4.4 | 9.
 ····································································· (69)
 
 Scraping for: se
-·································*····················································································································································· (183)
-Sifo | N/A | 2020-11-02 | 2020-11-12 | NE | 6825 | N/A | 0.1 | 27.0 | 20.8 | 19.9 | 7.6 | 10.2 | 5.7 | 3.2 | 4.2 | 1.4
+Something unexpected happened:
+undefined method `[]' for nil:NilClass
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:467:in `<main>'"]
 
 Scraping for: pl
 oo*******=***Could not parse period “30.1”.
