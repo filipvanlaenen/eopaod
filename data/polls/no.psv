@@ -1,4 +1,6 @@
 Polling firm    | Commissioners                                          | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | R   | SV  | MDG | Ap   | Sp   | V   | KrF | H    | FrP  | Other
+Norstat         | Vårt Land                                              | 2021-05-18      | 2021-05-25    | N     | 967         | N/A           | 0.1       | 4.9 | 7.5 | 2.6 | 25.0 | 16.2 | 2.7 | 3.6 | 23.7 | 9.9  | 4.0
+Norstat         | Dagens Næringsliv                                      | 2021-05-20      | 2021-05-24    | N     | 999         | N/A           | 0.1       | 3.9 | 7.8 | 5.3 | 24.5 | 16.2 | 3.2 | 2.9 | 22.8 | 10.9 | 2.6
 Sentio          | Amedia and Nettavisen                                  | 2021-05-11      | 2021-05-16    | N     | 1000        | N/A           | 0.1       | 4.6 | 7.3 | 5.1 | 25.3 | 14.6 | 3.4 | 3.8 | 22.1 | 12.0 | 1.7
 Opinion Perduco | Avisenes Nyhetsbyrå, Dagsavisen and FriFagbevegelse    | 2021-05-13      | 2021-05-13    | N     | (942)       | N/A           | 0.1       | 4.4 | 9.3 | 5.0 | 25.6 | 16.3 | 3.3 | 4.1 | 22.0 | 8.7  | 1.4
 Respons Analyse | VG                                                     | 2021-05-05      | 2021-05-10    | N     | 1001        | N/A           | 0.1       | 4.0 | 8.0 | 4.2 | 21.5 | 18.3 | 3.6 | 4.1 | 22.0 | 10.8 | 3.5
