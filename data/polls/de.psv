@@ -1,4 +1,8 @@
 Polling firm                 | Commissioners                  | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Union | SPD  | AfD  | FDP  | Linke | Grüne | CDU  | CSU | Piraten | Other
+Kantar                       | N/A                            | 2021-05-19      | 2021-05-25    | NE    | 1422        | N/A           | 1         | 25    | 15   | 12   | 12   | 7     | 23    | N/A  | N/A | N/A     | 6
+Ipsos                        | N/A                            | 2021-05-18      | 2021-05-25    | NE    | 2014        | N/A           | 1         | 25    | 13   | 13   | 11   | 9     | 23    | N/A  | N/A | N/A     | 6
+YouGov                       | N/A                            | 2021-05-21      | 2021-05-24    | NE    | 1706        | N/A           | 1         | 26    | 15   | 11   | 12   | 7     | 22    | N/A  | N/A | N/A     | 7
+Forsa                        | N/A                            | 2021-05-18      | 2021-05-21    | NE    | 2004        | 76.0          | 1         | 24    | 14   | 10   | 13   | 6     | 25    | N/A  | N/A | N/A     | 8
 Forschungsgruppe Wahlen      | N/A                            | 2021-05-18      | 2021-05-20    | NE    | 1229        | N/A           | 1         | 24    | 14   | 11   | 11   | 7     | 25    | N/A  | N/A | N/A     | 8
 Kantar                       | N/A                            | 2021-05-11      | 2021-05-18    | NE    | 1445        | N/A           | 1         | 26    | 14   | 11   | 11   | 8     | 24    | N/A  | N/A | N/A     | 6
 INSA and YouGov              | N/A                            | 2021-05-14      | 2021-05-17    | NE    | 2023        | N/A           | 0.5       | N/A   | 16   | 11   | 12.5 | 6.5   | 23    | 20.5 | 5   | N/A     | 5.5
