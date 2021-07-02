@@ -1,5 +1,7 @@
 Scraping for: at
-oo·······················································································- (90)
+oo**·······················································································- (92)
+Unique Research | N/A | 2021-06-28 | 2021-07-01 | NE | 800 | N/A | 1 | 35 | 22 | 17 | 12 | N/A | 13 | N/A | N/A | 1
+Research Affairs | N/A | 2021-06-28 | 2021-07-01 | NE | 508 | N/A | 1 | 34 | 22 | 16 | 12 | N/A | 11 | N/A | N/A | 5
 
 Scraping for: be-bru
 oo····-····- (12)
@@ -40,6 +42,7 @@ Opinion Poll | N/A | 2020-11-14 | 2020-11-16 | NE | 1000 | N/A | 0.1 | 24.4 | 48
 Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 | 47.9 | N/A | 6.9 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.7 | 3.4 | N/A
 
 Scraping for: hu
+Expected header text “United Opposition” at position 5, but found “United  Opposition”.
 Expected header text “Mi Hazánk” at position 7, but found “Our Homeland”.
 oo·························//····/ (34)
 
@@ -80,4 +83,4 @@ Sentio | N/A | 2021-05-18 | 2021-05-21 | NE | N/A | N/A | 0.1 | 25.2 | 21.2 | 19
 Sifo | N/A | 2020-11-02 | 2020-11-12 | NE | 6825 | N/A | 0.1 | 27.0 | 20.8 | 19.9 | 7.6 | 10.2 | 5.7 | 3.2 | 4.2 | 1.4
 
 Scraping for: pl
-oo*=**=*···=··*·-·-···=···········=··Could not parse period “29.6”.
+oo*Could not parse period “30.3”.
