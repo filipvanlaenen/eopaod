@@ -47,9 +47,9 @@ Expected header text “Mi Hazánk” at position 12, but found “Our Homeland�
 oo······································································-················-······························································- (153)
 
 [0mScraping for: ie
-*Something unexpected happened:
-undefined method `delete' for nil:NilClass
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:298:in `parse_share'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:362:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:345:in `<main>'"]
+**····································· (39)
+Ireland Thinks | Irish Mail on Sunday | 2021-07-17 | 2021-07-17 | NE | 1001 | N/A | 1 | 25 | 14 | 30 | 7 | 4 | 5 | 4 | 4 | N/A | N/A | 7
+Behavoir and Attiitudes | The Sunday Times | 2021-07-13 | 2021-07-13 | NE | 1001 | N/A | 1 | 25 | 20 | 30 | 5 | 3 | 1 | 5 | 1 | N/A | N/A | 10
 
 [31mScraping for: is
 oo-····························~················································································- (113)
