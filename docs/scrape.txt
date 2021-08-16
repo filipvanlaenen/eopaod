@@ -83,6 +83,7 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “Others /Don't know”.
-oo*- (4)
+oo**- (5)
+Instytut Badań Pollster | TVP Info | 2021-08-16 | 2021-08-16 | NE | N/A | N/A | 0.1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | 0.8 | 26 | 8 | 1 | N/A | N/A | 8 | 18
 Kantar | N/A | 2021-08-13 | 2021-08-13 | NE | 800 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 26 | N/A | 26 | 10 | 0 | N/A | N/A | 7 | 17
 
