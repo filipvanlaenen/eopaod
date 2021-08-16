@@ -70,6 +70,9 @@ oo·······································
 Sifo | N/A | 2020-11-02 | 2020-11-12 | NE | 6825 | N/A | 0.1 | 27.0 | 20.8 | 19.9 | 7.6 | 10.2 | 5.7 | 3.2 | 4.2 | 1.4
 
 Scraping for: pl
+Expected header text “Polling Firm/Link” at position 1, but found “Polling firm/Link”.
+Expected header text “FieldworkPeriod” at position 2, but found “Fieldworkdate”.
+Expected header text “SampleSize” at position 3, but found “Samplesize”.
 Expected header text “CivicCoalition” at position 5, but found “Agreement”.
 Expected header text “The Left” at position 6, but found “CivicCoalition”.
 Expected header text “PolishCoalition” at position 7, but found “The Left”.
@@ -78,5 +81,6 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “Others /Don't know”.
-oo- (3)
+oo*- (4)
+Kantar | N/A | 2021-08-13 | 2021-08-13 | NE | 800 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 26 | N/A | 26 | 10 | 0 | N/A | N/A | 7 | 17
 
