@@ -58,9 +58,26 @@ Scraping for: fi
 ························································· (57)
 
 Scraping for: gr
-Something unexpected happened:
-undefined method `[]' for nil:NilClass
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:277:in `<main>'"]
+**··*··***··*·*····*·*···**····**·················*····*·*···*····*·························································· (125)
+GPO | Τα Νέα | 2021-08-28 | 2021-08-28 | NE | 1000 | N/A | 0.1 | 28.4 | 40.2 | N/A | 7.5 | 7.0 | N/A | N/A | N/A | N/A | N/A | 4.8 | 3.5 | N/A
+Prorata | ieidiseis.gr | 2021-08-23 | 2021-08-24 | NE | 1800 | N/A | 0.1 | 30.3 | 40.0 | N/A | 7.9 | 5.5 | N/A | N/A | N/A | N/A | N/A | 4.2 | 2.4 | N/A
+GPO | Powergame.gr | 2021-07-07 | 2021-07-10 | NE | 1000 | N/A | 0.1 | 28.5 | 42.8 | N/A | 7.7 | 6.9 | N/A | N/A | N/A | N/A | N/A | 4.3 | 3.6 | N/A
+MRB | Star | 2021-06-23 | 2021-07-01 | NE | 2000 | N/A | 0.1 | 28.3 | 43.6 | N/A | 8.4 | 6.2 | N/A | N/A | N/A | N/A | N/A | 4.2 | 3.6 | N/A
+GPO | Τα Νέα | 2021-06-26 | 2021-06-29 | NE | 1000 | N/A | 0.1 | 28.4 | 43.0 | N/A | 7.9 | 7.1 | N/A | N/A | N/A | N/A | N/A | 4.8 | 3.5 | N/A
+Marc | Proto Thema | 2021-06-18 | 2021-06-24 | NE | 1006 | N/A | 0.1 | 25.8 | 45.7 | N/A | 7.8 | 6.7 | N/A | N/A | N/A | N/A | N/A | 4.3 | 3.6 | N/A
+GPO | Powergame.gr | 2021-06-03 | 2021-06-05 | NE | 1000 | N/A | 0.1 | 27.8 | 42.6 | N/A | 8.2 | 7.2 | N/A | N/A | N/A | N/A | N/A | 4.1 | 4.1 | N/A
+Opinion Poll | N/A | 2021-05-18 | 2021-05-28 | NE | 1605 | N/A | 0.1 | 24.8 | 46.6 | N/A | 8.4 | 6.6 | N/A | N/A | N/A | N/A | N/A | 5.2 | 3.9 | N/A
+Marc | Proto Thema | 2021-04-22 | 2021-04-27 | NE | 1025 | N/A | 0.1 | 25.8 | 44.7 | N/A | 8.4 | 6.6 | N/A | N/A | N/A | N/A | N/A | 5.3 | 3.6 | N/A
+Opinion Poll | N/A | 2021-04-19 | 2021-04-23 | NE | 1001 | N/A | 0.1 | 26.1 | 46.7 | N/A | 8.0 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.2 | 3.5 | N/A
+GPO | Powergame.gr | 2021-04-06 | 2021-04-09 | NE | 1000 | N/A | 0.1 | 27.8 | 42.5 | N/A | 8.3 | 7.6 | N/A | N/A | N/A | N/A | N/A | 4.7 | 4.0 | N/A
+Prorata | Η Εφημερίδα των Συντακτών | 2021-03-31 | 2021-04-06 | NE | 1000 | N/A | 0.5 | 30.0 | 41.5 | N/A | 7.5 | 5.5 | N/A | N/A | N/A | N/A | N/A | 4.0 | 4.0 | N/A
+Alco | Open | 2021-03-12 | 2021-03-17 | NE | 1000 | N/A | 0.1 | 26.7 | 42.8 | N/A | 7.0 | 6.9 | N/A | N/A | N/A | N/A | 1.7 | 4.9 | 3.3 | N/A
+GPO | Τα Νέα | 2021-03-06 | 2021-03-06 | NE | 1000 | N/A | 0.1 | 27.2 | 43.5 | N/A | 8.5 | 7.5 | N/A | N/A | N/A | N/A | N/A | 4.9 | 3.6 | N/A
+Interview | Political | 2020-12-03 | 2020-12-08 | NE | 1205 | N/A | 0.1 | 24.7 | 44.8 | N/A | 8.0 | 5.5 | N/A | N/A | N/A | N/A | N/A | 5.5 | 3.2 | N/A
+Κάπα Research | N/A | 2020-11-20 | 2020-11-24 | NE | 1054 | N/A | 0.1 | 28.6 | 45.7 | N/A | 7.3 | 6.2 | N/A | N/A | N/A | N/A | N/A | 4.2 | 3.4 | N/A
+Opinion Poll | N/A | 2020-11-14 | 2020-11-16 | NE | 1000 | N/A | 0.1 | 24.4 | 48.6 | N/A | 8.4 | 6.5 | N/A | N/A | N/A | N/A | N/A | 4.0 | 3.6 | N/A
+Pulse RC | ΣΚΑΪ | 2020-10-19 | 2020-10-21 | NE | 1306 | N/A | 0.5 | 25.5 | 45.0 | N/A | 7.5 | 6.5 | N/A | N/A | N/A | N/A | N/A | 5.0 | 3.5 | N/A
+Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 | 47.9 | N/A | 6.9 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.7 | 3.4 | N/A
 
 [33mScraping for: hu
 Expected header text “United Opposition” at position 5, but found “United  Opposition”.
