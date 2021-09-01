@@ -77,7 +77,8 @@ Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 
 Expected header text “United Opposition” at position 5, but found “United  Opposition”.
 Expected header text “Mi Hazánk” at position 7, but found “”.
 Expected header text “ISZOMM” at position 8, but found “”.
-oo*···························//····/ (37)
+oo**···························//····/ (38)
+Nézőpont Intézet | N/A | 2021-08-20 | 2021-08-25 | NE | 1000 | N/A | 0.1 | 52 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 46 | 2
 ZRI Závecz Research | N/A | 2021-08-01 | 2021-08-31 | NE | 1000 | N/A | 0.1 | 50 | N/A | N/A | N/A | N/A | N/A | 2 | 2 | N/A | N/A | N/A | N/A | 45 | 1
 
 [0m[33mScraping for: hu
