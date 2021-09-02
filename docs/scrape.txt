@@ -117,7 +117,7 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
-oo******·*=··=**- (17)
+oo-******·*=··=**-- (19)
 Social Changes | wPolityce.pl | 2021-08-27 | 2021-08-30 | NE | 1065 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 1 | 25 | 9 | 2 | N/A | N/A | 8 | N/A | N/A | 17
 IBRiS | "Rz" | 2021-08-27 | 2021-08-28 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | N/A | 25.7 | 9.3 | N/A | N/A | N/A | 6.4 | N/A | N/A | 10.1
 United Surveys | DGP, RMF | 2021-08-27 | 2021-08-27 | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.5 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | N/A | 25.0 | 9.0 | N/A | N/A | N/A | 8.1 | N/A | N/A | 8.4
