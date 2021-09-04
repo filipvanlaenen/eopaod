@@ -3,6 +3,7 @@
 
 | Country                            | CSV Files                                                                               | Charts                                                                                  |
 |------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Albania                            | [al.csv](al.csv) and [al-N.csv](al-N.csv)                                               | [al.png](al.png) and [al-N.png](al-N.png)                                               |
 | Andorra                            |
 | Austria                            | [at.csv](at.csv), [at-E.csv](at-E.csv) and [at-N.csv](at-N.csv)                         | [at.png](at.png), [at-E.png](at-E.png) and [at-N.png](at-N.png)                         |
 | Belgium: Brussels                  | [be-bru.csv](be-bru.csv), [be-bru-E.csv](be-bru-E.csv) and [be-bru-N.csv](be-bru-N.csv) | [be-bru.png](be-bru.png), [be-bru-E.png](be-bru-E.png) and [be-bru-N.png](be-bru-N.png) |
