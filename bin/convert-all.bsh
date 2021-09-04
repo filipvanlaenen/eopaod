@@ -8,6 +8,7 @@ function convert_country {
   ruby psv2svg.rb $1
 }
 
+convert_country al
 convert_country at
 convert_country be-bru
 convert_country be-vlg
