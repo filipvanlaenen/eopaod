@@ -1,2 +1,25 @@
-Polling firm                     | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | PS   | PD  | PD-AN  | LSI | PSD | Other
-IPSOS                            | Top Channel               | 2021-03-29      | 2021-03-31    | N     | 1513        | N/A           | 0.1       | 48.4 | N/A | 39.3   | 5.0 | 1.7 | 5.2
+Polling firm                     | Commissioners             | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | PS   | PD   | PD-AN  | LSI  | PSD | Other
+IPSOS                            | Top Channel               | 2021-04-18      | 2021-04-20    | N     | 2000        | N/A           | 0.1       | 48.1 | N/A  | 43.6   | 3.6  | 0.8 | N/A
+Noto Sondaggi                    | RTV Ora                   | 2021-04-16      | 2021-04-19    | N     | 2000        | N/A           | 0.1       | 45.5 | N/A  | 44.5   | 5.8  | 1.0 | N/A
+Piepoli                          | Report TV                 | N/A             | 2021-04-18    | N     | 1200        | N/A           | 0.1       | 50.0 | N/A  | 41.0   | 5.5  | 1.0 | N/A
+MRB                              | Euronews Albania          | 2021-04-01      | 2021-04-15    | N     | 2700        | N/A           | 0.1       | 48.5 | N/A  | 41.5   | 6.5  | N/A | N/A
+Piepoli                          | Report TV                 | N/A             | 2021-04-07    | N     | 1200        | N/A           | 0.1       | 50.0 | N/A  | 41.0   | 5.5  | 1.0 | N/A
+Noto Sondaggi                    | RTV Ora                   | N/A             | 2021-04-06    | N     | 2000        | N/A           | 0.1       | 46.0 | N/A  | 44.0   | 8.0  | 0.5 | N/A
+IPSOS                            | Top Channel               | 2021-03-29      | 2021-03-31    | N     | 1513        | N/A           | 0.1       | 48.4 | N/A  | 39.3   | 5.0  | 1.7 | 5.2
+MRB                              | Euronews Albania          | 2021-03-17      | 2021-03-31    | N     | 2500        | N/A           | 0.1       | 49.2 | N/A  | 40.5   | 5.9  | N/A | N/A
+Piepoli                          | Report TV                 | 2021-03-23      | 2021-03-28    | N     | 1200        | N/A           | 0.1       | 49.0 | N/A  | 40.0   | 6.0  | 1.0 | N/A
+Noto Sondaggi                    | RTV Ora                   | 2021-03-12      | 2021-03-22    | N     | 2000        | N/A           | 0.1       | 46.5 | N/A  | 43.0   | 8.0  | 1.0 | N/A
+Piepoli                          | Report TV                 | N/A             | 2021-03-18    | N     | 1000        | N/A           | 0.1       | 49.0 | N/A  | 39.0   | 6.0  | 1.0 | N/A
+Geo Cartography Group            | T7/Gazeta Express         | N/A             | 2021-03-16    | N     | 3778        | N/A           | 0.1       | 44.5 | N/A  | 42.2   | 6.4  | N/A | N/A
+MRB                              | Euronews Albania          | 2021-02-25      | 2021-03-12    | N     | 1015        | N/A           | 0.1       | 50.7 | 38.3 | N/A    | 7.7  | N/A | N/A
+IPSOS                            | Top Channel               | 2021-03-03      | 2021-03-09    | N     | 1519        | N/A           | 0.1       | 48.7 | 40.6 | N/A    | 4.6  | 0.9 | N/A
+MRB                              | Euronews Albania          | 2021-02-25      | 2021-03-09    | N     | 1600        | N/A           | 0.1       | 50.3 | 37.5 | N/A    | 9.3  | N/A | N/A
+Noto Sondaggi                    | RTV Ora                   | N/A             | 2021-02-23    | N     | 2000        | N/A           | 0.1       | 43.0 | 36.0 | N/A    | 10.0 | N/A | N/A
+Flame Tree Advisors              | Syri TV                   | 2021-02-01      | 2021-02-20    | N     | 1000        | N/A           | 0.1       | 43.7 | 39.3 | N/A    | 10.1 | N/A | N/A
+Piepoli                          | Report TV                 | N/A             | 2021-02-18    | N     | 800         | N/A           | 0.1       | 49.0 | 35.0 | N/A    | 6.0  | N/A | N/A
+IPSOS                            | Top Channel               | 2021-02-10      | 2021-02-16    | N     | 1527        | N/A           | 0.1       | 49.5 | 39.3 | N/A    | 5.1  | 0.8 | N/A
+MRB                              | Euronews Albania          | 2021-01-25      | 2021-02-12    | N     | 1600        | N/A           | 0.1       | 48.1 | 36.9 | N/A    | 11.0 | N/A | N/A
+Piepoli                          | Report TV                 | 2021-01-14      | 2021-01-22    | N     | 900         | N/A           | 0.1       | 50.0 | 33.0 | N/A    | 6.0  | N/A | N/A
+Noto Sondaggi                    | RTV Ora                   | 2021-01-10      | 2021-01-19    | N     | 2000        | N/A           | 0.1       | 44.0 | 35.0 | N/A    | 11.0 | N/A | N/A
+MRB                              | Euronews Albania          | 2020-12-22      | 2021-01-13    | N     | 1600        | N/A           | 0.1       | 49.8 | 33.6 | N/A    | 12.3 | N/A | N/A
+Piepoli                          | Report TV                 | 2020-11-24      | 2020-11-27    | N     | 500         | N/A           | 0.1       | 56.0 | 32.0 | N/A    | 3.0  | N/A | N/A
