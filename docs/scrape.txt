@@ -81,8 +81,9 @@ oo-···································~···
 
 [0mScraping for: it
 Expected header text “A” at position 13, but found “Az”.
-oo**······································································ (74)
+oo***······································································ (75)
 Tecnè | N/A | 2021-09-03 | 2021-09-03 | NE | 1000 | N/A | 0.1 | 16.1 | 19.2 | 19.5 | 8.3 | 21.0 | N/A | 1.7 | 1.7 | N/A | 3.3 | 2.1 | N/A | N/A | N/A | N/A | 1.8 | 2.0 | 3.3
+Demos & Pi | N/A | 2021-09-01 | 2021-09-02 | NE | 1010 | N/A | 0.1 | 16.6 | 19.3 | 19.6 | 7.7 | 20.8 | N/A | 2.0 | 2.2 | N/A | 2.5 | 2.6 | N/A | N/A | N/A | N/A | N/A | 2.3 | 4.4
 Termometro Politico | N/A | 2021-09-01 | 2021-09-02 | NE | 2900 | N/A | 0.1 | 15.6 | 19.5 | 20.6 | 6.7 | 21.2 | N/A | 1.8 | 1.4 | N/A | 3.0 | 2.8 | N/A | N/A | N/A | N/A | N/A | 2.8 | 4.6
 
 Scraping for: lv
@@ -111,7 +112,7 @@ Expected header text “Poland2050” at position 10, but found “Confederation
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
 oo*-******·*=··=**-- (20)
-IBRiS | Onet | 2021-09-03 | 2021-09-04 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 36.6 | N/A | 23.1 | 8 | N/A | N/A | N/A | 8 | N/A | N/A | 11.5
+IBRiS | Onet | 2021-09-03 | 2021-09-04 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 36.6 | N/A | 23.1 | 8.0 | N/A | N/A | N/A | 8.0 | N/A | N/A | 11.5
 Social Changes | wPolityce.pl | 2021-08-27 | 2021-08-30 | NE | 1065 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 1 | 25 | 9 | 2 | N/A | N/A | 8 | N/A | N/A | 17
 IBRiS | "Rz" | 2021-08-27 | 2021-08-28 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | N/A | 25.7 | 9.3 | N/A | N/A | N/A | 6.4 | N/A | N/A | 10.1
 United Surveys | DGP, RMF | 2021-08-27 | 2021-08-27 | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.5 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | N/A | 25.0 | 9.0 | N/A | N/A | N/A | 8.1 | N/A | N/A | 8.4
