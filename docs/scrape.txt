@@ -120,28 +120,11 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
-oo*****=***********-******·*=··=**-- (36)
+oo*·*··=····*·····*-·····*·*=··=**-- (36)
 IPSOS | "GW", OKO.press | 2021-09-20 | 2021-09-23 | NE | 1000 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 0 | 24 | 7 | N/A | N/A | N/A | 9 | N/A | N/A | 15
-Social Changes | wPolityce.pl | 2021-09-17 | 2021-09-20 | NE | 1050 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 2 | 24 | 7 | 2 | N/A | N/A | 12 | N/A | N/A | 13
 CBOS | N/A | 2021-09-06 | 2021-09-16 | NE | 1218 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | 1 | 16 | 4 | 1 | N/A | N/A | 5 | N/A | N/A | 12
-Instytut Badań Pollster | SE.pl | 2021-09-13 | 2021-09-14 | NE | 1048 | N/A | 0.1 | N/A | N/A | 4.66 | N/A | N/A | N/A | N/A | N/A | N/A | 39.5 | 0.71 | 24.54 | 7.56 | 1.08 | N/A | N/A | 7.35 | N/A | N/A | 14.32
-Social Changes | wPolityce.pl | 2021-09-10 | 2021-09-13 | NE | 1063 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 2 | 27 | 7 | 2 | N/A | N/A | 9 | N/A | N/A | 12
-Instytut Badań Pollster | Salon24.pl | 2021-09-11 | 2021-09-12 | NE | 1027 | N/A | 0.1 | N/A | N/A | 3.85 | N/A | N/A | N/A | N/A | N/A | N/A | 38.87 | 0.64 | 25.68 | 7.84 | 0.71 | N/A | N/A | 8.21 | N/A | N/A | 13.86
-Estymator | DoRzeczy.pl | 2021-09-10 | 2021-09-11 | NE | 1016 | N/A | 0.1 | N/A | N/A | 3.9 | N/A | N/A | N/A | N/A | N/A | N/A | 40.2 | 1.1 | 24.1 | 9.0 | 1.5 | N/A | N/A | 8.8 | N/A | N/A | 10.9
-Kantar | TVN | 2021-09-09 | 2021-09-11 | NE | 1002 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | 0 | 24 | 5 | 1 | N/A | N/A | 8 | N/A | N/A | 14
-United Surveys | WP.pl | 2021-09-10 | 2021-09-10 | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.2 | N/A | N/A | N/A | N/A | N/A | N/A | 36.4 | N/A | 22.3 | 6.8 | N/A | N/A | N/A | 8.8 | N/A | N/A | 9.2
 Kantar Public | N/A | 2021-09-03 | 2021-09-08 | NE | 979 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | 1 | 25 | 6 | 1 | N/A | N/A | 4 | N/A | N/A | 12
-IBRiS | "Wydarzenia" Polsat | 2021-09-07 | 2021-09-07 | NE | 1100 | N/A | 0.1 | N/A | N/A | 2.9 | N/A | N/A | N/A | N/A | N/A | N/A | 36.5 | 0.3 | 23.0 | 8.5 | N/A | N/A | N/A | 7.6 | N/A | N/A | 11.3
-Social Changes | wPolityce.pl | 2021-09-03 | 2021-09-06 | NE | 1051 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 1 | 26 | 8 | 1 | N/A | N/A | 7 | N/A | N/A | 16
-Research Partner | N/A | 2021-09-03 | 2021-09-06 | NE | 1077 | N/A | 0.1 | N/A | N/A | 0.8 | N/A | N/A | N/A | N/A | N/A | N/A | 30.5 | 0.4 | 22.0 | 7.2 | 1.6 | N/A | N/A | 8.5 | N/A | N/A | 17.9
-IBRiS | Onet | 2021-09-03 | 2021-09-04 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 36.6 | N/A | 23.1 | 8.0 | N/A | N/A | N/A | 8.0 | N/A | N/A | 11.5
-Instytut Badań Pollster | Wiadomości TVP | 2021-09-02 | 2021-09-03 | NE | 1047 | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 36.72 | N/A | 25.98 | 7.53 | N/A | N/A | N/A | 8.77 | N/A | N/A | 14.78
 IBSP | Stan Polityki | 2021-09-01 | 2021-09-03 | NE | 1000 | N/A | 0.1 | N/A | N/A | 2.65 | N/A | N/A | N/A | N/A | N/A | N/A | 34.61 | N/A | 24.09 | 7.73 | N/A | N/A | N/A | 9.69 | N/A | N/A | 15.82
-Social Changes | wPolityce.pl | 2021-08-27 | 2021-08-30 | NE | 1065 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 1 | 25 | 9 | 2 | N/A | N/A | 8 | N/A | N/A | 17
-IBRiS | "Rz" | 2021-08-27 | 2021-08-28 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | N/A | 25.7 | 9.3 | N/A | N/A | N/A | 6.4 | N/A | N/A | 10.1
-United Surveys | DGP, RMF | 2021-08-27 | 2021-08-27 | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.5 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | N/A | 25.0 | 9.0 | N/A | N/A | N/A | 8.1 | N/A | N/A | 8.4
-United Surveys | WP.pl | 2021-08-27 | 2021-08-27 | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 36.3 | N/A | 25.5 | 8 | N/A | N/A | N/A | 8 | N/A | N/A | 10.6
-Instytut Badań Pollster | Wiadomości TVP | 2021-08-26 | 2021-08-27 | NE | 1036 | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 37 | N/A | 24 | 7 | N/A | N/A | N/A | 10 | N/A | N/A | 16
 CBOS | N/A | 2021-08-16 | 2021-08-26 | NE | 1167 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | <0.5 | 18 | 5 | 1 | N/A | N/A | 5 | N/A | N/A | 11
 Social Changes | wPolityce.pl | 2021-08-20 | 2021-08-23 | NE | 1057 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | 1 | 26 | 8 | 2 | N/A | N/A | 9 | N/A | N/A | 17
 Social Changes | wPolityce.pl | 2021-08-13 | 2021-08-16 | NE | 1052 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | 2 | 26 | 7 | 2 | N/A | N/A | 9 | N/A | N/A | 18
