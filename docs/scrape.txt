@@ -127,7 +127,7 @@ Expected header text “Poland2050” at position 10, but found “Confederation
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
 oo***·*··=····*·····*-·····*·*=··=**-- (38)
-IBRiS | "Rz.pl" | 2021-09-24 | 2021-09-25 | NE | 1100 | N/A | 1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 23 | 7 | N/A | N/A | N/A | 6 | N/A | N/A | 12
+IBRiS | "Rz.pl" | 2021-09-24 | 2021-09-25 | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 34.1 | 0.0 | 23.4 | 7.1 | N/A | N/A | N/A | 5.9 | N/A | N/A | 12.0
 United Surveys | WP.pl | 2021-09-24 | 2021-09-24 | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 35.6 | N/A | 23.0 | 6.4 | N/A | N/A | N/A | 7.1 | N/A | N/A | 11.6
 IPSOS | "GW", OKO.press | 2021-09-20 | 2021-09-23 | NE | 1000 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 0 | 24 | 7 | N/A | N/A | N/A | 9 | N/A | N/A | 15
 CBOS | N/A | 2021-09-06 | 2021-09-16 | NE | 1218 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | 1 | 16 | 4 | 1 | N/A | N/A | 5 | N/A | N/A | 12
