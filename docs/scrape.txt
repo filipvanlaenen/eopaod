@@ -63,7 +63,7 @@ Scraping for: fi
 
 Scraping for: gr
 *···································*·······*······*······*····*·*···*····*·························································· (133)
-Marc | Proto Thema | 2021-09-26 | 2021-09-26 | NE | N/A | N/A | 0.1 | 28.2 | 42.3 | N/A | 7.4 | 6.4 | N/A | N/A | N/A | N/A | N/A | 5.5 | 3.5 | N/A
+Marc | Proto Thema | 2021-09-19 | 2021-09-23 | NE | 1029 | N/A | 0.1 | 28.2 | 42.2 | N/A | 7.4 | 6.7 | N/A | N/A | N/A | N/A | N/A | 5.5 | 3.5 | N/A
 Metron Analysis | Mega | 2021-03-17 | 2021-03-23 | NE | 1000 | N/A | 0.1 | 27.5 | 43.4 | N/A | 8.1 | 5.9 | N/A | N/A | 1.3 | N/A | N/A | 5.8 | 4.6 | N/A
 Prorata | Η Εφημερίδα των Συντακτών | 2021-02-23 | 2021-02-26 | NE | 1000 | N/A | 0.5 | 30.5 | 42.0 | N/A | 7.0 | 5.5 | N/A | N/A | N/A | N/A | N/A | 3.0 | 4.5 | N/A
 GPO | Παραπολιτικά | 2021-01-19 | 2021-01-22 | NE | 1000 | N/A | 0.1 | 27.6 | 44.1 | N/A | 7.3 | 7.2 | N/A | N/A | N/A | N/A | N/A | 4.7 | 3.5 | N/A
@@ -126,7 +126,8 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
-oo**·*··=····*·····*-·····*·*=··=**-- (37)
+oo***·*··=····*·····*-·····*·*=··=**-- (38)
+IBRiS | "Rz.pl" | 2021-09-24 | 2021-09-25 | NE | 1100 | N/A | 1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 23 | 7 | N/A | N/A | N/A | 6 | N/A | N/A | 12
 United Surveys | WP.pl | 2021-09-24 | 2021-09-24 | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 35.6 | N/A | 23.0 | 6.4 | N/A | N/A | N/A | 7.1 | N/A | N/A | 11.6
 IPSOS | "GW", OKO.press | 2021-09-20 | 2021-09-23 | NE | 1000 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 0 | 24 | 7 | N/A | N/A | N/A | 9 | N/A | N/A | 15
 CBOS | N/A | 2021-09-06 | 2021-09-16 | NE | 1218 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | 1 | 16 | 4 | 1 | N/A | N/A | 5 | N/A | N/A | 12
