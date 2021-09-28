@@ -76,7 +76,8 @@ Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 
 [33mScraping for: hu
 Expected header text “United Opposition” at position 5, but found “United  Opposition”.
 Expected header text “Mi Hazánk” at position 7, but found “Mi Hazank”.
-oo································//····/ (41)
+oo*································//····/ (42)
+Závecz | N/A | 2021-09-13 | 2021-09-20 | NE | 1000 | N/A | 0.1 | 49 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 49 | N/A
 
 [0m[33mScraping for: hu
 Expected header text “” at position 9, but found “LMP”.
@@ -103,7 +104,7 @@ Expected header text “H” at position 12, but found “KrF”.
 Expected header text “FrP” at position 13, but found “H”.
 Expected header text “Others” at position 14, but found “FrP”.
 Expected header text “Lead” at position 15, but found “Others”.
-oo-··················································································- (86)
+oo-························································································- (92)
 
 [0mScraping for: pt
 **·············································································· (80)
