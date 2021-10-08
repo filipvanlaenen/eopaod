@@ -253,6 +253,9 @@ def create_grid(first_date, last_date, highest_share)
   y_axis_right.add_attribute('stroke-width', AXIS_STROKE_WIDTH.to_s)
   g << y_axis_right
   x_stride = [1, 7, 30, 60, 90, 120, 180, 365].select { |s| s >= (last_date.jd + 0.99 - first_date.jd) / 12}.min
+  if x_stride.nil?
+    x_stride = 365
+  end
   if (x_stride < 7)
     puts "Warning: X-stride of #{x_stride} days not implemented yet!"
     x_stride = 7
