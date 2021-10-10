@@ -1,4 +1,7 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+Demoskop     | Aftonbladet       | 2021-09-29      | 2021-10-06    | NE    | 2417        | N/A           | 0.1       | 26.7 | 22.2 | 20.9 | 9.5  | 8.6  | 5.5  | 2.7 | 3.0  | 0.8
+Novus        | SVT               | 2021-08-30      | 2021-10-03    | NE    | 4922        | N/A           | 0.1       | 26.0 | 22.6 | 19.4 | 8.8  | 10.6 | 4.6  | 2.6 | 4.0  | N/A
+Sentio       | Nyheter Idag      | 2021-09-23      | 2021-09-27    | NE    | N/A         | N/A           | 0.1       | 24.4 | 22.7 | 21.7 | 5.3  | 10.4 | 5.9  | 3.0 | 3.9  | N/A
 Ipsos        | Dagens Nyheter    | 2021-09-14      | 2021-09-26    | NE    | 1533        | N/A           | 1         | 25   | 22   | 21   | 8    | 11   | 4    | 3   | 4    | N/A
 Sifo         | N/A               | 2021-09-06      | 2021-09-16    | NE    | 6488        | N/A           | 0.1       | 26.1 | 21.5 | 19.6 | 8.9  | 10.6 | 4.7  | 3.0 | 4.2  | 1.4
 SKOP         | N/A               | 2021-09-03      | 2021-09-11    | NE    | 1030        | N/A           | 0.1       | 25.8 | 21.6 | 18.5 | 9.6  | 12.5 | 5.0  | 2.4 | 3.4  | 1.2
