@@ -37,6 +37,7 @@ convert_country lt
 convert_country lu
 convert_country lv
 convert_country me
+convert_country mk
 convert_country mt
 convert_country nl
 convert_country no
@@ -50,5 +51,5 @@ convert_country sk
 convert_country tr
 convert_country ua
 convert_country xk
-convert_country pl-p2020
+# convert_country pl-p2020
 convert_country pt-p2021
