@@ -40,7 +40,7 @@ source_lines.each do |line|
   sample_size_text = elements.shift.strip
   if sample_size_text == NOT_APPLICABLE
     sample_size = NOT_AVAILABLE
-    sample_size_qualification = NOT_APPLICABLE
+    sample_size_qualification = NOT_AVAILABLE
   else
     sample_size = sample_size_text.delete('(').delete(')').to_i
     sample_size_qualification = if sample_size_text.include?('(')
