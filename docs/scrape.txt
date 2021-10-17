@@ -1,5 +1,6 @@
 Scraping for: at
-oo*=··-·························-···············································································- (113)
+oo**=··-·························-···············································································- (114)
+OGM | N/A | 2021-10-12 | 2021-10-15 | NE | 1170 | N/A | 1 | 26 | 24 | 21 | 12 | N/A | 12 | N/A | N/A | N/A | N/A | 5
 Unique Research | N/A | 2021-10-12 | 2021-10-15 | NE | 800 | N/A | 1 | 25 | 25 | 19 | 11 | N/A | 14 | N/A | N/A | N/A | N/A | 6
 
 Scraping for: be-bru
@@ -12,7 +13,8 @@ Scraping for: be-wal
 oo·····-····- (13)
 
 Scraping for: de
-oo*/*···/·····- (15)
+oo**/*···/·····- (16)
+INSA and YouGov | N/A | 2021-10-11 | 2021-10-15 | NE | 1195 | N/A | 1 | 19 | 28 | 11 | 13 | 4 | 16 | N/A | N/A | N/A | N/A | 9
 Forschungsgruppe Wahlen | N/A | 2021-10-12 | 2021-10-14 | NE | 1329 | 86.0 | 1 | 19 | 28 | 11 | 13 | 5 | 17 | N/A | N/A | N/A | N/A | 7
 Kantar | N/A | 2021-10-06 | 2021-10-12 | NE | 1410 | N/A | 1 | 19 | 26 | 10 | 14 | 5 | 17 | N/A | N/A | N/A | N/A | 9
 
@@ -56,7 +58,8 @@ Expected header text “” at position 9, but found “LMP”.
 oo···········································································-················-······························································- (158)
 
 [0mScraping for: ie
-············································ (44)
+*············································ (45)
+Behaviour and Attitudes | The Sunday Times | 2021-10-16 | 2021-10-16 | NE |  | N/A | 1 | 21 | 23 | 31 | 5 | 1 | 4 | 5 | 1 | N/A | N/A | 9
 
 Scraping for: is
 oo-···············································~················································································- (132)
@@ -68,12 +71,4 @@ SWG | N/A | 2021-10-06 | 2021-10-11 | NE | 1200 | N/A | 0.1 | 16.9 | 19.0 | 19.2
 BiDiMedia | N/A | 2021-10-03 | 2021-10-07 | NE | 1895 | N/A | 0.1 | 16.0 | 21.0 | 19.2 | 6.5 | 19.7 | N/A | 1.2 | 1.5 | N/A | N/A | 1.6 | N/A | N/A | N/A | 0.9 | 1.5 | 2.0 | 5.6
 
 Scraping for: lv
-oo·························~································~·······- (69)
-
-Scraping for: no
-Expected header text “PF” at position 11, but found “V”.
-Expected header text “V” at position 12, but found “KrF”.
-Expected header text “KrF” at position 13, but found “H”.
-Expected header text “H” at position 14, but found “FrP”.
-Expected header text “FrP” at position 15, but found “Others”.
-Expected header text “Others” at position 16, but found “Lead”.
+Expected header text “Fieldwork date[release]” at position 1, but found “.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte Elections and referendums in Latvia”.
