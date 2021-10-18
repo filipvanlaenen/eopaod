@@ -11,7 +11,8 @@ Scraping for: be-wal
 oo·····-····- (13)
 
 Scraping for: de
-oo··/····/·····- (16)
+oo*··/····/·····- (17)
+INSA and YouGov | N/A | 2021-10-15 | 2021-10-18 | NE | 2140 | N/A | 0.5 | 18.5 | 28 | 11.5 | 15 | 5 | 16 | N/A | N/A | N/A | N/A | 6
 
 Scraping for: dk
 oo·····················································-- (57)
@@ -20,13 +21,17 @@ Scraping for: ee
 ··············································· (47)
 
 Scraping for: es
-····································································································································· (133)
+***··································································································································· (134)
+NC Report | La Razón | 2021-10-13 | 2021-10-15 | NE | 1000 | 63.3 | 0.1 | 29.6 | 25.4 | 9.6 | 2.7 | 3.4 | 2.2 | 1.7 | N/A | 1.1 | N/A | 15.1 | 3.2 | N/A | N/A | N/A | N/A | N/A
+Invymark | laSexta | 2021-10-11 | 2021-10-15 | NE | N/A | N/A | 0.1 | 28.4 | 25.7 | 9.0 | 1.5 | N/A | N/A | N/A | N/A | N/A | N/A | 16.6 | 4.2 | N/A | N/A | N/A | N/A | N/A
+electoPanel | electomania.es | 2021-10-08 | 2021-10-15 | NE | 1863 | N/A | 0.1 | 28.2 | 26.2 | 10.4 | 2.9 | 3.2 | 2.2 | 1.6 | N/A | 1.1 | 0.5 | 16.7 | 3.0 | 0.7 | N/A | N/A | N/A | N/A
 
 Scraping for: fi
 ···························································· (60)
 
 Scraping for: gr
-······*··································*·······*······*······*····*·*···*····*·························································· (138)
+*·····*··································*·······*······*······*····*·*···*····*·························································· (138)
+Interview | Political | 2021-10-11 | 2021-10-16 | NE | N/A | N/A | 0.1 | 25.3 | 40.1 | N/A | 7.9 | 6.2 | N/A | N/A | N/A | N/A | N/A | 5.4 | 4.4 | N/A
 MRB | Star | 2021-09-22 | 2021-09-22 | NE | 1000 | N/A | 0.1 | 28.6 | 40.6 | 1.2 | 8.1 | 5.9 | N/A | N/A | N/A | N/A | 1.3 | 4.6 | 4.2 | N/A
 Metron Analysis | Mega | 2021-03-17 | 2021-03-23 | NE | 1000 | N/A | 0.1 | 27.5 | 43.4 | N/A | 8.1 | 5.9 | N/A | N/A | 1.3 | N/A | N/A | 5.8 | 4.6 | N/A
 Prorata | Η Εφημερίδα των Συντακτών | 2021-02-23 | 2021-02-26 | NE | 1000 | N/A | 0.5 | 30.5 | 42.0 | N/A | 7.0 | 5.5 | N/A | N/A | N/A | N/A | N/A | 3.0 | 4.5 | N/A
@@ -52,10 +57,7 @@ Scraping for: is
 oo-···············································~················································································- (132)
 
 Scraping for: it
-oo***······················································································ (91)
-Lab2101 | N/A | 2021-10-11 | 2021-10-14 | NE | 1000 | N/A | 0.1 | 15.9 | 19.7 | 20.8 | 6.9 | 18.8 | N/A | 1.7 | 1.5 | N/A | N/A | 2.7 | N/A | N/A | N/A | N/A | N/A | 3.9 | 4.3
-SWG | N/A | 2021-10-06 | 2021-10-11 | NE | 1200 | N/A | 0.1 | 16.9 | 19.0 | 19.2 | 7.1 | 20.7 | N/A | 1.6 | 1.8 | N/A | N/A | 2.3 | N/A | N/A | N/A | N/A | 2.6 | 2.4 | 2.3
-BiDiMedia | N/A | 2021-10-03 | 2021-10-07 | NE | 1895 | N/A | 0.1 | 16.0 | 21.0 | 19.2 | 6.5 | 19.7 | N/A | 1.2 | 1.5 | N/A | N/A | 1.6 | N/A | N/A | N/A | 0.9 | 1.5 | 2.0 | 5.6
+oo························································································· (91)
 
 Scraping for: lv
 Expected header text “Fieldwork date[release]” at position 1, but found “.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte Elections and referendums in Latvia”.
