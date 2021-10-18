@@ -11,8 +11,7 @@ Scraping for: be-wal
 oo·····-····- (13)
 
 Scraping for: de
-oo*··/····/·····- (17)
-INSA and YouGov | N/A | 2021-10-15 | 2021-10-18 | NE | 2140 | N/A | 0.5 | 18.5 | 28 | 11.5 | 15 | 5 | 16 | N/A | N/A | N/A | N/A | 6
+oo···/····/·····- (17)
 
 Scraping for: dk
 oo·····················································-- (57)
@@ -60,4 +59,43 @@ Scraping for: it
 oo························································································· (91)
 
 Scraping for: lv
-Expected header text “Fieldwork date[release]” at position 1, but found “.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vte Elections and referendums in Latvia”.
+Expected header text “Fieldwork date[release]” at position 1, but found “Polling firm”.
+Expected header text “Polling firm/Commissioner” at position 2, but found “Fieldwork date”.
+Expected header text “SDPS” at position 4, but found “Dec.”.
+Expected header text “PCL” at position 5, but found “S”.
+Expected header text “JKP” at position 6, but found “PCL”.
+Expected header text “AP!” at position 7, but found “JKP”.
+Expected header text “NA” at position 8, but found “AP!”.
+Expected header text “ZZS” at position 9, but found “NA”.
+Expected header text “JV” at position 10, but found “ZZS”.
+Expected header text “LRA” at position 11, but found “JV”.
+Expected header text “LKS” at position 12, but found “LRA”.
+Expected header text “PRO” at position 13, but found “LKS”.
+Expected header text “LuK” at position 14, but found “P”.
+Expected header text “Other” at position 15, but found “LuK”.
+Expected header text “Don't know” at position 16, but found “LPV”.
+Expected header text “Won't vote” at position 17, but found “R”.
+Expected header text “Lead” at position 18, but found “Others”.
+ooCould not parse period “Factum”.
+*Could not parse period “SKDS”.
+*Could not parse period “Factum”.
+*- (6)
+1 Sep–1 Oct 2021 | N/A |  |  | NE | 1170 | N/A | 0.1 | N/A | 13.4 | 0.7 | 6.9 | 14.8 | 11.9 | 8.5 | 15.5 | 4.0 | 2.9 | N/A | 5.7 | N/A | N/A | 6.1
+September 2021 | N/A |  |  | NE | 1806 | N/A | 0.1 | 60.1 | 20.0 | 0.7 | 4.9 | 8.0 | 11.4 | 13.8 | 13.7 | 5.2 | 4.4 | N/A | 5.8 | N/A | N/A | 6.1
+27-31 Aug 2021 | N/A |  |  | NE | 1181 | N/A | 0.1 | N/A | 14.6 | 1.0 | 6.1 | 14.0 | 11.7 | 9.1 | 16.9 | 3.7 | 2.8 | N/A | 5.7 | N/A | N/A | 5.1
+
+Scraping for: no
+Expected header text “Client” at position 2, but found “Fieldwork date”.
+Expected header text “Fieldwork date” at position 3, but found “Samplesize”.
+Expected header text “Samplesize” at position 4, but found “Resp.”.
+Expected header text “Resp.” at position 5, but found “R”.
+Expected header text “R” at position 6, but found “SV”.
+Expected header text “SV” at position 7, but found “MDG”.
+Expected header text “MDG” at position 8, but found “Ap”.
+Expected header text “Ap” at position 9, but found “Sp”.
+Expected header text “Sp” at position 10, but found “V”.
+Expected header text “PF” at position 11, but found “KrF”.
+Expected header text “V” at position 12, but found “H”.
+Expected header text “KrF” at position 13, but found “FrP”.
+Expected header text “H” at position 14, but found “Others”.
+Expected header text “FrP” at position 15, but found “Lead”.
