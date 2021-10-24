@@ -1,4 +1,11 @@
 Polling firm      | Commissioners                    | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Ref  | Kesk | SDE  | I    | EVA | EKRE | Green | E200 | Kalj | Other
+Kantar Emor       | BNS and Postimees                | 2021-10-14      | 2021-10-20    | NE    | 1218        | N/A           | 1         | 23   | 18   | 10   | 8    | N/A | 21   | 4     | 16   | N/A  | 1
+Norstat           | MTÜ Ühiskonnauuringute Instituut | 2021-10-13      | 2021-10-18    | NE    | 1000        | N/A           | 0.1       | 23.5 | 18.1 | 8.9  | 9    | N/A | 26.4 | 1.6   | 11.1 | N/A  | 1.4
+Norstat           | MTÜ Ühiskonnauuringute Instituut | 2021-10-05      | 2021-10-12    | NE    | 1000        | N/A           | 0.1       | 26.7 | 19.7 | 8.3  | 6.7  | N/A | 22   | 2.4   | 11.9 | N/A  | 2.3
+Turu-uuringute AS | N/A                              | 2021-10-04      | 2021-10-08    | NE    | 1000        | N/A           | 1         | 24   | 19   | 7    | 7    | N/A | 23   | 3     | 13   | N/A  | 4
+Norstat           | MTÜ Ühiskonnauuringute Instituut | 2021-09-28      | 2021-10-05    | NE    | 1000        | N/A           | 0.1       | 22.8 | 19.8 | 7.9  | 7    | N/A | 26.3 | 2.3   | 12.5 | N/A  | 1.4
+Norstat           | MTÜ Ühiskonnauuringute Instituut | 2021-09-22      | 2021-09-27    | NE    | 1000        | N/A           | 0.1       | 22.9 | 22.3 | 9    | 7.9  | N/A | 24.6 | 1.5   | 11.1 | N/A  | 0.7
+Kantar Emor       | BNS and Postimees                | 2021-09-16      | 2021-09-21    | NE    | 1060        | N/A           | 1         | 27   | 16   | 9    | 6    | N/A | 22   | 3     | 16   | N/A  | 1
 Norstat           | MTÜ Ühiskonnauuringute Instituut | 2021-09-14      | 2021-09-20    | NE    | 1000        | N/A           | 0.1       | 24.1 | 15.4 | 10.1 | 5.9  | N/A | 26.1 | 2     | 14   | N/A  | 2.4
 Norstat           | MTÜ Ühiskonnauuringute Instituut | 2021-09-08      | 2021-09-13    | NE    | 1000        | N/A           | 0.1       | 25.6 | 21.3 | 9.8  | 6.2  | N/A | 23.6 | 2.2   | 10.4 | N/A  | 0.9
 Turu-uuringute AS | N/A                              | 2021-09-06      | 2021-09-15    | NE    | 1003        | N/A           | 1         | 24   | 17   | 7    | 8    | N/A | 22   | 3     | 16   | N/A  | 3
