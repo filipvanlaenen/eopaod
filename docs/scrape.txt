@@ -95,7 +95,8 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
-oo***·*···*··-*·-····*·*··=····*·····*-·····*·*··=**-- (54)
+oo****·*···*··-*·-····*·*··=····*·····*-·····*·*··=**-- (55)
+Social Changes | wPolityce.pl | 2021-10-22 | 2021-10-25 | NE | 1067 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 0 | 26 | 8 | 2 | N/A | N/A | 10 | N/A | N/A | 12
 Research Partner | N/A | 2021-10-22 | 2021-10-25 | NE | 1223 | N/A | 0.1 | N/A | N/A | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.0 | 0.7 | 23.3 | 7.0 | 1.5 | N/A | N/A | 7.7 | N/A | N/A | 11.3
 IBRiS | "Rz.pl" | 2021-10-22 | 2021-10-23 | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.6 | N/A | N/A | N/A | N/A | N/A | N/A | 35.8 | N/A | 24.5 | 9.4 | N/A | N/A | N/A | 5.1 | N/A | N/A | 13.5
 United Surveys | WP.pl | 2021-10-22 | 2021-10-22 | NE | 1000 | N/A | 0.1 | N/A | N/A | 6.2 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | N/A | 23.3 | 8.0 | N/A | N/A | N/A | 6.1 | N/A | N/A | 12.0
