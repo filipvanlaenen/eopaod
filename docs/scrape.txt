@@ -57,7 +57,7 @@ Expected header text “United Opposition” at position 5, but found “United 
 oo**··*···································//····/· (50)
 Real-PR 93 | N/A | 2021-10-19 | 2021-10-21 | NE | 1000 | N/A | 0.1 | 55 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 44 | 1
 ZRI Závecz Research | N/A | 2021-10-11 | 2021-10-19 | NE | 1000 | N/A | 0.1 | 35 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 3
-IDEA Intézet | N/A | 2021-09-30 | 2021-10-09 | NE | 2000 | N/A | 0.1 | 47 | N/A | N/A | N/A | N/A | N/A | 3 | 34 | N/A | N/A | N/A | N/A | 47 | N/A
+IDEA Intézet | N/A | 2021-09-30 | 2021-10-09 | NE | 2000 | N/A | 0.1 | 47 | N/A | N/A | N/A | N/A | N/A | 3 | 3 | N/A | N/A | N/A | N/A | 47 | N/A
 
 [0m[31mScraping for: hu
 Expected header text “” at position 9, but found “LMP”.
