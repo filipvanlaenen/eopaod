@@ -11,7 +11,8 @@ Scraping for: be-wal
 oo·····-····- (13)
 
 Scraping for: de
-oo·/···/··/······/····/······/··/··/·····- (42)
+oo·/*···/··/······/····/······/··/··/·····- (43)
+Kantar | N/A | 2021-11-03 | 2021-11-09 | NE | 1424 | N/A | 1 | 21 | 25 | 10 | 14 | 6 | 16 | N/A | N/A | N/A | N/A | 8
 
 Scraping for: dk
 Expected header text “Others” at position 19, but found “Q”.
