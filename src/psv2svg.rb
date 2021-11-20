@@ -80,7 +80,7 @@ end
 
 def convert_svg_to_png(svg_filename)
   png_filename = svg_filename.gsub('.svg', '.png')
-  `inkscape -z -D #{svg_filename} -e #{png_filename}`
+  `inkscape #{svg_filename} --export-filename=#{png_filename}`
 end
 
 def xml_encode(text)
