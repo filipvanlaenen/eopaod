@@ -89,8 +89,8 @@ end
 
 def create_svg_root_element
   svg = REXML::Element.new('svg')
-  svg.add_attribute('WIDTH', WIDTH)
-  svg.add_attribute('HEIGHT', HEIGHT)
+  svg.add_attribute('width', WIDTH)
+  svg.add_attribute('height', HEIGHT)
   svg
 end
 
