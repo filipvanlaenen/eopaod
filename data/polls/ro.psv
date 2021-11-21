@@ -1,4 +1,7 @@
 Polling firm  | Commissioners            | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | PSD  | ALDE | USR  | PNL  | UDMR | PMP  | PLUS | PRO  | A2020 | AUR  | PPU-SL | Other
+CURS          | N/A                      | 2021-10-25      | 2021-10-30    | NE    | 1100        | N/A           | 1         | 39   | N/A  | N/A  | 19   | 5    | 5    | N/A  | 3    | 11    | 12   | 4      | 2
+Avangarde     | N/A                      | 2021-10-17      | 2021-10-26    | NE    | 900         | N/A           | 1         | 40   | 1    | N/A  | 17   | 5    | 4    | N/A  | 2    | 13    | 14   | 4      | 0
+INSCOP        | N/A                      | 2021-10-15      | 2021-10-25    | NE    | 1100        | N/A           | 0.1       | 35.5 | N/A  | N/A  | 21.9 | 5.0  | 2.9  | N/A  | 3.2  | 12.4  | 14.2 | 0.5    | 4.5
 CURS          | N/A                      | 2021-10-12      | 2021-10-20    | NE    | 1202        | N/A           | 1         | 39   | N/A  | N/A  | 21   | 5    | N/A  | N/A  | N/A  | 11    | 13   | N/A    | 11
 INSCOP        | N/A                      | 2021-10-12      | 2021-10-17    | NE    | 1100        | N/A           | 0.1       | 36.7 | N/A  | N/A  | 19.8 | 3.0  | 2.1  | N/A  | 3.0  | 16.4  | 15.3 | N/A    | 3.8
 Sociopol      | N/A                      | 2021-10-11      | 2021-10-15    | NE    | 1002        | N/A           | 1         | 32   | N/A  | N/A  | 20   | 6    | N/A  | N/A  | N/A  | 13    | 21   | N/A    | 8
