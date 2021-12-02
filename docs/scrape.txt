@@ -50,7 +50,8 @@ InvyMark | laSexta | 2021-01-18 | 2021-01-22 | NE | N/A | N/A | 0.1 | 23.2 | 27.
 Metroscopia | N/A | 2021-01-15 | 2021-01-15 | NE | N/A | N/A | 0.1 | 22.8 | 27.2 | 11.5 | 6.4 | N/A | N/A | N/A | N/A | N/A | N/A | 16.5 | 1.8 | N/A | N/A | N/A | N/A | N/A
 
 Scraping for: fi
-······························································· (63)
+*······························································· (64)
+Taloustutkimus | N/A | 2021-11-03 | 2021-11-30 | NE | 2411 | N/A | 0.1 | 10.1 | 4.6 | 1.6 | 18.7 | 21.8 | 18.3 | 12.5 | 2.9 | N/A | 8.2 | 1.3
 
 Scraping for: gr
 *····*··············*··································*·······*······*······*····*·*···*····*·························································· (152)
@@ -153,7 +154,8 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
-oo******···*··*·*···*······*···*··-··-····*·*··=····*·····*-·····*·*··=**-- (75)
+oo*******···*··*·*···*······*···*··-··-····*·*··=····*·····*-·····*·*··=**-- (76)
+Social Changes | wPolityce.pl | 2021-11-26 | 2021-11-29 | NE | 1054 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 1 | 25 | 9 | 1 | N/A | N/A | 10 | N/A | N/A | 12
 Research Partner | N/A | 2021-11-26 | 2021-11-29 | NE | 1030 | N/A | 0.1 | N/A | N/A | 3.2 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | 0.6 | 20.6 | 6.9 | 1.1 | N/A | N/A | 8.4 | N/A | N/A | 10.6
 IBRiS | Onet | 2021-11-26 | 2021-11-27 | NE | 1100 | N/A | 0.1 | N/A | N/A | 6.4 | N/A | N/A | N/A | N/A | N/A | N/A | 32.0 | N/A | 22.1 | 7.0 | N/A | N/A | N/A | 7.1 | N/A | N/A | 11.8
 Estymator | DoRzeczy.pl | 2021-11-25 | 2021-11-26 | NE | 1021 | N/A | 0.1 | N/A | N/A | 7.1 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | N/A | 23.8 | 7.7 | N/A | N/A | N/A | 8.6 | N/A | N/A | 15.8
