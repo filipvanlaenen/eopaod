@@ -53,13 +53,15 @@ Pulse RC | ΣΚΑΪ | 2020-10-19 | 2020-10-21 | NE | 1306 | N/A | 0.5 | 25.5 | 4
 Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 | 47.9 | N/A | 6.9 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.7 | 3.4 | N/A
 
 [33mScraping for: hu
+Expected header text “Mi Hazánk” at position 7, but found “”.
 oo*·····················································/···/··/ (64)
 ZRI Závecz Research | N/A | 2021-11-15 | 2021-11-24 | NE | 1000 | N/A | 1 | 48 | N/A | N/A | N/A | N/A | N/A | 2 | 3 | N/A | N/A | N/A | N/A | 49 | 2
 
 [0m[33mScraping for: hu
 Expected header text “” at position 9, but found “LMP”.
+Expected header text “Mi Hazánk” at position 12, but found “”.
 oo**················································································-················-······························································- (165)
-ZRI Závecz Research | N/A | 2021-11-15 | 2021-11-24 | NE | 1000 | N/A | 0.1 | 47 | 10 | N/A | 19 | 2 | 5 | 2 | 3 | N/A | 7 | 3 | N/A | N/A | N/A
+ZRI Závecz Research | N/A | 2021-11-15 | 2021-11-24 | NE | 1000 | N/A | 1 | 47 | 10 | N/A | 19 | 2 | 5 | 2 | 3 | N/A | 7 | 3 | N/A | N/A | 2
 Republikon | N/A | 2021-11-17 | 2021-11-23 | NE | 1000 | N/A | 1 | 41 | 10 | N/A | 15 | 3 | 9 | 4 | 3 | N/A | 7 | 4 | N/A | N/A | 4
 
 [0mScraping for: ie
@@ -139,7 +141,8 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “AGROunia”.
-oo********···*··*·*···*······*···*··-··-····*·*··=····*·····*-·····*·*··=**-- (77)
+oo*********···*··*·*···*······*···*··-··-····*·*··=····*·····*-·····*·*··=**-- (78)
+Social Changes | wPolityce.pl | 2021-12-03 | 2021-12-06 | NE | 1073 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 2 | 24 | 9 | 2 | N/A | N/A | 9 | N/A | N/A | 13
 United Surveys | WP.pl | 2021-12-03 | 2021-12-03 | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.7 | N/A | N/A | N/A | N/A | N/A | N/A | 32.1 | N/A | 23.7 | 7.8 | N/A | N/A | N/A | 6.7 | N/A | N/A | 10.6
 Social Changes | wPolityce.pl | 2021-11-26 | 2021-11-29 | NE | 1054 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 1 | 25 | 9 | 1 | N/A | N/A | 10 | N/A | N/A | 12
 Research Partner | N/A | 2021-11-26 | 2021-11-29 | NE | 1030 | N/A | 0.1 | N/A | N/A | 3.2 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | 0.6 | 20.6 | 6.9 | 1.1 | N/A | N/A | 8.4 | N/A | N/A | 10.6
