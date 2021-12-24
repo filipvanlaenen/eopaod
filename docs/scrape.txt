@@ -46,7 +46,7 @@ Pulse RC | ΣΚΑΪ | 2020-10-19 | 2020-10-21 | NE | 1306 | N/A | 0.5 | 25.5 | 4
 Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 | 47.9 | N/A | 6.9 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.7 | 3.4 | N/A
 
 [33mScraping for: hu
-Expected header text “United  Opposition” at position 5, but found “United Opposition”.
+Expected header text “United  Opposition” at position 5, but found “United for Hungary”.
 Expected header text “Mi Hazánk” at position 7, but found “”.
 oo·······························································/···/··/ (73)
 
