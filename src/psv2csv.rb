@@ -36,7 +36,7 @@ source_lines.each do |line|
   fieldword_start = elements.shift.strip
   fieldword_end = elements.shift.strip
   scopes = elements.shift.strip
-  scope = { 'N' => 'National', 'E' => 'European' }[scopes[0]]
+  scope = { 'N' => 'National', 'E' => 'European', 'P' => 'Presidential' }[scopes[0]]
   sample_size_text = elements.shift.strip
   if sample_size_text == NOT_APPLICABLE
     sample_size = NOT_AVAILABLE
