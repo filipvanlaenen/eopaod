@@ -1,16 +1,16 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Macron,Le Pen,Pécresse,Zemmour,Mélenchon,Hidalgo,Jadot,Dupont-Aignan,Lassalle,Poutou,Arthaud,Roussel,Montebourg,Asselineau,Philippot,Other
-Elabe,"BFMTV, L’Express and SFR",2021-12-17,2021-12-20,Presidential,1455,Provided,88%,0.5%,26%,16%,17%,13%,11%,3%,5%,2%,1%,1%,1%,1%,2%,0%,1%,0%
+Elabe,"BFMTV, L’Express and SFR",2021-12-17,2021-12-20,Presidential,1455,Provided,88%,1%,26%,16%,17%,13%,11%,3%,5%,2%,1%,1%,1%,1%,2%,0%,1%,0%
 Ifop–Fiducial,Sud Radio,2021-12-14,2021-12-15,Presidential,1017,Provided,Not Available,0.5%,25.5%,16%,18%,12%,9.5%,4.5%,7.5%,2%,0.5%,1%,0%,3%,1%,Not Available,Not Available,0%
-OpinionWay,"Les Echos, CNews and Radio Classique",2021-12-13,2021-12-15,Presidential,1470,Provided,84%,1%,24%,16%,17%,12%,9%,4%,8%,2%,Not Available,1%,1%,3%,2%,Not Available,Not Available,0%
+OpinionWay,"CNews, Les Echos and Radio Classique",2021-12-13,2021-12-15,Presidential,1470,Provided,84%,1%,24%,16%,17%,12%,9%,4%,8%,2%,Not Available,1%,1%,3%,2%,Not Available,Not Available,0%
 Cluster17,,2021-12-12,2021-12-15,Presidential,1520,Provided,75%,0.5%,22%,15%,18%,15%,13%,3%,5%,1.5%,1%,1%,0.5%,2%,1%,1%,1%,0%
 Harris Interactive,Challenges,2021-12-10,2021-12-13,Presidential,2159,Provided,Not Available,1%,24%,16%,17%,15%,11%,4%,7%,2%,0%,1%,0%,2%,1%,0%,0%,0%
 Ipsos and Sopra Steria,"CEVIPOF, FJJ and Le Monde",2021-12-07,2021-12-13,Presidential,10628,Provided,55%,0.5%,24%,14.5%,17%,14.5%,8.5%,4.5%,8.5%,3%,1%,1.5%,0.5%,2%,1.5%,Not Available,Not Available,0%
 OpinionWay,Mieux voter,2021-12-08,2021-12-09,Presidential,962,Provided,83%,1%,25%,16%,17%,12%,8%,5%,8%,2%,Not Available,2%,0%,2%,1%,Not Available,Not Available,2%
 Odoxa,L’Obs and Mascaret,2021-12-07,2021-12-09,Presidential,1815,Provided,81%,0.5%,24%,17%,19%,12%,10%,3%,6%,2.5%,1%,1.5%,1%,2%,1%,Not Available,Not Available,0%
-BVA,RTL and Orange,2021-12-06,2021-12-08,Presidential,894,Provided,83%,0.5%,24%,16%,17%,13%,9%,5%,7%,2.5%,1%,1.5%,0.5%,2.5%,1%,Not Available,Not Available,0%
+BVA,Orange and RTL,2021-12-06,2021-12-08,Presidential,894,Provided,83%,0.5%,24%,16%,17%,13%,9%,5%,7%,2.5%,1%,1.5%,0.5%,2.5%,1%,Not Available,Not Available,0%
 Ipsos and Sopra Steria,France Info and Le Parisien,2021-12-06,2021-12-08,Presidential,1500,Provided,94%,0.5%,25%,16%,16%,14%,8%,5%,7%,1.5%,1%,1.5%,0.5%,2%,2.5%,Not Available,Not Available,0%
-Elabe,"BFMTV, L’Express and SFR",2021-12-06,2021-12-07,Presidential,1354,Provided,87%,1%,23%,15%,20%,14%,8%,3%,7%,2%,2%,2%,1%,1%,2%,0%,0%,0%
 Cluster17,,2021-12-04,2021-12-08,Presidential,1487,Provided,71%,0.5%,23%,16%,16%,15%,13%,3%,5%,2%,1%,1%,0.5%,2%,1%,0.5%,1%,0%
+Elabe,"BFMTV, L’Express and SFR",2021-12-06,2021-12-07,Presidential,1354,Provided,87%,1%,23%,15%,20%,14%,8%,3%,7%,2%,2%,2%,1%,1%,2%,0%,0%,0%
 Kantar,,2021-12-05,2021-12-06,Presidential,1000,Provided,51%,1%,27%,16%,14%,14%,10%,4%,6%,2%,Not Available,Not Available,Not Available,Not Available,2%,Not Available,Not Available,5%
 Ifop–Fiducial,LCI and Le Figaro,2021-12-04,2021-12-06,Presidential,1341,Provided,Not Available,0.5%,25%,17%,17%,13%,9%,5%,6%,2.5%,0.5%,0.5%,0.5%,2.5%,1.5%,Not Available,Not Available,0%
 Harris Interactive,Challenges,2021-12-03,2021-12-06,Presidential,2129,Provided,Not Available,1%,23%,18%,14%,14%,11%,5%,7%,2%,0%,1%,1%,2%,1%,0%,1%,0%
@@ -18,8 +18,8 @@ Harris Interactive,Challenges,2021-11-26,2021-11-29,Presidential,2071,Provided,N
 Ifop–Fiducial,JDD and Sud Radio,2021-11-23,2021-11-25,Presidential,1351,Provided,Not Available,0.5%,25%,19.5%,10%,15%,8.5%,6%,6.5%,4%,Not Available,1%,0.5%,2%,2%,Not Available,Not Available,0%
 Elabe,"BFMTV, L’Express and SFR",2021-11-23,2021-11-24,Presidential,1350,Provided,88%,1%,25%,20%,9%,13%,9%,4%,8%,3%,1%,2%,1%,2%,2%,1%,0%,0%
 Harris Interactive,Challenges,2021-11-19,2021-11-22,Presidential,2120,Provided,Not Available,1%,24%,16%,11%,16%,10%,5%,9%,2%,0%,1%,1%,2%,1%,0%,2%,0%
-OpinionWay,"Les Echos, CNews and Radio Classique",2021-11-15,2021-11-17,Presidential,1454,Provided,82%,1%,24%,20%,11%,12%,9%,6%,8%,3%,Not Available,1%,1%,2%,3%,Not Available,Not Available,0%
-BVA,RTL and Orange,2021-11-12,2021-11-15,Presidential,886,Provided,84%,0.5%,26%,18%,9%,15%,7.5%,5%,8%,2.5%,1%,1.5%,1%,2.5%,2%,Not Available,Not Available,0%
+OpinionWay,"CNews, Les Echos and Radio Classique",2021-11-15,2021-11-17,Presidential,1454,Provided,82%,1%,24%,20%,11%,12%,9%,6%,8%,3%,Not Available,1%,1%,2%,3%,Not Available,Not Available,0%
+BVA,Orange and RTL,2021-11-12,2021-11-15,Presidential,886,Provided,84%,0.5%,26%,18%,9%,15%,7.5%,5%,8%,2.5%,1%,1.5%,1%,2.5%,2%,Not Available,Not Available,0%
 Harris Interactive,Challenges,2021-11-12,2021-11-15,Presidential,2027,Provided,Not Available,1%,24%,16%,10%,17%,10%,4%,9%,2%,0%,1%,1%,2%,2%,0%,2%,0%
 Elabe,"BFMTV, L’Express and SFR",2021-11-10,2021-11-11,Presidential,1350,Provided,88%,1%,27%,18%,11%,14%,8%,5%,7%,2%,0.5%,2%,1%,2%,2%,0%,0.5%,0%
 Odoxa,Saegus and L’Obs,2021-11-05,2021-11-08,Presidential,2756,Provided,74%,0.5%,25%,18.5%,9%,14.5%,8.5%,5%,6.5%,4%,1.5%,2.5%,1%,2%,2%,Not Available,Not Available,0%
@@ -28,13 +28,13 @@ Ifop–Fiducial,LCI and Le Figaro,2021-11-03,2021-11-05,Presidential,1358,Provid
 Harris Interactive,Challenges,2021-10-28,2021-10-30,Presidential,2003,Provided,Not Available,1%,24%,16%,10%,17%,10%,5%,9%,2%,0%,1%,1%,2%,2%,0%,1%,0%
 Elabe,"BFMTV, L’Express and SFR",2021-10-25,2021-10-27,Presidential,1300,Provided,87%,1%,24%,19%,10%,16%,6%,5%,6%,3%,1%,1%,1%,2%,3%,0%,1%,0%
 Harris Interactive,Challenges,2021-10-22,2021-10-25,Presidential,2060,Provided,Not Available,1%,25%,16%,10%,17%,10%,5%,9%,2%,0%,1%,1%,2%,2%,0%,0%,0%
-OpinionWay,"Les Echos, CNews and Radio Classique",2021-10-18,2021-10-20,Presidential,1035,Provided,81%,1%,25%,19%,8%,13%,9%,7%,8%,3%,Not Available,1%,1%,2%,4%,Not Available,Not Available,0%
+OpinionWay,"CNews, Les Echos and Radio Classique",2021-10-18,2021-10-20,Presidential,1035,Provided,81%,1%,25%,19%,8%,13%,9%,7%,8%,3%,Not Available,1%,1%,2%,4%,Not Available,Not Available,0%
 Harris Interactive,Challenges,2021-10-15,2021-10-18,Presidential,2006,Provided,Not Available,1%,25%,16%,10%,17%,10%,4%,9%,2%,0%,1%,1%,2%,3%,0%,0%,0%
 Ifop–Fiducial,TFI and LCI,2021-10-14,2021-10-15,Presidential,1391,Provided,Not Available,0.5%,24%,17%,10%,17%,8.5%,6.5%,7%,3%,1%,1%,0.5%,2.5%,2%,Not Available,Not Available,0%
 Ifop–Fiducial,LCI and Le Figaro,2021-10-09,2021-10-13,Presidential,4503,Provided,Not Available,0.5%,26%,18%,10%,17%,8%,5.5%,7%,2.5%,1%,0.5%,0.5%,2%,2%,Not Available,Not Available,0%
 Ipsos and Sopra Steria,"CEVIPOF, FJJ and Le Monde",2021-10-07,2021-10-13,Presidential,16228,Provided,53%,0.5%,25.5%,16%,10%,16%,8%,5%,9.5%,3%,1%,1%,1%,2%,2%,Not Available,Not Available,0%
 Harris Interactive,Challenges,2021-10-08,2021-10-11,Presidential,1051,Provided,Not Available,1%,25%,15%,11%,17%,11%,5%,8%,2%,0%,1%,1%,2%,2%,0%,0%,0%
-BVA,RTL and Orange,2021-10-07,2021-10-11,Presidential,876,Provided,83%,0.5%,27%,17%,10%,14%,8%,4%,8%,2.5%,1.5%,1%,1%,1.5%,4%,0.5%,Not Available,0%
+BVA,Orange and RTL,2021-10-07,2021-10-11,Presidential,876,Provided,83%,0.5%,27%,17%,10%,14%,8%,4%,8%,2.5%,1.5%,1%,1%,1.5%,4%,0.5%,Not Available,0%
 Odoxa,L’Obs,2021-10-05,2021-10-11,Presidential,3010,Provided,74%,1%,25%,21%,13%,10.5%,7.5%,4%,5%,3%,Not Available,1.5%,2%,3%,4.5%,Not Available,Not Available,0%
 Ifop–Fiducial,Sud Radio,2021-10-04,2021-10-05,Presidential,921,Provided,Not Available,1%,26%,18%,11%,14%,8%,6%,8%,3%,1%,0.5%,0.5%,1.5%,2.5%,Not Available,Not Available,0%
 Elabe,"BFMTV, L’Express and SFR",2021-10-05,2021-10-06,Presidential,1204,Provided,84%,1%,27%,17%,8%,14%,8%,5%,9%,3%,1%,1%,1%,2%,2%,1%,1%,0%
