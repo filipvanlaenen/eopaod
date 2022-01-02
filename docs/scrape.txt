@@ -14,7 +14,8 @@ Scraping for: de
 oo··········- (13)
 
 Scraping for: de
-oo···*·*········*··*···*······//·····/······/····/··/······/····/······/··/··/·····- (84)
+oo*···*·*········*··*···*······//·····/······/····/··/······/····/······/··/··/·····- (85)
+INSA and YouGov | N/A | 2021-12-27 | 2021-12-30 | NE | 1201 | N/A | 1 | 24 | 27 | 11 | 10 | 5 | 16 | N/A | N/A | N/A | N/A | 7
 Wahlkreisprognose | N/A | 2021-12-18 | 2021-12-19 | NE | 1120 | 100.0 | 0.1 | 21.5 | 30 | 10 | 11.5 | 4 | 14.5 | N/A | N/A | N/A | N/A | 8,5
 Kantar | N/A | 2021-12-14 | 2021-12-16 | NE | 1436 | N/A | 1 | 22 | 27 | 11 | 11 | 5 | 16 | N/A | N/A | N/A | N/A | 8
 Civey | N/A | 2021-12-01 | 2021-12-08 | NE | 10043 | N/A | 1 | 23 | 27 | 11 | 11 | 5 | 15 | N/A | N/A | N/A | N/A | 8
@@ -132,12 +133,13 @@ Expected header text “Confederation” at position 9, but found “Kukiz'15”
 Expected header text “Poland2050” at position 10, but found “Confederation”.
 Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
 Expected header text “Lead” at position 12, but found “Others /Don't know”.
-oo*········*·············*··*·*···*······*···*··-··-····*·*··=····*·····*-·····*·*··=**--·--***·*·*·=·······*·*·Could not parse period “29.5”.
+oo**········*·············*··*·*···*······*···*··-··-····*·*··=····*·····*-·····*·*··=**--·--***·*·*·=·······*·*·Could not parse period “29.5”.
 *·*··-·Could not parse period “30.3”.
 *··=····=-·**·-·-···=·*···*··*··=··Could not parse period “29.6”.
 *··**···*=···Could not parse period “30.1”.
 **···Could not parse period “25”.
-**···=·=··/*=**··*=···=··=··=·*···=··/·*·=··*·=·=····=*··=··/··=·*··=·····=·*···=···=··= (260)
+**···=·=··/*=**··*=···=··=··=·*···=··/·*·=··*·=·=····=*··=··/··=·*··=·····=·*···=···=··= (261)
+Estymator | DoRzeczy.pl | 2021-12-29 | 2021-12-30 | NE | 1029 | N/A | 0.1 | N/A | N/A | 6.8 | N/A | N/A | N/A | N/A | N/A | N/A | 35.9 | N/A | 24.2 | 8.4 | N/A | N/A | N/A | 9.0 | N/A | N/A | 13.5
 IPSOS | OKO.press | 2021-12-28 | 2021-12-30 | NE | 1018 | N/A | 1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | 1 | 26 | 6 | N/A | N/A | N/A | 10 | N/A | N/A | 13
 CBOS | N/A | 2021-11-29 | 2021-12-12 | NE | 1063 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 31.2 | N/A | 14.5 | 5.1 | 1 | N/A | N/A | 7.0 | N/A | N/A | 14.0
 Kantar Public | "GW" | 2021-11-16 | 2021-11-18 | NE | 1002 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | 0 | 24 | 8 | 2 | N/A | N/A | 9 | N/A | N/A | 14
