@@ -12,7 +12,8 @@ Scraping for: be-wal
 oo······-····- (14)
 
 Scraping for: de
-oo*···········- (15)
+oo**···········- (16)
+INSA and YouGov | N/A | 2022-01-07 | 2022-01-10 | NE | 2107 | N/A | 0.5 | N/A | 26.5 | 12 | 12 | 5 | 15 | 18 | 5 | N/A | N/A | 6.5
 INSA and YouGov | N/A | 2022-01-03 | 2022-01-03 | NE | 2060 | N/A | 0.5 | N/A | 26.5 | 11.5 | 11 | 6 | 15.5 | 17 | 6 | N/A | N/A | 6.5
 
 Scraping for: de
