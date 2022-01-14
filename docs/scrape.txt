@@ -1,6 +1,5 @@
 Scraping for: at
-oo*···········=·=··········································································································- (124)
-Market | N/A | 2021-12-23 | 2021-12-28 | NE | 800 | N/A | 1 | 24 | 26 | 21 | 11 | N/A | 12 | N/A | N/A | 4 | N/A | 2
+oo············=·=··········································································································- (124)
 
 Scraping for: be-bru
 oo······-····- (14)
@@ -12,23 +11,577 @@ Scraping for: be-wal
 oo······-····- (14)
 
 Scraping for: de
-oo**···········- (16)
-INSA and YouGov | N/A | 2022-01-07 | 2022-01-10 | NE | 2107 | N/A | 0.5 | N/A | 26.5 | 12 | 12 | 5 | 15 | 18 | 5 | N/A | N/A | 6.5
-INSA and YouGov | N/A | 2022-01-03 | 2022-01-03 | NE | 2060 | N/A | 0.5 | N/A | 26.5 | 11.5 | 11 | 6 | 15.5 | 17 | 6 | N/A | N/A | 6.5
+oo·············- (16)
 
 Scraping for: de
-oo····*··········*··*···*······//·····/······/····/··/······/····/······/··/··/·····- (85)
-Wahlkreisprognose | N/A | 2021-12-18 | 2021-12-19 | NE | 1120 | 100.0 | 0.1 | 21.5 | 30 | 10 | 11.5 | 4 | 14.5 | N/A | N/A | N/A | N/A | 8,5
-Civey | N/A | 2021-12-01 | 2021-12-08 | NE | 10043 | N/A | 1 | 23 | 27 | 11 | 11 | 5 | 15 | N/A | N/A | N/A | N/A | 8
-Wahlkreisprognose | N/A | 2021-12-01 | 2021-12-06 | NE | 1002 | 100.0 | 0.5 | 18 | 29 | 11 | 13.5 | 4 | 16.5 | N/A | N/A | N/A | N/A | 8
-Civey | N/A | 2021-12-01 | 2021-12-01 | NE | 10078 | N/A | 1 | 24 | 26 | 11 | 11 | 5 | 15 | N/A | N/A | N/A | N/A | 8
+oo········- (11)
 
 Scraping for: dk
-oo*-- (5)
-Voxmeter | N/A | 2022-01-03 | 2022-01-08 | NE | 1002 | N/A | 0.1 | 25.1 | 6.2 | 16.5 | 8.9 | 2.5 | 1.2 | 7.2 | 8.6 | 15.0 | 1.8 | 6.0 | N/A | N/A | 0.0 | N/A | N/A | 0.9
+oo·-- (5)
 
 Scraping for: ee
 ···································································· (68)
 
 Scraping for: es
-Could not parse period '31 Dec–6 Jan'.
+*****·*······························································································································································································· (198)
+electoPanel | electomania.es | 2021-12-24 | 2021-12-30 | NE | 1189 | N/A | 0.1 | 23.9 | 24.9 | 11.8 | 3.2 | 3.5 | 2.4 | 1.5 | N/A | 1.3 | 0.7 | 19.9 | 2.7 | 0.9 | N/A | N/A | N/A | N/A
+40dB | Prisa | 2021-12-23 | 2021-12-30 | NE | 2000 | N/A | 0.1 | 23.5 | 26.1 | 11.8 | 3.6 | N/A | N/A | N/A | N/A | N/A | N/A | 18.3 | 3.6 | N/A | N/A | N/A | N/A | N/A
+IMOP | El Confidencial | 2021-12-20 | 2021-12-30 | NE | 1315 | N/A | 0.1 | 25.0 | 25.2 | 12.1 | 2.8 | 3.2 | 1.8 | 1.6 | N/A | 1.3 | 0.4 | 18.6 | 2.7 | 1.1 | N/A | N/A | N/A | N/A
+SocioMétrica | El Español | 2021-12-20 | 2021-12-30 | NE | 3000 | N/A | 0.1 | 24.2 | 25.5 | 12.3 | 4.3 | 2.8 | 2.0 | 1.4 | N/A | 1.0 | 0.6 | 17.7 | 3.2 | 0.7 | N/A | N/A | N/A | N/A
+PSOE | N/A | 2021-12-27 | 2021-12-27 | NE | N/A | N/A | 1 | 22.0 | 29.0 | 11.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 17.0 | N/A | N/A | N/A | N/A | N/A | N/A
+Sigma Dos | El Mundo | 2021-12-20 | 2021-12-24 | NE | 2619 | N/A | 0.1 | 27.4 | 26.0 | 10.9 | 3.1 | 3.0 | 2.0 | 1.9 | N/A | N/A | N/A | 16.6 | 3.1 | N/A | N/A | N/A | N/A | N/A
+
+Scraping for: fi
+·································································· (66)
+
+Scraping for: gr
+*······*·····················*··································*·······*······*······*····*·*···*····*·························································· (161)
+Interview | Politic.gr | 2022-01-10 | 2022-01-12 | NE | 1000 | N/A | 0.1 | 25.5 | 37.9 | N/A | 14.0 | 5.3 | N/A | N/A | N/A | N/A | N/A | 5.1 | 3.7 | N/A
+Kapa Research | N/A | 2021-12-13 | 2021-12-14 | NE | 1003 | N/A | 0.1 | 27.3 | 39.3 | N/A | 13.5 | 7.0 | N/A | N/A | N/A | N/A | N/A | 4.3 | 3.5 | N/A
+MRB | Star | 2021-09-22 | 2021-09-22 | NE | 1000 | N/A | 0.1 | 28.6 | 40.6 | 1.2 | 8.1 | 5.9 | N/A | N/A | N/A | N/A | 1.3 | 4.6 | 4.2 | N/A
+Metron Analysis | Mega | 2021-03-17 | 2021-03-23 | NE | 1000 | N/A | 0.1 | 27.5 | 43.4 | N/A | 8.1 | 5.9 | N/A | N/A | 1.3 | N/A | N/A | 5.8 | 4.6 | N/A
+Prorata | Η Εφημερίδα των Συντακτών | 2021-02-23 | 2021-02-26 | NE | 1000 | N/A | 0.5 | 30.5 | 42.0 | N/A | 7.0 | 5.5 | N/A | N/A | N/A | N/A | N/A | 3.0 | 4.5 | N/A
+GPO | Παραπολιτικά | 2021-01-19 | 2021-01-22 | NE | 1000 | N/A | 0.1 | 27.6 | 44.1 | N/A | 7.3 | 7.2 | N/A | N/A | N/A | N/A | N/A | 4.7 | 3.5 | N/A
+Interview | Political | 2020-12-03 | 2020-12-08 | NE | 1205 | N/A | 0.1 | 24.7 | 44.8 | N/A | 8.0 | 5.5 | N/A | N/A | N/A | N/A | N/A | 5.5 | 3.2 | N/A
+Κάπα Research | N/A | 2020-11-20 | 2020-11-24 | NE | 1054 | N/A | 0.1 | 28.6 | 45.7 | N/A | 7.3 | 6.2 | N/A | N/A | N/A | N/A | N/A | 4.2 | 3.4 | N/A
+Opinion Poll | N/A | 2020-11-14 | 2020-11-16 | NE | 1000 | N/A | 0.1 | 24.4 | 48.6 | N/A | 8.4 | 6.5 | N/A | N/A | N/A | N/A | N/A | 4.0 | 3.6 | N/A
+Pulse RC | ΣΚΑΪ | 2020-10-19 | 2020-10-21 | NE | 1306 | N/A | 0.5 | 25.5 | 45.0 | N/A | 7.5 | 6.5 | N/A | N/A | N/A | N/A | N/A | 5.0 | 3.5 | N/A
+Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 | 47.9 | N/A | 6.9 | 5.9 | N/A | N/A | N/A | N/A | N/A | 5.7 | 3.4 | N/A
+
+[33mScraping for: hu
+Expected header text “United  Opposition” at position 5, but found “United for Hungary”.
+Expected header text “Mi Hazánk” at position 7, but found “”.
+oo*····*····························································/···/··/ (76)
+Nézőpont Intézet | N/A | 2022-01-02 | 2022-01-05 | NE | 1000 | N/A | 1 | 50 | N/A | N/A | N/A | N/A | N/A | 3 | 3 | N/A | N/A | N/A | N/A | 43 | 1
+ZRI Závecz Research | N/A | 2021-12-04 | 2021-12-13 | NE | 1000 | N/A | 1 | 47 | N/A | N/A | N/A | N/A | N/A | 2 | 3 | N/A | N/A | N/A | N/A | 47 | 1
+
+[0m[33mScraping for: hu
+Expected header text “” at position 9, but found “LMP”.
+Expected header text “Mi Hazánk” at position 12, but found “”.
+oo······················································································-················-······························································- (169)
+
+[0mScraping for: ie
+**···················································· (54)
+Ireland Thinks | Sunday Independent | 2022-01-08 | 2022-01-08 | NE | 1369 | N/A | 1 | 23 | 19 | 33 | 4 | 3 | 4 | 3 | 2 | N/A | N/A | 9
+Ireland Thinks | Irish Mail on Sunday | 2021-12-12 | 2021-12-12 | NE | N/A | N/A | 1 | 25 | 17 | 31 | 4 | 4 | 3 | 4 | 3 | N/A | N/A | 9
+
+Scraping for: is
+oo-···············································~················································································- (132)
+
+Scraping for: it
+oo·*·*··························································································································································· (161)
+Demos & Pi | N/A | 2021-12-20 | 2021-12-22 | NE | 917 | N/A | 0.1 | 16.0 | 20.7 | 18.8 | 7.9 | 20.1 | N/A | 2.2 | N/A | N/A | N/A | 2.1 | N/A | N/A | N/A | N/A | N/A | 2.3 | 6.9
+EMG | N/A | 2021-12-21 | 2021-12-21 | NE | 1463 | N/A | 0.1 | 14.7 | 20.5 | 18.5 | 7.6 | 19.4 | N/A | 1.3 | 2.4 | N/A | N/A | 4.3 | N/A | N/A | N/A | 1.2 | 1.7 | 2.2 | 2.6
+
+Scraping for: lv
+oo*········-····-- (18)
+Factum Interactive | N/A | 2021-12-01 | 2021-12-31 | NE | 1410 | N/A | 0.1 | 12.2 | 0.8 | 6.1 | 12.0 | 11.5 | 9.5 | 16.9 | 4.1 | 3.2 | 6.6 | N/A | 6.4 | 4.5 | 1.7 | 4.6
+
+Scraping for: no
+oo-························································································- (92)
+
+[31mScraping for: pt
+****··························································································· (95)
+CESOP–UCP | N/A | 2022-01-06 | 2022-01-10 | NE | 1246 | N/A | 1 | 30 | 39 | 6 | 2 | 5 | 3 | 2 | 4 | N/A | 6 | 3
+Intercampus | N/A | 2022-01-04 | 2022-01-10 | NE | 615 | N/A | 0.1 | 29.3 | 35.3 | 8.5 | 1.1 | 6.0 | 4.3 | 0.6 | 5.6 | N/A | 7.1 | 2.2
+Pitagórica | N/A | 2021-12-30 | 2022-01-09 | NE | 600 | N/A | 0.1 | 30.0 | 39.6 | 6.4 | 1.5 | 5.1 | 1.8 | N/A | 5.1 | N/A | 5.7 | 4.8
+CESOP–UCP | N/A | 2021-12-28 | 2022-01-05 | NE | 1238 | N/A | 1 | 32 | 38 | 6 | 2 | 6 | 2 | 1 | 5 | N/A | 5 | 3
+
+[0mScraping for: se
+oo····*·····*·····*····*······*·*··*·····*····*····*···*·····*·····*·······**····*····*···*·····*··*·······*····*···*····*····*·····*······*···*······*·····*·········*·····-·*·······*···*·····*·····*············*·····*····*····- (228)
+Sentio | N/A | 2021-11-17 | 2021-11-25 | NE | N/A | N/A | 0.1 | 25.5 | 19.9 | 20.6 | 6.9 | 11.7 | 5.4 | 3.3 | 3.7 | 3.0
+Sentio | N/A | 2021-10-21 | 2021-10-25 | NE | N/A | N/A | 0.1 | 21.1 | 22.7 | 23.9 | 5.3 | 11.9 | 6.0 | 2.2 | 3.5 | 2.4
+Sentio | N/A | 2021-09-23 | 2021-09-27 | NE | N/A | N/A | 0.1 | 24.4 | 22.7 | 21.7 | 5.3 | 10.4 | 5.9 | 3.0 | 3.9 | N/A
+Sentio | N/A | 2021-08-26 | 2021-08-29 | NE | N/A | N/A | 0.1 | 23.1 | 21.0 | 23.3 | 5.8 | 10.6 | 7.8 | 1.9 | 4.0 | N/A
+Sentio | N/A | 2021-07-16 | 2021-07-19 | NE | N/A | N/A | 0.1 | 23.6 | 18.9 | 23.9 | 6.8 | 10.8 | 5.1 | 4.1 | 5.0 | N/A
+Sentio | N/A | 2021-07-02 | 2021-07-05 | NE | N/A | N/A | 0.1 | 23.8 | 21.0 | 21.9 | 6.3 | 10.3 | 6.1 | 4.3 | 4.3 | N/A
+Sentio | N/A | 2021-06-18 | 2021-06-21 | NE | N/A | N/A | 0.1 | 25.2 | 21.2 | 19.4 | 7.9 | 10.2 | 6.8 | 2.8 | 3.3 | N/A
+Sentio | N/A | 2021-05-21 | 2021-05-24 | NE | N/A | N/A | 0.1 | 25.5 | 19.3 | 21.0 | 7.0 | 10.3 | 5.2 | 3.3 | 5.0 | N/A
+Sentio | N/A | 2021-04-23 | 2021-04-26 | NE | N/A | N/A | 0.1 | 25.4 | 21.2 | 21.4 | 6.7 | 10.2 | 5.6 | 2.5 | 4.6 | N/A
+Sentio | N/A | 2021-03-26 | 2021-03-29 | NE | N/A | N/A | 0.1 | 26.5 | 20.1 | 22.2 | 6.0 | 8.9 | 5.9 | 3.0 | 5.0 | 2.4
+Sentio | N/A | 2021-02-25 | 2021-02-28 | NE | N/A | N/A | 0.1 | 25.4 | 21.7 | 20.7 | 7.3 | 10.1 | 6.0 | 3.1 | 3.3 | N/A
+Sentio | N/A | 2021-01-28 | 2021-01-31 | NE | 1000 | N/A | 0.1 | 26.3 | 20.7 | 23.3 | 5.8 | 10.7 | 5.2 | 2.2 | 3.6 | 2.2
+Sentio | N/A | 2020-12-11 | 2020-12-14 | NE | N/A | N/A | 0.1 | 24.1 | 22.1 | 23.2 | 6.0 | 11.3 | 4.8 | 2.6 | 3.2 | 2.4
+Sentio | N/A | 2020-11-12 | 2020-11-16 | NE | N/A | N/A | 0.1 | 23.3 | 19.8 | 25.2 | 5.8 | 9.9 | 5.9 | 3.3 | 3.3 | 3.4
+Sifo | N/A | 2020-11-02 | 2020-11-12 | NE | 6825 | N/A | 0.1 | 27.0 | 20.8 | 19.9 | 7.6 | 10.2 | 5.7 | 3.2 | 4.2 | 1.4
+Sentio | N/A | 2020-10-15 | 2020-10-18 | NE | N/A | N/A | 0.1 | 24.8 | 18.8 | 24.1 | 6.5 | 9.7 | 5.9 | 2.8 | 4.6 | 2.7
+Sentio | N/A | 2020-09-17 | 2020-09-20 | NE | N/A | N/A | 0.1 | 25.1 | 19.7 | 22.4 | 7.5 | 8.6 | 7.1 | 3.0 | 3.9 | N/A
+Sentio | N/A | 2020-08-20 | 2020-08-25 | NE | N/A | N/A | 0.1 | 26.7 | 20.3 | 22.4 | 5.1 | 10.0 | 5.4 | 2.8 | 5.0 | 2.3
+Sentio | N/A | 2020-07-10 | 2020-07-12 | NE | N/A | N/A | 0.1 | 25.5 | 20.3 | 24.1 | 5.8 | 8.5 | 5.7 | 2.5 | 5.1 | 2.5
+Sentio | N/A | 2020-06-12 | 2020-06-15 | NE | N/A | N/A | 0.1 | 28.8 | 18.6 | 20.7 | 6.4 | 9.7 | 5.9 | 2.9 | 3.9 | 3.1
+Sentio | N/A | 2020-05-15 | 2020-05-18 | NE | N/A | N/A | 0.1 | 28.2 | 19.4 | 22.2 | 4.7 | 9.2 | 7.8 | 3.1 | 3.5 | 2.0
+Sentio | N/A | 2020-04-17 | 2020-04-21 | NE | N/A | N/A | 0.1 | 27.5 | 18.7 | 24.2 | 5.8 | 9.0 | 5.4 | 3.4 | 4.1 | 1.9
+Sentio | N/A | 2020-03-20 | 2020-03-24 | NE | N/A | N/A | 0.1 | 22.0 | 19.5 | 24.9 | 5.8 | 10.5 | 7.1 | 2.3 | 5.2 | 2.7
+Sentio | N/A | 2020-02-21 | 2020-02-24 | NE | N/A | N/A | 0.1 | 21.5 | 19.6 | 27.8 | 7.9 | 11.1 | 5.3 | 1.8 | 3.6 | 1.3
+Sentio | N/A | 2020-01-24 | 2020-01-28 | NE | N/A | N/A | 0.1 | 22.1 | 16.6 | 28.8 | 7.0 | 9.7 | 7.8 | 2.4 | 4.0 | 1.6
+Sentio | N/A | 2019-12-13 | 2019-12-18 | NE | 793 | N/A | 0.1 | 21.1 | 16.5 | 29.1 | 6.8 | 10.1 | 6.3 | 3.2 | 4.5 | 2.4
+Sentio | N/A | 2019-11-15 | 2019-11-19 | NE | N/A | N/A | 0.1 | 22.5 | 16.9 | 28.5 | 7.0 | 8.5 | 6.8 | 2.5 | 4.9 | 2.2
+Sentio | N/A | 2019-10-18 | 2019-10-24 | NE | N/A | N/A | 0.1 | 24.2 | 16.8 | 25.4 | 6.4 | 9.6 | 6.4 | 4.7 | 4.2 | 1.8
+Sentio | N/A | 2019-09-20 | 2019-09-24 | NE | 1008 | N/A | 0.1 | 23.9 | 17.1 | 27.5 | 6.1 | 9.4 | 6.0 | 3.9 | 3.9 | 2.3
+Sentio | N/A | 2019-08-22 | 2019-08-27 | NE | 793 | N/A | 0.1 | 23.2 | 18.3 | 23.5 | 6.1 | 10.5 | 5.8 | 5.4 | 4.7 | 2.0
+Sentio | N/A | 2019-06-03 | 2019-06-13 | NE | N/A | N/A | 0.1 | 25.7 | 17.0 | 21.8 | 7.4 | 8.8 | 7.9 | 3.7 | 4.8 | 2.9
+Sentio | N/A | 2019-05-17 | 2019-05-21 | NE | 1007 | N/A | 0.1 | 25.0 | 15.5 | 21.2 | 6.8 | 10.1 | 10.4 | 3.3 | 4.7 | 3.1
+Sentio | N/A | 2019-04-04 | 2019-04-10 | NE | 789 | N/A | 0.1 | 25.6 | 17.5 | 20.1 | 6.4 | 9.3 | 10.7 | 3.8 | 4.3 | 2.3
+Sentio | N/A | 2019-03-22 | 2019-03-27 | NE | 1002 | N/A | 0.1 | 24.7 | 17.4 | 19.2 | 6.1 | 10.2 | 12.7 | 3.1 | 3.9 | 2.5
+Sentio | N/A | 2019-02-22 | 2019-02-25 | NE | 1000 | N/A | 0.1 | 26.5 | 18.3 | 21.4 | 5.5 | 10.5 | 9.4 | 2.6 | 3.4 | 2.4
+Sentio | N/A | 2019-01-24 | 2019-01-30 | NE | 1001 | N/A | 0.1 | 27.8 | 17.7 | 20.4 | 7.1 | 9.5 | 7.3 | 3.9 | 4.0 | 2.3
+Sentio | N/A | 2018-11-29 | 2018-12-03 | NE | 1035 | N/A | 0.1 | 28.4 | 18.0 | 22.3 | 6.9 | 8.0 | 6.1 | 4.2 | 3.9 | 2.3
+Sentio | N/A | 2018-11-01 | 2018-11-07 | NE | 1006 | N/A | 0.1 | 28.1 | 18.6 | 20.2 | 9.3 | 9.3 | 5.3 | 3.3 | 3.8 | 1.7
+Sentio | N/A | 2018-10-05 | 2018-10-09 | NE | 1011 | N/A | 0.1 | 27.4 | 20.0 | 20.3 | 7.5 | 8.4 | 5.6 | 4.2 | 5.0 | 1.6
+
+Scraping for: pl
+Expected header text “Polling Firm/Link” at position 1, but found “Polling firm/Link”.
+Expected header text “FieldworkPeriod” at position 2, but found “Fieldworkdate”.
+Expected header text “SampleSize” at position 3, but found “Samplesize”.
+Expected header text “CivicCoalition” at position 5, but found “Agreement”.
+Expected header text “The Left” at position 6, but found “CivicCoalition”.
+Expected header text “PolishCoalition” at position 7, but found “The Left”.
+Expected header text “Kukiz'15” at position 8, but found “PolishCoalition”.
+Expected header text “Confederation” at position 9, but found “Kukiz'15”.
+Expected header text “Poland2050” at position 10, but found “Confederation”.
+Expected header text “Others /Don't know” at position 11, but found “Poland2050”.
+Expected header text “Lead” at position 12, but found “Others /Don't know”.
+ooCould not parse period “29–30 Dec”.
+*Could not parse period “28–30 Dec”.
+*Could not parse period “17–20 Dec”.
+*Could not parse period “17–18 Dec”.
+*Could not parse period “17 Dec”.
+*Could not parse period “10–13 Dec”.
+*Could not parse period “10–13 Dec”.
+*Could not parse period “11–12 Dec”.
+*Could not parse period “10–12 Dec”.
+*Could not parse period “8–12 Dec”.
+*Could not parse period “29 Nov–12 Dec”.
+*Could not parse period “3–8 Dec”.
+*Could not parse period “3–6 Dec”.
+*Could not parse period “3 Dec”.
+*Could not parse period “26–29 Nov”.
+*Could not parse period “26–29 Nov”.
+*Could not parse period “26–27 Nov”.
+*Could not parse period “25–26 Nov”.
+*Could not parse period “23 Nov”.
+*Could not parse period “22–23 Nov”.
+*Could not parse period “19–22 Nov”.
+*Could not parse period “19–20 Nov”.
+*Could not parse period “18–19 Nov”.
+*Could not parse period “18–19 Nov”.
+*Could not parse period “16–18 Nov”.
+*Could not parse period “12–17 Nov”.
+*Could not parse period “12–15 Nov”.
+*Could not parse period “4–14 Nov”.
+*Could not parse period “5–9 Nov”.
+*Could not parse period “5–8 Nov”.
+*Could not parse period “5–6 Nov”.
+*Could not parse period “5 Nov”.
+*Could not parse period “29 Oct–2 Nov”.
+*Could not parse period “18–28 Oct”.
+*Could not parse period “27–28 Oct”.
+*Could not parse period “22–25 Oct”.
+*Could not parse period “22–25 Oct”.
+*Could not parse period “22–23 Oct”.
+*Could not parse period “22 Oct”.
+*Could not parse period “15–18 Oct”.
+*Could not parse period “4–14 Oct”.
+*Could not parse period “12–13 Oct”.
+*Could not parse period “8–13 Oct”.
+*Could not parse period “11 Oct”.
+*Could not parse period “8–11 Oct”.
+*Could not parse period “8–11 Oct”.
+*Could not parse period “8 Oct”.
+*-Could not parse period “6 Oct”.
+*Could not parse period “1–4 Oct”.
+*-Could not parse period “24–27 Sep”.
+*Could not parse period “24–27 Sep”.
+*Could not parse period “24–25 Sep”.
+*Could not parse period “24 Sep”.
+*Could not parse period “20–23 Sep”.
+*Could not parse period “17–20 Sep”.
+*Could not parse period “6–16 Sep”.
+*Could not parse period “13–14 Sep”.
+*Could not parse period “10–13 Sep”.
+*=Could not parse period “11–12 Sep”.
+*Could not parse period “10–11 Sep”.
+*Could not parse period “9–11 Sep”.
+*Could not parse period “10 Sep”.
+*Could not parse period “3–8 Sep”.
+*Could not parse period “7 Sep”.
+*Could not parse period “3–6 Sep”.
+*Could not parse period “3–6 Sep”.
+*Could not parse period “3–4 Sep”.
+*Could not parse period “2–3 Sep”.
+*Could not parse period “1–3 Sep”.
+*-Could not parse period “27–30 Aug”.
+*Could not parse period “27–28 Aug”.
+*Could not parse period “27 Aug”.
+*Could not parse period “27 Aug”.
+*Could not parse period “26–27 Aug”.
+*Could not parse period “16–26 Aug”.
+*Could not parse period “24 Aug”.
+*Could not parse period “20–23 Aug”.
+*Could not parse period “15–16 Aug”.
+*Could not parse period “13–16 Aug”.
+*=Could not parse period “13–16 Aug”.
+*Could not parse period “13 Aug”.
+*--Could not parse period “6–11 Aug”.
+*--Could not parse period “1 Jul–10 Aug”.
+*Could not parse period “6–9 Aug”.
+*Could not parse period “30 Jul–2 Aug”.
+*Could not parse period “30 Jul–2 Aug”.
+*Could not parse period “30 Jul–2 Aug”.
+*Could not parse period “31 Jul–1 Aug”.
+*Could not parse period “30 Jul”.
+*Could not parse period “23–26 Jul”.
+*=Could not parse period “24–25 Jul”.
+*Could not parse period “21–23 Jul”.
+*Could not parse period “16–19 Jul”.
+*Could not parse period “16–19 Jul”.
+*Could not parse period “9–14 Jul”.
+*Could not parse period “9–12 Jul”.
+*Could not parse period “9–11 Jul”.
+*Could not parse period “1–11 Jul”.
+*Could not parse period “6–7 Jul”.
+*Could not parse period “5–7 Jul”.
+*Could not parse period “6 Jul”.
+*Could not parse period “29.5”.
+*Could not parse period “2–5 Jul”.
+*Could not parse period “5 Jul”.
+*Could not parse period “2–5 Jul”.
+*Could not parse period “2–5 Jul”.
+*-Could not parse period “30 Jun”.
+*Could not parse period “30.3”.
+*Could not parse period “25–28 Jun”.
+*Could not parse period “26–27 Jun”.
+*=Could not parse period “25–26 Jun”.
+*Could not parse period “24–25 Jun”.
+*Could not parse period “18–21 Jun”.
+*Could not parse period “18–21 Jun”.
+*=-Could not parse period “19–20 Jun”.
+*Could not parse period “19 Jun”.
+*Could not parse period “7–17 Jun”.
+*Could not parse period “11–16 Jun”.
+*-Could not parse period “11–14 Jun”.
+*-Could not parse period “11 Jun”.
+*Could not parse period “4–7  Jun”.
+*Could not parse period “5–6 Jun”.
+*=Could not parse period “4–6 Jun”.
+*Could not parse period “4 Jun”.
+*Could not parse period “31 May”.
+*Could not parse period “28–31 May”.
+*Could not parse period “28 May”.
+*Could not parse period “25 May”.
+*Could not parse period “21–24 May”.
+*Could not parse period “21–22 May”.
+*Could not parse period “21 May”.
+*Could not parse period “20–21 May”.
+*Could not parse period “19–20 May”.
+*=Could not parse period “18–20 May”.
+*Could not parse period “19 May”.
+*Could not parse period “29.6”.
+*Could not parse period “14–17 May”.
+*Could not parse period “14–17 May”.
+*Could not parse period “15–16 May”.
+*Could not parse period “6–16 May”.
+*Could not parse period “13–14 May”.
+*Could not parse period “7–12 May”.
+*Could not parse period “11 May”.
+*Could not parse period “11 May”.
+*=Could not parse period “7–10 May”.
+*Could not parse period “8–9 May”.
+*Could not parse period “5 May”.
+*Could not parse period “30.1”.
+*Could not parse period “4 May”.
+*Could not parse period “30 Apr–4 May”.
+*Could not parse period “30 Apr–3 May”.
+*Could not parse period “27–28 Apr”.
+*Could not parse period “25”.
+*Could not parse period “26–28 Apr”.
+*Could not parse period “23–26 Apr”.
+*Could not parse period “24–25 Apr”.
+*Could not parse period “20 Apr”.
+*=Could not parse period “20 Apr”.
+*=Could not parse period “16–19 Apr”.
+*Could not parse period “16–19 Apr”.
+*Could not parse period “8–18 Apr”.
+*Could not parse period “16 Apr”.
+*=Could not parse period “15–16 Apr”.
+*Could not parse period “9–14 Apr”.
+*Could not parse period “9–12 Apr”.
+*Could not parse period “9–10 Apr”.
+*Could not parse period “9 Apr”.
+*=Could not parse period “7–9 Apr”.
+*Could not parse period “2–6 Apr”.
+*Could not parse period “2–5 Apr”.
+*=Could not parse period “25–30 Mar”.
+*Could not parse period “26–29 Mar”.
+*=Could not parse period “27–28 Mar”.
+*Could not parse period “19–22 Mar”.
+*=Could not parse period “19–22 Mar”.
+*Could not parse period “19 Mar”.
+*Could not parse period “19 Mar”.
+*Could not parse period “17–19 Mar”.
+*Could not parse period “12–15 Mar”.
+*=Could not parse period “11–12 Mar”.
+*Could not parse period “11–12 Mar”.
+*Could not parse period “1–11 Mar”.
+*Could not parse period “5–10 Mar”.
+*Could not parse period “5–8 Mar”.
+*Could not parse period “5–8 Mar”.
+*=Could not parse period “1–7 Mar”.
+*Could not parse period “5–6 Mar”.
+*Could not parse period “5 Mar”.
+*Could not parse period “3–4 Mar”.
+*=Could not parse period “26 Feb–1 Mar”.
+*=Could not parse period “27–28 Feb”.
+*Could not parse period “25–26 Feb”.
+*Could not parse period “25–26 Feb”.
+*Could not parse period “19–22 Feb”.
+*=Could not parse period “19 Feb”.
+*Could not parse period “15–16 Feb”.
+*Could not parse period “12–15 Feb”.
+*=Could not parse period “12–13 Feb”.
+*Could not parse period “10–12 Feb”.
+*Could not parse period “1–11 Feb”.
+*Could not parse period “5–10 Feb”.
+*Could not parse period “5–8 Feb”.
+*=Could not parse period “5–6 Feb”.
+*Could not parse period “5 Feb”.
+*Could not parse period “29 Jan–3 Feb”.
+*Could not parse period “29 Jan–1 Feb”.
+*=Could not parse period “29 Jan–1 Feb”.
+*Could not parse period “30–31 Jan”.
+*Could not parse period “28–29 Jan”.
+*Could not parse period “25–26 Jan”.
+*Could not parse period “22–25 Jan”.
+*=Could not parse period “23 Jan”.
+*Could not parse period “22 Jan”.
+*Could not parse period “20-21 Jan”.
+*Could not parse period “19 Jan”.
+*Could not parse period “15–18 Jan”.
+*=Could not parse period “14–15 Jan”.
+*Could not parse period “4–14 Jan”.
+*Could not parse period “8–11 Jan”.
+*=Could not parse period “8–9 Jan”.
+*Could not parse period “1–5 Jan”.
+*= (261)
+Estymator | DoRzeczy.pl |  |  | NE | 1029 | N/A | 0.1 | N/A | N/A | 6.8 | N/A | N/A | N/A | N/A | N/A | N/A | 35.9 | N/A | 24.2 | 8.4 | N/A | N/A | N/A | 9.0 | N/A | N/A | 13.5
+IPSOS | OKO.press |  |  | NE | 1018 | N/A | 1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | 1 | 26 | 6 | N/A | N/A | N/A | 10 | N/A | N/A | 13
+Social Changes | wPolityce.pl |  |  | NE | 1052 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 36 | 2 | 25 | 8 | 2 | N/A | N/A | 11 | N/A | N/A | 13
+IBRiS | "Rz.pl" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.9 | N/A | N/A | N/A | N/A | N/A | N/A | 30.8 | N/A | 24.1 | 7.8 | N/A | N/A | N/A | 6.3 | N/A | N/A | 10.1
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 6.5 | N/A | N/A | N/A | N/A | N/A | N/A | 32.1 | N/A | 24.9 | 8.1 | N/A | N/A | N/A | 5.1 | N/A | N/A | 9.2
+Research Partner | N/A |  |  | NE | 1033 | N/A | 0.1 | N/A | N/A | 1.4 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | 0.2 | 22.4 | 7.6 | 1.8 | N/A | N/A | 8.2 | N/A | N/A | 11.8
+Social Changes | wPolityce.pl |  |  | NE | 1076 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 1 | 24 | 7 | 1 | N/A | N/A | 11 | N/A | N/A | 14
+Instytut Badań Pollster | SE.pl |  |  | NE | 1046 | N/A | 0.1 | N/A | N/A | 4.38 | N/A | N/A | N/A | N/A | N/A | N/A | 36.38 | 0.19 | 25.81 | 6.18 | 1.35 | N/A | N/A | 10.70 | N/A | N/A | 14.55
+Kantar | TVN |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 6 | N/A | N/A | N/A | N/A | N/A | N/A | 31 | 1 | 24 | 6 | 2 | N/A | N/A | 7 | N/A | N/A | 14
+Kantar | Polityka |  |  | NE | N/A | N/A | 1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 27 | 1 | 21 | 10 | 2 | N/A | N/A | 7 | N/A | N/A | 17
+CBOS | N/A |  |  | NE | 1063 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 31.2 | N/A | 14.5 | 5.1 | 1 | N/A | N/A | 7.0 | N/A | N/A | 14.0
+Kantar Public | N/A |  |  | NE | 975 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 28 | 1 | 26 | 7 | 1 | N/A | N/A | 8 | N/A | N/A | 11
+Social Changes | wPolityce.pl |  |  | NE | 1073 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 2 | 24 | 9 | 2 | N/A | N/A | 9 | N/A | N/A | 13
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.7 | N/A | N/A | N/A | N/A | N/A | N/A | 32.1 | N/A | 23.7 | 7.8 | N/A | N/A | N/A | 6.7 | N/A | N/A | 10.6
+Social Changes | wPolityce.pl |  |  | NE | 1054 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 1 | 25 | 9 | 1 | N/A | N/A | 10 | N/A | N/A | 12
+Research Partner | N/A |  |  | NE | 1030 | N/A | 0.1 | N/A | N/A | 3.2 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | 0.6 | 20.6 | 6.9 | 1.1 | N/A | N/A | 8.4 | N/A | N/A | 10.6
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 6.4 | N/A | N/A | N/A | N/A | N/A | N/A | 32.0 | N/A | 22.1 | 7.0 | N/A | N/A | N/A | 7.1 | N/A | N/A | 11.8
+Estymator | DoRzeczy.pl |  |  | NE | 1021 | N/A | 0.1 | N/A | N/A | 7.1 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | N/A | 23.8 | 7.7 | N/A | N/A | N/A | 8.6 | N/A | N/A | 15.8
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 30.2 | N/A | 21.8 | 7.6 | N/A | N/A | N/A | 9.3 | N/A | N/A | 13.0
+Instytut Badań Pollster | SE.pl |  |  | NE | 1016 | N/A | 0.1 | N/A | N/A | 4.46 | N/A | N/A | N/A | N/A | N/A | N/A | 37.53 | 0.68 | 24.30 | 8.04 | 0.97 | N/A | N/A | 8.00 | N/A | N/A | 15.74
+Social Changes | wPolityce.pl |  |  | NE | 1079 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 1 | 25 | 8 | 1 | N/A | N/A | 10 | N/A | N/A | 13
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.6 | N/A | N/A | N/A | N/A | N/A | N/A | 30.2 | N/A | 21.2 | 8.4 | N/A | N/A | N/A | 6.1 | N/A | N/A | 13.2
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.8 | N/A | N/A | N/A | N/A | N/A | N/A | 31.0 | N/A | 22.1 | 7.0 | N/A | N/A | N/A | 6.5 | N/A | N/A | 12.3
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 30.6 | N/A | 21.7 | 7.7 | N/A | N/A | N/A | 5.8 | N/A | N/A | 13.3
+Kantar Public | "GW" |  |  | NE | 1002 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | 0 | 24 | 8 | 2 | N/A | N/A | 9 | N/A | N/A | 14
+Kantar Public | N/A |  |  | NE | 968 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 29 | 1 | 24 | 7 | 2 | N/A | N/A | 5 | N/A | N/A | 10
+Social Changes | wPolityce.pl |  |  | NE | 1069 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 41 | 1 | 23 | 7 | 2 | N/A | N/A | 11 | N/A | N/A | 13
+CBOS | N/A |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 29.3 | N/A | 17.9 | 4.9 | 1 | N/A | N/A | 5.5 | N/A | N/A | 12.0
+Research Partner | N/A |  |  | NE | 1038 | N/A | 0.1 | N/A | N/A | 2.2 | N/A | N/A | N/A | N/A | N/A | N/A | 33.8 | 0.6 | 23.8 | 7.6 | 1.1 | N/A | N/A | 9.4 | N/A | N/A | 10.8
+Social Changes | wPolityce.pl |  |  | NE | 1082 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 1 | 24 | 9 | 2 | N/A | N/A | 10 | N/A | N/A | 14
+Estymator | DoRzeczy.pl |  |  | NE | 1016 | N/A | 0.1 | N/A | N/A | 5.7 | N/A | N/A | N/A | N/A | N/A | N/A | 37.6 | N/A | 24.6 | 9.1 | N/A | N/A | N/A | 8.2 | N/A | N/A | 12.8
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.6 | N/A | N/A | N/A | N/A | N/A | N/A | 32.6 | N/A | 21.6 | 7.2 | N/A | N/A | N/A | 5.9 | N/A | N/A | 16.5
+Social Changes | wPolityce.pl |  |  | NE | 1059 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 1 | 25 | 8 | 2 | N/A | N/A | 9 | N/A | N/A | 12
+CBOS | N/A |  |  | NE | 1157 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 28.4 | N/A | 17.2 | 4.7 | N/A | N/A | N/A | 7.6 | N/A | N/A | 12.2
+Instytut Badań Pollster | SE.pl |  |  | NE | 1078 | N/A | 0.1 | N/A | N/A | 4.41 | N/A | N/A | N/A | N/A | N/A | N/A | 36.58 | 0.60 | 25.80 | 8.56 | 1.29 | N/A | N/A | 8.77 | N/A | N/A | 13.80
+Social Changes | wPolityce.pl |  |  | NE | 1067 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 0 | 26 | 8 | 2 | N/A | N/A | 10 | N/A | N/A | 12
+Research Partner | N/A |  |  | NE | 1223 | N/A | 0.1 | N/A | N/A | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.0 | 0.7 | 23.3 | 7.0 | 1.5 | N/A | N/A | 7.7 | N/A | N/A | 11.3
+IBRiS | "Rz.pl" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.6 | N/A | N/A | N/A | N/A | N/A | N/A | 35.8 | N/A | 24.5 | 9.4 | N/A | N/A | N/A | 5.1 | N/A | N/A | 13.5
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 6.2 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | N/A | 23.3 | 8.0 | N/A | N/A | N/A | 6.1 | N/A | N/A | 12.0
+Social Changes | wPolityce.pl |  |  | NE | 1096 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 39 | 2 | 26 | 7 | 2 | N/A | N/A | 8 | N/A | N/A | 13
+CBOS | N/A |  |  | NE | 1161 | N/A | 0.1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34.6 | 1 | 15.3 | 4.1 | 0 | N/A | N/A | 5.7 | N/A | N/A | 11.5
+Kantar | TVN |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | 1 | 26 | 6 | 0 | N/A | N/A | 9 | N/A | N/A | 15
+Kantar Public | N/A |  |  | NE | 968 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | 1 | 25 | 7 | 2 | N/A | N/A | 6 | N/A | N/A | 10
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.6 | N/A | N/A | N/A | N/A | N/A | N/A | 35.4 | N/A | 27.1 | 6.7 | N/A | N/A | N/A | 6.8 | N/A | N/A | 9.5
+Research Partner | N/A |  |  | NE | 1031 | N/A | 0.1 | N/A | N/A | 1.6 | N/A | N/A | N/A | N/A | N/A | N/A | 36.2 | 1.0 | 21.0 | 6.7 | 0.7 | N/A | N/A | 9.4 | N/A | N/A | 11.5
+Social Changes | wPolityce.pl |  |  | NE | 1068 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 40 | 2 | 26 | 7 | 2 | N/A | N/A | 7 | N/A | N/A | 12
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.8 | N/A | N/A | N/A | N/A | N/A | N/A | 35.4 | N/A | 25.9 | 7.9 | N/A | N/A | N/A | 6.7 | N/A | N/A | 9.8
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.4 | N/A | N/A | N/A | N/A | N/A | N/A | 34.3 | 0.0 | 21.6 | 8.0 | N/A | N/A | N/A | 8.4 | N/A | N/A | 10.5
+Social Changes | wPolityce.pl |  |  | NE | 1090 | N/A | 1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 1 | 25 | 7 | 2 | N/A | N/A | 11 | N/A | N/A | 14
+Social Changes | wPolityce.pl |  |  | NE | 1059 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 38 | 1 | 26 | 8 | 1 | N/A | N/A | 9 | N/A | N/A | 14
+Research Partner | N/A |  |  | NE | 1036 | N/A | 0.1 | N/A | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.2 | 0.7 | 22.4 | 7.4 | 1.1 | N/A | N/A | 8.6 | N/A | N/A | 11.1
+IBRiS | "Rz.pl" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 34.1 | 0.0 | 23.4 | 7.1 | N/A | N/A | N/A | 5.9 | N/A | N/A | 12.0
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 35.6 | N/A | 23.0 | 6.4 | N/A | N/A | N/A | 7.1 | N/A | N/A | 11.6
+IPSOS | "GW", OKO.press |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 0 | 24 | 7 | N/A | N/A | N/A | 9 | N/A | N/A | 15
+Social Changes | wPolityce.pl |  |  | NE | 1050 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 2 | 24 | 7 | 2 | N/A | N/A | 12 | N/A | N/A | 13
+CBOS | N/A |  |  | NE | 1218 | N/A | 0.1 | N/A | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | 33.5 | 1 | 16.0 | 4.4 | 1 | N/A | N/A | 5.3 | N/A | N/A | 11.8
+Instytut Badań Pollster | SE.pl |  |  | NE | 1048 | N/A | 0.1 | N/A | N/A | 4.66 | N/A | N/A | N/A | N/A | N/A | N/A | 39.5 | 0.71 | 24.54 | 7.56 | 1.08 | N/A | N/A | 7.35 | N/A | N/A | 14.32
+Social Changes | wPolityce.pl |  |  | NE | 1063 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 2 | 27 | 7 | 2 | N/A | N/A | 9 | N/A | N/A | 12
+Instytut Badań Pollster | Salon24.pl |  |  | NE | 1027 | N/A | 0.1 | N/A | N/A | 3.85 | N/A | N/A | N/A | N/A | N/A | N/A | 38.87 | 0.64 | 25.68 | 7.84 | 0.71 | N/A | N/A | 8.21 | N/A | N/A | 13.86
+Estymator | DoRzeczy.pl |  |  | NE | 1016 | N/A | 0.1 | N/A | N/A | 3.9 | N/A | N/A | N/A | N/A | N/A | N/A | 40.2 | 1.1 | 24.1 | 9.0 | 1.5 | N/A | N/A | 8.8 | N/A | N/A | 10.9
+Kantar | TVN |  |  | NE | 1002 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | 0 | 24 | 5 | 1 | N/A | N/A | 8 | N/A | N/A | 14
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.2 | N/A | N/A | N/A | N/A | N/A | N/A | 36.4 | N/A | 22.3 | 6.8 | N/A | N/A | N/A | 8.8 | N/A | N/A | 9.2
+Kantar Public | N/A |  |  | NE | 979 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | 1 | 25 | 6 | 1 | N/A | N/A | 4 | N/A | N/A | 12
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 2.9 | N/A | N/A | N/A | N/A | N/A | N/A | 36.5 | 0.3 | 23.0 | 8.5 | N/A | N/A | N/A | 7.6 | N/A | N/A | 11.3
+Social Changes | wPolityce.pl |  |  | NE | 1051 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 37 | 1 | 26 | 8 | 1 | N/A | N/A | 7 | N/A | N/A | 16
+Research Partner | N/A |  |  | NE | 1077 | N/A | 0.1 | N/A | N/A | 0.8 | N/A | N/A | N/A | N/A | N/A | N/A | 30.5 | 0.4 | 22.0 | 7.2 | 1.6 | N/A | N/A | 8.5 | N/A | N/A | 17.9
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 36.6 | N/A | 23.1 | 8.0 | N/A | N/A | N/A | 8.0 | N/A | N/A | 11.5
+Instytut Badań Pollster | Wiadomości TVP |  |  | NE | 1047 | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 36.72 | N/A | 25.98 | 7.53 | N/A | N/A | N/A | 8.77 | N/A | N/A | 14.78
+IBSP | Stan Polityki |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 2.65 | N/A | N/A | N/A | N/A | N/A | N/A | 34.61 | N/A | 24.09 | 7.73 | N/A | N/A | N/A | 9.69 | N/A | N/A | 15.82
+Social Changes | wPolityce.pl |  |  | NE | 1065 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | 1 | 25 | 9 | 2 | N/A | N/A | 8 | N/A | N/A | 17
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.3 | N/A | 25.7 | 9.3 | N/A | N/A | N/A | 6.4 | N/A | N/A | 10.1
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.5 | N/A | N/A | N/A | N/A | N/A | N/A | 37.1 | N/A | 25.0 | 9.0 | N/A | N/A | N/A | 8.1 | N/A | N/A | 8.4
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 36.3 | N/A | 25.5 | 8 | N/A | N/A | N/A | 8 | N/A | N/A | 10.6
+Instytut Badań Pollster | Wiadomości TVP |  |  | NE | 1036 | N/A | 1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 37 | N/A | 24 | 7 | N/A | N/A | N/A | 10 | N/A | N/A | 16
+CBOS | N/A |  |  | NE | 1167 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | <0.5 | 18 | 5 | 1 | N/A | N/A | 5 | N/A | N/A | 11
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.2 | N/A | N/A | N/A | N/A | N/A | N/A | 35.5 | 0.0 | 24.3 | 7.8 | N/A | N/A | N/A | 7.4 | N/A | N/A | 11.7
+Social Changes | wPolityce.pl |  |  | NE | 1057 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | 1 | 26 | 8 | 2 | N/A | N/A | 9 | N/A | N/A | 17
+Instytut Badań Pollster | TVP Info |  |  | NE | 1044 | N/A | 0.1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | 0.8 | 26 | 8 | 1 | N/A | N/A | 8 | N/A | N/A | 18
+Research Partner | N/A |  |  | NE | 1039 | N/A | 0.1 | N/A | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | 30.6 | N/A | 22.2 | 6.9 | 1.3 | N/A | N/A | 7.2 | N/A | N/A | 17.0
+Social Changes | wPolityce.pl |  |  | NE | 1052 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | 2 | 26 | 7 | 2 | N/A | N/A | 9 | N/A | N/A | 18
+Kantar | N/A |  |  | NE | 800 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 26 | N/A | 26 | 10 | 0 | N/A | N/A | 7 | N/A | N/A | 17
+Kantar | N/A |  |  | NE | 981 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | N/A | 22 | 7 | 2 | N/A | N/A | 6 | N/A | N/A | 9
+ewybory.eu | N/A |  |  | NE | 10088 | N/A | 0.1 | N/A | N/A | 5.29 | N/A | N/A | N/A | N/A | N/A | N/A | 31.38 | N/A | 29.72 | 14.10 | N/A | N/A | N/A | 10.65 | N/A | N/A | 7.83
+Social Changes | wPolityce.pl |  |  | NE | 1083 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 26 | 8 | 4 | N/A | N/A | 8 | N/A | N/A | 17
+Social Changes | wPolityce.pl |  |  | NE | 1064 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 23 | 7 | 3 | N/A | N/A | 8 | N/A | N/A | 21
+Research Partner | N/A |  |  | NE | 1040 | N/A | 0.1 | N/A | N/A | 1.7 | N/A | N/A | N/A | N/A | N/A | N/A | 30.8 | N/A | 22.0 | 6.8 | 2.7 | N/A | N/A | 6.9 | N/A | N/A | 15.4
+Instytut Badań Pollster | SE.pl |  |  | NE | 1049 | N/A | 0.1 | N/A | N/A | 3.07 | N/A | N/A | N/A | N/A | N/A | N/A | 34.48 | N/A | 25.78 | 8.27 | 2.15 | N/A | N/A | 9.68 | N/A | N/A | 16.29
+IBRiS | "Rz" |  |  | NE | 1094 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 33.6 | N/A | 27.3 | 9.1 | N/A | N/A | N/A | 5.0 | N/A | N/A | 11.1
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 34.2 | N/A | 27.6 | 6.9 | N/A | N/A | N/A | 5.9 | N/A | N/A | 10.0
+Social Changes | wPolityce.pl |  |  | NE | 1063 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 36 | N/A | 24 | 7 | 2 | N/A | N/A | 9 | N/A | N/A | 19
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 33.6 | N/A | 26.2 | 7.1 | N/A | N/A | N/A | 5.4 | N/A | N/A | 10.9
+IBSP | N/A |  |  | NE | 1001 | N/A | 0.1 | N/A | N/A | 2.32 | N/A | N/A | N/A | N/A | N/A | N/A | 34.85 | N/A | 26.24 | 6.38 | N/A | N/A | N/A | 7.37 | N/A | N/A | 19.76
+Research Partner | N/A |  |  | NE | 1051 | N/A | 0.1 | N/A | N/A | 1.8 | N/A | N/A | N/A | N/A | N/A | N/A | 30.2 | N/A | 24.1 | 7.5 | 1.7 | N/A | N/A | 5.9 | N/A | N/A | 17.4
+Social Changes | wPolityce.pl |  |  | NE | 1049 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 25 | 8 | 2 | N/A | N/A | 9 | N/A | N/A | 19
+Kantar | N/A |  |  | NE | 969 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 23 | 5 | 2 | N/A | N/A | 5 | N/A | N/A | 15
+Social Changes | wPolityce.pl |  |  | NE | 1062 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 24 | 9 | 1 | N/A | N/A | 7 | N/A | N/A | 20
+Kantar | TVN |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 29 | N/A | 24 | 7 | 1 | N/A | N/A | 7 | N/A | N/A | 15
+CBOS | N/A |  |  | NE | 1166 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 36 | N/A | 16 | 5 | 1 | N/A | N/A | 5 | N/A | N/A | 13
+Instytut Badań Pollster | SE.pl |  |  | NE | 1049 | N/A | 0.1 | N/A | N/A | 4.30 | N/A | N/A | N/A | N/A | N/A | N/A | 35.25 | N/A | 24.30 | 6.45 | 2.60 | N/A | N/A | 7.67 | N/A | N/A | 18.75
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 35.2 | N/A | 21.3 | 7.8 | N/A | N/A | N/A | 5.6 | N/A | N/A | 16.5
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 34.0 | N/A | 20.0 | 8.2 | N/A | N/A | N/A | 7.0 | N/A | N/A | 15.5
+IBRiS | "Wydarzenia" Polsat |  |  | NE | N/A | N/A | 0.1 | N/A | N/A | 7.8 | N/A | N/A | N/A | N/A | N/A | N/A | 18.9 | 8.2 | 5.3 | N/A | 15.3 | N/A | N/A | 15.0 | N/A | N/A | 10.6
+Research Partner | N/A |  |  | NE | 1041 | N/A | 0.1 | N/A | N/A | 1.9 | N/A | N/A | N/A | N/A | N/A | N/A | 30.6 | N/A | 18.6 | 6.4 | 3 | N/A | N/A | 8.2 | N/A | N/A | 19.1
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 6.0 | N/A | N/A | N/A | N/A | N/A | N/A | 33.0 | N/A | 18.6 | 7.8 | N/A | N/A | N/A | 7.0 | N/A | N/A | 16.6
+Social Changes | wPolityce.pl |  |  | NE | 1057 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 21 | 9 | 2 | N/A | N/A | 8 | N/A | N/A | 24
+Opinia24 | RMF FM |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 29 | N/A | 23 | 8 | 1 | N/A | N/A | 10 | N/A | N/A | 17
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 6.6 | N/A | N/A | N/A | N/A | N/A | N/A | 33.5 | N/A | 16.9 | 9.5 | N/A | N/A | N/A | 8.4 | N/A | N/A | 17.1
+IBRiS | "Wydarzenia" Polsat |  |  | NE | N/A | N/A | 0.1 | N/A | N/A | 8.2 | N/A | N/A | N/A | N/A | N/A | N/A | 16.8 | 10.1 | 5.1 | N/A | 17.4 | N/A | N/A | 12.1 | N/A | N/A | 12.9
+Social Changes | wPolityce.pl |  |  | NE | 1082 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 17 | 10 | 2 | N/A | N/A | 10 | N/A | N/A | 23
+Instytut Badań Pollster | SE.pl |  |  | NE | 1088 | N/A | 0.1 | N/A | N/A | 4.84 | N/A | N/A | N/A | N/A | N/A | N/A | 35.79 | N/A | 20.96 | 6.32 | N/A | N/A | N/A | 7.99 | N/A | N/A | 23.04
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.4 | N/A | N/A | N/A | N/A | N/A | N/A | 33.5 | N/A | 16.1 | 8.3 | N/A | N/A | N/A | 9.3 | N/A | N/A | 17.9
+Kantar | TVN |  |  | NE | 1001 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 19 | 6 | 1 | N/A | N/A | 8 | N/A | N/A | 21
+Research Partner | N/A |  |  | NE | 1048 | N/A | 0.1 | N/A | N/A | 3.1 | N/A | N/A | N/A | N/A | N/A | N/A | 31.2 | N/A | 17.4 | 7.0 | 2.0 | N/A | N/A | 6.1 | N/A | N/A | 22.5
+Social Changes | wPolityce.pl |  |  | NE | 1060 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 19 | 9 | 2 | N/A | N/A | 7 | N/A | N/A | 25
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 34.7 | N/A | 13.0 | 9.1 | N/A | N/A | N/A | 10.3 | N/A | N/A | 20.2
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 34.2 | N/A | 14.7 | 10.4 | N/A | N/A | N/A | 7.1 | N/A | N/A | 19.0
+CBOS | N/A |  |  | NE | 1218 | N/A | 0.1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 35.6 | N/A | 11.3 | 5.3 | 2 | N/A | N/A | 5.5 | N/A | N/A | 16.1
+Kantar | N/A |  |  | NE | 986 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 20 | 7 | 2 | N/A | N/A | 6 | N/A | N/A | 14
+Social Changes | wPolityce.pl |  |  | NE | 1068 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | N/A | 17 | 10 | 2 | N/A | N/A | 7 | N/A | N/A | 25
+IBRiS | ZET |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.7 | N/A | N/A | N/A | N/A | N/A | N/A | 32.4 | N/A | 13.0 | 7.6 | N/A | N/A | N/A | 8.1 | N/A | N/A | 19.8
+Research Partner | N/A |  |  | NE | 1106 | N/A | 0.1 | N/A | N/A | 2.7 | N/A | N/A | N/A | N/A | N/A | N/A | 31.1 | N/A | 16.0 | 6.8 | 2.3 | N/A | N/A | 6.1 | N/A | N/A | 24.8
+Instytut Badań Pollster | SE.pl |  |  | NE | 1047 | N/A | 0.1 | N/A | N/A | 4.92 | N/A | N/A | N/A | N/A | N/A | N/A | 36.18 | N/A | 18.44 | 7.01 | N/A | N/A | N/A | 9.70 | N/A | N/A | 23.02
+Social Changes | wPolityce.pl |  |  | NE | 1067 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 16 | 8 | 3 | N/A | N/A | 9 | N/A | N/A | 26
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.7 | N/A | N/A | N/A | N/A | N/A | N/A | 34.4 | N/A | 14.0 | 8.1 | N/A | N/A | N/A | 7.6 | N/A | N/A | 23.0
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 34.9 | N/A | 14.1 | 8.4 | N/A | N/A | N/A | 4.4 | N/A | N/A | 20.2
+Social Changes | wPolityce.pl |  |  | NE | 1057 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | N/A | 15 | 9 | 3 | N/A | N/A | 7 | N/A | N/A | 27
+IBRiS | Interia |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 40.3 | N/A | 15.9 | 9.4 | N/A | N/A | N/A | 7.3 | N/A | N/A | 22.9
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.3 | N/A | N/A | N/A | N/A | N/A | N/A | 33.7 | N/A | 13.0 | 8.0 | N/A | N/A | N/A | 8.2 | N/A | N/A | 22.7
+Social Changes | wPolityce.pl |  |  | NE | 1088 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 17 | 9 | 3 | N/A | N/A | 10 | N/A | N/A | 24
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.9 | N/A | N/A | N/A | N/A | N/A | N/A | 33.6 | N/A | 14.6 | 10.4 | N/A | N/A | N/A | 6.9 | N/A | N/A | 18.6
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 34.8 | N/A | 13.2 | 9.1 | N/A | N/A | N/A | 5.7 | N/A | N/A | 22.1
+Estymator | DoRzeczy.pl |  |  | NE | 1022 | N/A | 0.1 | N/A | N/A | 4.7 | N/A | N/A | N/A | N/A | N/A | N/A | 38.4 | N/A | 14.6 | 10.8 | 1.9 | N/A | N/A | 7.1 | N/A | N/A | 22.2
+Instytut Badań Pollster | SE.pl |  |  | NE | 1013 | N/A | 0.1 | N/A | N/A | 4.95 | N/A | N/A | N/A | N/A | N/A | N/A | 38.10 | N/A | 19.20 | 7.26 | N/A | N/A | N/A | 8.72 | N/A | N/A | 20.90
+PGB Opinium | N/A |  |  | NE | 1011 | N/A | 0.1 | N/A | N/A | 3.5 | N/A | N/A | N/A | N/A | N/A | N/A | 31.7 | N/A | 14.7 | 8.1 | 0.7 | N/A | N/A | 8.7 | N/A | N/A | 23.4
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.2 | N/A | N/A | N/A | N/A | N/A | N/A | 34.4 | N/A | 14.2 | 9.5 | N/A | N/A | N/A | 6.9 | N/A | N/A | 20.4
+TBA | N/A |  |  | NE | N/A | N/A | 0.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | NaN | N/A | N/A | NaN
+Social Changes | wPolityce.pl |  |  | NE | 1064 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 16 | 9 | 3 | N/A | N/A | 12 | N/A | N/A | 23
+Research Partner | N/A |  |  | NE | 1098 | N/A | 0.1 | N/A | N/A | 1.7 | N/A | N/A | N/A | N/A | N/A | N/A | 30.9 | N/A | 16.6 | 6.4 | 2.0 | N/A | N/A | 7.7 | N/A | N/A | 20.5
+UCE RESEARCH | WP |  |  | NE | 1122 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35.66 | N/A | 17.34 | 5.60 | 6.43 | N/A | N/A | 9.74 | N/A | N/A | 20.53
+CBOS | N/A |  |  | NE | 1163 | N/A | 0.1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 32.8 | N/A | 11.0 | 5.5 | 1 | N/A | N/A | 6.1 | N/A | N/A | 17.1
+IBSP | N/A |  |  | NE | 1001 | N/A | 0.1 | N/A | N/A | 2.40 | N/A | N/A | N/A | N/A | N/A | N/A | 30.80 | N/A | 15.05 | 9.98 | N/A | N/A | N/A | 11.54 | N/A | N/A | 27.68
+Kantar | N/A |  |  | NE | 984 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 21 | 6 | 2 | N/A | N/A | 5 | N/A | N/A | 17
+Kantar | N/A |  |  | NE | 1100 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | N/A | 19 | 10 | 4 | N/A | N/A | 11 | N/A | N/A | 21
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.3 | N/A | N/A | N/A | N/A | N/A | N/A | 33.5 | N/A | 12.1 | 9.6 | N/A | N/A | N/A | 8.6 | N/A | N/A | 21.9
+Social Changes | wPolityce.pl |  |  | NE | 1073 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 18 | 7 | 2 | N/A | N/A | 10 | N/A | N/A | 25
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.6 | N/A | N/A | N/A | N/A | N/A | N/A | 35.1 | N/A | 14.7 | 9.1 | N/A | N/A | N/A | 5.8 | N/A | N/A | 19.9
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.5 | N/A | N/A | N/A | N/A | N/A | N/A | 33.9 | N/A | 15.3 | 10.7 | N/A | N/A | N/A | 9.0 | N/A | N/A | 18.9
+IBRiS | "Wydarzenia" Polsat |  |  | NE | N/A | N/A | 0.1 | N/A | N/A | 10.3 | N/A | N/A | N/A | N/A | N/A | N/A | 15.8 | 10.1 | 4.4 | N/A | 17.9 | N/A | N/A | 10.4 | N/A | N/A | 12.2
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 35.4 | N/A | 15.1 | 10.4 | N/A | N/A | N/A | 5.7 | N/A | N/A | 20.4
+Social Changes | wPolityce.pl |  |  | NE | 1070 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 16 | 10 | 3 | N/A | N/A | 10 | N/A | N/A | 23
+Research Partner | N/A |  |  | NE | 1127 | N/A | 0.1 | N/A | N/A | 1.5 | N/A | N/A | N/A | N/A | N/A | N/A | 27.9 | N/A | 17.2 | 7.2 | 1.6 | N/A | N/A | 7.7 | N/A | N/A | 23.6
+Kantar | TVN |  |  | NE | 1001 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 21 | 9 | 2 | N/A | N/A | 7 | N/A | N/A | 20
+Kantar | TVN |  |  | NE | N/A | N/A | 1 | N/A | N/A | 7 | N/A | N/A | N/A | N/A | N/A | N/A | 21 | 8 | 3 | 3 | 21 | N/A | N/A | 12 | N/A | N/A | 4
+IPSOS | OKO.press |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 18 | 9 | N/A | N/A | N/A | 11 | N/A | N/A | 22
+Social Changes | wPolityce.pl |  |  | NE | 1067 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | N/A | 20 | 10 | 3 | N/A | N/A | 8 | N/A | N/A | 24
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.4 | N/A | N/A | N/A | N/A | N/A | N/A | 33.1 | N/A | 16.1 | 10.0 | N/A | N/A | N/A | 7.7 | N/A | N/A | 17.1
+Instytut Badań Pollster | SE.pl |  |  | NE | 1066 | N/A | 0.1 | N/A | N/A | 5.14 | N/A | N/A | N/A | N/A | N/A | N/A | 35.77 | N/A | 17.34 | 10.08 | N/A | N/A | N/A | 8.64 | N/A | N/A | 21.91
+IBRiS | "Wydarzenia" Polsat |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.9 | N/A | N/A | N/A | N/A | N/A | N/A | 32.6 | N/A | 16.4 | 11.5 | N/A | N/A | N/A | 8.2 | N/A | N/A | 15.7
+Social Changes | wPolityce.pl |  |  | NE | 1072 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 16 | 10 | 3 | N/A | N/A | 8 | N/A | N/A | 26
+Research Partner | N/A |  |  | NE | 1115 | N/A | 0.1 | N/A | N/A | 2.4 | N/A | N/A | N/A | N/A | N/A | N/A | 29.4 | N/A | 17.0 | 9.2 | 2.3 | N/A | N/A | 8.4 | N/A | N/A | 21.1
+CBOS | N/A |  |  | NE | 1131 | N/A | 0.1 | N/A | N/A | 1.3 | N/A | N/A | N/A | N/A | N/A | N/A | 32.0 | N/A | 14.2 | 5.1 | 1.2 | N/A | N/A | 4.9 | N/A | N/A | 15.6
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.9 | N/A | N/A | N/A | N/A | N/A | N/A | 32.2 | N/A | 17.0 | 7.7 | N/A | N/A | N/A | 7.0 | N/A | N/A | 17.3
+Estymator | DoRzeczy.pl |  |  | NE | 1029 | N/A | 0.1 | N/A | N/A | 5.2 | N/A | N/A | N/A | N/A | N/A | N/A | 35.9 | N/A | 18.1 | 10.7 | 2.1 | N/A | N/A | 6.8 | N/A | N/A | 20.9
+Kantar | N/A |  |  | NE | 980 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 31 | N/A | 22 | 9 | 2 | N/A | N/A | 6 | N/A | N/A | 16
+Social Changes | wPolityce.pl |  |  | NE | 1069 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 18 | 10 | 3 | N/A | N/A | 9 | N/A | N/A | 24
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 31.0 | N/A | 15.2 | 8.1 | N/A | N/A | N/A | 7.2 | N/A | N/A | 19.1
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 4.9 | N/A | N/A | N/A | N/A | N/A | N/A | 33.3 | N/A | 17.9 | 8.9 | N/A | N/A | N/A | 4.8 | N/A | N/A | 19.0
+IBSP | N/A |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 2.00 | N/A | N/A | N/A | N/A | N/A | N/A | 30.36 | N/A | 20.32 | 10.81 | N/A | N/A | N/A | 8.77 | N/A | N/A | 25.05
+Research Partner | N/A |  |  | NE | 1129 | N/A | 0.1 | N/A | N/A | 2.3 | N/A | N/A | N/A | N/A | N/A | N/A | 27.1 | N/A | 17.5 | 7.3 | 2.8 | N/A | N/A | 7.6 | N/A | N/A | 23.8
+Social Changes | wPolityce.pl |  |  | NE | 1074 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 24 | 14 | 3 | N/A | N/A | 8 | N/A | N/A | N/A
+CBM Indicator | "Rz" |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.1 | N/A | N/A | N/A | N/A | N/A | N/A | 26.1 | N/A | 15.9 | 8.2 | 1.2 | N/A | N/A | 6.1 | N/A | N/A | 17.8
+Social Changes | wPolityce.pl |  |  | NE | 1094 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | N/A | 22 | 13 | 4 | N/A | N/A | 11 | N/A | N/A | N/A
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 31.0 | N/A | 17.3 | 9.1 | N/A | N/A | N/A | 7.3 | N/A | N/A | 17.2
+Social Changes | wPolityce.pl |  |  | NE | 1085 | N/A | 0.1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | N/A | 23 | 12 | 4 | N/A | N/A | 10 | N/A | N/A | N/A
+Research Partner | N/A |  |  | NE | 1128 | N/A | 0.1 | N/A | N/A | 2.3 | N/A | N/A | N/A | N/A | N/A | N/A | 29.8 | N/A | 15.7 | 8.7 | 1.8 | N/A | N/A | 8.7 | N/A | N/A | 22.1
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 6.3 | N/A | N/A | N/A | N/A | N/A | N/A | 33.2 | N/A | 18.5 | 9.3 | N/A | N/A | N/A | 6.5 | N/A | N/A | 13.2
+Kantar | Polityka |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 28 | N/A | 17 | 10 | N/A | N/A | N/A | 8 | N/A | N/A | 25
+Kantar | "GW", OKO.press |  |  | NE | 1000 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 26 | N/A | 16 | 8 | N/A | N/A | N/A | 9 | N/A | N/A | 23
+Social Changes | wPolityce.pl |  |  | NE | 1078 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 24 | 13 | 3 | N/A | N/A | 10 | N/A | N/A | N/A
+Estymator | DoRzeczy.pl |  |  | NE | 1025 | N/A | 0.1 | N/A | N/A | 5.9 | N/A | N/A | N/A | N/A | N/A | N/A | 37.7 | N/A | 17.1 | 11.6 | 2.4 | N/A | N/A | 6.8 | N/A | N/A | 18.3
+PGB Opinium | N/A |  |  | NE | 1098 | N/A | 0.1 | N/A | N/A | 4.1 | N/A | N/A | N/A | N/A | N/A | N/A | 30.0 | N/A | 18.8 | 8.6 | 1.1 | N/A | N/A | 8.3 | N/A | N/A | 21.6
+CBOS | N/A |  |  | NE | 1154 | N/A | 0.1 | N/A | N/A | 2.4 | N/A | N/A | N/A | N/A | N/A | N/A | 33.3 | N/A | 11.3 | 6.0 | 0.8 | N/A | N/A | 6.7 | N/A | N/A | 17.2
+Kantar | N/A |  |  | NE | 985 | N/A | 1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 24 | 8 | 2 | N/A | N/A | 5 | N/A | N/A | 14
+Research Partner | N/A |  |  | NE | 1145 | N/A | 0.1 | N/A | N/A | 1.1 | N/A | N/A | N/A | N/A | N/A | N/A | 26.9 | N/A | 17.9 | 10.0 | 2.5 | N/A | N/A | 8.0 | N/A | N/A | 22.1
+Social Changes | wPolityce.pl |  |  | NE | 1054 | N/A | 0.1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | N/A | 24 | 13 | 4 | N/A | N/A | 10 | N/A | N/A | N/A
+Opinia24 | RMF |  |  | NE | 3007 | N/A | 1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 29 | N/A | 20 | 9 | 2 | N/A | N/A | 8 | N/A | N/A | 24
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 6.0 | N/A | N/A | N/A | N/A | N/A | N/A | 32.3 | N/A | 18.1 | 7.4 | N/A | N/A | N/A | 6.2 | N/A | N/A | 17.9
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.3 | N/A | N/A | N/A | N/A | N/A | N/A | 33.0 | N/A | 17.5 | 9.6 | N/A | N/A | N/A | 5.3 | N/A | N/A | 17.7
+Instytut Badań Pollster | SE.pl |  |  | NE | 1033 | N/A | 0.1 | N/A | N/A | 4.8 | N/A | N/A | N/A | N/A | N/A | N/A | 39.86 | N/A | 20.32 | 9.79 | N/A | N/A | N/A | 6.95 | N/A | N/A | 17.32
+Social Changes | wPolityce.pl |  |  | NE | 1071 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 28 | 12 | 4 | N/A | N/A | 10 | N/A | N/A | N/A
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.9 | N/A | N/A | N/A | N/A | N/A | N/A | 32.9 | N/A | 18.2 | 10.1 | N/A | N/A | N/A | 5.0 | N/A | N/A | 17.3
+IBSP | N/A |  |  | NE | 1001 | N/A | 0.1 | N/A | N/A | 3.23 | N/A | N/A | N/A | N/A | N/A | N/A | 26.96 | N/A | 18.85 | 9.34 | N/A | N/A | N/A | 6.96 | N/A | N/A | 31.26
+Estymator | DoRzeczy.pl |  |  | NE | 1041 | N/A | 0.1 | N/A | N/A | 5.5 | N/A | N/A | N/A | N/A | N/A | N/A | 37.6 | N/A | 19.2 | 11.4 | 2.1 | N/A | N/A | 6.9 | N/A | N/A | 17.1
+Social Changes | wPolityce.pl |  |  | NE | 1076 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 26 | 13 | 4 | N/A | N/A | 10 | N/A | N/A | N/A
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.8 | N/A | N/A | N/A | N/A | N/A | N/A | 33.5 | N/A | 19.3 | 11.4 | N/A | N/A | N/A | 6.0 | N/A | N/A | 14.6
+PGB Opinium | N/A |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 4.9 | N/A | N/A | N/A | N/A | N/A | N/A | 31.2 | N/A | 19.0 | 7.5 | 0.5 | N/A | N/A | 8.2 | N/A | N/A | 20.6
+Social Changes | wPolityce.pl |  |  | NE | 1095 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 24 | 15 | 3 | N/A | N/A | 9 | N/A | N/A | N/A
+Estymator | DoRzeczy.pl |  |  | NE | 1022 | N/A | 0.1 | N/A | N/A | 5.4 | N/A | N/A | N/A | N/A | N/A | N/A | 37.4 | N/A | 21.5 | 9.7 | 2.4 | N/A | N/A | 7.1 | N/A | N/A | 16.2
+IPSOS | OKO.press |  |  | NE | 1014 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 29 | N/A | 20 | 10 | N/A | N/A | N/A | 10 | N/A | N/A | 20
+CBOS | N/A |  |  | NE | 1179 | N/A | 0.1 | N/A | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | 33.2 | N/A | 12.4 | 4.4 | 1.0 | N/A | N/A | 5.5 | N/A | N/A | 19.2
+Kantar | N/A |  |  | NE | 676 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 31 | N/A | 18 | 7 | 2 | N/A | N/A | 7 | N/A | N/A | 15
+Social Changes | wPolityce.pl |  |  | NE | 1051 | N/A | 0.1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 30 | N/A | 25 | 11 | 6 | N/A | N/A | 10 | N/A | N/A | N/A
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 32 | N/A | 19 | 8 | N/A | N/A | N/A | 6 | N/A | N/A | 18
+United Surveys | WP.pl |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 5.6 | N/A | N/A | N/A | N/A | N/A | N/A | 33.5 | N/A | 19.7 | 8.0 | N/A | N/A | N/A | 7.0 | N/A | N/A | 15.0
+Kantar | N/A |  |  | NE | 980 | N/A | 1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 29 | N/A | 23 | 6 | 2 | N/A | N/A | 5 | N/A | N/A | 14
+Social Changes | wPolityce.pl |  |  | NE | 1074 | N/A | 0.1 | N/A | N/A | 2 | N/A | N/A | N/A | N/A | N/A | N/A | 34 | N/A | 23 | 12 | 4 | N/A | N/A | 9 | N/A | N/A | N/A
+Instytut Badań Pollster | SE.pl |  |  | NE | 1081 | N/A | 0.1 | N/A | N/A | 3.59 | N/A | N/A | N/A | N/A | N/A | N/A | 41.42 | N/A | 23.21 | 9.73 | N/A | N/A | N/A | 5.64 | N/A | N/A | 15.25
+IBRiS | Onet |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.5 | N/A | N/A | N/A | N/A | N/A | N/A | 31.1 | N/A | 19.2 | 8.9 | N/A | N/A | N/A | 7.4 | N/A | N/A | 16.9
+Estymator | DoRzeczy.pl |  |  | NE | 1029 | N/A | 0.1 | N/A | N/A | 5.2 | N/A | N/A | N/A | N/A | N/A | N/A | 38.4 | N/A | 21.8 | 11.1 | 2.0 | N/A | N/A | 6.7 | N/A | N/A | 14.6
+IBSP | N/A |  |  | NE | 1001 | N/A | 0.1 | N/A | N/A | 2.61 | N/A | N/A | N/A | N/A | N/A | N/A | 26.96 | N/A | 20.24 | 7.56 | N/A | N/A | N/A | 10.99 | N/A | N/A | 27.70
+Social Changes | wPolityce.pl |  |  | NE | 1066 | N/A | 0.1 | N/A | N/A | 5 | N/A | N/A | N/A | N/A | N/A | N/A | 31 | N/A | 26 | 12 | 4 | N/A | N/A | 10 | N/A | N/A | N/A
+IBRiS | WP.pl |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 30.0 | N/A | 19.6 | 9.5 | N/A | N/A | N/A | 7.5 | N/A | N/A | 17.5
+United Surveys | DGP, RMF |  |  | NE | 1000 | N/A | 0.1 | N/A | N/A | 3.6 | N/A | N/A | N/A | N/A | N/A | N/A | 32.5 | N/A | 20.9 | 10.2 | N/A | N/A | N/A | 4.6 | N/A | N/A | 16.2
+PGB Opinium | N/A |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.5 | N/A | N/A | N/A | N/A | N/A | N/A | 34.7 | N/A | 20.8 | 8.6 | 0.9 | N/A | N/A | 6.5 | N/A | N/A | 14.3
+IBRiS | Fakt.pl |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.0 | N/A | N/A | N/A | N/A | N/A | N/A | 32.3 | N/A | 20.0 | 7.4 | N/A | N/A | N/A | 6.6 | N/A | N/A | 13.5
+Social Changes | wPolityce.pl |  |  | NE | 1097 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 29 | 12 | 4 | N/A | N/A | 11 | N/A | N/A | N/A
+Estymator | DoRzeczy.pl |  |  | NE | 1020 | N/A | 0.1 | N/A | N/A | 6.6 | N/A | N/A | N/A | N/A | N/A | N/A | 39.6 | N/A | 22.1 | 10.2 | 2.3 | N/A | N/A | 6.0 | N/A | N/A | 12.9
+CBOS | N/A |  |  | NE | 1150 | N/A | 0.1 | N/A | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | 35.2 | N/A | 13.7 | 5.0 | 1.0 | N/A | N/A | 5.3 | N/A | N/A | 18.2
+Social Changes | wPolityce.pl |  |  | NE | 1085 | N/A | 0.1 | N/A | N/A | 3 | N/A | N/A | N/A | N/A | N/A | N/A | 35 | N/A | 27 | 12 | 4 | N/A | N/A | 10 | N/A | N/A | N/A
+IBRiS | "Rz" |  |  | NE | 1100 | N/A | 0.1 | N/A | N/A | 5.2 | N/A | N/A | N/A | N/A | N/A | N/A | 33.2 | N/A | 20.6 | 7.7 | N/A | N/A | N/A | 6.4 | N/A | N/A | 12.6
+Social Changes | wPolityce.pl |  |  | NE | 1090 | N/A | 0.1 | N/A | N/A | 4 | N/A | N/A | N/A | N/A | N/A | N/A | 33 | N/A | 29 | 12 | 4 | N/A | N/A | 9 | N/A | N/A | N/A
+
