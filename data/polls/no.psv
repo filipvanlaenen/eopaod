@@ -1,4 +1,5 @@
 Polling firm    | Commissioners                                          | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | R   | SV   | MDG | Ap   | Sp   | V   | KrF | H    | FrP  | Other
+Sentio          | Nettavisen and Amedia                                  | 2022-01-10      | 2022-01-15    | N     | 1000        | N/A           | 0.1       | 5.8 | 9.2  | 3.8 | 22.3 | 9.3  | 4.1 | 5.0 | 25.6 | 12.0 | 3.0
 Kantar          | TV2                                                    | 2022-01-03      | 2022-01-07    | N     | 972         | N/A           | 0.1       | 6.2 | 9.1  | 4.3 | 21.7 | 10.7 | 5.1 | 2.9 | 23.7 | 11.4 | 4.9
 Norfakta        | Nationen and Klassekampen                              | 2022-01-04      | 2022-01-05    | N     | 1001        | N/A           | 0.1       | 7.1 | 8.4  | 3.6 | 24.3 | 9.9  | 4.4 | 3.7 | 24.9 | 10.9 | 2.8
 Norstat         | Aftenposten and NRK                                    | 2021-12-27      | 2022-01-03    | N     | 943         | N/A           | 0.1       | 6.2 | 9.2  | 3.3 | 21.1 | 9.2  | 4.9 | 3.2 | 24.7 | 13.9 | 4.3
