@@ -22,7 +22,8 @@ Scraping for: dk
 oo·····-- (9)
 
 Scraping for: ee
-······· (7)
+····*··· (8)
+Turu-uuringute AS | N/A | 2021-01-12 | 2021-01-17 | NE | 873 | N/A | 1 | 18 | 20 | 8 | 7 | N/A | 24 | N/A | 20 | N/A | 3
 
 Scraping for: es
 Something unexpected happened:
