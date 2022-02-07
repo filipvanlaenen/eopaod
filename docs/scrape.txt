@@ -15,7 +15,7 @@ oo················- (19)
 
 Scraping for: de
 oo****·············*·············- (34)
-INSA and YouGov | N/A | 2022-02-04 | 2022-02-07 | NE | / | N/A | 1 | 26 | 23 | 11 | 12 | 7 | 15 | N/A | N/A | N/A | N/A | 6
+INSA and YouGov | N/A | 2022-02-04 | 2022-02-07 | NE | 2067 | N/A | 1 | 26 | 23 | 11 | 12 | 7 | 15 | N/A | N/A | N/A | N/A | 6
 INSA and YouGov | N/A | 2022-02-01 | 2022-02-04 | NE | 1202 | N/A | 1 | 27 | 22 | 11 | 11 | 6 | 16 | N/A | N/A | N/A | N/A | 7
 Wahlkreisprognose | N/A | 2022-02-01 | 2022-02-03 | NE | 2330 | 100.0 | 0.5 | 28 | 21 | 10 | 8.5 | 5.5 | 19 | N/A | N/A | N/A | N/A | 8
 Civey | N/A | 2022-02-03 | 2022-02-03 | NE | 10070 | N/A | 1 | 25 | 25 | 11 | 10 | 6 | 15 | N/A | N/A | N/A | N/A | 8
@@ -78,7 +78,8 @@ Scraping for: it
 Expected header text “CI” at position 15, but found “IT”.
 Expected header text “Others” at position 16, but found “CI”.
 Expected header text “Lead” at position 17, but found “Others”.
-oo***********····*········· (27)
+oo************····*········· (28)
+SWG | N/A | 2022-02-02 | 2022-02-07 | NE | 1200 | N/A | 0.1 | 13.3 | 21.5 | 17.1 | 7.8 | 21.1 | N/A | N/A | 2.5 | N/A | N/A | 2.1 | N/A | N/A | N/A | 2.0 | 2.5 | 2.4 | 4.4 | N/A
 Termometro Politico | N/A | 2022-02-02 | 2022-02-03 | NE | 3600 | N/A | 0.1 | 14.4 | 20.5 | 18.7 | 7.5 | 21.9 | N/A | N/A | 1.8 | N/A | N/A | 2.7 | N/A | N/A | N/A | N/A | N/A | 3.1 | 4.0 | N/A
 Ipsos | N/A | 2022-02-01 | 2022-02-03 | NE | 1000 | N/A | 0.1 | 15.5 | 20.8 | 18.0 | 9.8 | 19.3 | N/A | N/A | 1.8 | N/A | N/A | 2.2 | N/A | N/A | N/A | 1.9 | 1.0 | 1.9 | 3.9 | N/A
 Tecnè | N/A | 2022-02-02 | 2022-02-02 | NE | 1000 | N/A | 0.1 | 13.1 | 21.4 | 17.1 | 8.8 | 21.9 | N/A | N/A | 2.3 | N/A | N/A | 2.8 | N/A | N/A | N/A | N/A | 1.4 | 2.4 | 4.8 | N/A
