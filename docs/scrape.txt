@@ -35,9 +35,7 @@ Norstat | N/A | 2021-02-01 | 2021-02-07 | NE | 1000 | N/A | 0.1 | 23.5 | 19.6 | 
 Turu-uuringute AS | N/A | 2021-01-12 | 2021-01-17 | NE | 873 | N/A | 1 | 18 | 20 | 8 | 7 | N/A | 24 | N/A | 20 | N/A | 3
 
 Scraping for: es
-Something unexpected happened:
-undefined method `[]' for nil:NilClass
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:247:in `<main>'"]
+ (0)
 
 Scraping for: fi
 ··································································· (67)
