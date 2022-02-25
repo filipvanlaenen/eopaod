@@ -1,5 +1,6 @@
 Polling firm      | Commissioners                    | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Ref  | Kesk | SDE  | I    | EVA | EKRE | Green | E200 | Kalj | Other
-Kantar Emor       | N/A                              | 2022-02-10      | 2022-02-18    | NE    | 1503        | N/A           | 1         | 20   | 20   | 9    | 7    | N/A | 20   | 4     | 21   | N/A  | 0
+Norstat           | MTÜ Ühiskonnauuringute Instituut | 2022-02-15      | 2022-02-21    | NE    | 1000        | N/A           | 0.1       | 23.3 | 18.2 | 8.2  | 7.9  | N/A | 21.8 | 2.4   | 17.8 | N/A  | 0.5
+Kantar Emor       | ERR                              | 2022-02-10      | 2022-02-18    | NE    | 1503        | N/A           | 1         | 20   | 20   | 9    | 7    | N/A | 20   | 4     | 21   | N/A  | 0
 Norstat           | MTÜ Ühiskonnauuringute Instituut | 2022-02-08      | 2022-02-14    | NE    | 1000        | N/A           | 0.1       | 23.1 | 18.6 | 8.1  | 7.2  | N/A | 19.5 | 2.1   | 20.9 | N/A  | 0.5
 Norstat           | MTÜ Ühiskonnauuringute Instituut | 2022-02-01      | 2022-02-07    | NE    | 1000        | N/A           | 0.1       | 23.5 | 19.6 | 7.6  | 8.5  | N/A | 21.0 | 0.9   | 18.4 | N/A  | 0.5
 Norstat           | MTÜ Ühiskonnauuringute Instituut | 2022-01-25      | 2022-01-31    | NE    | 1000        | N/A           | 0.1       | 18.2 | 23.1 | 5.9  | 6.5  | N/A | 27.7 | 2.1   | 16.0 | N/A  | 0.5
