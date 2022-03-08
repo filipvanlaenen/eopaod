@@ -1,4 +1,8 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+Novus        | SVT               | 2022-01-31      | 2022-02-27    | NE    | 2505        | N/A           | 0.1       | 32.0 | 21.2 | 19.4 | 6.8  | 8.9  | 5.1  | 2.1 | 3.2  | 1.4
+Ipsos        | Dagens Nyheter    | 2022-02-08      | 2022-02-20    | NE    | 1660        | N/A           | 1         | 29   | 21   | 20   | 7    | 10   | 5    | 3   | 3    | N/A
+Sifo         | Svenska Dagbladet | 2022-02-07      | 2022-02-17    | NE    | 6103        | N/A           | 0.1       | 29.6 | 20.9 | 19.3 | 6.9  | 10.1 | 5.3  | 2.7 | 3.6  | 1.8
+SKOP         | N/A               | 2022-02-11      | 2022-02-14    | NE    | 1013        | N/A           | 0.1       | 31.4 | 19.1 | 19.0 | 7.3  | 11.8 | 4.2  | 2.7 | 3.1  | 1.4
 Demoskop     | Aftonbladet       | 2022-02-01      | 2022-02-08    | NE    | 2505        | N/A           | 0.1       | 28.2 | 22.0 | 19.2 | 7.9  | 10.0 | 5.6  | 3.2 | 2.8  | 1.2
 Novus        | SVT               | 2022-01-03      | 2022-01-30    | NE    | 3702        | N/A           | 0.1       | 29.3 | 20.5 | 19.8 | 7.4  | 9.8  | 5.4  | 2.7 | 3.5  | 1.6
 Ipsos        | Dagens Nyheter    | 2022-01-11      | 2022-01-24    | NE    | 1660        | N/A           | 1         | 31   | 21   | 18   | 6    | 10   | 6    | 4   | 3    | 1
