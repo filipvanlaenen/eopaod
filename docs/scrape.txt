@@ -102,12 +102,7 @@ Factum Interactive | N/A | 2022-01-01 | 2022-02-02 | NE | 637 | N/A | 0.1 | 12.7
 Scraping for: no
 oo-························································································- (92)
 
-[31mScraping for: pt
-Something unexpected happened:
-undefined method `[]' for nil:NilClass
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:471:in `<main>'"]
-
-[0mScraping for: se
+Scraping for: se
 oo·*·····*·····*····*·····*·····*····*······*·*··*·····*····*····*···*·····*·····*·······**····*····*···*·····*··*·······*····*···*····*····*·····*······*···*······*·····*·········*·····-·*·······*···*·····*·····*············*·····*····*····- (242)
 Sentio | N/A | 2022-02-24 | 2022-03-02 | NE | 1026 | N/A | 0.1 | 29.2 | 21.4 | 19.4 | 5.8 | 9.5 | 7.1 | 2.5 | 2.8 | 2.0
 Sentio | N/A | 2022-01-01 | 2022-01-31 | NE | N/A | N/A | 0.1 | 29.4 | 21.1 | 20.2 | 6.8 | 8.7 | 5.5 | 2.9 | 3.6 | 1.8
