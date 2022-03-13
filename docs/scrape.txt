@@ -5,12 +5,14 @@ IFDD | N/A | 2021-02-21 | 2021-03-03 | NE | 600 | N/A | 1 | 23 | 28 | 20 | 11 | 
 Peter Hajek | N/A | 2022-02-21 | 2022-02-24 | NE | 800 | N/A | 1 | 23 | 25 | 20 | 11 | N/A | 11 | N/A | N/A | 7 | N/A | 3
 
 Scraping for: be-bru
+Expected header text “cdH” at position 10, but found “LE”.
 oo······-····- (14)
 
 Scraping for: be-vlg
 oo·······-·····- (16)
 
 Scraping for: be-wal
+Expected header text “cdH” at position 9, but found “LE”.
 oo······-····- (14)
 
 Scraping for: de
