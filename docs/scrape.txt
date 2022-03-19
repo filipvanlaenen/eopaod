@@ -84,11 +84,7 @@ Metron Analysis | Mega | 2020-09-28 | 2020-09-30 | NE | 1388 | N/A | 0.1 | 25.5 
 [33mScraping for: hu
 Expected header text “United  Opposition” at position 5, but found “EM”.
 Expected header text “Mi Hazánk” at position 7, but found “”.
-ooCould not parse period “2-11 Mar”.
-*Could not parse period “26 Feb-5 Mar”.
-*············································································/···/··/ (88)
-IDEA Intézet | N/A |  |  | NE | 2000 | N/A | 1 | 50 | N/A | N/A | N/A | N/A | N/A | 3 | 4 | N/A | N/A | N/A | N/A | 43 | 0
-e-benchmark | N/A |  |  | NE | 1000 | N/A | 0.1 | 54 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 46 | N/A
+oo··············································································/···/··/ (88)
 
 [0m[33mScraping for: hu
 Expected header text “” at position 9, but found “LMP”.
