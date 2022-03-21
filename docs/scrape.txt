@@ -112,7 +112,9 @@ Termometro Politico | N/A | 2022-02-15 | 2022-02-17 | NE | 3200 | N/A | 0.1 | 13
 Scraping for: lv
 Expected header text “JKP” at position 7, but found “JKP/K”.
 Expected header text “LuK” at position 15, but found “LuK/KuK”.
-oo-*··········-····-- (21)
+oo*-*-*··········-····-- (24)
+Factum Interactive | N/A | 2022-02-23 | 2022-02-28 | NE | 1325 | N/A | 0.1 | 12.7 | 1.1 | 6.2 | 11.5 | 11.6 | 9.5 | 16.3 | 3.6 | 3.4 | 6.5 | N/A | 5.7 | 4.5 | 1.8 | 5.6
+SKDS | N/A | 2022-02-01 | 2022-02-28 | NE | 1815 | N/A | 0.1 | 17.4 | N/A | 5.3 | 7.2 | 12.0 | 11.9 | 14.1 | 4.0 | 4.1 | 6.7 | N/A | 3.8 | 7.4 | 2.2 | 4.0
 Factum Interactive | N/A | 2022-01-01 | 2022-02-02 | NE | 637 | N/A | 0.1 | 12.7 | 0.8 | 6.0 | 11.6 | 11.7 | 9.6 | 16.6 | 3.7 | 3.2 | 7.0 | N/A | 5.9 | 4.3 | 1.9 | 5.0
 
 Scraping for: no
