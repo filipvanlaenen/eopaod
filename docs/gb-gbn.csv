@@ -1,4 +1,27 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
+YouGov,,2022-03-23,2022-03-24,National,1759,Provided,Not Available,1%,35%,37%,10%,4%,1%,Not Available,Not Available,7%,4%,Not Available,2%
+Techne,,2022-03-23,2022-03-24,National,1641,Provided,Not Available,1%,35%,40%,10%,4%,Not Available,Not Available,Not Available,5%,Not Available,Not Available,6%
+YouGov,,2022-03-22,2022-03-23,National,1810,Provided,Not Available,1%,35%,36%,9%,4%,1%,Not Available,Not Available,8%,5%,Not Available,3%
+Kantar,,2022-03-17,2022-03-21,National,1042,Provided,Not Available,1%,36%,36%,12%,3%,0%,Not Available,1%,6%,3%,Not Available,2%
+Redfield & Wilton Strategies,,2022-03-20,2022-03-20,National,2000,Provided,Not Available,1%,35%,40%,11%,4%,0%,Not Available,Not Available,7%,2%,Not Available,1%
+Techne,,2022-03-16,2022-03-17,National,1636,Provided,Not Available,1%,35%,39%,10%,4%,Not Available,Not Available,Not Available,6%,Not Available,Not Available,6%
+YouGov,The Times,2022-03-16,2022-03-17,National,1761,Provided,Not Available,1%,33%,39%,10%,5%,1%,Not Available,Not Available,7%,4%,Not Available,2%
+Ipsos MORI,Evening Standard,2022-03-09,2022-03-16,National,1000,Provided,Not Available,1%,35%,39%,10%,5%,Not Available,Not Available,Not Available,7%,Not Available,Not Available,5%
+Redfield & Wilton Strategies,,2022-03-13,2022-03-13,National,2000,Provided,Not Available,1%,36%,39%,10%,4%,1%,Not Available,Not Available,6%,4%,Not Available,2%
+Savanta ComRes,,2022-03-11,2022-03-13,National,2192,Provided,Not Available,0.1%,35%,40%,9%,4%,Not Available,Not Available,Not Available,3%,?%,Not Available,7%
+Opinium,The Observer,2022-03-09,2022-03-11,National,2007,Provided,Not Available,1%,35%,37%,9%,4%,1%,Not Available,Not Available,7%,Not Available,Not Available,7%
+Deltapoll,,2022-03-08,2022-03-11,National,2003,Provided,Not Available,1%,34%,40%,10%,5%,1%,Not Available,1%,5%,2%,Not Available,1%
+Techne,,2022-03-09,2022-03-10,National,1641,Provided,Not Available,1%,36%,38%,9%,4%,Not Available,Not Available,Not Available,6%,Not Available,Not Available,7%
+YouGov,The Times,2022-03-08,2022-03-09,National,1700,Provided,Not Available,1%,33%,39%,10%,4%,1%,Not Available,Not Available,7%,4%,Not Available,2%
+Redfield & Wilton Strategies,,2022-03-07,2022-03-07,National,2000,Provided,Not Available,1%,37%,40%,10%,4%,0%,Not Available,Not Available,5%,2%,Not Available,1%
+Savanta ComRes,,2022-03-04,2022-03-06,National,2222,Provided,Not Available,1%,34%,41%,9%,5%,1%,Not Available,Not Available,4%,3%,Not Available,5%
+YouGov,The Times,2022-03-03,2022-03-04,National,1658,Provided,Not Available,1%,35%,37%,7%,5%,1%,Not Available,Not Available,8%,5%,Not Available,2%
+Techne UK,,2022-03-02,2022-03-03,National,1631,Provided,Not Available,1%,35%,38%,10%,4%,Not Available,Not Available,Not Available,6%,Not Available,Not Available,7%
+Redfield & Wilton Strategies,,2022-02-28,2022-02-28,National,2000,Provided,Not Available,1%,35%,38%,12%,5%,0%,Not Available,Not Available,5%,4%,Not Available,1%
+Number Cruncher Politics,ITV,2022-02-21,2022-02-28,National,2001,Provided,Not Available,1%,35%,42%,8%,5%,1%,Not Available,Not Available,6%,2%,Not Available,2%
+Savanta ComRes,,2022-02-25,2022-02-27,National,2208,Provided,Not Available,1%,34%,42%,9%,4%,1%,Not Available,Not Available,3%,3%,Not Available,4%
+YouGov,The Times,2022-02-24,2022-02-25,National,1741,Provided,Not Available,1%,34%,39%,9%,5%,1%,Not Available,Not Available,6%,5%,Not Available,3%
+Opinium,The Observer,2022-02-23,2022-02-25,National,2068,Provided,Not Available,1%,34%,38%,11%,4%,1%,Not Available,Not Available,6%,Not Available,Not Available,5%
 Techne UK,,2022-02-23,2022-02-24,National,1635,Provided,Not Available,1%,35%,39%,9%,4%,Not Available,Not Available,Not Available,6%,Not Available,Not Available,7%
 Redfield & Wilton Strategies,,2022-02-21,2022-02-21,National,2000,Provided,Not Available,1%,33%,39%,11%,5%,1%,Not Available,Not Available,7%,4%,Not Available,1%
 Kantar,,2022-02-17,2022-02-21,National,1090,Provided,Not Available,1%,34%,39%,12%,4%,0%,Not Available,1%,6%,2%,Not Available,2%
@@ -27,6 +50,7 @@ Ipsos MORI,Evening Standard,2022-01-19,2022-01-25,National,1059,Provided,Not Ava
 Redfield & Wilton Strategies,,2022-01-24,2022-01-24,National,2000,Provided,Not Available,1%,34%,41%,11%,5%,0%,Not Available,Not Available,5%,3%,Not Available,1%
 Kantar,,2022-01-20,2022-01-24,National,1086,Provided,Not Available,1%,34%,38%,11%,5%,1%,Not Available,1%,7%,2%,Not Available,1%
 Savanta ComRes,,2022-01-21,2022-01-23,National,2095,Provided,Not Available,1%,32%,40%,11%,5%,1%,Not Available,Not Available,4%,3%,Not Available,4%
+JL Partners Polls,Sunday Times,2022-01-11,2022-01-23,National,4561,Provided,Not Available,0.1%,32%,45%,11%,Not Available,Not Available,Not Available,Not Available,8%,Not Available,Not Available,Not Available
 YouGov,The Times,2022-01-20,2022-01-21,National,1668,Provided,Not Available,1%,32%,39%,8%,5%,1%,Not Available,Not Available,8%,4%,Not Available,2%
 Redfield & Wilton Strategies,,2022-01-17,2022-01-17,National,2000,Provided,Not Available,1%,30%,43%,9%,4%,1%,Not Available,Not Available,7%,4%,Not Available,2%
 Survation,38 Degrees,2022-01-14,2022-01-17,National,2036,Provided,Not Available,1%,33%,43%,10%,4%,1%,Not Available,1%,3%,2%,Not Available,3%
