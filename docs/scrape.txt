@@ -13,42 +13,20 @@ Expected header text “cdH” at position 9, but found “LE”.
 oo·······-····- (15)
 
 Scraping for: de
-oo*·······················- (27)
-INSA and YouGov | N/A | 2022-04-01 | 2022-04-04 | NE | 2063 | N/A | 0.5 | N/A | 25 | 10.5 | 10.5 | 4.5 | 17.5 | 21 | 5 | N/A | N/A | 6
+oo························- (27)
 
 Scraping for: de
-oo******········/·················/·········/············//·············/·············- (87)
-Forschungsgruppe Wahlen | N/A | 2022-04-05 | 2022-04-07 | NE | 1230 | N/A | 1 | 24 | 27 | 11 | 8 | 4 | 19 | N/A | N/A | N/A | N/A | 7
-Infratest dimap | N/A | 2022-04-04 | 2022-04-06 | NE | 1325 | N/A | 1 | 25 | 24 | 11 | 9 | 4 | 19 | N/A | N/A | N/A | N/A | 8
-Wahlkreisprognose | N/A | 2022-04-03 | 2022-04-04 | NE | 2450 | 100.0 | 0.5 | 25.5 | 27 | 9 | 8.5 | 3 | 19 | N/A | N/A | N/A | N/A | 8
-INSA and YouGov | N/A | 2022-04-01 | 2022-04-04 | NE | 2063 | N/A | 0.5 | 26 | 25 | 10.5 | 10.5 | 4.5 | 17.5 | N/A | N/A | N/A | N/A | 6
-Forsa | N/A | 2022-04-04 | 2022-04-04 | NE | 2508 | 76.0 | 1 | 24 | 27 | 9 | 8 | 4 | 19 | N/A | N/A | N/A | N/A | 9
-INSA and YouGov | N/A | 2022-04-01 | 2022-04-01 | NE | 1501 | N/A | 1 | 26 | 26 | 11 | 10 | 4 | 16 | N/A | N/A | N/A | N/A | 7
+oo···/···········/·················/·········/············//·············/·············- (88)
 
 Scraping for: dk
-oo**··················-- (24)
-Voxmeter | N/A | 2022-03-28 | 2022-04-03 | NE | 1007 | N/A | 0.1 | 26.0 | 5.7 | 15.4 | 7.6 | 2.9 | 1.2 | 6.7 | 9.4 | 14.5 | 1.6 | 5.5 | N/A | N/A | 0.1 | 2.3 | 0.5 | 0.6
-Gallup | N/A | 2022-04-04 | 2022-04-04 | NE | about 1500 | N/A | 0.1 | 26.7 | 4.9 | 13.4 | 7.6 | 3.0 | 0.5 | 6.2 | 8.5 | 15.4 | 1.6 | 6.7 | N/A | N/A | 0.4 | 3.6 | 0.9 | 0.6
+oo····················-- (24)
 
 Scraping for: ee
 ···················· (20)
 
 Scraping for: es
-*****·*··*·*··*·····*·······*········*·········*····*··············· (68)
+*··································································· (68)
 Hamalgama Métrica | VozPópuli | 2022-04-04 | 2022-04-07 | NE | N/A | N/A | 0.1 | 27.0 | 25.9 | 9.8 | 3.0 | 3.2 | 2.0 | 1.5 | N/A | 1.1 | 0.5 | 18.6 | 3.0 | 0.7 | N/A | N/A | N/A | N/A
-GAD3 | ABC | 2022-04-04 | 2022-04-06 | NE | 1000 | N/A | 0.1 | 29.4 | 25.3 | 10.7 | 2.4 | N/A | N/A | N/A | N/A | N/A | N/A | 15.4 | N/A | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-04-04 | 2022-04-06 | NE | 1200 | N/A | 0.1 | 29.2 | 26.3 | 10.6 | 1.1 | N/A | N/A | N/A | N/A | N/A | N/A | 17.6 | 2.5 | N/A | N/A | N/A | N/A | N/A
-electoPanel | electomania.es | 2022-03-25 | 2022-04-01 | NE | 1431 | N/A | 0.1 | 18.9 | 25.3 | 12.6 | 3.0 | 3.1 | 2.4 | 1.6 | N/A | 1.4 | 0.6 | 24.2 | 2.7 | 0.9 | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-03-28 | 2022-03-30 | NE | 1200 | N/A | 1 | 26.0 | 26.0 | 11.0 | 1.0 | N/A | N/A | N/A | N/A | N/A | N/A | 19.0 | N/A | N/A | N/A | N/A | N/A | N/A
-40dB | Prisa | 2022-03-22 | 2022-03-28 | NE | 2000 | N/A | 0.1 | 23.1 | 25.5 | 12.1 | 3.6 | N/A | N/A | N/A | N/A | N/A | N/A | 19.0 | 3.5 | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-03-21 | 2022-03-23 | NE | 1200 | N/A | 1 | 24.0 | 28.0 | 11.0 | 1.0 | N/A | N/A | N/A | N/A | N/A | N/A | 21.0 | N/A | N/A | N/A | N/A | N/A | N/A
-Key Data | Público | 2022-03-18 | 2022-03-18 | NE | N/A | 68.6 | 0.1 | 22.8 | 26.7 | 11.0 | 3.0 | 3.4 | 2.1 | 1.5 | N/A | 1.1 | 0.5 | 19.8 | 2.8 | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-03-14 | 2022-03-16 | NE | 1200 | N/A | 1 | 22.0 | 29.0 | 11.0 | 1.0 | N/A | N/A | N/A | N/A | N/A | N/A | 22.0 | N/A | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-03-07 | 2022-03-09 | NE | 1200 | N/A | 1 | 22.0 | 30.0 | 10.0 | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | 21.0 | N/A | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-02-28 | 2022-03-02 | NE | 1200 | N/A | 1 | 22.0 | 31.0 | 9.0 | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | 19.0 | N/A | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-02-21 | 2022-02-23 | NE | 1200 | N/A | 1 | 19.0 | 30.0 | 11.0 | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | 23.0 | N/A | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-02-14 | 2022-02-16 | NE | 1200 | N/A | 1 | 23.0 | 29.0 | 11.0 | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | 20.0 | N/A | N/A | N/A | N/A | N/A | N/A
-Metroscopia | N/A | 2022-02-07 | 2022-02-09 | NE | 1200 | N/A | 1 | 24.0 | 28.0 | 12.0 | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | 19.0 | N/A | N/A | N/A | N/A | N/A | N/A
 
 Scraping for: fi
 ······································································· (71)
@@ -56,13 +34,12 @@ Scraping for: fi
 Scraping for: gr
 *Something unexpected happened:
 invalid date
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:289:in `<main>'"]
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:290:in `<main>'"]
 
 [31mScraping for: hu
 Expected header text “United  Opposition” at position 5, but found “EM”.
 Expected header text “Mi Hazánk” at position 7, but found “”.
-oo-*······························································································/···/··/ (106)
-Medián | N/A | 2022-03-31 | 2022-04-01 | NE | N/A | N/A | 0.5 | 49 | N/A | N/A | N/A | N/A | N/A | 4.5 | 4.5 | N/A | N/A | N/A | N/A | 41 | 1
+oo-·······························································································/···/··/ (106)
 
 [0m[31mScraping for: hu
 Expected header text “” at position 9, but found “LMP”.
@@ -76,9 +53,7 @@ IDEA Intézet | N/A | 2022-01-31 | 2022--09 | NE | 2000 | N/A | 1 | 49 | 11 | N/
 Medián Archived 2019-05-23 at the Wayback Machine | N/A | 2019-05-15 | 2019-05-18 | NE | 1000 | N/A | 1 | 55 | 12 | 11 | 10 | 4 | 5 | 1 | 2 | N/A | N/A | N/A | N/A | N/A | 1
 
 [0mScraping for: ie
-**····························································· (63)
-Ireland Thinks | Sunday Independent | 2022-04-01 | 2022-04-01 | NE | 1135 | N/A | 1 | 22 | 18 | 33 | 4 | 2 | 6 | 3 | 3 | N/A | N/A | 10
-Red C | Business Post | 2022-03-23 | 2022-03-23 | NE | 1001 | N/A | 1 | 19 | 16 | 33 | 5 | 3 | 5 | 5 | 2 | N/A | N/A | 12
+······························································· (63)
 
 Scraping for: is
 oo-···············································~················································································- (132)
@@ -100,9 +75,7 @@ Euromedia | N/A | 2022-03-22 | 2022-03-22 | NE | 800 | N/A | 0.1 | 12.5 | 21.6 |
 Scraping for: lv
 Expected header text “JKP” at position 7, but found “JKP/K”.
 Expected header text “LuK” at position 15, but found “LuK/KuK”.
-oo**·-·-···········-····-- (26)
-Factum Interactive | N/A | 2022-03-39 | 2022-03-31 | NE | 832 | N/A | 0.1 | 11.2 | 1.6 | 6.7 | 10.2 | 11.9 | 10.8 | 17.0 | 2.6 | 5.2 | 5.9 | N/A | 4.7 | 5.2 | 1.7 | 4.9
-SKDS | N/A | 2022-03-01 | 2022-03-31 | NE | 1820 | N/A | 0.1 | 11.5 | 0.5 | 5.3 | 9.3 | 12.3 | 13.2 | 16.2 | 4.1 | 5.4 | 8.3 | N/A | 3.2 | 4.3 | 1.7 | 4.7
+oo···-·-···········-····-- (26)
 
 Scraping for: no
 oo-························································································- (92)
