@@ -29,8 +29,7 @@ Scraping for: dk
 oo····················-- (24)
 
 Scraping for: ee
-*···················· (21)
-Norstat | N/A | 2022-04-06 | 2022-04-11 | NE | 1000 | N/A | 0.1 | 32.1 | 16.0 | 5.9 | 5.7 | N/A | 20.8 | 2.1 | 16.6 | N/A | 0.8
+····················· (21)
 
 Scraping for: es
 ********··································································· (75)
@@ -47,7 +46,7 @@ Scraping for: fi
 ······································································· (71)
 
 Scraping for: gr
-*Something unexpected happened:
+**Something unexpected happened:
 invalid date
 ["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:290:in `<main>'"]
 
@@ -74,6 +73,8 @@ Scraping for: is
 oo-···············································~················································································- (132)
 
 Scraping for: it
+Expected header text “+Eu” at position 12, but found “+E”.
+Expected header text “Az” at position 13, but found “A”.
 Expected header text “Others” at position 15, but found “Italexit”.
 Expected header text “Lead” at position 16, but found “Others”.
 oo************··**··························································· (77)
@@ -84,7 +85,7 @@ Termometro Politico | N/A | 2022-04-06 | 2022-04-07 | NE | 3200 | N/A | 0.1 | 13
 Noto Sondaggi | N/A | 2022-04-04 | 2022-04-05 | NE | 1000 | N/A | 0.5 | 13.5 | 19.5 | 18.0 | 7.0 | 21.0 | N/A | N/A | 1.5 | N/A | N/A | 3.0 | N/A | N/A | N/A | N/A | 1.5 | 1.0 | 4.0 | 2.0
 SWG | N/A | 2022-03-30 | 2022-04-04 | NE | 1200 | N/A | 0.1 | 13.3 | 21.4 | 15.8 | 7.7 | 21.6 | N/A | N/A | 2.3 | N/A | N/A | 2.2 | N/A | N/A | N/A | N/A | 2.8 | 2.4 | 5.3 | 2.1
 Tecnè | N/A | 2022-04-01 | 2022-04-01 | NE | 1000 | N/A | 0.1 | 12.5 | 21.7 | 15.8 | 10.7 | 21.8 | N/A | N/A | 2.3 | N/A | N/A | 2.6 | N/A | N/A | N/A | N/A | N/A | 2.0 | 4.7 | N/A
-Euromedia | N/A | 2022-03-30 | 2022-03-31 | NE | 1000 | N/A | 0.1 | 14.0 | 20.8 | 15.7 | 8.0 | 21.0 | N/A | N/A | 2.1 | N/A | N/A | 2.6 | N/A | N/A | N/A | N/A | 1.8 | 1.7 | 4.7 | N/A
+Euromedia | N/A | 2022-03-30 | 2022-03-31 | NE | 1000 | N/A | 0.1 | 14.0 | 20.8 | 15.7 | 8.0 | 21.0 | N/A | N/A | 2.1 | N/A | N/A | 2.6 | N/A | N/A | N/A | N/A | 1.8 | 1.7 | 4.7 | 3.3
 Termometro Politico | N/A | 2022-03-30 | 2022-03-31 | NE | 3500 | N/A | 0.1 | 13.2 | 20.9 | 18.4 | 7.7 | 21.2 | N/A | N/A | 1.7 | N/A | N/A | 2.7 | N/A | N/A | N/A | N/A | N/A | 3.3 | 4.3 | 2.3
 Euromedia | N/A | 2022-03-28 | 2022-03-28 | NE | 1000 | N/A | 0.1 | 13.0 | 20.9 | 16.1 | 8.0 | 21.3 | N/A | N/A | 1.4 | N/A | N/A | 2.4 | N/A | N/A | N/A | N/A | 1.7 | 1.5 | 4.3 | 2.5
 SWG | N/A | 2022-03-23 | 2022-03-28 | NE | 1200 | N/A | 0.1 | 13.4 | 21.1 | 16.0 | 7.9 | 21.6 | N/A | N/A | 2.5 | N/A | N/A | 2.4 | N/A | N/A | N/A | N/A | 2.6 | 2.5 | 5.4 | 1.8
