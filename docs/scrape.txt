@@ -73,8 +73,6 @@ Scraping for: is
 oo-···············································~················································································- (132)
 
 Scraping for: it
-Expected header text “+Eu” at position 12, but found “+E”.
-Expected header text “Az” at position 13, but found “A”.
 Expected header text “Others” at position 15, but found “Italexit”.
 Expected header text “Lead” at position 16, but found “Others”.
 oo************··**··························································· (77)
