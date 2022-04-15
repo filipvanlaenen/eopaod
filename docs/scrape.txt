@@ -77,7 +77,9 @@ Expected header text “+Eu” at position 12, but found “+E”.
 Expected header text “Az” at position 13, but found “A”.
 Expected header text “Others” at position 15, but found “Italexit”.
 Expected header text “Lead” at position 16, but found “Others”.
-oo************··**··························································· (77)
+oo**************··**··························································· (79)
+Termometro Politico | N/A | 2022-04-13 | 2022-04-14 | NE | 2800 | N/A | 0.1 | 12.9 | 21.1 | 18.0 | 7.7 | 21.3 | N/A | N/A | 1.9 | N/A | N/A | 2.5 | N/A | N/A | N/A | N/A | N/A | 3.4 | 4.4 | 2.3
+Demos & Pi | N/A | 2022-04-14 | 2022-04-14 | NE | N/A | N/A | 0.1 | 14.2 | 21.2 | 16.8 | 8.2 | 20.7 | N/A | N/A | 2.3 | N/A | N/A | 2.2 | N/A | N/A | N/A | N/A | N/A | 2.0 | 3.8 | 2.1
 SWG | N/A | 2022-04-06 | 2022-04-11 | NE | 1200 | N/A | 0.1 | 12.9 | 21.2 | 15.9 | 8.0 | 21.6 | N/A | N/A | 2.3 | N/A | N/A | 2.4 | N/A | N/A | N/A | N/A | 2.6 | 2.6 | 5.0 | 1.9
 BiDiMedia | N/A | 2022-04-07 | 2022-04-09 | NE | 1500 | N/A | 0.1 | 12.2 | 22.3 | 17.8 | 6.8 | 20.0 | N/A | N/A | 2.1 | N/A | N/A | 2.1 | N/A | N/A | N/A | N/A | 1.4 | 1.9 | 4.8 | 1.7
 Tecnè | N/A | 2022-04-08 | 2022-04-08 | NE | 1000 | N/A | 0.1 | 12.7 | 21.9 | 15.8 | 10.8 | 21.9 | N/A | N/A | 2.2 | N/A | N/A | 2.4 | N/A | N/A | N/A | N/A | N/A | 1.9 | 4.4 | N/A
