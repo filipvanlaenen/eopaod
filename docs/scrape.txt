@@ -26,14 +26,17 @@ Scraping for: de
 oo····························- (31)
 
 Scraping for: de
-oo***·········//···············/············/·················/·········/············//·············/·············- (115)
+oo*****·········//···············/············/·················/·········/············//·············/·············- (117)
+Wahlkreisprognose | N/A | 2022-05-08 | 2022-05-09 | NE | 1610 | 100.0 | 0.5 | 23.5 | 24 | 9 | 10.5 | 3 | 22.5 | N/A | N/A | N/A | N/A | 7.5
 INSA and YouGov | N/A | 2022-05-06 | 2022-05-09 | NE | 2086 | N/A | 0.5 | 27.5 | 22.5 | 10.5 | 10 | 3.5 | 19 | N/A | N/A | N/A | N/A | 7
+Forsa | N/A | 2022-05-03 | 2022-05-09 | NE | 2501 | N/A | 1 | 26 | 23 | 9 | 9 | 4 | 21 | N/A | N/A | N/A | N/A | 8
 INSA and YouGov | N/A | 2022-05-02 | 2022-05-06 | NE | 1501 | N/A | 1 | 27 | 23 | 10 | 11 | 3 | 18 | N/A | N/A | N/A | N/A | 8
 Kantar | N/A | 2022-05-03 | 2022-05-03 | NE | 1570 | N/A | 1 | 27 | 23 | 9 | 9 | 5 | 19 | N/A | N/A | N/A | N/A | 8
 
 Scraping for: dk
-oo*·························-- (30)
+oo**·························-- (31)
 Voxmeter | N/A | 2022-05-02 | 2022-05-08 | NE | 1021 | N/A | 0.1 | 27.4 | 5.7 | 16.4 | 8.0 | 3.4 | 0.6 | 6.5 | 7.7 | 14.5 | 1.7 | 4.9 | N/A | N/A | 0.1 | 2.1 | 0.5 | 0.6
+Voxmeter | N/A | 2022-04-25 | 2022-05-01 | NE | 1067 | N/A | 0.1 | 28.9 | 4.4 | 15.6 | 7.7 | 4.0 | 1.0 | 7.1 | 7.9 | 13.9 | 0.9 | 5.3 | N/A | N/A | 0.1 | 2.1 | 0.2 | 0.9
 
 Scraping for: ee
 ·························· (26)
@@ -48,7 +51,7 @@ Scraping for: fi
 ········································································· (73)
 
 Scraping for: gr
-**··Something unexpected happened:
+***··Something unexpected happened:
 invalid date
 ["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:292:in `<main>'"]
 
@@ -78,4 +81,4 @@ oo-······································�
 Scraping for: it
 Expected header text “+Eu” at position 12, but found “+E”.
 Expected header text “Az” at position 13, but found “A”.
-oo**
+oo***
