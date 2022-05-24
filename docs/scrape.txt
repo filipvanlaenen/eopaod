@@ -17,11 +17,13 @@ Expected header text “cdH” at position 9, but found “LE”.
 oo·······-····- (15)
 
 Scraping for: de
-oo······························- (33)
+oo*······························- (34)
+INSA and YouGov | N/A | 2022-05-20 | 2022-05-23 | NE | 2100 | N/A | 0.5 | N/A | 22 | 10.5 | 8.5 | 3 | 20 | 22 | 6.5 | N/A | N/A | 7.5
 
 Scraping for: de
-oo***·**······*···············//···············/············/·················/·········/············//·············/·············- (131)
+oo****·**······*···············//···············/············/·················/·········/············//·············/·············- (132)
 INSA and YouGov | N/A | 2022-05-20 | 2022-05-23 | NE | 2100 | N/A | 0.5 | 28.5 | 22 | 10.5 | 8.5 | 3 | 20 | N/A | N/A | N/A | N/A | 7.5
+Forsa | N/A | 2022-05-17 | 2022-05-23 | NE | 2505 | 78.0 | 1 | 28 | 21 | 9 | 7 | 4 | 23 | N/A | N/A | N/A | N/A | 8
 Civey | N/A | 2022-05-16 | 2022-05-23 | NE | 10050 | N/A | 1 | 27 | 22 | 11 | 8 | 5 | 20 | N/A | N/A | N/A | N/A | 7
 INSA and YouGov | N/A | 2022-05-16 | 2022-05-20 | NE | 1214 | N/A | 1 | 28 | 21 | 10 | 10 | 3 | 19 | N/A | N/A | N/A | N/A | 9
 Kantar | N/A | 2022-05-11 | 2022-05-17 | NE | 1425 | N/A | 1 | 26 | 22 | 10 | 8 | 5 | 21 | N/A | N/A | N/A | N/A | 8
@@ -29,7 +31,9 @@ Wahlkreisprognose | N/A | 2022-05-15 | 2022-05-16 | NE | 1302 | 100.0 | 0.5 | 29
 Wahlkreisprognose | N/A | 2022-05-08 | 2022-05-09 | NE | 1610 | 100.0 | 0.5 | 23.5 | 24 | 9 | 10.5 | 3 | 22.5 | N/A | N/A | N/A | N/A | 7.5
 
 Scraping for: dk
-oo·····························-- (33)
+oo**·····························-- (35)
+Voxmeter | N/A | 2022-05-16 | 2022-05-22 | NE | 1003 | N/A | 0.1 | 25.6 | 4.3 | 17.2 | 8.3 | 3.8 | 1.0 | 7.3 | 8.9 | 13.3 | 1.5 | 7.0 | N/A | N/A | 0.0 | 1.5 | 0.3 | 0.2
+Epinion | N/A | 2022-05-11 | 2022-05-18 | NE | 1973 | N/A | 0.1 | 25.5 | 5.2 | 15.9 | 6.9 | 4.1 | 1.5 | 6.5 | 7.7 | 14.2 | 0.9 | 6.8 | N/A | N/A | 0.4 | 2.4 | 0.8 | N/A
 
 Scraping for: ee
 ···························· (28)
@@ -45,7 +49,7 @@ Scraping for: fi
 ·········································································· (74)
 
 Scraping for: gr
-*·*··*··*··Something unexpected happened:
+*·····*··*··Something unexpected happened:
 invalid date
 ["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:292:in `<main>'"]
 
