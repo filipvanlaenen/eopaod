@@ -1,5 +1,6 @@
 Scraping for: at
-oo**·*··························=·=··········································································································- (142)
+oo***·*··························=·=··········································································································- (143)
+Market | N/A | 2022-05-23 | 2022-05-25 | NE | 1000 | N/A | 1 | 23 | 29 | 20 | 11 | N/A | 10 | N/A | N/A | 5 | N/A | 2
 Market-Lazarsfeld | N/A | 2022-05-21 | 2022-05-24 | NE | 2000 | N/A | 1 | 23 | 29 | 20 | 11 | N/A | 11 | N/A | N/A | 5 | N/A | 1
 Market-Lazarsfeld | N/A | 2022-05-16 | 2022-05-19 | NE | 2000 | N/A | 1 | 23 | 29 | 21 | 11 | N/A | 9 | N/A | N/A | 6 | N/A | 1
 Market-Lazarsfeld | N/A | 2022-05-09 | 2022-05-11 | NE | 2000 | N/A | 1 | 23 | 27 | 20 | 12 | N/A | 9 | N/A | N/A | 5 | N/A | 2
@@ -21,7 +22,9 @@ Scraping for: de
 oo·······························- (34)
 
 Scraping for: de
-oo**··*··*·*······*···············//···············/············/·················/·········/············//·············/·············- (135)
+oo****··*··*·*······*···············//···············/············/·················/·········/············//·············/·············- (137)
+INSA and YouGov | N/A | 2022-05-27 | 2022-05-30 | NE | 2056 | N/A | 0.5 | 27 | 22 | 10 | 8.5 | 3.5 | 20.5 | N/A | N/A | N/A | N/A | 8.5
+GMS | N/A | 2022-05-25 | 2022-05-30 | NE | 1005 | N/A | 1 | 30 | 22 | 7 | 8 | 4 | 20 | N/A | N/A | N/A | N/A | 9
 INSA and YouGov | N/A | 2022-05-23 | 2022-05-27 | NE | 1337 | N/A | 1 | 27 | 23 | 9 | 9 | 4 | 19 | N/A | N/A | N/A | N/A | 9
 Kantar | N/A | 2022-05-17 | 2022-05-24 | NE | 1422 | N/A | 1 | 27 | 21 | 9 | 8 | 5 | 21 | N/A | N/A | N/A | N/A | 9
 Civey | N/A | 2022-05-16 | 2022-05-23 | NE | 10050 | N/A | 1 | 27 | 22 | 11 | 8 | 5 | 20 | N/A | N/A | N/A | N/A | 7
@@ -46,7 +49,7 @@ Scraping for: fi
 ·········································································· (74)
 
 Scraping for: gr
-*······*··*··Something unexpected happened:
+**······*··*··Something unexpected happened:
 invalid date
 ["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:292:in `<main>'"]
 
