@@ -1,10 +1,5 @@
 Scraping for: at
-oo**·**·*··························=·=··········································································································- (145)
-Market-Lazarsfeld | N/A | 2022-06-07 | 2022-06-08 | NE | 2000 | N/A | 1 | 21 | 32 | 19 | 12 | N/A | 9 | N/A | N/A | 5 | N/A | 2
-Market-Lazarsfeld | N/A | 2022-05-30 | 2022-06-01 | NE | 2000 | N/A | 1 | 22 | 30 | 19 | 13 | N/A | 9 | N/A | N/A | 5 | N/A | 2
-Market-Lazarsfeld | N/A | 2022-05-21 | 2022-05-24 | NE | 2000 | N/A | 1 | 23 | 29 | 20 | 11 | N/A | 11 | N/A | N/A | 5 | N/A | 1
-Market-Lazarsfeld | N/A | 2022-05-16 | 2022-05-19 | NE | 2000 | N/A | 1 | 23 | 29 | 21 | 11 | N/A | 9 | N/A | N/A | 6 | N/A | 1
-Market-Lazarsfeld | N/A | 2022-05-09 | 2022-05-11 | NE | 2000 | N/A | 1 | 23 | 27 | 20 | 12 | N/A | 9 | N/A | N/A | 5 | N/A | 2
+oo·································=·=··········································································································- (145)
 
 Scraping for: be-bru
 Expected header text “cdH” at position 10, but found “LE”.
@@ -20,25 +15,13 @@ Expected header text “cdH” at position 9, but found “LE”.
 oo·······-····- (15)
 
 Scraping for: de
-oo*································- (36)
-INSA and YouGov | N/A | 2022-06-03 | 2022-06-07 | NE | 2055 | N/A | 0.5 | N/A | 20.5 | 10.5 | 9.5 | 3.5 | 21.5 | 20.5 | 6.5 | N/A | N/A | 8.0
+oo·································- (36)
 
 Scraping for: de
-oo*****··*········*····*······*···············//···············/············/·················/·········/············//·············/·············- (147)
-Wahlkreisprognose | N/A | 2022-06-07 | 2022-06-08 | NE | 1603 | 100.0 | 1 | 24 | 22 | 13 | 7 | 6 | 20 | N/A | N/A | N/A | N/A | 8
-YouGov | N/A | 2022-06-03 | 2022-06-07 | NE | 1633 | N/A | 1 | 30 | 18 | 12 | 7 | 6 | 21 | N/A | N/A | N/A | N/A | 7
-INSA and YouGov | N/A | 2022-06-03 | 2022-06-07 | NE | 2055 | N/A | 0.5 | 27 | 20 | 10.5 | 9.5 | 3.5 | 21.5 | N/A | N/A | N/A | N/A | 8
-Kantar | N/A | 2022-06-01 | 2022-06-07 | NE | 1428 | N/A | 1 | 26 | 22 | 8 | 9 | 4 | 23 | N/A | N/A | N/A | N/A | 8
-Forsa | N/A | 2022-06-03 | 2022-06-03 | NE | 2002 | 80.0 | 1 | 27 | 19 | 10 | 8 | 4 | 23 | N/A | N/A | N/A | N/A | 9
-Wahlkreisprognose | N/A | 2022-06-01 | 2022-06-01 | NE | 1500 | 100.0 | 0.5 | 27 | 18 | 9 | 8 | 4 | 25.5 | N/A | N/A | N/A | N/A | 8.5
-Civey | N/A | 2022-05-16 | 2022-05-23 | NE | 10050 | N/A | 1 | 27 | 22 | 11 | 8 | 5 | 20 | N/A | N/A | N/A | N/A | 7
-Wahlkreisprognose | N/A | 2022-05-15 | 2022-05-16 | NE | 1302 | 100.0 | 0.5 | 29 | 23.5 | 7.5 | 5.5 | 2.5 | 23 | N/A | N/A | N/A | N/A | 9
-Wahlkreisprognose | N/A | 2022-05-08 | 2022-05-09 | NE | 1610 | 100.0 | 0.5 | 23.5 | 24 | 9 | 10.5 | 3 | 22.5 | N/A | N/A | N/A | N/A | 7.5
+oo/······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (147)
 
 Scraping for: dk
-oo*·*·······························-- (38)
-Voxmeter | N/A | 2022-05-30 | 2022-06-05 | NE | 1002 | N/A | 0.1 | 26.3 | 4.9 | 17.2 | 7.3 | 4.4 | 0.8 | 7.2 | 9.4 | 13.6 | 0.9 | 5.8 | N/A | N/A | 0.0 | 1.5 | 0.3 | 0.4
-Epinion | N/A | 2022-05-22 | 2022-05-29 | NE | 2096 | N/A | 0.1 | 27.2 | 5.3 | 15.7 | 6.5 | 3.9 | 1.0 | 6.1 | 8.4 | 13.0 | 0.6 | 7.0 | N/A | N/A | 0.5 | 1.9 | 1.6 | 1.3
+oo··································-- (38)
 
 Scraping for: ee
 ······························ (30)
@@ -59,7 +42,7 @@ Scraping for: fi
 Scraping for: gr
 ******······*··*··Something unexpected happened:
 invalid date
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:292:in `<main>'"]
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:298:in `<main>'"]
 
 [31mScraping for: hu
 Expected header text “United  Opposition” at position 5, but found “EM”.
