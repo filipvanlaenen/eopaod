@@ -66,15 +66,7 @@ Scraping for: lv
 Expected header text “JKP” at position 7, but found “JKP/K”.
 Expected header text “LRA” at position 12, but found “LRA/LAS”.
 Expected header text “LuK” at position 15, but found “LuK/KuK”.
-Expected header text “Others” at position 18, but found “S!”.
-Expected header text “Lead” at position 19, but found “Others”.
-Expected header text “Gov.” at position 20, but found “Lead”.
-Expected header text “Opp.” at position 21, but found “Gov.”.
-oo**-**···-·-···········- (25)
-Factum Interactive | N/A | 2022-05-27 | 2022-05-31 | NE | 1122 | N/A | 0.1 | 10.6 | 0.1 | 6.9 | 10.2 | 12.8 | 8.4 | 20.0 | 2.9 | 7.1 | 6.9 | N/A | 2.6 | 4.6 | 1.9 | 1.9
-SKDS | N/A | 2022-05-13 | 2022-05-24 | NE | 1814 | N/A | 0.1 | 11.8 | 0.7 | 5.9 | 9.6 | 15.2 | 9.5 | 17.6 | 5.1 | 4.3 | 7.7 | N/A | 2.0 | 3.4 | 1.8 | 4.2
-SKDS | N/A | 2022-04-22 | 2022-05-02 | NE | 1812 | N/A | 0.1 | 10.2 | 0.7 | 4.6 | 7.7 | 14.2 | 12.8 | 18.0 | 3.7 | 4.8 | 7.7 | N/A | 4.1 | 5.3 | 3.0 | 2.5
-Factum Interactive | N/A | 2022-04-26 | 2022-04-29 | NE | 969 | N/A | 0.1 | 12.4 | 1.0 | 9.1 | 10.3 | 12.5 | 9.4 | 19.2 | 2.2 | 5.2 | 5.9 | N/A | 3.8 | 3.1 | 2.3 | N/A
+oo··-·····-·-···········- (25)
 
 Scraping for: no
 oo-························································································- (92)
