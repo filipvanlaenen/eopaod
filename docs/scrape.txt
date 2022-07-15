@@ -1,12 +1,5 @@
 Scraping for: at
-oo******··*····································=·=··········································································································- (157)
-Market | N/A | 2022-07-11 | 2022-07-13 | NE | 2000 | N/A | 1 | 21 | 29 | 22 | 12 | N/A | 10 | N/A | N/A | 3 | N/A | 3
-Market | N/A | 2022-07-04 | 2022-07-06 | NE | 2000 | N/A | 1 | 23 | 30 | 21 | 9 | N/A | 11 | N/A | N/A | 3 | N/A | 3
-IFDD | N/A | 2022-06-30 | 2022-07-03 | NE | 1000 | N/A | 1 | 20 | 31 | 21 | 11 | N/A | 10 | N/A | N/A | 4 | N/A | 3
-Peter Hajek | N/A | 2022-06-27 | 2022-06-30 | NE | 800 | N/A | 1 | 22 | 29 | 22 | 10 | N/A | 10 | N/A | N/A | 5 | N/A | 2
-Market | N/A | 2022-06-27 | 2022-06-28 | NE | 2000 | N/A | 1 | 21 | 31 | 22 | 9 | N/A | 10 | N/A | N/A | 4 | N/A | 3
-OGM | N/A | 2022-06-20 | 2022-06-23 | NE | 1015 | N/A | 1 | 23 | 29 | 19 | 11 | N/A | 10 | N/A | N/A | 5 | N/A | 3
-INSA | N/A | 2022-06-10 | 2022-06-14 | NE | 1000 | N/A | 1 | 22 | 29 | 20 | 11 | N/A | 10 | N/A | N/A | 4 | N/A | 4
+oo·············································=·=··········································································································- (157)
 
 Scraping for: be-bru
 Expected header text “cdH” at position 10, but found “LE”.
@@ -25,9 +18,8 @@ Scraping for: de
 oo······································- (41)
 
 Scraping for: de
-oo···*···········*·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (177)
-Wahlkreisprognose | N/A | 2022-07-05 | 2022-07-06 | NE | 1700 | 100.0 | 1 | 25 | 22 | 10 | 8 | 4 | 22 | N/A | N/A | N/A | N/A | 9
-Wahlkreisprognose | N/A | 2022-06-23 | 2022-06-26 | NE | 2430 | 100.0 | 1 | 25 | 22 | 12 | 7 | 4 | 21 | N/A | N/A | N/A | N/A | 9
+oo*···/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (178)
+Forschungsgruppe Wahlen | N/A | 2022-07-12 | 2022-07-14 | NE | 1167 | 75.0 | 1 | 26 | 21 | 11 | 6 | 5 | 25 | N/A | N/A | N/A | N/A | 6
 
 Scraping for: dk
 Expected header text “Others” at position 20, but found “Æ”.
@@ -69,7 +61,7 @@ Scraping for: fi
 Scraping for: gr
 ******·*·*········*··*··Something unexpected happened:
 invalid date
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:298:in `<main>'"]
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:300:in `<main>'"]
 
 [31mScraping for: hu
 Expected header text “United  Opposition” at position 5, but found “EM”.
