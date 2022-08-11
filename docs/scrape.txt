@@ -72,12 +72,11 @@ Scraping for: is
 oo-···············································~················································································- (132)
 
 Scraping for: it
-Expected header text “Fieldwork date” at position 1, but found “Date”.
-Expected header text “Sample size” at position 3, but found “Samplesize”.
-Expected header text “M5S” at position 4, but found “Centre-right”.
-Expected header text “PD” at position 5, but found “Centre-left”.
-Expected header text “Lega” at position 6, but found “M5S”.
-Expected header text “FI” at position 7, but found “Centrist”.
-Expected header text “FdI” at position 8, but found “Italexit”.
-Expected header text “Art.1” at position 9, but found “Others”.
-Expected header text “SI” at position 10, but found “Lead”.
+Expected header text “Art.1” at position 9, but found “AVS”.
+Expected header text “SI” at position 10, but found “+E”.
+Expected header text “EV” at position 11, but found “A–IV”.
+Expected header text “+E–A” at position 12, but found “Italexit”.
+Expected header text “IV” at position 13, but found “IC”.
+Expected header text “Italexit” at position 14, but found “NM”.
+Expected header text “IpF” at position 15, but found “Others”.
+Expected header text “Others” at position 16, but found “Lead”.
