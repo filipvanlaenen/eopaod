@@ -25,7 +25,8 @@ INSA and YouGov | N/A | 2022-08-01 | 2022-08-01 | NE | 2144 | N/A | 0.5 | N/A | 
 INSA and YouGov | N/A | 2022-07-22 | 2022-07-25 | NE | 2043 | N/A | 0.5 | N/A | 18.5 | 12 | 8 | 5 | 22 | 21.5 | 5 | N/A | N/A | 8
 
 Scraping for: de
-oo************··/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (199)
+oo*************··/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (200)
+Forschungsgruppe Wahlen | N/A | 2022-08-09 | 2022-08-11 | NE | 1389 | N/A | 1 | 26 | 19 | 12 | 7 | 4 | 26 | N/A | N/A | N/A | N/A | 6
 INSA and YouGov | N/A | 2022-08-05 | 2022-08-08 | NE | 2099 | N/A | 0.5 | 27 | 18 | 12.5 | 8 | 5.5 | 21.5 | N/A | N/A | N/A | N/A | 7.5
 Forsa | N/A | 2022-08-02 | 2022-08-08 | NE | 2504 | 74.0 | 1 | 26 | 18 | 10 | 7 | 5 | 24 | N/A | N/A | N/A | N/A | 10
 INSA and YouGov | N/A | 2022-08-01 | 2022-08-05 | NE | 1701 | N/A | 1 | 27 | 19 | 12 | 9 | 5 | 21 | N/A | N/A | N/A | N/A | 7
@@ -73,10 +74,11 @@ Scraping for: is
 oo-···············································~················································································- (132)
 
 Scraping for: it
-Expected header text “M5S” at position 4, but found “Centre-right”.
-Expected header text “PD” at position 5, but found “Centre-left”.
-Expected header text “Lega” at position 6, but found “M5S”.
-Expected header text “FI” at position 7, but found “A–IV”.
-Expected header text “FdI” at position 8, but found “Italexit”.
-Expected header text “Art.1” at position 9, but found “Others”.
-Expected header text “SI” at position 10, but found “Lead”.
+Expected header text “Art.1” at position 9, but found “AVS”.
+Expected header text “SI” at position 10, but found “+E”.
+Expected header text “EV” at position 11, but found “A–IV”.
+Expected header text “+E–A” at position 12, but found “Italexit”.
+Expected header text “IV” at position 13, but found “IC”.
+Expected header text “Italexit” at position 14, but found “NM”.
+Expected header text “IpF” at position 15, but found “Others”.
+Expected header text “Others” at position 16, but found “Lead”.
