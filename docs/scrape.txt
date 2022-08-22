@@ -68,7 +68,8 @@ Expected header text “Others” at position 21, but found “TKL”.
 Expected header text “Lead” at position 22, but found “KPP”.
 Expected header text “Gov.” at position 23, but found “VL”.
 Expected header text “Opp.” at position 24, but found “Lead”.
-oo*- (4)
+oo**- (5)
+Factum Interactive | N/A | 2022-08-16 | 2022-08-21 | NE | 1071 | N/A | 0.1 | 9.2 | 0.4 | 5.1 | 8.8 | 10.8 | 8.6 | 20.7 | 8.4 | 4.2 | 7.5 | N/A | 1.7 | 4.8 | 1.2 | 6.6 | 1.1 | 0.0 | 0.7
 Factum Interactive | N/A | 2022-08-03 | 2022-08-07 | NE | 878 | N/A | 0.1 | 10.9 | 0.2 | 5.9 | 9.4 | 10.5 | 7.7 | 21.0 | 7.7 | 3.5 | 6.3 | N/A | 2.2 | 4.5 | 1.7 | 6.1 | 1.4 | 0.0 | 0.6
 
 [0mScraping for: no
