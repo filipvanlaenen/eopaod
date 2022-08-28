@@ -80,7 +80,7 @@ Scraping for: it
 Expected header text “Others” at position 15, but found “UP”.
 Expected header text “Lead” at position 16, but found “Others”.
 oo****··············· (21)
-Piepoli | N/A | 2022-08-25 | 2022-08-25 | NE | N/A | N/A | 0.1 | 11.0 | 22.0 | 12.5 | 8.0 | 24.5 | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | N/A | N/A | 3.0 | 7.0 | N/A | N/A
+Piepoli | N/A | 2022-08-25 | 2022-08-25 | NE | N/A | N/A | 0.1 | 11.0 | 22.0 | 12.5 | 8.0 | 24.5 | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | N/A | 1.5 | 3.0 | 7.0 | N/A | N/A
 BiDiMedia | N/A | 2022-08-25 | 2022-08-25 | NE | 1300 | N/A | 0.1 | 10.8 | 24.1 | 13.0 | 6.6 | 24.7 | N/A | 1.9 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.6 | N/A | 0.7 | 3.9 | 6.1 | 1.5 | 0.9
 Termometro Politico | N/A | 2022-08-24 | 2022-08-25 | NE | 5300 | N/A | 0.1 | 10.7 | 23.3 | 14.3 | 7.2 | 24.7 | N/A | 1.9 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | N/A | 0.8 | 2.5 | 4.8 | 1.2 | 1.5
 Tecnè | N/A | 2022-08-23 | 2022-08-24 | NE | 2000 | N/A | 0.1 | 10.5 | 22.6 | 12.7 | 11.1 | 24.6 | N/A | 2.5 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.9 | N/A | 0.6 | 3.3 | 4.9 | 1.2 | N/A
