@@ -18,14 +18,16 @@ Scraping for: de
 oo·················································- (52)
 
 Scraping for: de
-oo·*·*···········*············*····/······/···················/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (245)
+oo*·*·*···········*············*····/······/···················/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (246)
+Forschungsgruppe Wahlen | N/A | 2022-09-27 | 2022-09-29 | NE | 1355 | 73.0 | 1 | 27 | 18 | 14 | 7 | 5 | 22 | N/A | N/A | N/A | N/A | 7
 Forsa | N/A | 2022-09-20 | 2022-09-26 | NE | 2505 | 77.0 | 1 | 28 | 18 | 13 | 7 | 5 | 20 | N/A | N/A | N/A | N/A | 9
 Wahlkreisprognose | N/A | 2022-09-20 | 2022-09-22 | NE | 1700 | N/A | 0.5 | 26 | 22 | 13.5 | 8 | 4 | 18 | N/A | N/A | N/A | N/A | 8.5
 Wahlkreisprognose | N/A | 2022-09-09 | 2022-09-11 | NE | 1300 | N/A | 0.5 | 25.5 | 20 | 14 | 7 | 5.5 | 19 | N/A | N/A | N/A | N/A | 9
 Civey | N/A | 2022-08-18 | 2022-08-25 | NE | 10014 | N/A | 1 | 27 | 19 | 11 | 7 | 5 | 22 | N/A | N/A | N/A | N/A | 9
 
 Scraping for: dk
-oo-*·······················································-- (61)
+oo-**·······················································-- (62)
+Megafon | N/A | 2022-09-26 | 2022-09-29 | NE | 1010 | N/A | 0.1 | 22.9 | 2.0 | 13.8 | 8.3 | 4.4 | 1.3 | 5.3 | 8.9 | 12.8 | 0.8 | 4.2 | N/A | N/A | N/A | 4.5 | 0.7 | 10.1 | N/A
 Voxmeter | N/A | 2022-09-19 | 2022-09-25 | NE | 1004 | N/A | 0.1 | 25.1 | 2.5 | 14.1 | 7.3 | 4.6 | 1.1 | 6.5 | 8.3 | 11.6 | 1.2 | 5.1 | N/A | N/A | 0.3 | 2.4 | 0.6 | 9.1 | 0.2
 
 Scraping for: ee
@@ -74,16 +76,16 @@ Scraping for: ie
 Scraping for: is
 oo··················- (21)
 
-[31m#<Net::HTTPNotFound:0x000055d0cc0d5550>
+[31m#<Net::HTTPNotFound:0x000055d9f03ee980>
 Not Found
 
-#<Net::HTTPNotFound:0x000055d0cc0d5550>
+#<Net::HTTPNotFound:0x000055d9f03ee980>
 <!DOCTYPE html>
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
 <title>Opinion polling for the next Italian general election - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e18b99a3-a64f-46d9-b876-95b3bf4a7b5f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Opinion_polling_for_the_next_Italian_general_election","wgTitle":"Opinion polling for the next Italian general election","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Opinion_polling_for_the_next_Italian_general_election","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"24df860f-16d5-41cd-9553-e2abf25cabac","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Opinion_polling_for_the_next_Italian_general_election","wgTitle":"Opinion polling for the next Italian general election","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Opinion_polling_for_the_next_Italian_general_election","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,
 "wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready",
 "ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
@@ -426,7 +428,7 @@ Not Found
 
 </footer>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.197","ppvisitednodes":{"value":461,"limit":1000000},"postexpandincludesize":{"value":27962,"limit":2097152},"templateargumentsize":{"value":1204,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2206,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  169.262      1 Template:No_article_text","100.00%  169.262      1 -total"," 67.60%  114.426      2 Template:Fmbox"," 39.90%   67.535      1 Template:New_page_DYM"," 24.88%   42.118      1 Template:There_is_a_draft_for_this_article"," 12.08%   20.449      1 Template:No_article_text/sister_projects"," 11.67%   19.745      1 Template:Draft_at/core"," 11.04%   18.693      1 Template:Is_redirect","  3.06%    5.178      2 Template:Str_rightc","  2.92%    4.951      3 Template:Plain_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":2378490,"limit":52428800}},"cachereport":{"origin":"mw1371","timestamp":"20220929202413","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":260,"wgHostname":"mw1371"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.138","walltime":"0.178","ppvisitednodes":{"value":461,"limit":1000000},"postexpandincludesize":{"value":27962,"limit":2097152},"templateargumentsize":{"value":1204,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2206,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  151.736      1 Template:No_article_text","100.00%  151.736      1 -total"," 66.32%  100.631      2 Template:Fmbox"," 42.35%   64.263      1 Template:New_page_DYM"," 26.38%   40.029      1 Template:There_is_a_draft_for_this_article"," 12.44%   18.874      1 Template:Draft_at/core"," 11.90%   18.055      1 Template:Is_redirect"," 11.77%   17.856      1 Template:No_article_text/sister_projects","  3.48%    5.278      2 Template:Str_rightc","  3.25%    4.924      3 Template:Plain_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":2423154,"limit":52428800}},"cachereport":{"origin":"mw1354","timestamp":"20220930142542","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":241,"wgHostname":"mw1354"});});</script>
 </body>
 </html>
-#<Net::HTTPNotFound:0x000055d0cc0d5550>
+#<Net::HTTPNotFound:0x000055d9f03ee980>
