@@ -1,5 +1,6 @@
 Scraping for: at
-oo······························································=·=··········································································································- (174)
+oo*······························································=·=··········································································································- (175)
+Market | N/A | 2022-09-19 | 2022-09-27 | NE | 2000 | N/A | 1 | 21 | 27 | 24 | 12 | N/A | 10 | N/A | N/A | 4 | N/A | 2
 
 Scraping for: be-bru
 Expected header text “cdH” at position 10, but found “LE”.
@@ -15,30 +16,36 @@ Expected header text “cdH” at position 9, but found “LE”.
 oo·········-····- (17)
 
 Scraping for: de
-oo················································- (51)
+oo·················································- (52)
 
 Scraping for: de
-oo·*·*···········*············*····/······/···················/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (245)
+oo**·*·*···········*············*····/······/···················/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (247)
+Forschungsgruppe Wahlen | N/A | 2022-09-27 | 2022-09-29 | NE | 1355 | 73.0 | 1 | 27 | 18 | 14 | 7 | 5 | 22 | N/A | N/A | N/A | N/A | 7
+Kantar | N/A | 2022-09-22 | 2022-09-27 | NE | 1381 | N/A | 1 | 27 | 19 | 13 | 8 | 5 | 21 | N/A | N/A | N/A | N/A | 7
 Forsa | N/A | 2022-09-20 | 2022-09-26 | NE | 2505 | 77.0 | 1 | 28 | 18 | 13 | 7 | 5 | 20 | N/A | N/A | N/A | N/A | 9
 Wahlkreisprognose | N/A | 2022-09-20 | 2022-09-22 | NE | 1700 | N/A | 0.5 | 26 | 22 | 13.5 | 8 | 4 | 18 | N/A | N/A | N/A | N/A | 8.5
 Wahlkreisprognose | N/A | 2022-09-09 | 2022-09-11 | NE | 1300 | N/A | 0.5 | 25.5 | 20 | 14 | 7 | 5.5 | 19 | N/A | N/A | N/A | N/A | 9
 Civey | N/A | 2022-08-18 | 2022-08-25 | NE | 10014 | N/A | 1 | 27 | 19 | 11 | 7 | 5 | 22 | N/A | N/A | N/A | N/A | 9
 
 Scraping for: dk
-oo-*·······················································-- (61)
+oo-**·······················································-- (62)
+Megafon | N/A | 2022-09-26 | 2022-09-29 | NE | 1010 | N/A | 0.1 | 22.9 | 2.0 | 13.8 | 8.3 | 4.4 | 1.3 | 5.3 | 8.9 | 12.8 | 0.8 | 4.2 | N/A | N/A | N/A | 4.5 | 0.7 | 10.1 | N/A
 Voxmeter | N/A | 2022-09-19 | 2022-09-25 | NE | 1004 | N/A | 0.1 | 25.1 | 2.5 | 14.1 | 7.3 | 4.6 | 1.1 | 6.5 | 8.3 | 11.6 | 1.2 | 5.1 | N/A | N/A | 0.3 | 2.4 | 0.6 | 9.1 | 0.2
 
 Scraping for: ee
 ····· (5)
 
 Scraping for: es
-·········································································································································································· (170)
+*·········································································································································································· (171)
+IMOP | El Confidencial | 2022-09-12 | 2022-09-24 | NE | 1271 | N/A | 0.1 | 31.1 | 25.0 | 10.1 | 1.2 | 2.9 | 2.1 | 1.4 | N/A | 1.4 | 0.3 | 16.9 | 2.2 | 1.1 | N/A | N/A | N/A | N/A
 
 Scraping for: fi
 ·················································································· (82)
 
 Scraping for: gr
-***····*··················*··········*··*··*·········*··*·*······*··········*························································*·······*······*······*····*·*···*····*·············*···················*··············*·····*··· (230)
+*****····*··················*··········*··*··*·········*··*·*······*··········*························································*·······*······*······*····*·*···*····*·············*···················*··············*·····*··· (232)
+Metron Analysis | Mega | 2022-09-23 | 2022-09-28 | NE | 1000 | N/A | 0.1 | 25.4 | 35.8 | N/A | 15.0 | 6.3 | N/A | N/A | 10.4 | N/A | 2.5 | 5.9 | 4.1 | N/A
+Interview | Politic.gr | 2022-09-23 | 2022-09-26 | NE | 1000 | N/A | 0.1 | 26.2 | 35.3 | N/A | 11.6 | 6.7 | N/A | N/A | 9.1 | N/A | 1.3 | 5.6 | 3.9 | N/A
 Marc | ANT1 | 2022-09-20 | 2022-09-24 | NE | 1166 | N/A | 0.1 | 27.6 | 37.6 | N/A | 13.1 | 6.2 | N/A | N/A | 10.0 | N/A | 2.3 | 4.7 | 3.2 | N/A
 Abacus | Alpha TV | 2022-09-19 | 2022-09-23 | NE | 1001 | N/A | 0.1 | 26.8 | 35.8 | N/A | 13.6 | 6.3 | N/A | N/A | 9.0 | N/A | 2.5 | 4.9 | 3.6 | N/A
 Alco | Open | 2022-09-19 | 2022-09-21 | NE | 1200 | N/A | 0.1 | 29.1 | 37.4 | N/A | 12.5 | 6.1 | N/A | N/A | 8.3 | N/A | 1.9 | 4.3 | 2.5 | N/A
@@ -71,17 +78,359 @@ Scraping for: ie
 Scraping for: is
 oo··················- (21)
 
-[31mScraping for: it
-Expected header text “M5S” at position 4, but found “FdI”.
-Expected header text “Lega” at position 6, but found “M5S”.
-Expected header text “FI” at position 7, but found “Lega”.
-Expected header text “FdI” at position 8, but found “FI”.
-Expected header text “AVS” at position 9, but found “A–IV”.
-Expected header text “+E” at position 10, but found “AVS”.
-Expected header text “A–IV” at position 11, but found “+E”.
-Expected header text “IC” at position 13, but found “UP”.
-Expected header text “UP” at position 15, but found “IC”.
-oo- (3)
+[31m#<Net::HTTPNotFound:0x000055e660b99ca8>
+Not Found
 
-Scraping for: it
-Expected header text “Fieldwork date” at position 1, but found “.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}vte  Opinion polling for elections in Italy”.
+#<Net::HTTPNotFound:0x000055e660b99ca8>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Opinion polling for the next Italian general election - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"151e06fc-ad3a-4cdc-85d6-f9cb4d4ffc23","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Opinion_polling_for_the_next_Italian_general_election","wgTitle":"Opinion polling for the next Italian general election","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Opinion_polling_for_the_next_Italian_general_election","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,
+"wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Opinion polling for the next Italian general election - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Opinion_polling_for_the_next_Italian_general_election rootpage-Opinion_polling_for_the_next_Italian_general_election skin-vector action-view skin-vector-legacy vector-toc-not-collapsed vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-disabled vector-feature-visual-enhancement-next-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Opinion polling for the next Italian general election</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="noarticletext mw-content-ltr" dir="ltr" lang="en">
+<div class="mw-parser-output">
+<style data-mw-deduplicate="TemplateStyles:r1097275936">.mw-parser-output .fmbox{clear:both;margin:0.2em 0;width:100%;border:1px solid #a2a9b1;background-color:#f8f9fa;box-sizing:border-box}.mw-parser-output .fmbox-warning{border:1px solid #bb7070;background-color:#ffdbdb}.mw-parser-output .fmbox-editnotice{background-color:transparent}.mw-parser-output .fmbox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .fmbox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .fmbox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .fmbox .mbox-invalid-type{text-align:center}</style><table class="plainlinks fmbox fmbox-editnotice" role="presentation" style="background-color: #ffdadb; border-color: #bb7070"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ambox_warning_green_construction.svg/60px-Ambox_warning_green_construction.svg.png" decoding="async" width="60" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ambox_warning_green_construction.svg/90px-Ambox_warning_green_construction.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ambox_warning_green_construction.svg/120px-Ambox_warning_green_construction.svg.png 2x" data-file-width="378" data-file-height="326" /></td><td class="mbox-text" style="font-size: 130%;">There is a draft for this article at <a href="/wiki/Draft:Opinion_polling_for_the_next_Italian_general_election" title="Draft:Opinion polling for the next Italian general election">Draft:Opinion polling for the next Italian general election</a>.</td></tr></tbody></table> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097275936"/><table id="noarticletext" class="plainlinks fmbox fmbox-system" role="presentation"><tbody><tr><td class="mbox-text" style="padding: 0.6em 0.9em;"><style data-mw-deduplicate="TemplateStyles:r1080588920">.mw-parser-output .no-article-text-sister-projects{border:1px solid #a2a9b1;background-color:#f8f9fa;line-height:1.5em;font-size:90%;padding:0.5em}.mw-parser-output .no-article-text-sister-projects li{display:flex;align-items:center}.mw-parser-output .no-article-text-sister-projects li>div:first-child{text-align:center;width:30px;height:30px;margin-right:0.3em;flex:0 0 30px}@media all and (min-width:40em){.mw-parser-output .no-article-text-sister-projects{margin:0.5em 0 0.5em 1em;clear:right;width:20em;float:right}.mw-parser-output .no-article-text-sister-projects .plainlist{margin-left:2em}.mw-parser-output .no-article-text-sister-projects li{height:2.5em}}</style><div class="no-article-text-sister-projects" id="sisterproject">Look for <b>Opinion polling for the next Italian general election</b> on one of Wikipedia's <a href="/wiki/Special:SiteMatrix" title="Special:SiteMatrix">sister projects</a>:
+<div class="plainlist">
+<ul>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/45px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></div>
+  <div><a href="https://en.wiktionary.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wiktionary:Special:Search/Opinion polling for the next Italian general election">Wiktionary</a> (dictionary)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/45px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></div>
+  <div><a href="https://en.wikibooks.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikibooks:Special:Search/Opinion polling for the next Italian general election">Wikibooks</a> (textbooks)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/25px-Wikiquote-logo.svg.png" decoding="async" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/38px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></div>
+  <div><a href="https://en.wikiquote.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikiquote:Special:Search/Opinion polling for the next Italian general election">Wikiquote</a> (quotations)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/29px-Wikisource-logo.svg.png" decoding="async" width="29" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/43px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></div>
+  <div><a href="https://en.wikisource.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikisource:Special:Search/Opinion polling for the next Italian general election">Wikisource</a> (library)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/30px-Wikiversity_logo_2017.svg.png" decoding="async" width="30" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/45px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/60px-Wikiversity_logo_2017.svg.png 2x" data-file-width="626" data-file-height="512" /></div>
+  <div><a href="https://en.wikiversity.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikiversity:Special:Search/Opinion polling for the next Italian general election">Wikiversity</a> (learning resources)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png" decoding="async" width="22" height="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/33px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
+  <div><a href="https://commons.wikimedia.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="commons:Special:Search/Opinion polling for the next Italian general election">Commons</a> (media)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/30px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/45px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></div>
+  <div><a href="https://en.wikivoyage.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikivoyage:Special:Search/Opinion polling for the next Italian general election">Wikivoyage</a> (travel guide)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/30px-Wikinews-logo.svg.png" decoding="async" width="30" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></div>
+  <div><a href="https://en.wikinews.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikinews:Special:Search/Opinion polling for the next Italian general election">Wikinews</a> (news source)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png" decoding="async" width="30" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></div>
+  <div><a href="https://www.wikidata.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikidata:Special:Search/Opinion polling for the next Italian general election">Wikidata</a> (linked database)</div>
+</li>
+<li>
+  <div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/26px-Wikispecies-logo.svg.png" decoding="async" width="26" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/38px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></div>
+  <div><a href="https://species.wikimedia.org/wiki/Special:Search/Opinion_polling_for_the_next_Italian_general_election" class="extiw" title="wikispecies:Special:Search/Opinion polling for the next Italian general election">Wikispecies</a> (species directory)</div>
+</li>
+</ul>
+</div>
+</div><b>Wikipedia does not have an article with this exact name.</b> Please <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?search=Opinion+polling+for+the+next+Italian+general+election&amp;title=Special%3ASearch&amp;fulltext=1">search for <i>Opinion polling for the next Italian general election</i> in Wikipedia</a></span> to check for alternative titles or spellings.
+<ul><li>You need to <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Opinion+polling+for+the+next+Italian+general+election">log in or create an account</a> to create this page.</li>
+<li><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?search=Opinion+polling+for+the+next+Italian+general+election&amp;title=Special%3ASearch&amp;fulltext=1&amp;ns0=1">Search for "<i>Opinion polling for the next Italian general election</i>"</a></span> in existing articles.</li>
+<li><a href="/wiki/Special:WhatLinksHere/Opinion_polling_for_the_next_Italian_general_election" title="Special:WhatLinksHere/Opinion polling for the next Italian general election">Look for pages within Wikipedia that link to this title</a>.</li></ul>
+<div id="noarticletext_technical">
+<hr />
+<p><b>Other reasons this message may be displayed:</b>
+</p>
+<ul><li>If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes or <a href="/wiki/Special:Purge/Opinion_polling_for_the_next_Italian_general_election" title="Special:Purge/Opinion polling for the next Italian general election">try the purge function</a>.</li>
+<li>Titles on Wikipedia are <b><a href="/wiki/Case_sensitivity" title="Case sensitivity">case sensitive</a></b> except for the first character; please <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?search=Opinion+polling+for+the+next+Italian+general+election&amp;title=Special%3ASearch&amp;fulltext=1">check alternative capitalizations</a></span> and consider adding a <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirect</a> here to the correct title.</li>
+<li>If the page has been deleted, <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Log/delete&amp;page=Opinion_polling_for_the_next_Italian_general_election">check the <b>deletion log</b></a>, and see <a href="/wiki/Wikipedia:Why_was_the_page_I_created_deleted%3F" title="Wikipedia:Why was the page I created deleted?">Why was the page I created deleted?</a>.</li></ul>
+</div></td></tr></tbody></table>
+</div>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election">https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election</a>"</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Opinion+polling+for+the+next+Italian+general+election" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Opinion+polling+for+the+next+Italian+general+election" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/w/index.php?title=Opinion_polling_for_the_next_Italian_general_election&amp;action=edit&amp;redlink=1" title="View the content page (page does not exist) [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=Talk:Opinion_polling_for_the_next_Italian_general_election&amp;action=edit&amp;redlink=1" rel="discussion" title="Discuss improvements to the content page (page does not exist) [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views emptyPortlet vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Opinion_polling_for_the_next_Italian_general_election" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Opinion_polling_for_the_next_Italian_general_election&amp;action=info" title="More information about this page"><span>Page information</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Opinion_polling_for_the_next_Italian_general_election&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.146","walltime":"0.187","ppvisitednodes":{"value":461,"limit":1000000},"postexpandincludesize":{"value":27962,"limit":2097152},"templateargumentsize":{"value":1204,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2206,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  158.902      1 Template:No_article_text","100.00%  158.902      1 -total"," 65.77%  104.513      2 Template:Fmbox"," 42.42%   67.413      1 Template:New_page_DYM"," 26.39%   41.933      1 Template:There_is_a_draft_for_this_article"," 12.71%   20.189      1 Template:Is_redirect"," 11.95%   18.996      1 Template:Draft_at/core"," 11.47%   18.233      1 Template:No_article_text/sister_projects","  3.22%    5.115      3 Template:Plain_link","  3.15%    4.999      2 Template:Str_rightc"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":2378490,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20221001122829","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":250,"wgHostname":"mw1364"});});</script>
+</body>
+</html>
+#<Net::HTTPNotFound:0x000055e660b99ca8>
