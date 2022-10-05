@@ -10,6 +10,7 @@ oo·········-····- (17)
 
 Scraping for: be-vlg
 Expected header text “CD&V” at position 7, but found “cd&v”.
+Expected header text “Gov.” at position 14, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Gov.”.
 oo···········-·····- (20)
 
 Scraping for: be-wal
@@ -32,6 +33,7 @@ Wahlkreisprognose | N/A | 2022-09-09 | 2022-09-11 | NE | 1300 | N/A | 0.5 | 25.5
 Civey | N/A | 2022-08-18 | 2022-08-25 | NE | 10014 | N/A | 1 | 27 | 19 | 11 | 7 | 5 | 22 | N/A | N/A | N/A | N/A | 9
 
 Scraping for: dk
+Expected header text “Red” at position 23, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Red”.
 oo-···························································-- (64)
 
 Scraping for: ee
@@ -94,6 +96,7 @@ Expected header text “NN” at position 12, but found “LCP”.
 oo···············································- (50)
 
 [33mScraping for: lv
+Expected header text “Dec.” at position 4, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Dec.”.
 Expected header text “PCL” at position 6, but found “AL”.
 Expected header text “JKP” at position 7, but found “K”.
 Expected header text “LRA” at position 12, but found “AS”.
