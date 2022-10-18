@@ -36,7 +36,6 @@
 | Moldova                            | [md.csv](md.csv) and [md-N.csv](md-N.csv)                                               | [md.png](md.png) and [md-N.png](md-N.png)                                               |
 | Montenegro                         | [me.csv](me.csv) and [me-N.csv](me-N.csv)                                               | [me.png](me.png) and [me-N.png](me-N.png)                                               |
 | Netherlands                        | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)                         | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png)                         |
-| North Macedonia                    | [mk.csv](mk.csv) and [mk-N.csv](mk-N.csv)                                               | [mk.png](mk.png) and [mk-N.png](mk-N.png)                                               |
 | Norway                             | [no.csv](no.csv) and [no-N.csv](no-N.csv)                                               | [no.png](no.png) and [no-N.png](no-N.png)                                               |
 | Poland                             | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv)                         | [pl.png](pl.png), [pl-E.png](pl-E.png) and [pl-N.png](pl-N.png)                         |
 | Portugal                           | [pt.csv](pt.csv), [pt-E.csv](pt-E.csv) and [pt-N.csv](pt-N.csv)                         | [pt.png](pt.png), [pt-E.png](pt-E.png) and [pt-N.png](pt-N.png)                         |
