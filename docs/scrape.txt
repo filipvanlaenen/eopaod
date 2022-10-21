@@ -77,7 +77,8 @@ Expected header text “Coal.” at position 16, but found “.mw-parser-output 
 oo··················- (21)
 
 Scraping for: it
-oo············- (15)
+oo*············- (16)
+Termometro Politico | N/A | 2022-10-18 | 2022-10-20 | NE | 3400 | N/A | 0.1 | 16.3 | 17.8 | 8.7 | 7.0 | 27.6 | N/A | 2.9 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 1.9 | N/A | N/A | 3.7 | 8.2 | N/A | 1.5 | 4.4
 
 Scraping for: lt
 Expected header text “NN” at position 12, but found “LCP”.
