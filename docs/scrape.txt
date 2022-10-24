@@ -22,6 +22,11 @@ Scraping for: de
 oo·/·············/··········/···········/············/····/······/···················/···/······/···········/·············/·······/········/····/······/···············//···············/············/·················/·········/············//·············/·············- (268)
 
 [31mScraping for: dk
-Expected header text “Lead” at position 22, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Red”.
-Expected header text “Red” at position 23, but found “Blue”.
-Expected header text “Blue” at position 24, but found “Lead”.
+Expected header text “P” at position 14, but found “K”.
+Expected header text “K” at position 15, but found “G”.
+Expected header text “E” at position 16, but found “M”.
+Expected header text “G” at position 17, but found “Q”.
+Expected header text “M” at position 18, but found “Æ”.
+Expected header text “Q” at position 19, but found “Others”.
+Expected header text “Æ” at position 20, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Red”.
+Expected header text “Others” at position 21, but found “Blue”.
