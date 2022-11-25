@@ -1,2 +1,2 @@
 Scraping for: at
-oo·*Could not parse period “20”.
+oo*·*Could not parse period “20”.
