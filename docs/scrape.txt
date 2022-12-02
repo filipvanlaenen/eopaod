@@ -25,6 +25,16 @@ INSA and YouGov | N/A | 2022-11-21 | 2022-11-25 | NE | 1501 | N/A | 1 | 27 | 21 
 Kantar | N/A | 2022-11-15 | 2022-11-22 | NE | 1430 | N/A | 1 | 29 | 19 | 13 | 7 | 4 | 19 | N/A | N/A | N/A | N/A | 9
 
 [34mScraping for: dk
+Expected header text “O” at position 6, but found “M”.
+Expected header text “B” at position 7, but found “F”.
+Expected header text “F” at position 8, but found “Æ”.
+Expected header text “Ø” at position 9, but found “I”.
+Expected header text “Å” at position 11, but found “Ø”.
+Expected header text “D” at position 12, but found “B”.
+Expected header text “I” at position 13, but found “D”.
+Expected header text “K” at position 14, but found “Å”.
+Expected header text “M” at position 15, but found “O”.
+Expected header text “Æ” at position 17, but found “K”.
 Expected header text “Lead” at position 19, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Red”.
 Expected header text “Red” at position 20, but found “Blue”.
 Expected header text “Blue” at position 21, but found “Lead”.
