@@ -30,7 +30,7 @@ Expected header text “Æ” at position 17, but found “Q”.
 Expected header text “Others” at position 18, but found “Æ”.
 Expected header text “Lead” at position 19, but found “Others”.
 Expected header text “Red” at position 20, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Red”.
-oooo-············································································-- (83)
+oooo-- (6)
 
 [0m[31mScraping for: ee
 *···*·················· (23)
