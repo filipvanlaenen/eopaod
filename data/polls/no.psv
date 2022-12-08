@@ -1,4 +1,7 @@
 Polling firm    | Commissioners                                          | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | R   | SV   | MDG | Ap   | Sp   | V   | KrF | H    | FrP  | Other
+Kantar          | TV2                                                    | 2022-11-28      | 2022-12-02    | N     | 951         | N/A           | 0.1       | 7.4 | 8.9  | 4.1 | 19.8 | 5.1  | 5.6 | 2.9 | 30.9 | 10.6 | 4.8
+Opinion         | Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå     | 2022-11-29      | 2022-12-05    | N     | 967         | N/A           | 0.1       | 6.7 | 9.5  | 3.2 | 18.1 | 5.4  | 5.8 | 3.4 | 32.7 | 12.2 | 2.9
+Norstat         | NRK and Aftenposten                                    | 2022-11-22      | 2022-11-27    | N     | 954         | N/A           | 0.1       | 7.3 | 8.6  | 3.9 | 17.1 | 5.9  | 4.6 | 3.4 | 30.1 | 12.8 | 6.1
 Ipsos           | Dagbladet                                              | 2022-11-21      | 2022-11-23    | N     | 945         | N/A           | 0.1       | 5.9 | 8.4  | 3.3 | 19.8 | 4.8  | 6.0 | 3.1 | 29.8 | 14.7 | 4.2 
 Norstat         | Vårt Land                                              | 2022-11-15      | 2022-11-19    | N     | 954         | N/A           | 0.1       | 6.3 | 9.2  | 3.3 | 15.4 | 5.0  | 4.9 | 2.8 | 33.6 | 12.7 | 6.8 
 Sentio          | Nettavisen and Amedia                                  | 2022-11-08      | 2022-11-14    | N     | 1000        | N/A           | 0.1       | 4.7 | 10.0 | 4.8 | 16.7 | 4.5  | 4.4 | 4.6 | 31.6 | 13.4 | 5.4
