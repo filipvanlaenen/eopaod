@@ -1,5 +1,28 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Conservative Party,Labour Party,Liberal Democrats,Scottish National Party,Plaid Cymru,Scottish National Party + Plaid Cymru,UK Independence Party,Green Party,Brexit Party,Change UK,Other
+PeoplePolling,GB News,2022-11-30,2022-11-30,National,1145,Provided,Not Available,1%,21%,46%,7%,5%,1%,Not Available,Not Available,9%,7%,Not Available,3%
+YouGov,The Times,2022-11-29,2022-11-30,National,1637,Provided,Not Available,1%,22%,47%,9%,4%,1%,Not Available,Not Available,5%,9%,Not Available,2%
+Deltapoll,,2022-11-24,2022-11-28,National,1062,Provided,Not Available,1%,30%,48%,10%,3%,Not Available,Not Available,1%,3%,4%,Not Available,1%
+Redfield & Wilton Strategies,,2022-11-27,2022-11-27,National,2000,Provided,Not Available,1%,27%,47%,11%,3%,Not Available,Not Available,Not Available,5%,5%,Not Available,1%
+Savanta ComRes,,2022-11-25,2022-11-27,National,2106,Provided,Not Available,1%,26%,47%,10%,4%,1%,Not Available,Not Available,2%,5%,Not Available,4%
+Omnisis,,2022-11-23,2022-11-24,National,1174,Provided,Not Available,1%,25%,49%,9%,3%,1%,Not Available,Not Available,5%,6%,Not Available,2%
+Techne UK,,2022-11-23,2022-11-24,National,1625,Provided,Not Available,1%,27%,50%,9%,4%,Not Available,Not Available,Not Available,4%,Not Available,Not Available,6%
+PeoplePolling,,2022-11-23,2022-11-23,National,1145,Provided,Not Available,1%,24%,44%,8%,5%,1%,Not Available,Not Available,8%,5%,Not Available,5%
+YouGov,The Times,2022-11-22,2022-11-23,National,1672,Provided,Not Available,1%,25%,48%,9%,4%,1%,Not Available,Not Available,5%,5%,Not Available,2%
+Kantar,,2022-11-17,2022-11-21,National,1111,Provided,Not Available,1%,30%,45%,8%,5%,Not Available,Not Available,2%,4%,5%,Not Available,2%
+Redfield & Wilton Strategies,,2022-11-20,2022-11-20,National,2000,Provided,Not Available,1%,28%,49%,9%,4%,Not Available,Not Available,Not Available,4%,5%,Not Available,2%
+Savanta ComRes,Independent,2022-11-18,2022-11-20,National,2106,Provided,Not Available,1%,28%,46%,10%,3%,Not Available,Not Available,Not Available,3%,3%,Not Available,6%
+Deltapoll,The Mail on Sunday,2022-11-17,2022-11-19,National,1604,Provided,Not Available,1%,25%,51%,9%,3%,0%,Not Available,2%,4%,4%,Not Available,2%
+PeoplePolling,GB News,2022-11-18,2022-11-18,National,1331,Provided,Not Available,1%,21%,47%,10%,5%,1%,Not Available,Not Available,7%,6%,Not Available,4%
+Opinium,The Observer,2022-11-17,2022-11-18,National,1484,Provided,Not Available,1%,28%,45%,9%,3%,Not Available,Not Available,Not Available,4%,6%,Not Available,3%
+Omnisis,,2022-11-17,2022-11-18,National,1159,Provided,Not Available,1%,21%,48%,10%,5%,1%,Not Available,Not Available,7%,5%,Not Available,4%
+Techne UK,,2022-11-17,2022-11-17,National,1628,Provided,Not Available,1%,28%,50%,8%,4%,Not Available,Not Available,Not Available,4%,Not Available,Not Available,6%
+Redfield & Wilton Strategies,,2022-11-16,2022-11-17,National,1500,Provided,Not Available,1%,27%,48%,10%,5%,Not Available,Not Available,Not Available,4%,5%,Not Available,1%
+YouGov,The Times,2022-11-15,2022-11-16,National,1682,Provided,Not Available,1%,26%,47%,9%,5%,1%,Not Available,Not Available,5%,6%,Not Available,2%
+Ipsos MORI,Evening Standard,2022-11-09,2022-11-16,National,1004,Provided,Not Available,1%,29%,50%,7%,5%,1%,Not Available,1%,3%,2%,Not Available,1%
+Deltapoll,,2022-11-10,2022-11-14,National,1060,Provided,Not Available,1%,27%,50%,6%,5%,1%,Not Available,2%,6%,3%,Not Available,1%
+Redfield & Wilton Strategies,,2022-11-13,2022-11-13,National,2000,Provided,Not Available,1%,26%,50%,9%,3%,Not Available,Not Available,Not Available,5%,4%,Not Available,2%
 Omnisis,,2022-11-11,2022-11-11,National,1181,Provided,Not Available,1%,26%,49%,7%,3%,0%,Not Available,Not Available,5%,9%,Not Available,1%
+YouGov,The Times,2022-11-09,2022-11-10,National,1708,Provided,Not Available,1%,25%,48%,10%,5%,1%,Not Available,Not Available,5%,5%,Not Available,2%
 Redfield & Wilton Strategies,,2022-11-09,2022-11-10,National,1500,Provided,Not Available,1%,28%,49%,11%,3%,Not Available,Not Available,Not Available,4%,4%,Not Available,1%
 Techne UK,,2022-11-09,2022-11-10,National,1628,Provided,Not Available,1%,30%,49%,8%,4%,Not Available,Not Available,Not Available,4%,Not Available,Not Available,5%
 PeoplePolling,GB News,2022-11-09,2022-11-09,National,1158,Estimated/Assumed,Not Available,1%,21%,42%,9%,5%,Not Available,Not Available,Not Available,9%,8%,Not Available,Not Available
@@ -13,7 +36,9 @@ Survation,,2022-11-01,2022-11-03,National,1017,Provided,Not Available,1%,27%,50%
 YouGov,The Times,2022-11-01,2022-11-02,National,1702,Provided,Not Available,1%,24%,50%,9%,4%,1%,Not Available,Not Available,5%,6%,Not Available,2%
 PeoplePolling,GB News,2022-11-01,2022-11-01,National,1212,Provided,Not Available,1%,21%,47%,10%,5%,1%,Not Available,Not Available,5%,5%,Not Available,4%
 Deltapoll,,2022-10-28,2022-10-31,National,1606,Provided,Not Available,1%,26%,51%,9%,4%,1%,Not Available,2%,4%,3%,Not Available,1%
+YouGov,Ben W. Ansell,2022-10-24,2022-10-31,National,2464,Provided,Not Available,1%,25%,49%,9%,4%,1%,Not Available,Not Available,5%,4%,Not Available,2%
 Redfield & Wilton Strategies,,2022-10-30,2022-10-30,National,2000,Provided,Not Available,1%,27%,50%,9%,4%,Not Available,Not Available,Not Available,5%,3%,Not Available,2%
+Focaldata,Best for Britain,2022-10-28,2022-10-30,National,2000,Provided,Not Available,1%,29%,49%,8%,4%,0%,Not Available,Not Available,4%,4%,Not Available,2%
 Omnisis,,2022-10-27,2022-10-28,National,1383,Provided,Not Available,1%,25%,53%,7%,4%,1%,Not Available,Not Available,4%,6%,Not Available,2%
 Opinium,The Observer,2022-10-26,2022-10-28,National,1499,Provided,Not Available,1%,28%,44%,10%,4%,Not Available,Not Available,Not Available,5%,Not Available,Not Available,8%
 Techne UK,,2022-10-26,2022-10-27,National,1626,Provided,Not Available,1%,26%,50%,10%,4%,Not Available,Not Available,Not Available,5%,Not Available,Not Available,5%
@@ -22,6 +47,7 @@ PeoplePolling,GB News,2022-10-26,2022-10-26,National,1237,Provided,Not Available
 Redfield & Wilton Strategies,,2022-10-25,2022-10-26,National,1500,Provided,Not Available,1%,23%,55%,9%,4%,Not Available,Not Available,Not Available,5%,4%,Not Available,1%
 YouGov,The Times,2022-10-25,2022-10-26,National,1646,Provided,Not Available,1%,23%,51%,9%,5%,1%,Not Available,Not Available,4%,6%,Not Available,1%
 BMG Research,Independent,2022-10-24,2022-10-26,National,1568,Provided,Not Available,1%,26%,49%,10%,4%,Not Available,Not Available,Not Available,5%,5%,Not Available,2%
+Focaldata,Best for Britain,2022-10-20,2022-10-26,National,10000,Provided,Not Available,1%,23%,53%,10%,4%,0%,Not Available,Not Available,4%,4%,Not Available,2%
 Redfield & Wilton Strategies,,2022-10-23,2022-10-23,National,2000,Provided,Not Available,1%,21%,54%,11%,3%,Not Available,Not Available,Not Available,4%,4%,Not Available,2%
 Deltapoll,Sky News,2022-10-22,2022-10-23,National,2012,Provided,Not Available,1%,25%,51%,10%,4%,1%,Not Available,1%,5%,3%,Not Available,1%
 Savanta ComRes,Independent,2022-10-21,2022-10-23,National,1996,Provided,Not Available,1%,25%,51%,8%,4%,Not Available,Not Available,Not Available,2%,Not Available,Not Available,10%
@@ -136,6 +162,7 @@ Savanta ComRes,,2022-07-15,2022-07-17,National,1980,Provided,Not Available,1%,30
 Techne UK,,2022-07-14,2022-07-14,National,1645,Provided,Not Available,1%,31%,40%,13%,4%,Not Available,Not Available,Not Available,6%,Not Available,Not Available,6%
 YouGov,The Times,2022-07-13,2022-07-14,National,1733,Provided,Not Available,1%,29%,40%,13%,4%,1%,Not Available,Not Available,7%,4%,Not Available,2%
 J&L Partners,The Sunday Telegraph,2022-07-12,2022-07-14,National,4434,Provided,Not Available,1%,31%,42%,12%,4%,1%,Not Available,1%,6%,3%,Not Available,1%
+Omnisis,The Byline Times,2022-07-11,2022-07-12,National,1002,Provided,Not Available,1%,25%,46%,8%,5%,1%,Not Available,Not Available,8%,5%,Not Available,2%
 Redfield & Wilton Strategies,,2022-07-10,2022-07-10,National,2000,Provided,Not Available,1%,31%,42%,12%,4%,Not Available,Not Available,Not Available,5%,5%,Not Available,1%
 Savanta ComRes,,2022-07-08,2022-07-10,National,2168,Provided,Not Available,1%,28%,43%,12%,4%,1%,Not Available,Not Available,4%,3%,Not Available,5%
 Opinium,The Observer,2022-07-06,2022-07-08,National,2000,Provided,Not Available,1%,33%,38%,12%,3%,1%,Not Available,Not Available,6%,Not Available,Not Available,7%
@@ -146,6 +173,7 @@ Survation,,2022-07-06,2022-07-06,National,1052,Provided,Not Available,1%,31%,45%
 Redfield & Wilton Strategies,,2022-07-03,2022-07-03,National,2000,Provided,Not Available,1%,35%,41%,11%,3%,0%,Not Available,Not Available,5%,5%,Not Available,1%
 Savanta ComRes,,2022-07-01,2022-07-03,National,2106,Provided,Not Available,1%,32%,41%,11%,4%,1%,Not Available,Not Available,3%,4%,Not Available,5%
 BMG Research,The Independent,2022-07-01,2022-07-01,National,1521,Provided,Not Available,1%,32%,42%,11%,4%,1%,Not Available,Not Available,4%,4%,Not Available,2%
+Omnisis,The Byline Times,2022-07-01,2022-07-01,National,1015,Provided,Not Available,1%,27%,47%,9%,4%,1%,Not Available,Not Available,6%,4%,Not Available,2%
 Techne UK,,2022-06-29,2022-06-30,National,1632,Provided,Not Available,1%,33%,39%,13%,4%,Not Available,Not Available,Not Available,5%,Not Available,Not Available,6%
 Redfield & Wilton Strategies,,2022-06-29,2022-06-30,National,1500,Provided,Not Available,1%,32%,40%,13%,5%,0%,Not Available,Not Available,5%,3%,Not Available,1%
 YouGov,The Times,2022-06-28,2022-06-29,National,1671,Provided,Not Available,1%,33%,36%,13%,5%,1%,Not Available,Not Available,6%,3%,Not Available,2%
