@@ -27,7 +27,8 @@ Expected header text “Opp.” at position 18, but found “.mw-parser-output .
 Expected header text “Red” at position 19, but found “Opp.”.
 Expected header text “Blue” at position 20, but found “Red”.
 Expected header text “Lead” at position 21, but found “Blue”.
-oooo**····-- (12)
+oooo***····-- (13)
+Voxmeter | N/A | 2022-12-19 | 2022-12-22 | NE | 1005 | N/A | 0.1 | 27.6 | 1.9 | 10.5 | 5.7 | 11.4 | 2.6 | 3.2 | 10.6 | 5.9 | N/A | 3.2 | N/A | N/A | N/A | 7.7 | N/A | 8.7 | 0.8
 Megafon | N/A | 2022-12-19 | 2022-12-22 | NE | 1015 | N/A | 0.1 | 25.8 | 2.8 | 12.1 | 6.1 | 11.0 | 2.7 | 3.3 | 10.5 | 4.2 | N/A | 4.3 | N/A | N/A | N/A | 8.7 | N/A | 7.6 | 0.7
 Epinion | N/A | 2022-12-12 | 2022-12-18 | NE | 2166 | N/A | 0.1 | 27.0 | 2.5 | 10.6 | 6.5 | 9.6 | 2.4 | 3.8 | 10.4 | 4.3 | N/A | 3.8 | N/A | N/A | N/A | 9.3 | N/A | 9.4 | 0.2
 
