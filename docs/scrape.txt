@@ -71,7 +71,7 @@ Scraping for: ie
 
 Scraping for: it
 oo*······································································- (74)
-Noto Sondaggi | N/A | 2022-12-19 | 2022-12-21 | NE | N/A | N/A | 0.5 | 18.5 | 16.0 | 9.5 | 8.5 | 28.5 | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | 8.0 | 1.5 | N/A | N/A | 5.0
+Noto Sondaggi | N/A | 2022-12-19 | 2022-12-21 | NE | N/A | N/A | 0.5 | 18.5 | 14.0 | 9.5 | 8.5 | 28.5 | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | 8.0 | 1.5 | N/A | N/A | 5.0
 
 Scraping for: lt
 Expected header text “NN” at position 12, but found “LCP”.
