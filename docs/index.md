@@ -1,5 +1,6 @@
-
 # CSV Files and Charts
+
+See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-20220812/csv.html) for more CSV files from other countries.
 
 | Country                            | CSV Files                                                                               | Charts                                                                                  |
 |------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -29,7 +30,6 @@
 | Latvia                             | [lv.csv](lv.csv), [lv-E.csv](lv-E.csv) and [lv-N.csv](lv-N.csv)                         | [lv.png](lv.png), [lv-E.png](lv-E.png) and [lv-N.png](lv-N.png)                         |
 | Liechtenstein                      |
 | Lithuania                          | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv)                         | [lt.png](lt.png), [lt-E.png](lt-E.png) and [lt-N.png](lt-N.png)                         |
-| Luxembourg                         | [lu.csv](lu.csv), [lu-E.csv](lu-E.csv) and [lu-N.csv](lu-N.csv)                         | [lu.png](lu.png), [lu-E.png](lu-E.png) and [lu-N.png](lu-N.png)                         |
 | Malta                              | [mt.csv](mt.csv), [mt-E.csv](mt-E.csv) and [mt-N.csv](mt-N.csv)                         | [mt.png](mt.png), [mt-E.png](mt-E.png) and [mt-N.png](mt-N.png)                         |
 | Monaco                             |
 | Moldova                            | [md.csv](md.csv) and [md-N.csv](md-N.csv)                                               | [md.png](md.png) and [md-N.png](md-N.png)                                               |
@@ -44,7 +44,6 @@
 | Slovenia                           | [si.csv](si.csv), [si-E.csv](si-E.csv) and [si-N.csv](si-N.csv)                         | [si.png](si.png), [si-E.png](si-E.png) and [si-N.png](si-N.png)                         |
 | Spain                              | [es.csv](es.csv), [es-E.csv](es-E.csv) and [es-N.csv](es-N.csv)                         | [es.png](es.png), [es-E.png](es-E.png) and [es-N.png](es-N.png)                         |
 | Sweden                             | [se.csv](se.csv), [se-E.csv](se-E.csv) and [se-N.csv](se-N.csv)                         | [se.png](se.png), [se-E.png](se-E.png) and [se-N.png](se-N.png)                         |
-| Switzerland                        | [ch.csv](ch.csv) and [ch-N.csv](ch-N.csv)                                               | [ch.png](ch.png) and [ch-N.png](ch-N.png)                                               |
 | Turkey                             | [tr.csv](tr.csv) and [tr-N.csv](tr-N.csv)                                               | [tr.png](tr.png) and [tr-N.png](tr-N.png)                                               |
 | Ukraine                            | [ua.csv](ua.csv) and [ua-N.csv](ua-N.csv)                                               | [ua.png](ua.png) and [ua-N.png](ua-N.png)                                               |
 | United Kingdom: Great Britain      | [gb-gbn.csv](gb-gbn.csv), [gb-gbn-E.csv](gb-gbn-E.csv) and [gb-gbn-N.csv](gb-gbn-N.csv) | [gb-gbn.png](gb-gbn.png), [gb-gbn-E.png](gb-gbn-E.png) and [gb-gbn-N.png](gb-gbn-N.png) |
