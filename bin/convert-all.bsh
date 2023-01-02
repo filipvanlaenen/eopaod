@@ -14,7 +14,6 @@ convert_country be-bru
 convert_country be-vlg
 convert_country be-wal
 convert_country bg
-convert_country ch
 convert_country cy
 convert_country cz
 convert_country de
@@ -33,7 +32,6 @@ convert_country ie
 convert_country is
 convert_country it
 convert_country lt
-convert_country lu
 convert_country lv
 convert_country md
 convert_country me
