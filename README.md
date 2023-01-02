@@ -2,6 +2,8 @@
 
 This GitHub repository provides European opinion polls as open data.
 
+*Note: The poll files are being migrated to [the APOPOD repository](https://github.com/filipvanlaenen/apopod).*
+
 Read the article
 [How “Simple Things” Quickly Become Complicated in Software Development](https://medium.com/grensesnittet/how-simple-things-quickly-become-complicated-in-software-development-9cf52233226d)
 to get some background information about the challenges to store opinion polls
