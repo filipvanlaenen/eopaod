@@ -5,11 +5,9 @@ See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-
 | Country                            | CSV Files                                                                               | Charts                                                                                  |
 |------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Albania                            | [al.csv](al.csv) and [al-N.csv](al-N.csv)                                               | [al.png](al.png) and [al-N.png](al-N.png)                                               |
-| Andorra                            |
 | Austria                            | [at.csv](at.csv), [at-E.csv](at-E.csv) and [at-N.csv](at-N.csv)                         | [at.png](at.png), [at-E.png](at-E.png) and [at-N.png](at-N.png)                         |
 | Belgium: Brussels                  | [be-bru.csv](be-bru.csv), [be-bru-E.csv](be-bru-E.csv) and [be-bru-N.csv](be-bru-N.csv) | [be-bru.png](be-bru.png), [be-bru-E.png](be-bru-E.png) and [be-bru-N.png](be-bru-N.png) |
 | Belgium: Flanders                  | [be-vlg.csv](be-vlg.csv), [be-vlg-E.csv](be-vlg-E.csv) and [be-vlg-N.csv](be-vlg-N.csv) | [be-vlg.png](be-vlg.png), [be-vlg-E.png](be-vlg-E.png) and [be-vlg-N.png](be-vlg-N.png) |
-| Belgium: German-speaking community | No polls registered                                                                     | No polls registered                                                                     |
 | Belgium: Wallonia                  | [be-wal.csv](be-wal.csv), [be-wal-E.csv](be-wal-E.csv) and [be-wal-N.csv](be-wal-N.csv) | [be-wal.png](be-wal.png), [be-wal-E.png](be-wal-E.png) and [be-wal-N.png](be-wal-N.png) |
 | Bulgaria                           | [bg.csv](bg.csv), [bg-E.csv](bg-E.csv) and [bg-N.csv](bg-N.csv)                         | [bg.png](bg.png), [bg-E.png](bg-E.png) and [bg-N.png](bg-N.png)                         |
 | Croatia                            | [hr.csv](hr.csv), [hr-E.csv](hr-E.csv) and [hr-N.csv](hr-N.csv)                         | [hr.png](hr.png), [hr-E.png](hr-E.png) and [hr-N.png](hr-N.png)                         |
@@ -28,10 +26,8 @@ See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-
 | Italy                              | [it.csv](it.csv), [it-E.csv](it-E.csv) and [it-N.csv](it-N.csv)                         | [it.png](it.png), [it-E.png](it-E.png) and [it-N.png](it-N.png)                         |
 | Kosovo                             | [xk.csv](xk.csv) and [xk-N.csv](xk-N.csv)                                               | [xk.png](xk.png) and [xk-N.png](xk-N.png)                                               |
 | Latvia                             | [lv.csv](lv.csv), [lv-E.csv](lv-E.csv) and [lv-N.csv](lv-N.csv)                         | [lv.png](lv.png), [lv-E.png](lv-E.png) and [lv-N.png](lv-N.png)                         |
-| Liechtenstein                      |
 | Lithuania                          | [lt.csv](lt.csv), [lt-E.csv](lt-E.csv) and [lt-N.csv](lt-N.csv)                         | [lt.png](lt.png), [lt-E.png](lt-E.png) and [lt-N.png](lt-N.png)                         |
 | Malta                              | [mt.csv](mt.csv), [mt-E.csv](mt-E.csv) and [mt-N.csv](mt-N.csv)                         | [mt.png](mt.png), [mt-E.png](mt-E.png) and [mt-N.png](mt-N.png)                         |
-| Monaco                             |
 | Moldova                            | [md.csv](md.csv) and [md-N.csv](md-N.csv)                                               | [md.png](md.png) and [md-N.png](md-N.png)                                               |
 | Montenegro                         | [me.csv](me.csv) and [me-N.csv](me-N.csv)                                               | [me.png](me.png) and [me-N.png](me-N.png)                                               |
 | Netherlands                        | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)                         | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png)                         |
