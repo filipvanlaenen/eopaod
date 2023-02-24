@@ -1,11 +1,11 @@
 Polling Firm,Commissioners,Fieldwork Start,Fieldwork End,Scope,Sample Size,Sample Size Qualification,Participation,Precision,Rødt,Sosialistisk Venstreparti,Miljøpartiet De Grønne,Arbeiderpartiet,Senterpartiet,Venstre,Kristelig Folkeparti,Høyre,Fremskrittspartiet,Other
 Norstat,NRK and Aftenposten,2023-01-25,2023-01-31,National,986,Provided,Not Available,0.1%,6.0%,8.4%,4.0%,17.5%,5.4%,4.9%,3.5%,31.0%,14.5%,4.8%
-Opinion,ABC Nyheter and Altinget,2023-01-24,2023-01-27,National,1003,Provided,Not Available,0.1%,6.4%,8.0%,4.3%,17.4%,5.5%,5.0%,4.0%,31.9%,12.6%,4.9%
+Opinion Perduco,ABC Nyheter and Altinget,2023-01-24,2023-01-27,National,1003,Provided,Not Available,0.1%,6.4%,8.0%,4.3%,17.4%,5.5%,5.0%,4.0%,31.9%,12.6%,4.9%
 InFact,Nettavisen,2023-01-11,2023-01-11,National,1044,Provided,Not Available,0.1%,6.8%,7.8%,3.4%,20.5%,6.0%,3.9%,4.2%,29.1%,13.1%,5.2%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2023-01-03,2023-01-09,National,1000,Provided,Not Available,0.1%,6.2%,7.6%,2.6%,18.5%,7.1%,3.4%,3.6%,33.5%,12.4%,5.1%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2023-01-03,2023-01-09,National,1000,Provided,Not Available,0.1%,6.2%,7.6%,2.6%,18.5%,7.1%,3.4%,3.6%,33.5%,12.4%,5.1%
 Respons Analyse,VG,2023-01-01,2023-01-12,National,1001,Provided,Not Available,0.1%,5.8%,8.7%,3.9%,19.2%,6.9%,4.9%,2.8%,30.1%,13.2%,4.5%
-Opinion,ABC Nyheter,2023-01-03,2023-01-04,National,967,Provided,Not Available,0.1%,6.9%,9.5%,4.1%,17.7%,6.3%,4.0%,2.4%,31.0%,13.2%,4.9%
-Kantar,TV2,2023-01-03,2023-01-06,National,990,Provided,Not Available,0.1%,6.3%,8.7%,3.2%,19.5%,6.2%,4.6%,3.0%,30.4%,13.9%,4.2%
+Opinion Perduco,ABC Nyheter,2023-01-03,2023-01-04,National,967,Provided,Not Available,0.1%,6.9%,9.5%,4.1%,17.7%,6.3%,4.0%,2.4%,31.0%,13.2%,4.9%
+Kantar TNS,TV2,2023-01-03,2023-01-06,National,990,Provided,Not Available,0.1%,6.3%,8.7%,3.2%,19.5%,6.2%,4.6%,3.0%,30.4%,13.9%,4.2%
 Norfakta,Nationen and Klassekampen,2023-01-03,2023-01-04,National,1006,Provided,Not Available,0.1%,6.5%,9.4%,4.2%,19.1%,4.5%,4.0%,3.9%,31.3%,12.5%,4.6%
 Norstat,NRK and Aftenposten,2022-12-27,2023-01-02,National,955,Provided,Not Available,0.1%,5.4%,8.4%,4.0%,19.4%,5.9%,5.1%,2.6%,30.9%,11.9%,6.4%
 Norstat,Vårt Land,2022-12-13,2022-12-17,National,947,Provided,Not Available,0.1%,7.7%,8.8%,4.1%,14.6%,3.8%,4.2%,3.1%,35.6%,14.2%,3.9%
@@ -13,46 +13,46 @@ Ipsos,Dagbladet,2022-12-12,2022-12-14,National,889,Provided,Not Available,0.1%,6
 Sentio,Nettavisen and Amedia,2022-12-06,2022-12-10,National,1000,Provided,Not Available,0.1%,7.5%,9.3%,4.1%,17.7%,5.9%,4.6%,2.8%,32.8%,10.2%,5.1%
 Respons Analyse,VG,2022-12-07,2022-12-12,National,1001,Provided,Not Available,0.1%,7.2%,9.3%,2.6%,18.2%,4.5%,3.6%,3.7%,32.8%,13.4%,4.7%
 Norfakta,Nationen and Klassekampen,2022-12-06,2022-12-07,National,1007,Provided,Not Available,0.1%,7.2%,9.5%,3.6%,16.3%,7.1%,4.5%,3.3%,32.8%,11.6%,4.1%
-Kantar,TV2,2022-11-28,2022-12-02,National,951,Provided,Not Available,0.1%,7.4%,8.9%,4.1%,19.8%,5.1%,5.6%,2.9%,30.9%,10.6%,4.8%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-11-29,2022-12-05,National,967,Provided,Not Available,0.1%,6.7%,9.5%,3.2%,18.1%,5.4%,5.8%,3.4%,32.7%,12.2%,2.9%
+Kantar TNS,TV2,2022-11-28,2022-12-02,National,951,Provided,Not Available,0.1%,7.4%,8.9%,4.1%,19.8%,5.1%,5.6%,2.9%,30.9%,10.6%,4.8%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-11-29,2022-12-05,National,967,Provided,Not Available,0.1%,6.7%,9.5%,3.2%,18.1%,5.4%,5.8%,3.4%,32.7%,12.2%,2.9%
 Norstat,NRK and Aftenposten,2022-11-22,2022-11-27,National,954,Provided,Not Available,0.1%,7.3%,8.6%,3.9%,17.1%,5.9%,4.6%,3.4%,30.1%,12.8%,6.1%
 Ipsos,Dagbladet,2022-11-21,2022-11-23,National,945,Provided,Not Available,0.1%,5.9%,8.4%,3.3%,19.8%,4.8%,6.0%,3.1%,29.8%,14.7%,4.2%
 Norstat,Vårt Land,2022-11-15,2022-11-19,National,954,Provided,Not Available,0.1%,6.3%,9.2%,3.3%,15.4%,5.0%,4.9%,2.8%,33.6%,12.7%,6.8%
 Sentio,Nettavisen and Amedia,2022-11-08,2022-11-14,National,1000,Provided,Not Available,0.1%,4.7%,10.0%,4.8%,16.7%,4.5%,4.4%,4.6%,31.6%,13.4%,5.4%
 Respons Analyse,VG,2022-11-05,2022-11-10,National,1000,Provided,Not Available,0.1%,6.1%,8.5%,3.9%,18.5%,6.6%,5.0%,3.3%,32.0%,11.9%,4.2%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-11-01,2022-11-07,National,967,Provided,68.0%,0.1%,7.5%,8.7%,3.4%,16.9%,5.3%,3.1%,4.5%,32.3%,13.8%,4.4%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-11-01,2022-11-07,National,967,Provided,68.0%,0.1%,7.5%,8.7%,3.4%,16.9%,5.3%,3.1%,4.5%,32.3%,13.8%,4.4%
 Norfakta,Nationen and Klassekampen,2022-11-01,2022-11-04,National,1011,Provided,Not Available,0.1%,6.9%,7.3%,4.0%,20.5%,6.0%,5.3%,3.3%,29.4%,13.1%,4.2%
-Kantar,TV2,2022-10-24,2022-10-31,National,1178,Provided,Not Available,0.1%,7.9%,8.6%,3.8%,19.1%,6.2%,4.6%,3.7%,28.6%,12.1%,5.5%
+Kantar TNS,TV2,2022-10-24,2022-10-31,National,1178,Provided,Not Available,0.1%,7.9%,8.6%,3.8%,19.1%,6.2%,4.6%,3.7%,28.6%,12.1%,5.5%
 Norstat,NRK and Aftenposten,2022-10-25,2022-10-30,National,945,Provided,Not Available,0.1%,5.9%,8.4%,3.7%,18.2%,4.3%,3.4%,3.6%,32.4%,14.7%,5.4%
 Norstat,Vårt Land,2022-10-18,2022-10-23,National,953,Provided,Not Available,0.1%,6.7%,8.9%,4.4%,18.0%,6.0%,5.4%,4.0%,28.9%,13.2%,4.8%
 Sentio,Nettavisen,2022-10-11,2022-10-17,National,1000,Provided,Not Available,0.1%,7.1%,9.3%,3.8%,18.1%,5.2%,4.0%,3.7%,29.3%,13.7%,6.0%
 Norfakta,Nationen and Klassekampen,2022-10-11,2022-10-12,National,1000,Provided,Not Available,0.1%,5.4%,10.1%,3.4%,20.5%,5.9%,5.0%,3.6%,30.5%,12.3%,3.4%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-10-04,2022-10-10,National,968,Provided,Not Available,0.1%,5.4%,8.2%,2.9%,22.6%,5.6%,3.4%,3.4%,30.2%,13.6%,4.7%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-10-04,2022-10-10,National,968,Provided,Not Available,0.1%,5.4%,8.2%,2.9%,22.6%,5.6%,3.4%,3.4%,30.2%,13.6%,4.7%
 Respons Analyse,VG,2022-10-05,2022-10-10,National,1000,Provided,Not Available,0.1%,7.0%,9.8%,3.7%,20.0%,5.5%,4.1%,2.9%,30.0%,13.1%,3.9%
 Norstat,NRK and Aftenposten,2022-09-27,2022-10-02,National,960,Provided,Not Available,0.1%,7.0%,9.1%,3.1%,19.9%,6.2%,3.4%,3.4%,29.2%,14.4%,4.3%
 Norstat,Vårt Land,2022-09-20,2022-09-25,National,950,Provided,Not Available,0.1%,7.6%,7.6%,2.8%,20.5%,3.9%,4.3%,4.4%,28.2%,15.5%,4.4%
 Sentio,Nettavisen,2022-09-13,2022-09-19,National,1000,Provided,Not Available,0.1%,7.5%,7.4%,4.0%,19.1%,5.4%,5.0%,4.3%,26.6%,16.7%,4.0%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-09-06,2022-09-12,National,968,Provided,Not Available,0.1%,8.6%,9.5%,3.0%,21.5%,6.3%,4.5%,2.7%,28.3%,11.0%,4.6%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-09-06,2022-09-12,National,968,Provided,Not Available,0.1%,8.6%,9.5%,3.0%,21.5%,6.3%,4.5%,2.7%,28.3%,11.0%,4.6%
 Norfakta,Nationen and Klassekampen,2022-09-05,2022-09-07,National,1003,Provided,Not Available,0.1%,6.0%,9.2%,4.0%,19.2%,6.5%,4.6%,3.7%,28.7%,14.1%,4.0%
 Norstat,NRK and Aftenposten,2022-08-30,2022-09-04,National,940,Provided,Not Available,0.1%,6.8%,7.4%,3.4%,19.6%,6.4%,5.3%,3.1%,32.4%,12.6%,3.0%
-Kantar,TV2,2022-08-29,2022-09-02,National,976,Provided,Not Available,0.1%,8.2%,8.4%,3.7%,20.8%,4.6%,4.5%,3.5%,27.8%,14.1%,4.4%
+Kantar TNS,TV2,2022-08-29,2022-09-02,National,976,Provided,Not Available,0.1%,8.2%,8.4%,3.7%,20.8%,4.6%,4.5%,3.5%,27.8%,14.1%,4.4%
 Norstat,Vårt Land,2022-08-23,2022-08-29,National,940,Provided,Not Available,0.1%,8.5%,7.3%,3.1%,21.5%,5.7%,4.2%,3.4%,29.3%,13.5%,3.5%
 Sentio,Nettavisen and Amedia,2022-08-16,2022-08-22,National,1000,Provided,Not Available,0.1%,5.8%,8.7%,3.8%,20.2%,6.9%,3.8%,4.9%,28.9%,13.4%,3.5%
 Respons Analyse,VG,2022-08-10,2022-08-15,National,1000,Provided,Not Available,0.1%,7.5%,9.5%,3.8%,19.9%,6.6%,4.1%,3.9%,28.9%,12.5%,3.5%
 Norstat,NRK and Aftenposten,2022-08-09,2022-08-14,National,960,Provided,Not Available,0.1%,5.8%,8.9%,3.7%,19.4%,5.9%,4.6%,3.8%,30.0%,14.4%,3.5%
-Kantar,TV2,2022-08-01,2022-08-05,National,981,Provided,75.1%,0.1%,7.0%,9.9%,3.6%,20.4%,6.8%,4.9%,3.3%,27.2%,13.2%,3.7%
+Kantar TNS,TV2,2022-08-01,2022-08-05,National,981,Provided,75.1%,0.1%,7.0%,9.9%,3.6%,20.4%,6.8%,4.9%,3.3%,27.2%,13.2%,3.7%
 Norfakta,Nationen and Klassekampen,2022-07-05,2022-07-06,National,1005,Provided,Not Available,0.1%,5.4%,10.0%,3.6%,21.2%,5.6%,4.0%,3.2%,28.9%,14.0%,4.1%
 Norstat,Vårt Land,2022-06-13,2022-06-20,National,951,Provided,Not Available,0.1%,5.3%,8.5%,3.8%,20.5%,7.3%,3.5%,2.6%,29.1%,15.8%,3.6%
 Sentio,Nettavisen and Amedia,2022-06-07,2022-06-13,National,1000,Provided,Not Available,0.1%,5.7%,9.5%,4.3%,22.2%,7.0%,4.6%,3.5%,24.6%,14.6%,3.9%
 Respons Analyse,VG,2022-06-04,2022-06-09,National,1000,Provided,Not Available,0.1%,6.8%,9.0%,4.0%,20.2%,7.4%,4.9%,3.9%,26.8%,14.0%,3.0%
 Norfakta,Nationen and Klassekampen,2022-06-07,2022-06-08,National,1001,Provided,Not Available,0.1%,5.6%,8.3%,3.0%,23.0%,6.9%,5.3%,3.8%,27.8%,13.1%,3.2%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-05-31,2022-06-05,National,965,Provided,Not Available,0.1%,5.4%,9.3%,2.9%,19.7%,9.2%,4.2%,2.8%,28.0%,14.1%,4.5%
-Kantar,TV2,2022-05-30,2022-06-03,National,979,Provided,Not Available,0.1%,7.0%,10.0%,2.7%,21.8%,7.7%,5.1%,2.0%,26.3%,13.9%,3.5%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-05-31,2022-06-05,National,965,Provided,Not Available,0.1%,5.4%,9.3%,2.9%,19.7%,9.2%,4.2%,2.8%,28.0%,14.1%,4.5%
+Kantar TNS,TV2,2022-05-30,2022-06-03,National,979,Provided,Not Available,0.1%,7.0%,10.0%,2.7%,21.8%,7.7%,5.1%,2.0%,26.3%,13.9%,3.5%
 Ipsos,Dagbladet,2022-05-24,2022-05-30,National,Not Available,Not Available,Not Available,0.1%,6.9%,8.4%,4.1%,21.6%,7.4%,6.1%,3.6%,25.7%,13.0%,3.1%
 Norstat,NRK and Aftenposten,2022-05-24,2022-05-30,National,949,Provided,Not Available,0.1%,5.4%,9.7%,3.6%,21.8%,6.3%,5.4%,3.2%,26.7%,13.0%,5.0%
 Norstat,Vårt Land,2022-05-16,2022-05-23,National,950,Provided,77.0%,0.1%,6.5%,7.5%,3.0%,23.9%,6.1%,4.7%,4.7%,26.8%,12.8%,4.3%
 Sentio,Nettavisen and Amedia,2022-05-09,2022-05-15,National,1000,Provided,Not Available,0.1%,6.0%,7.1%,3.2%,21.3%,8.4%,4.9%,3.5%,28.8%,13.4%,3.3%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-05-03,2022-05-09,National,967,Provided,71.0%,0.1%,6.8%,7.9%,2.6%,22.8%,6.9%,3.8%,4.4%,27.0%,13.9%,3.8%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-05-03,2022-05-09,National,967,Provided,71.0%,0.1%,6.8%,7.9%,2.6%,22.8%,6.9%,3.8%,4.4%,27.0%,13.9%,3.8%
 Respons Analyse,VG,2022-05-04,2022-05-09,National,1000,Provided,Not Available,0.1%,5.7%,8.4%,3.3%,22.1%,6.4%,4.4%,3.8%,29.0%,12.8%,4.1%
 Norfakta,Nationen and Klassekampen,2022-05-03,2022-05-04,National,1000,Provided,Not Available,0.1%,6.0%,7.9%,3.5%,23.1%,8.0%,4.9%,3.6%,26.4%,13.0%,3.6%
 Norstat,NRK and Aftenposten,2022-04-26,2022-05-02,National,963,Provided,77.0%,0.1%,6.7%,7.6%,3.3%,24.8%,6.6%,5.0%,3.0%,26.5%,13.0%,3.6%
@@ -61,30 +61,31 @@ Norstat,Vårt Land,2022-04-19,2022-04-25,National,952,Provided,Not Available,0.1
 Sentio,Nettavisen and Amedia,2022-04-05,2022-04-10,National,1000,Provided,Not Available,0.1%,5.7%,6.0%,3.9%,24.5%,8.6%,5.7%,3.2%,27.6%,11.2%,3.6%
 Norfakta,Nationen and Klassekampen,2022-04-05,2022-04-06,National,1001,Provided,79.0%,0.1%,7.2%,8.7%,3.3%,23.8%,6.1%,4.4%,2.5%,29.6%,11.3%,3.1%
 Respons Analyse,VG,2022-04-04,2022-04-06,National,1003,Provided,Not Available,0.1%,6.2%,7.8%,2.9%,23.1%,8.0%,3.7%,4.0%,27.6%,13.3%,3.4%
-Kantar,TV2,2022-03-28,2022-04-01,National,982,Provided,Not Available,0.1%,5.0%,8.3%,3.4%,23.2%,6.6%,4.3%,3.3%,27.7%,13.9%,4.4%
+Kantar TNS,TV2,2022-03-28,2022-04-01,National,982,Provided,Not Available,0.1%,5.0%,8.3%,3.4%,23.2%,6.6%,4.3%,3.3%,27.7%,13.9%,4.4%
 Norstat,NRK and Aftenposten,2022-03-22,2022-03-28,National,945,Provided,Not Available,0.1%,6.9%,7.8%,4.2%,20.9%,8.5%,4.1%,4.6%,27.3%,12.5%,3.2%
 Ipsos,Dagbladet,2022-03-21,2022-03-23,National,938,Provided,79.0%,0.1%,6.6%,7.1%,2.6%,24.0%,7.6%,4.3%,3.1%,26.4%,13.2%,5.1%
 Norstat,Vårt Land,2022-03-15,2022-03-20,National,958,Provided,Not Available,0.1%,8.5%,5.9%,4.2%,22.6%,6.6%,3.9%,3.3%,28.6%,11.2%,5.2%
 Respons Analyse,VG,2022-03-08,2022-03-14,National,1000,Provided,Not Available,0.1%,6.5%,7.4%,4.2%,23.0%,8.0%,4.9%,3.6%,25.5%,13.3%,3.6%
 Sentio,Nettavisen,2022-03-08,2022-03-14,National,1000,Provided,75.0%,0.1%,7.2%,8.7%,2.9%,22.5%,9.2%,4.9%,2.5%,27.5%,10.4%,4.1%
-Opinion,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-03-02,2022-03-07,National,965,Provided,72.0%,0.1%,8.0%,6.5%,4.4%,23.6%,7.5%,4.3%,3.8%,26.9%,11.6%,3.4%
+Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-03-02,2022-03-07,National,965,Provided,72.0%,0.1%,8.0%,6.5%,4.4%,23.6%,7.5%,4.3%,3.8%,26.9%,11.6%,3.4%
 Norfakta,Nationen and Klassekampen,2022-03-01,2022-03-02,National,1007,Provided,80.0%,0.1%,7.3%,8.7%,4.3%,21.8%,9.7%,5.1%,3.1%,25.8%,11.1%,3.1%
 Norstat,NRK and Aftenposten,2022-02-22,2022-02-28,National,956,Provided,77.0%,0.1%,8.9%,7.9%,3.4%,22.6%,9.1%,4.3%,4.2%,24.9%,10.9%,4.0%
 Ipsos,Dagbladet,2022-02-21,2022-02-23,National,989,Provided,74.0%,0.1%,8.1%,8.1%,2.8%,25.5%,8.0%,4.7%,2.7%,26.8%,10.5%,2.9%
-Kantar,TV2,2022-02-22,2022-02-28,National,1303,Provided,Not Available,0.1%,7.8%,9.5%,3.6%,21.7%,8.4%,5.1%,3.9%,26.4%,10.0%,3.6%
+Kantar TNS,TV2,2022-02-22,2022-02-28,National,1303,Provided,Not Available,0.1%,7.8%,9.5%,3.6%,21.7%,8.4%,5.1%,3.9%,26.4%,10.0%,3.6%
 Norstat,Vårt Land,2022-02-15,2022-02-20,National,952,Provided,Not Available,0.1%,10.5%,8.3%,3.0%,22.8%,7.5%,4.6%,2.4%,25.4%,11.3%,4.3%
 Respons Analyse,VG,2022-02-09,2022-02-14,National,1000,Provided,Not Available,0.1%,9.4%,8.9%,3.3%,22.0%,8.2%,3.5%,3.0%,25.3%,12.5%,3.9%
 Sentio,Nettavisen and Amedia,2022-02-08,2022-02-12,National,Not Available,Not Available,99.9%,0.1%,8.1%,10.6%,3.3%,21.9%,7.9%,4.9%,3.1%,24.9%,11.4%,3.8%
 Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2022-02-01,2022-01-07,National,968,Provided,72.0%,0.1%,10.3%,8.2%,3.3%,21.9%,9.5%,4.4%,3.6%,25.8%,9.8%,3.1%
 Norfakta,Nationen and Klassekampen,2022-02-01,2022-01-02,National,1000,Provided,82.0%,0.1%,8.4%,8.5%,2.6%,23.4%,7.2%,5.0%,3.7%,25.8%,12.2%,3.3%
 Norstat,NRK and Aftenposten,2022-01-25,2022-01-31,National,953,Provided,Not Available,0.1%,8.3%,10.4%,3.3%,20.0%,8.7%,3.8%,3.6%,26.2%,12.2%,3.5%
-Kantar,TV2,2022-01-25,2022-01-31,National,1000,Provided,82.0%,0.1%,8.4%,9.7%,3.0%,21.2%,9.0%,4.8%,3.3%,25.4%,11.4%,3.8%
+Kantar TNS,TV2,2022-01-25,2022-01-31,National,1000,Provided,82.0%,0.1%,8.4%,9.7%,3.0%,21.2%,9.0%,4.8%,3.3%,25.4%,11.4%,3.8%
 Ipsos,Dagbladet,2022-01-24,2022-01-26,National,Not Available,Not Available,Not Available,0.1%,6.1%,9.9%,4.2%,22.4%,10.2%,3.4%,3.3%,24.3%,12.6%,3.6%
 Norstat,Vårt Land,2022-01-18,2022-01-24,National,969,Provided,Not Available,0.1%,9.5%,8.5%,3.5%,20.8%,8.8%,3.7%,3.1%,27.1%,11.2%,3.8%
 Sentio,Nettavisen and Amedia,2022-01-10,2022-01-15,National,1000,Provided,Not Available,0.1%,5.8%,9.2%,3.8%,22.3%,9.3%,4.1%,5.0%,25.6%,12.0%,3.0%
-Kantar,TV2,2022-01-03,2022-01-07,National,972,Provided,Not Available,0.1%,6.2%,9.1%,4.3%,21.7%,10.7%,5.1%,2.9%,23.7%,11.4%,4.9%
+Kantar TNS,TV2,2022-01-03,2022-01-07,National,972,Provided,Not Available,0.1%,6.2%,9.1%,4.3%,21.7%,10.7%,5.1%,2.9%,23.7%,11.4%,4.9%
 Norfakta,Nationen and Klassekampen,2022-01-04,2022-01-05,National,1001,Provided,Not Available,0.1%,7.1%,8.4%,3.6%,24.3%,9.9%,4.4%,3.7%,24.9%,10.9%,2.8%
 Norstat,Aftenposten and NRK,2021-12-27,2022-01-03,National,943,Provided,Not Available,0.1%,6.2%,9.2%,3.3%,21.1%,9.2%,4.9%,3.2%,24.7%,13.9%,4.3%
+InFact,Nettavisen,2021-12-20,2021-12-20,National,1015,Provided,Not Available,0.1%,6.1%,9.1%,3.4%,21.6%,9.9%,4.7%,3.2%,25.4%,13.8%,2.8%
 Norstat,Vårt Land,2021-12-14,2021-12-20,National,957,Provided,Not Available,0.1%,7.6%,9.3%,3.7%,22.7%,10.1%,5.3%,3.6%,23.3%,11.0%,3.4%
 Ipsos,Dagbladet,2021-12-13,2021-12-15,National,947,Provided,84.0%,0.1%,5.8%,9.4%,2.8%,20.7%,10.4%,6.3%,2.9%,24.8%,12.8%,4.1%
 Respons Analyse,VG,2021-12-08,2021-12-13,National,1001,Provided,Not Available,0.1%,6.1%,10.4%,3.5%,22.6%,10.0%,4.0%,3.4%,26.3%,11.4%,2.3%
@@ -98,7 +99,7 @@ Norstat,Vårt Land,2021-11-16,2021-11-22,National,964,Provided,Not Available,0.1
 Sentio,Nettavisen and Amedia,2021-11-09,2021-11-14,National,1000,Provided,Not Available,0.1%,5.1%,8.5%,4.1%,27.3%,11.4%,5.0%,3.9%,20.7%,11.1%,2.9%
 Respons Analyse,VG,2021-11-10,2021-11-15,National,1001,Provided,Not Available,0.1%,4.8%,8.5%,4.1%,25.5%,13.1%,5.2%,2.8%,21.7%,11.0%,3.3%
 Opinion Perduco,"Dagsavisen, FriFagbevegelse and Avisens Nyhetsbyrå",2021-11-02,2021-11-08,National,962,Provided,Not Available,0.1%,5.3%,8.8%,3.0%,26.0%,13.3%,4.8%,3.6%,20.9%,12.0%,2.2%
-Norfakta,Nationen and Klassekampen,2021-11-02,2021-12-03,National,Not Available,Not Available,Not Available,0.1%,4.6%,8.2%,4.1%,27.9%,12.7%,4.7%,3.3%,21.7%,10.0%,2.8%
+Norfakta,Nationen and Klassekampen,2021-11-02,2021-11-03,National,Not Available,Not Available,Not Available,0.1%,4.6%,8.2%,4.1%,27.9%,12.7%,4.7%,3.3%,21.7%,10.0%,2.8%
 Kantar TNS,TV2,2021-10-27,2021-11-02,National,Not Available,Not Available,Not Available,0.1%,5.3%,8.6%,3.7%,26.8%,12.0%,4.3%,3.2%,21.4%,11.5%,3.2%
 Ipsos,Dagbladet,2021-10-31,2021-10-31,National,Not Available,Not Available,Not Available,0.1%,4.9%,8.3%,3.4%,25.7%,15.0%,4.1%,4.0%,20.7%,9.8%,4.0%
 Norstat,NRK and Aftenposten,2021-10-26,2021-10-31,National,954,Provided,Not Available,0.1%,5.9%,8.2%,4.2%,26.8%,14.0%,4.4%,3.0%,21.2%,9.8%,2.5%
