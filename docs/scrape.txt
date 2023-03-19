@@ -32,7 +32,8 @@ undefined method `[]' for nil:NilClass
 ["/home/filip/dev/sapor/polls/deprecated_scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:286:in `<main>'"]
 
 [0mScraping for: es
-········································· (41)
+*········································· (42)
+Simple Lógica | elDiario.es | 2023-03-19 | 2023-03-19 | NE | N/A | 66.1 | 0.1 | 28.8 | 27.0 | 12.4 | 2.1 | N/A | N/A | N/A | N/A | N/A | N/A | 15.3 | 2.0 | N/A | N/A | N/A | N/A | N/A
 
 [31mScraping for: fi
 ····························································································· (93)
