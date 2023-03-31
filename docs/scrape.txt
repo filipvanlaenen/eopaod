@@ -3,14 +3,17 @@ oo*···········- (15)
 Market | N/A | 2023-03-27 | 2023-03-29 | NE | 1000 | N/A | 1 | 21 | 21 | 29 | 13 | N/A | 10 | N/A | N/A | N/A | N/A | 6
 
 Scraping for: be-bru
-oo···········-····- (19)
+oo*···········-····- (20)
+Ipsos | VTM / Het Laatste Nieuws / RTL / Le Soir | 2023-03-20 | 2023-03-27 | NE | 600 | N/A | 0.1 | 16.8 | 19.8 | 10.2 | 15.7 | 5.1 | 19.4 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 
 Scraping for: be-vlg
 Expected header text “Gov.” at position 14, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Gov.”.
-oo·············-·····- (22)
+oo*·············-·····- (23)
+Ipsos | VTM / Het Laatste Nieuws / RTL / Le Soir | 2023-03-20 | 2023-03-27 | NE | 1000 | N/A | 0.1 | 21.6 | 11.8 | 9.2 | 15.5 | 7.4 | 25.0 | 8.0 | 1.5
 
 Scraping for: be-wal
-oo···········-····- (19)
+oo*···········-····- (20)
+Ipsos | VTM / Het Laatste Nieuws / RTL / Le Soir | 2023-03-20 | 2023-03-27 | NE | 1000 | N/A | 0.1 | 25.5 | 18.5 | 11.1 | 12.8 | 17.6 | N/A | 4.9 | N/A | 9.6
 
 Scraping for: de
 oo·········································································- (76)
@@ -90,13 +93,19 @@ Metron Analysis | Το Βήμα | 2019-09-16 | 2019-09-18 | NE | 1202 | N/A | 0.
 
 Scraping for: it
 Expected header text “DSP” at position 14, but found “ISP”.
-oo****·**·················································································· (91)
+oo*********·**··········*········································································ (97)
+Termometro Politico | N/A | 2023-03-28 | 2023-03-30 | NE | 4200 | N/A | 0.1 | 16.5 | 18.5 | 9.0 | 7.4 | 29.6 | N/A | 2.2 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.6 | N/A | N/A | 2.0 | 7.6 | N/A | 1.3 | N/A | 1.5 | 1.8
+Ixè | N/A | 2023-03-27 | 2023-03-30 | NE | 1000 | N/A | 0.1 | 15.5 | 21.1 | 8.1 | 6.8 | 28.9 | N/A | 1.9 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 1.6 | N/A | N/A | 3.9 | 6.7 | 1.0 | N/A | N/A | N/A | 4.5
+Euromedia | N/A | 2023-03-29 | 2023-03-29 | NE | 1000 | N/A | 0.1 | 15.0 | 20.5 | 9.0 | 7.0 | 28.7 | N/A | 2.1 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.4 | N/A | N/A | 2.8 | 8.6 | 0.5 | N/A | N/A | N/A | 3.4
+Index Research | N/A | 2023-03-29 | 2023-03-29 | NE | 800 | N/A | 0.1 | 15.6 | 20.1 | 8.6 | 6.4 | 29.7 | N/A | 2.5 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 1.7 | N/A | N/A | 3.1 | 8.3 | N/A | N/A | N/A | N/A | 4.0
 SWG | N/A | 2023-03-22 | 2023-03-27 | NE | 1200 | N/A | 0.1 | 15.6 | 20.4 | 8.0 | 6.4 | 29.6 | N/A | 2.7 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 1.8 | N/A | N/A | 3.4 | 8.0 | N/A | 1.7 | N/A | N/A | 2.4
+Piepoli | N/A | 2023-03-24 | 2023-03-24 | NE | N/A | N/A | 0.5 | 16.5 | 17.5 | 9.0 | 7.0 | 30.0 | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.0 | N/A | N/A | 3.0 | 8.0 | 1.5 | N/A | N/A | N/A | 3.5
 Tecnè | N/A | 2023-03-23 | 2023-03-24 | NE | 1000 | N/A | 0.1 | 15.6 | 19.8 | 8.8 | 7.2 | 30.0 | N/A | 2.4 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 1.8 | N/A | N/A | 3.1 | 7.1 | N/A | N/A | N/A | N/A | 4.2
 EMG | N/A | 2023-03-23 | 2023-03-23 | NE | 1472 | N/A | 0.1 | 16.6 | 18.9 | 9.3 | 8.5 | 27.0 | N/A | 2.2 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.6 | N/A | N/A | 2.7 | 7.1 | 1.3 | 1.4 | N/A | N/A | 2.4
 Noto Sondaggi | N/A | 2023-03-23 | 2023-03-23 | NE | N/A | N/A | 0.5 | 14.5 | 21.0 | 8.5 | 7.5 | 29.0 | N/A | 1.5 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 3.0 | 8.0 | 1.5 | N/A | N/A | N/A | 5.5
 Quorum – YouTrend | N/A | 2023-03-21 | 2023-03-23 | NE | 805 | N/A | 0.1 | 15.8 | 20.1 | 8.8 | 5.9 | 28.9 | N/A | 2.3 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.4 | N/A | N/A | 2.8 | 7.6 | 1.3 | N/A | N/A | N/A | 4.1
 Lab2101 | N/A | 2023-03-18 | 2023-03-23 | NE | 1000 | N/A | 0.1 | 15.4 | 18.4 | 9.5 | 6.7 | 30.1 | N/A | 2.2 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.1 | N/A | N/A | 3.6 | 9.0 | 0.7 | N/A | N/A | N/A | 2.2
+Piepoli | N/A | 2023-03-14 | 2023-03-14 | NE | N/A | N/A | 0.5 | 16.5 | 16.5 | 9.5 | 7.5 | 30.5 | N/A | 2.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | N/A | N/A | 2.5 | 7.5 | 1.5 | N/A | N/A | N/A | 3.5
 
 Scraping for: it
 oo···············································································- (82)
