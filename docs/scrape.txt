@@ -28,7 +28,7 @@ oooo··················-- (24)
 [0mScraping for: es
 Something unexpected happened:
 invalid date
-["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:240:in `<main>'"]
+["/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `initialize'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `new'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:194:in `compose_date'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:288:in `parse_period'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:341:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:239:in `<main>'"]
 
 Scraping for: es
 *·····*·***····*······**····**···*···*·····**··*··*· (52)
