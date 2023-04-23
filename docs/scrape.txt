@@ -79,7 +79,8 @@ Expected header text “DSP” at position 14, but found “UP”.
 Expected header text “NM” at position 15, but found “ISP”.
 Expected header text “Others” at position 16, but found “NM”.
 Expected header text “Lead” at position 17, but found “Others”.
-oo························································································································ (122)
+oo··*······················································································································ (123)
+Cawi | N/A | 2023-04-18 | 2023-04-19 | NE | 1000 | N/A | 0.5 | 15.0 | 21.0 | 10.0 | 7.0 | 28.0 | N/A | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.0 | N/A | N/A | 2.5 | 5.0 | N/A | N/A | N/A | N/A | 1.5
 
 Scraping for: it
 oo···············································································- (82)
