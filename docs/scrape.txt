@@ -1,7 +1,8 @@
 Scraping for: at
 Expected header text “Others” at position 10, but found “KPÖ”.
 Expected header text “Lead” at position 11, but found “Others”.
-oo**-···············- (21)
+oo***-···············- (22)
+Peter Hajek | N/A | 2023-04-24 | 2023-04-27 | NE | 800 | N/A | 1 | 24 | 22 | 29 | 9 | N/A | 10 | N/A | N/A | N/A | N/A | 3
 Market | N/A | 2023-04-24 | 2023-04-26 | NE | 1000 | N/A | 1 | 22 | 22 | 28 | 11 | N/A | 9 | N/A | N/A | N/A | N/A | 5
 OGM | N/A | 2023-04-24 | 2023-04-26 | NE | 1021 | N/A | 1 | 23 | 20 | 29 | 8 | N/A | 9 | N/A | N/A | N/A | N/A | 7
 
