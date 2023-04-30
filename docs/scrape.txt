@@ -86,7 +86,8 @@ Expected header text “DSP” at position 14, but found “UP”.
 Expected header text “NM” at position 15, but found “ISP”.
 Expected header text “Others” at position 16, but found “NM”.
 Expected header text “Lead” at position 17, but found “Others”.
-oo*********··*······················································································································ (132)
+oo**********··*······················································································································ (133)
+Demos&Pi | N/A | 2023-04-26 | 2023-04-27 | NE | 1007 | N/A | 0.1 | 15.6 | 20.1 | 8.2 | 7.6 | 29.3 | N/A | 3.2 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.7 | N/A | N/A | 2.4 | 4.2 | N/A | N/A | N/A | N/A | N/A
 Termometro Politico | N/A | 2023-04-25 | 2023-04-27 | NE | 3900 | N/A | 0.1 | 15.9 | 18.7 | 9.5 | 7.7 | 29.6 | N/A | 2.3 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.5 | N/A | N/A | 2.4 | 4.1 | 1.5 | 2.4 | N/A | 1.4 | N/A
 Euromedia | N/A | 2023-04-26 | 2023-04-26 | NE | 800 | N/A | 0.1 | 15.7 | 20.1 | 9.5 | 7.1 | 29.0 | N/A | 1.9 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.1 | N/A | N/A | 3.9 | 4.5 | N/A | 2.3 | N/A | N/A | 0.6
 SWG | N/A | 2023-04-19 | 2023-04-24 | NE | 1200 | N/A | 0.1 | 15.4 | 21.1 | 9.3 | 6.6 | 28.6 | N/A | 3.0 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | 2.4 | N/A | N/A | 2.4 | 4.4 | N/A | 2.3 | N/A | 1.8 | 0.8
