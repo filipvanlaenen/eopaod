@@ -8,8 +8,7 @@ oo············-····- (20)
 
 Scraping for: be-vlg
 Expected header text “Gov.” at position 14, but found “.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Gov.”.
-oo*··············-·····- (24)
-TNS | VRT /De Standaard | 2022-03-13 | 2022-03-23 | NE | 2092 | N/A | 0.1 | 21.0 | 9.2 | 9.3 | 16.9 | 7.9 | 24.6 | 9.5 | 1.6
+oo···············-·····- (24)
 
 Scraping for: be-wal
 oo············-····- (20)
