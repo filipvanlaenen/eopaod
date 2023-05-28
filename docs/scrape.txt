@@ -39,7 +39,8 @@ undefined method `[]' for nil:NilClass
 ["/home/filip/dev/sapor/polls/deprecated_scraper.rb:311:in `block in parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `times'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:310:in `parse_table'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:171:in `parse_table_or_rescue'", "/home/filip/dev/sapor/polls/deprecated_scraper.rb:163:in `scrape'", "scrape_for_ee.rb:295:in `<main>'"]
 
 [0mScraping for: ie
-··································································································· (99)
+*··································································································· (100)
+Red C | Business Post | 2023-05-24 | 2023-05-24 | NE | 1011 | N/A | 1 | 20 | 15 | 34 | 4 | 3 | 6 | 4 | 1 | N/A | N/A | 13
 
 Scraping for: it
 Expected header text “DSP” at position 15, but found “ISP”.
