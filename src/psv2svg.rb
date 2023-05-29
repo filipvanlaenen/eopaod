@@ -27,7 +27,6 @@ TEXT_COLOR = '#0060AE'
 FONT_FAMILIY = "'Advent Pro'".freeze
 
 COUNTRY_NAMES = { 'al' => 'Albania',
-                  'at' => 'Austria',
                   'be-bru' => 'Brussels',
                   'be-vlg' => 'Flanders',
                   'be-wal' => 'Wallonia',

@@ -9,7 +9,6 @@ function convert_country {
 }
 
 convert_country al
-convert_country at
 convert_country be-bru
 convert_country be-vlg
 convert_country be-wal
