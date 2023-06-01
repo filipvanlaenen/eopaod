@@ -1,4 +1,5 @@
 Polling firm | Commissioners     | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | S    | M    | SD   | C    | V    | KD   | L   | MP   | Other
+SCB          | N/A               | 2023-04-27      | 2023-05-25    | NE    | 9261        | N/A           | 0.1       | 38.6 | 19.1 | 18.0 | 4.2  | 7.3  | 3.7  | 3.4 | 4.1  | 1.7
 Ipsos        | Dagens Nyheter    | 2023-05-09      | 2023-05-21    | NE    | 1676        | N/A           | 1         | 37   | 18   | 19   | 5    | 9    | 4    | 3   | 4    | 3
 Sifo         | Svenska Dagbladet | 2023-05-01      | 2023-05-10    | NE    | 5385        | N/A           | 0.1       | 36.3 | 20.0 | 18.3 | 4.3  | 8.2  | 4.0  | 2.8 | 4.3  | 1.8
 Demoskop     | Aftonbladet       | 2023-04-14      | 2023-04-24    | NE    | 2202        | N/A           | 0.1       | 35.3 | 20.6 | 18.9 | 4.9  | 8.0  | 4.0  | 3.3 | 3.1  | 1.9
