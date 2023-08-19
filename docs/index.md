@@ -21,7 +21,6 @@ See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-
 | Poland                             | [pl.csv](pl.csv), [pl-E.csv](pl-E.csv) and [pl-N.csv](pl-N.csv)                         | [pl.png](pl.png), [pl-E.png](pl-E.png) and [pl-N.png](pl-N.png)                         |
 | Russia                             | [ru.csv](ru.csv) and [ru-N.csv](ru-N.csv)                                               | [ru.png](ru.png) and [ru-N.png](ru-N.png)                                               |
 | Turkey                             | [tr.csv](tr.csv) and [tr-N.csv](tr-N.csv)                                               | [tr.png](tr.png) and [tr-N.png](tr-N.png)                                               |
-| United Kingdom: Great Britain      | [gb-gbn.csv](gb-gbn.csv), [gb-gbn-E.csv](gb-gbn-E.csv) and [gb-gbn-N.csv](gb-gbn-N.csv) | [gb-gbn.png](gb-gbn.png), [gb-gbn-E.png](gb-gbn-E.png) and [gb-gbn-N.png](gb-gbn-N.png) |
 | United Kingdom: Northern Ireland   | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
 
 # Documentation
