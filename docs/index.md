@@ -16,9 +16,7 @@ See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-
 | Ireland                            | [ie.csv](ie.csv), [ie-E.csv](ie-E.csv) and [ie-N.csv](ie-N.csv)                         | [ie.png](ie.png), [ie-E.png](ie-E.png) and [ie-N.png](ie-N.png)                         |
 | Italy                              | [it.csv](it.csv), [it-E.csv](it-E.csv) and [it-N.csv](it-N.csv)                         | [it.png](it.png), [it-E.png](it-E.png) and [it-N.png](it-N.png)                         |
 | Netherlands                        | [nl.csv](nl.csv), [nl-E.csv](nl-E.csv) and [nl-N.csv](nl-N.csv)                         | [nl.png](nl.png), [nl-E.png](nl-E.png) and [nl-N.png](nl-N.png)                         |
-| Norway                             | [no.csv](no.csv) and [no-N.csv](no-N.csv)                                               | [no.png](no.png) and [no-N.png](no-N.png)                                               |
 | Russia                             | [ru.csv](ru.csv) and [ru-N.csv](ru-N.csv)                                               | [ru.png](ru.png) and [ru-N.png](ru-N.png)                                               |
-| Turkey                             | [tr.csv](tr.csv) and [tr-N.csv](tr-N.csv)                                               | [tr.png](tr.png) and [tr-N.png](tr-N.png)                                               |
 | United Kingdom: Northern Ireland   | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
 
 # Documentation
