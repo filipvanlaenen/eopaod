@@ -33,7 +33,6 @@ COUNTRY_NAMES = { 'al' => 'Albania',
                   'cy' => 'Cyprus',
                   'fr' => 'France',
                   'gb-nir' => 'Northern Ireland',
-                  'ie' => 'Ireland',
                   'ru' => 'Russia' }
 
 def write_svg_to_file(filename, svg)
