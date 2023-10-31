@@ -30,7 +30,6 @@ COUNTRY_NAMES = { 'al' => 'Albania',
                   'be-bru' => 'Brussels',
                   'be-vlg' => 'Flanders',
                   'be-wal' => 'Wallonia',
-                  'cy' => 'Cyprus',
                   'fr' => 'France',
                   'gb-nir' => 'Northern Ireland',
                   'ru' => 'Russia' }
