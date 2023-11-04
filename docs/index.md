@@ -8,7 +8,6 @@ See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-
 | Belgium: Brussels                  | [be-bru.csv](be-bru.csv), [be-bru-E.csv](be-bru-E.csv) and [be-bru-N.csv](be-bru-N.csv) | [be-bru.png](be-bru.png), [be-bru-E.png](be-bru-E.png) and [be-bru-N.png](be-bru-N.png) |
 | Belgium: Flanders                  | [be-vlg.csv](be-vlg.csv), [be-vlg-E.csv](be-vlg-E.csv) and [be-vlg-N.csv](be-vlg-N.csv) | [be-vlg.png](be-vlg.png), [be-vlg-E.png](be-vlg-E.png) and [be-vlg-N.png](be-vlg-N.png) |
 | Belgium: Wallonia                  | [be-wal.csv](be-wal.csv), [be-wal-E.csv](be-wal-E.csv) and [be-wal-N.csv](be-wal-N.csv) | [be-wal.png](be-wal.png), [be-wal-E.png](be-wal-E.png) and [be-wal-N.png](be-wal-N.png) |
-| France                             | [fr.csv](fr.csv), [fr-E.csv](fr-E.csv) and [fr-N.csv](fr-N.csv)                         | [fr.png](fr.png), [fr-E.png](fr-E.png) and [fr-N.png](fr-N.png)                         |
 | United Kingdom: Northern Ireland   | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
 
 # Documentation
