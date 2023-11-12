@@ -26,9 +26,7 @@ TEXT_COLOR = '#0060AE'
 
 FONT_FAMILIY = "'Advent Pro'".freeze
 
-COUNTRY_NAMES = { 'be-bru' => 'Brussels',
-                  'be-vlg' => 'Flanders',
-                  'be-wal' => 'Wallonia',
+COUNTRY_NAMES = { 'be-wal' => 'Wallonia',
                   'gb-nir' => 'Northern Ireland' }
 
 def write_svg_to_file(filename, svg)
