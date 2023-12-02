@@ -4,7 +4,6 @@ See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-
 
 | Country                            | CSV Files                                                                               | Charts                                                                                  |
 |------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Belgium: Wallonia                  | [be-wal.csv](be-wal.csv), [be-wal-E.csv](be-wal-E.csv) and [be-wal-N.csv](be-wal-N.csv) | [be-wal.png](be-wal.png), [be-wal-E.png](be-wal-E.png) and [be-wal-N.png](be-wal-N.png) |
 | United Kingdom: Northern Ireland   | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
 
 # Documentation
