@@ -1,10 +1,6 @@
 # CSV Files and Charts
 
-See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-20220812/csv.html) for more CSV files from other countries.
-
-| Country                            | CSV Files                                                                               | Charts                                                                                  |
-|------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| United Kingdom: Northern Ireland   | [gb-nir.csv](gb-nir.csv), [gb-nir-E.csv](gb-nir-E.csv) and [gb-nir-N.csv](gb-nir-N.csv) | [gb-nir.png](gb-nir.png), [gb-nir-E.png](gb-nir-E.png) and [gb-nir-N.png](gb-nir-N.png) |
+See [CSV Files at ASAPOP Website](https://storage.googleapis.com/asapop-website-20220812/csv.html) for CSV files from European countries.
 
 # Documentation
 
